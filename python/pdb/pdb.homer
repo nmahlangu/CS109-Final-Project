@@ -1,0 +1,1247 @@
+homer     986447455 10  9 r   c     c     f         1065   50    0 
+homer     986447513  9  7 f   -     -     -         1015    0    0 
+homer     986447567  8  6 f   -     -     -         1015    0    0 
+homer     986447619  9  6 f   -     -     -         1015    0    0 
+homer     986447663  9  5 c   f     -     -         1015   20    0 
+homer     986447689  9  4 cc  kf    -     -          995   20    0 
+homer     986447757  9  3 cc  c     f     -          975   30    0 
+homer     986447815  9  2 Bc  k     bc    brc        945  140  400 Jd 7h
+homer     986447927  8  1 Bc  kc    kc    kr        1205   80  160 3s Jc
+homer     986448004  8  8 f   -     -     -         1285    0    0 
+homer     986448048  8  7 f   -     -     -         1285    0    0 
+homer     986448080  9  6 cc  f     -     -         1285   20    0 
+homer     986448163  9  5 ccc f     -     -         1265   30    0 
+homer     986448211 10  4 f   -     -     -         1235    0    0 
+homer     986448278 10  3 c   kf    -     -         1235   10    0 
+homer     986448406 10  2 Bk  kc    kf    -         1225   20    0 
+homer     986448471 10  1 Bc  k     b     b         1205   50    0 8s Ts
+homer     986448513 10 10 f   -     -     -         1155    0    0 
+homer     986448550 10  9 c   rc    r     r         1155  120  310 Ac 2h
+homer     986448642  9  7 c   k     c     f         1345   30    0 
+homer     986448681  9  7 c   c     f     -         1315   40    0 
+homer     986448720 10  6 f   -     -     -         1275    0    0 
+homer     986448807 10  5 cc  b     b     b         1275   70    0 Kc 9s
+homer     986448954 10  4 r   kcc   b     b         1205   90  275 
+homer     986449055 10  3 cc  kc    kc    kr        1390  110    0 Ks Jc
+homer     986449121 10  2 Bf  -     -     -         1280   10    0 
+homer     986449225 10  1 Bc  kc    kc    kf        1270   50    0 
+homer     986449316 10 10 c   f     -     -         1220   20    0 
+homer     986449383 10  9 c   cc    c     r         1200   90  280 
+homer     986449463 10  8 r   b     b     b         1390   70    0 Ah Kd
+homer     986449540 10  8 f   -     -     -         1320    0    0 
+homer     986449675 10  6 c   f     -     -         1320   10    0 
+homer     986449783 10  5 r   rc    kc    c         1310  110  495 Qh Ad
+homer     986449887 10  4 c   f     -     -         1695   10    0 
+homer     986449921 10  3 rc  krc   kc    kc        1685  100    0 Kd Ad
+homer     986449986 10  2 Bc  kf    -     -         1585   20    0 
+homer     986450078 10  1 Bc  br    b     b         1565   90    0 7h Qh
+homer     986450130 10 10 c   k     c     f         1475   40    0 
+homer     986450209 10  9 cc  f     -     -         1435   20    0 
+homer     986450291 10  8 f   -     -     -         1415    0    0 
+homer     986450355 10  7 cc  rc    rr    c         1415  150  510 Kd 2h
+homer     986450420  9  6 cc  kc    kf    -         1775   30    0 
+homer     986450481  9  5 c   f     -     -         1745   10    0 
+homer     986450568  9  4 c   kc    kf    -         1735   20    0 
+homer     986450657  9  3 f   -     -     -         1715    0    0 
+homer     986450718  9  2 Bk  b     b     -         1715   40   70 
+homer     986450746  9  1 Bc  kf    -     -         1745   20    0 
+homer     986450791  9  9 c   rc    rc    r         1725  140  285 3d Ah
+homer     986450837  9  8 cc  rc    c     rr        1870  145  182 Ks 6d
+homer     986450888  9  8 c   f     -     -         1907   10    0 
+homer     986450954 10  7 c   bc    kf    -         1897   40    0 
+homer     986451034 10  7 f   -     -     -         1857    0    0 
+homer     986451096  8  4 c   b     b     b         1857   60  145 
+homer     986451147  8  3 c   kc    kc    kf        1942   40    0 
+homer     986451211  8  2 Bc  brc   br    b         1902  140  285 
+homer     986451271  8  1 Bc  kf    -     -         2047   10    0 
+homer     986451344  8  8 c   r     b     bc        2037   90    0 9d Js
+homer     986451418  8  7 c   c     c     f         1947   40    0 
+homer     986451468  8  6 f   -     -     -         1907    0    0 
+homer     986451494  8  5 f   -     -     -         1907    0    0 
+homer     986451597  8  4 r   b     b     b         1907   70  175 Td Jd
+homer     986451641  8  3 cc  r     b     -         2012   60  140 
+homer     986451690  8  2 Br  k     bc    bc        2092  100    0 Js Jc
+homer     986451737  8  1 Bc  kr    b     b         1992   70  140 
+homer     986451787  8  8 c   b     -     -         2062   20   35 
+homer     986451807  8  7 c   c     cf    -         2077   70    0 
+homer     986451862  7  6 f   -     Q     -         2007    0    0 
+homer     986452053  6  3 f   -     -     -         2007    0    0 
+homer     986452088  7  2 Br  b     b     k         2007   50    0 Th Tc
+homer     986452136  7  1 Bc  kc    k     krc       1957   80    0 5h Js
+homer     986452191  7  7 f   -     -     -         1877    0    0 
+homer     986452246  7  6 cc  c     c     c         1877   70    0 Kd 3s
+homer     986452281  7  5 f   -     -     -         1807    0    0 
+homer     986452312  7  4 f   -     -     -         1807    0    0 
+homer     986452343  7  3 c   kf    -     -         1807   10    0 
+homer     986452378  7  2 Bc  bc    b     b         1797   80    0 Jh Ks
+homer     986452412  7  1 Bc  kc    bc    kr        1717  110  270 
+homer     986452481  6  6 c   b     -     -         1877   30   65 
+homer     986452497  6  5 f   -     -     -         1912    0    0 
+homer     986452528  6  4 r   b     b     b         1912   70  150 Jh As
+homer     986452560  6  3 cc  k     br    b         1992  100  220 
+homer     986452673  6  2 Bf  -     -     -         2112   10    0 
+homer     986452721  6  1 BfQ -     -     -         2102    5    0 
+homer     986602333  4  2 Bcc cc    cc    cc        2409  190    0 9h Ad
+homer     986602412  3  1 Bf  -     -     -         2219    5    0 
+homer     986602447  4  4 f   -     -     -         2214    0    0 
+homer     986602473  4  3 f   -     -     -         2214    0    0 
+homer     986602540  4  2 Bcc cc    f     -         2214   70    0 
+homer     986602589  4  1 Bf  -     -     -         2144    5    0 
+homer     986602630  4  4 rc  br    -     -         2139   80  220 
+homer     986602677  4  3 cKQ -     -     -         2279   10    0 
+homer     986602781  4  4 c   c     b     b         2269   60  125 Jc Qd
+homer     986602847  4  3 cr  rc    rc    rc        2334  240  725 Qh Qd
+homer     986602888  4  2 Bc  ccc   cc    f         2819  140    0 
+homer     986602942  4  1 Bc  k     b     -         2679   30   50 
+homer     986602957  4  4 f   -     -     -         2699    0    0 
+homer     986602979  4  3 cc  k     k     k         2699   20   45 8h Ad
+homer     986602995  4  2 Bc  kc    kc    k         2724   50  105 Qs Td
+homer     986603021  4  1 Bcc krc   bcc   kcc       2779  230    0 9d Qc
+homer     986603063  4  4 cc  rc    b     -         2549  100  270 
+homer     986603097  4  3 f   -     -     -         2719    0    0 
+homer     986603126  4  2 Bc  cc    brc   k         2719  125  285 Tc Ah
+homer     986603156  3  1 Bcc kcc   kcc   kc        2879  160    0 Ad 6c
+homer     986603203  4  4 cc  rc    rc    b         2719  180  510 
+homer     986603249  5  4 fQ  -     -     -         3049    0    0 
+homer     986746217 10  6 c   c     r     b         1340   80    0 9c Jc
+homer     986746291 10  5 c   c     c     f         1260   40    0 
+homer     986746354 10  4 c   kc    k     rr        1220  100    0 9d Ah
+homer     986746440 10  3 f   -     -     -         1120    0    0 
+homer     986746493 10  2 Bc  b     b     r         1120  100    0 Td 8s
+homer     986746563 10  1 Bc  kc    kc    kf        1020   60    0 
+homer     986746664 10 10 f   -     -     -          960    0    0 
+homer     986746699 10  9 c   c     cc    c          960   90    0 7d Jc
+homer     986746787 10  8 c   c     f     -          870   40    0 
+homer     986746846 10  7 c   kc    kcf   -          830   60    0 
+homer     986746899 10  6 f   -     -     -          770    0    0 
+homer     986746990  9  5 rc  c     c     c          770   80    0 Ad Ts
+homer     986747031  9  4 c   c     c     f          690   40    0 
+homer     986747100  9  3 cc  brc   c     c          650  100    0 Ks 2d
+homer     986747159  9  2 Bc  br    b     b          550  110  410 9d Jd
+homer     986747251  9  1 Br  brc   bc    kc         850  120    0 Ks Tc
+homer     986747311  9  9 c   r     b     b          730   70  145 
+homer     986747391  9  8 c   cc    f     -          805   30    0 
+homer     986747468 10  8 cc  r     b     bf         775   80    0 
+homer     986747541 10  7 c   c     r     b          695   90  275 9d 6h
+homer     986747622 10  6 c   kc    kc    c          880   60    0 9d 9h
+homer     986747660 10  6 r   b     -     -          820   30  100 
+homer     986747682  9  4 c   c     c     c          890   60    0 7h Ah
+homer     986747712  8  2 Bc  kc    kc    kf         830   50    0 
+homer     986747753  8  1 Bc  kc    k     k          780   30    0 Qd 3d
+homer     986747793  8  8 c   k     b     b          750   50    0 8s 6h
+homer     986747831  8  7 r   bc    rc    r          700  140  147 Kh Tc
+homer     986747868 10  5 Q   -     -     -          707    0    0 
+homer     986748537 10  5 cc  bc    kc    kc         707   80    0 Jh 3d
+homer     986748586 10  4 f   -     -     -          627    0    0 
+homer     986748640 10  4 c   k     b     b          627   50  145 Jd Ts
+homer     986748706  9  2 Bk  c     c     c          722   60    0 4h 4c
+homer     986748729  9  1 Bc  k     b     bf         662   50    0 
+homer     986748794  9  9 c   c     f     -          612   20    0 
+homer     986748836  9  8 c   c     r     b          592   80    0 Ad 4h
+homer     986748899  9  7 c   r     r     b          512   90    0 Ac 3c
+homer     986748940  9  6 rc  r     b     b          422   90    0 7s 4s
+homer     986748998  8  5 r   b     b     br         332  110    0 2d 7s
+homer     986749035  8  4 r   rr    k     b          222   80    0 2h 7s
+homer     986749087  9  3 r   bc    brc   bcA        142  142    0 9h 6d
+homer     986749167  8  5 f   -     -     -         1000    0    0 
+homer     986749192  8  4 f   -     -     -         1000    0    0 
+homer     986749225  8  3 c   kccc  kc    kc        1000   90    0 6c As
+homer     986749280  9  2 Bf  -     -     -          910   10    0 
+homer     986749322  8  1 Bc  kf    -     -          900   20    0 
+homer     986749355  8  8 c   rr    rr    rr         880  220    0 9s Kd
+homer     986749449  8  7 c   k     k     -          660   20   55 
+homer     986749508  7  5 c   c     c     f          695   50    0 
+homer     986749588  6  3 Q   -     -     -          645    0    0 
+homer     986828761 10  6 c   c     cc    kf        1275   60    0 
+homer     986828821 10  5 f   -     -     -         1215    0    0 
+homer     986828866  9  4 c   kf    -     -         1215   10    0 
+homer     986828917  9  3 r   b     b     -         1205   50  175 
+homer     986828965  8  2 Bk  kf    -     -         1330   10    0 
+homer     986829003  7  1 Bc  kc    kf    -         1320   30    0 
+homer     986829052  7  7 f   -     -     -         1290    0    0 
+homer     986829083  8  6 c   b     b     b         1290   60    0 6h 5s
+homer     986829130  8  5 c   kc    c     f         1230   40    0 
+homer     986829179  8  4 f   -     -     -         1190    0    0 
+homer     986829226  8  3 f   -     -     -         1190    0    0 
+homer     986829271  8  2 Bf  -     -     -         1190   10    0 
+homer     986829306  8  1 Bc  kr    bc    kc        1180   90    0 Qh As
+homer     986829363  8  8 c   f     -     -         1090   10    0 
+homer     986829410  9  8 cc  c     c     b         1080   70  220 
+homer     986829458  9  7 cc  k     k     r         1230   60    0 Jd 4h
+homer     986829501  9  6 f   -     -     -         1170    0    0 
+homer     986829545 10  5 cc  kf    -     -         1170   20    0 
+homer     986829594 10  4 cc  k     kc    kc        1150   60  245 2s 4s
+homer     986829641 10  3 f   -     -     -         1335    0    0 
+homer     986829676 10  2 Bk  kc    kf    -         1335   30    0 
+homer     986829740 10  1 Bc  k     b     -         1305   30   70 
+homer     986829763 10 10 f   -     -     -         1345    0    0 
+homer     986829815 10  9 f   -     -     -         1345    0    0 
+homer     986829869 10  8 cc  c     c     f         1345   60    0 
+homer     986829958 10  7 r   r     b     b         1285   80    0 3h 7h
+homer     986830008 10  6 f   -     -     -         1205    0    0 
+homer     986830051 10  5 cc  ccc   kc    kf        1205   80    0 
+homer     986830124 10  4 c   b     b     b         1125   60  230 9c Qc
+homer     986830177 10  3 c   k     b     b         1295   50  105 
+homer     986830218  9  2 Bc  k     kc    b         1350   60  205 6c 6h
+homer     986830255  9  1 Bc  kc    krc   kc        1495  150  600 9s Qs
+homer     986830316  9  8 Q   -     -     -         1945    0    0 
+homer     986865283 10  5 rc  cc    cc    f         1945  160    0 
+homer     986865351 10  4 f   -     -     -         1785    0    0 
+homer     986865388 10  3 c   kc    kc    kc        1785   60    0 Ah 7d
+homer     986865437 10  2 Bk  kc    kc    k         1725   40   85 Ac 3h
+homer     986865477 10  1 Bf  -     -     -         1770    5    0 
+homer     986865545 10 10 f   -     -     -         1765    0    0 
+homer     986865619 10  9 c   cc    f     -         1765   60    0 
+homer     986865732 10  8 f   -     -     -         1705    0    0 
+homer     986865844 10  7 r   rc    rc    c         1705  190    0 Qc Qh
+homer     986865897 10  6 cc  cc    cc    b         1515  130  450 Tc 3c
+homer     986866007 10  5 c   c     cc    rr        1835  140  242 4s Qs
+homer     986866092 10  4 c   cf    -     -         1937   30    0 
+homer     986866154 10  3 c   kc    kf    -         1907   20    0 
+homer     986866238  8  2 Bc  br    b     b         1887   90  230 
+homer     986866286  8  1 Br  bc    kc    kc        2027  150    0 Ks Kd
+homer     986866348  8  8 c   cc    f     -         1877   60    0 
+homer     986866399  8  7 rc  rc    rc    rc        1817  240    0 Kh Ac
+homer     986866471  8  6 f   -     -     -         1577    0    0 
+homer     986866520  9  6 c   cc    f     -         1577   70    0 
+homer     986866579  9  5 r   kc    f     -         1507   30    0 
+homer     986866665  9  4 cc  rc    b     b         1477  100    0 Kc 6d
+homer     986866742  8  3 cc  bc    b     b         1377   90  315 Jc 3d
+homer     986866814  7  1 Bk  kc    kf    -         1602   20    0 
+homer     986866873  7  1 Bc  kc    kc    kf        1582   40    0 
+homer     986866916  7  7 c   k     c     rc        1542   90    0 2s Qs
+homer     986866959  7  6 c   b     b     -         1452   40   80 
+homer     986867020  6  4 f   -     -     -         1492    0    0 
+homer     986867047  8  3 c   kc    kc    kf        1492   40    0 
+homer     986867102  8  2 Bc  b     b     b         1452   70  145 8c Ad
+homer     986867156 10  1 Bf  -     -     -         1527    5    0 
+homer     986867209  9  9 c   c     c     rc        1522  110    0 Kh Js
+homer     986867264  9  8 r   k     b     -         1412   40   95 
+homer     986867299  9  7 c   f     -     -         1467   10    0 
+homer     986867351 10  7 cc  k     k     f         1457   20    0 
+homer     986867417 10  6 c   ccc   c     k         1437   70    0 6d 6h
+homer     986867450 10  6 f   -     -     -         1367    0    0 
+homer     986867493  9  4 c   b     b     b         1367   60  125 Js Qh
+homer     986867518  9  3 cc  k     c     f         1432   50    0 
+homer     986867603  9  2 Bk  kc    kf    -         1382   20    0 
+homer     986867694  8  1 Bf  -     -     -         1362    5    0 
+homer     986867737  8  8 cc  rc    f     -         1357   60    0 
+homer     986867796  8  7 c   kc    kc    kc        1297   70    0 8c 7d
+homer     986867839  8  6 r   r     rc    cc        1227  160    0 As Ks
+homer     986867901  7  5 r   r     r     b         1067  100  225 Ah 9h
+homer     986867946  8  4 r   rr    rc    r         1192  160    0 Th 5h
+homer     986867989  9  3 rr  bc    bc    br        1032  240  525 4h Kh
+homer     986868066  9  2 Bf  -     -     -         1317   10    0 
+homer     986868135 10  1 Bc  b     b     b         1307   70    0 5c 8d
+homer     986868196 10 10 rc  b     b     b         1237   90    0 4h Ts
+homer     986868285 10  9 rr  bf    -     -         1147   50    0 
+homer     986868376 10  8 rr  rr    br    c         1097  160    0 3h Qs
+homer     986868485 10  7 rr  bcc   rc    bc         937  180  755 9s 9h
+homer     986868634 10  6 rc  rc    br    b         1512  140  505 5c 3c
+homer     986868747  8  4 rr  b     b     b         1877   90  225 4h 4d
+homer     986868787 10  4 rc  bcc   ccc   f         2012  150    0 
+homer     986868855 10  3 ccc kc    kcc   kf        1862  140    0 
+homer     986868955 10  2 BQ  -     -     -         1722   10    0 
+homer     986877762 10  3 rc  k     k     k         1712   30  125 Kh Ad
+homer     986877813 10  2 Bk  kc    kf    -         1807   20    0 
+homer     986877879 10  1 Bc  kf    -     -         1787   10    0 
+homer     986877948  9  9 c   k     f     -         1777   10    0 
+homer     986878015 10  9 f   -     -     -         1767    0    0 
+homer     986878068 10  8 f   -     -     -         1767    0    0 
+homer     986878104 10  7 c   bc    f     -         1767   30    0 
+homer     986878179 10  6 f   -     -     -         1737    0    0 
+homer     986878247 10  5 c   kc    kc    kf        1737   40    0 
+homer     986878359 10  4 c   c     r     b         1697   90  305 5c 6d
+homer     986878429 10  3 f   -     -     -         1912    0    0 
+homer     986878509 10  2 Bk  kc    br    b         1912  100  400 7s Qs
+homer     986878590 10  1 Bc  kf    -     -         2212   10    0 
+homer     986878669 10 10 c   f     -     -         2202   20    0 
+homer     986878748  9  8 c   f     -     -         2182   30    0 
+homer     986878831 10  8 c   c     r     k         2152   80    0 Jh 9d
+homer     986878891 10  7 f   -     -     -         2072    0    0 
+homer     986878971  9  5 c   kc    kf    -         2072   20    0 
+homer     986879031 10  4 c   k     b     b         2052   50    0 As 3h
+homer     986879079 10  3 f   -     -     -         2002    0    0 
+homer     986879122 10  2 Bc  kf    -     -         2002   20    0 
+homer     986879176 10  1 Bc  kc    kc    kf        1982   50    0 
+homer     986879232 10 10 f   -     -     -         1932    0    0 
+homer     986879305 10  9 c   k     c     f         1932   30    0 
+homer     986879341  9  7 c   kc    b     f         1902   40    0 
+homer     986879415 10  7 c   f     -     -         1862   20    0 
+homer     986879469 10  6 c   c     rr    rr        1842  190    0 Jc Qd
+homer     986879531 10  5 c   k     k     rr        1652  100  250 Ad 2c
+homer     986879593 10  4 r   b     b     -         1802   50  135 
+homer     986879623 10  3 c   kc    kc    kf        1887   40    0 
+homer     986879677 10  2 Bk  k     kc    kf        1847   30    0 
+homer     986879726 10  1 Bc  kc    k     b         1817   40  100 
+homer     986879767  8  8 c   k     f     -         1877   20    0 
+homer     986879800  8  7 c   c     c     k         1857   40    0 5d Kc
+homer     986879857  8  6 f   -     -     -         1817    0    0 
+homer     986879959  7  4 f   -     -     -         1817    0    0 
+homer     986879994  7  4 c   c     c     c         1817   60    0 9d 9s
+homer     986880024  7  3 r   b     b     b         1757   70  155 
+homer     986880049  7  2 Bf  -     -     -         1842   10    0 
+homer     986880082  7  1 Bf  -     -     -         1832    5    0 
+homer     986880099  7  7 f   -     -     -         1827    0    0 
+homer     986880131  8  6 f   -     -     -         1827    0    0 
+homer     986880166  8  5 cc  kc    kc    k         1827   50    0 9d Qd
+homer     986880210  8  4 c   k     k     b         1777   30    0 3c 5c
+homer     986880240  8  3 c   r     bc    c         1747   90    0 As 5d
+homer     986880274  8  2 Bk  kc    bc    kc        1657   80    0 Qh Td
+homer     986880315  8  1 Bf  -     -     -         1577    5    0 
+homer     986880361  8  8 f   -     -     -         1572    0    0 
+homer     986880412  8  7 c   c     c     c         1572   80  310 8s 5s
+homer     986880460  8  6 f   -     -     -         1802    0    0 
+homer     986880508  9  6 c   k     kf    -         1802   10    0 
+homer     986880565  9  5 c   kc    b     b         1792   60    0 2h Kh
+homer     986880639  9  4 r   b     br    br        1732  150  435 Qc Qs
+homer     986880707  9  3 c   b     b     b         2017   60  205 8h Kc
+homer     986880769  9  2 Bf  -     -     -         2162   10    0 
+homer     986880828  9  1 Br  b     b     b         2152   90  260 As Ac
+homer     986880857  9  9 f   -     -     -         2322    0    0 
+homer     986880943  8  7 c   c     c     r         2322   90  240 As 9c
+homer     986880979  6  5 c   r     r     k         2472   80    0 Qd As
+homer     986881016  6  5 c   c     rr    rr        2392  180    0 7s Ah
+homer     986881059  7  4 f   -     -     -         2212    0    0 
+homer     986881096  7  3 f   -     -     -         2212    0    0 
+homer     986881114  7  2 Bk  kc    kc    kc        2212   60    0 2s 2h
+homer     986881147  7  1 Bc  kf    -     -         2152   10    0 
+homer     986881191  7  7 c   k     b     b         2142   60  145 
+homer     986881238  7  6 c   c     b     r         2227   90  120 Qd 9d
+homer     986881277  7  5 c   kc    kf    -         2257   20    0 
+homer     986881352  8  4 c   b     b     kf        2237   40    0 
+homer     986881399  9  3 f   -     -     -         2197    0    0 
+homer     986881463  9  2 Bk  c     cf    -         2197   40    0 
+homer     986881515  9  1 Bf  -     -     -         2157    5    0 
+homer     986881605  9  9 c   c     c     b         2152   60  210 4h Jh
+homer     986881662  9  8 f   -     -     -         2302    0    0 
+homer     986881705  8  7 c   r     b     -         2302   50  100 
+homer     986881753  8  6 f   -     -     -         2352    0    0 
+homer     986881794  8  5 cc  k     kc    b         2352   60    0 5d 5s
+homer     986881830  9  4 f   -     -     -         2292    0    0 
+homer     986881876  9  3 f   -     -     -         2292    0    0 
+homer     986881902  9  2 Bk  k     f     -         2292   10    0 
+homer     986881935  9  1 Bc  kf    -     -         2282   10    0 
+homer     986881986  9  9 c   f     -     -         2272   20    0 
+homer     986882006  9  8 r   r     bc    k         2252   90    0 Kd Ah
+homer     986882062  8  6 c   k     c     k         2162   30   90 5h Th
+homer     986882099  8  5 cc  bc    kc    kc        2222   80    0 8h Ad
+homer     986882158  8  4 f   -     -     -         2142    0    0 
+homer     986882187  9  3 f   -     -     -         2142    0    0 
+homer     986882233  9  2 Bc  cc    c     f         2142   70    0 
+homer     986882292 10  1 Bf  -     -     -         2072    5    0 
+homer     986882342 10 10 f   -     -     -         2067    0    0 
+homer     986882389 10  9 c   k     f     -         2067   10    0 
+homer     986882461 10  8 c   k     c     c         2057   50    0 Qs 8s
+homer     986882510 10  7 f   -     -     -         2007    0    0 
+homer     986882567 10  6 cc  kc    kc    k         2007   50    0 Td 5d
+homer     986882683 10  5 cc  kc    kc    kf        1957   60    0 
+homer     986882787 10  5 f   -     -     -         1897    0    0 
+homer     986882854 10  3 f   -     -     -         1897    0    0 
+homer     986882945 10  2 Bf  -     -     -         1897   10    0 
+homer     986882993 10  1 Bc  kf    -     -         1887   10    0 
+homer     986883101  9  9 c   b     b     -         1877   40   80 
+homer     986883147 10  9 cc  rc    r     b         1917  110  290 
+homer     986883207 10  8 c   k     k     kf        2097   10    0 
+homer     986883302 10  7 f   -     -     -         2087    0    0 
+homer     986883347 10  6 c   kc    kc    bc        2087   80    0 8d Ad
+homer     986883403 10  5 r   kc    kc    b         2007   70  215 
+homer     986883479 10  4 c   kc    kcc   kf        2152   60    0 
+homer     986883595 10  3 f   -     -     -         2092    0    0 
+homer     986883685 10  2 Bc  b     b     b         2092   70    0 2d Jh
+homer     986883766 10  1 Bc  k     kf    -         2022   10    0 
+homer     986883851 10 10 c   f     -     -         2012   10    0 
+homer     986883909 10  9 cc  rf    -     -         2002   60    0 
+homer     986884036 10  8 cc  k     f     -         1942   30    0 
+homer     986884127 10  7 c   c     f     -         1912   30    0 
+homer     986884183 10  6 f   -     -     -         1882    0    0 
+homer     986884234 10  5 c   c     c     rc        1882  110    0 Jh 7h
+homer     986884268 10  4 c   rc    c     c         1772   90    0 Js 6s
+homer     986884326 10  3 f   -     -     -         1682    0    0 
+homer     986884408 10  2 Br  br    b     b         1682   90  280 Ad Ah
+homer     986884464 10  1 Br  b     b     bc        1872   90    0 Ks Ac
+homer     986884518  9  9 c   r     r     b         1782   90  210 Kc 2h
+homer     986884582 10  9 f   -     -     -         1902    0    0 
+homer     986884650 10  8 r   b     r     bc        1902  110    0 Ac Ts
+homer     986884706 10  7 f   -     -     -         1792    0    0 
+homer     986884785 10  6 c   f     -     -         1792   20    0 
+homer     986884833 10  5 c   b     b     b         1772   60  145 
+homer     986884867 10  4 cc  c     cc    f         1857   70    0 
+homer     986884935 10  3 f   -     -     -         1787    0    0 
+homer     986885018 10  2 Bk  k     k     b         1787   30   60 
+homer     986885074 10  1 Bc  kc    kc    kc        1817   60    0 Ac 3d
+homer     986885125  9  3 Q   -     -     -         1757    0    0 
+homer     986886275  9  6 f   -     -     -         1757    0    0 
+homer     986886316  9  5 c   kc    k     k         1757   20    0 8d Ac
+homer     986886409  7  2 f   -     -     -         1737    0    0 
+homer     986886440  7  2 Bk  b     b     b         1737   60    0 7s 4s
+homer     986886485  7  1 Bf  -     -     -         1677    5    0 
+homer     986886559  6  6 c   rc    rr    r         1672  170    0 Qc 7c
+homer     986886600  7  6 c   f     -     -         1502   20    0 
+homer     986886645  7  5 c   b     b     b         1482   60  120 
+homer     986886695  7  4 f   -     -     -         1542    0    0 
+homer     986886713  7  3 r   kc    c     k         1542   60  185 Qs Kd
+homer     986886750  7  2 Bk  k     b     -         1667   30   45 
+homer     986886774  7  1 Bc  brc   bcc   kf        1682  130    0 
+homer     986886832  7  7 f   -     -     -         1552    0    0 
+homer     986886880  7  6 c   b     b     b         1552   60  115 
+homer     986886918  7  5 c   rc    c     rr        1607  150  375 9s As
+homer     986886961  7  4 f   -     -     -         1832    0    0 
+homer     986886993  7  3 c   k     k     r         1832   50    0 Js 8s
+homer     986887026  7  2 Bk  kf    -     -         1782   10    0 
+homer     986887069  7  1 BfQ -     -     -         1772    5    0 
+homer     986887997  5  2 Bf  -     -     -         1767   10    0 
+homer     986888019  5  1 Bc  k     kc    k         1757   30    0 7d 8s
+homer     986888061  5  5 f   -     -     -         1727    0    0 
+homer     986888084  5  4 c   b     b     bc        1727   80    0 8c 9h
+homer     986888124  5  3 r   r     b     b         1647   80  150 
+homer     986888153  5  2 Br  b     -     -         1717   40   75 
+homer     986888166  5  1 Bc  bc    kf    -         1752   40    0 
+homer     986888204  5  5 c   c     c     r         1712   90    0 Ts Qc
+homer     986888244  5  4 c   rc    c     r         1622  100  205 Kh 2h
+homer     986888303  5  3 c   b     r     r         1727  100  205 4d Kd
+homer     986888332  5  2 Bc  bc    kf    -         1832   40    0 
+homer     986888365  6  1 Br  b     b     -         1792   70  170 
+homer     986888390  6  6 r   k     b     -         1892   40   70 
+homer     986888408  6  5 cc  c     f     -         1922   30    0 
+homer     986888436  6  4 f   -     -     -         1892    0    0 
+homer     986888463  6  3 cc  c     rc    c         1892  130  330 9d 7s
+homer     986888577  5  2 Bf  Q     -     -         2092   10    0 
+homer     986914125  7  6 c   k     f     -         2082   10    0 
+homer     986914155  6  4 r   b     -     -         2072   30   80 
+homer     986914170  6  3 f   -     -     -         2122    0    0 
+homer     986914191  6  2 Bk  kf    -     -         2122   10    0 
+homer     986914210  6  1 Bc  kc    b     bf        2112   60    0 
+homer     986914255  6  6 r   -     -     -         2052   20   35 
+homer     986914263  6  5 r   k     b     -         2067   40   85 
+homer     986914288  6  4 c   b     k     kc        2112   40    0 8h Ks
+homer     986914317  6  3 f   -     -     -         2072    0    0 
+homer     986914353  7  2 Bk  k     b     b         2072   50  100 
+homer     986914388  7  1 Bc  k     k     b         2122   30   70 Th 3d
+homer     986914417  7  7 f   -     -     -         2162    0    0 
+homer     986914452  7  6 f   -     -     -         2162    0    0 
+homer     986914484  7  5 c   k     b     -         2162   30   70 
+homer     986914514  7  4 c   c     c     b         2202   60  135 7c 7d
+homer     986914556  7  3 f   -     -     -         2277    0    0 
+homer     986914590  7  2 Bk  k     b     -         2277   30   55 
+homer     986914615  7  1 Bc  k     b     b         2302   50  120 
+homer     986914644  7  7 f   -     -     -         2372    0    0 
+homer     986914675  7  6 f   -     -     -         2372    0    0 
+homer     986914706  7  5 c   c     f     -         2372   30    0 
+homer     986914743  7  4 c   k     c     k         2342   30    0 3d As
+homer     986914768  7  3 c   bc    kf    -         2312   30    0 
+homer     986914803  6  2 Bk  kf    -     -         2282   10    0 
+homer     986914819  6  1 Bc  k     b     b         2272   50   80 
+homer     986914851  6  6 c   c     f     -         2302   20    0 
+homer     986914886  7  6 f   -     -     -         2282    0    0 
+homer     986914926  7  5 c   b     b     bc        2282   80    0 Qd Jc
+homer     986914965  8  4 c   kf    -     -         2202   10    0 
+homer     986915005  8  3 f   -     -     -         2192    0    0 
+homer     986915031  8  2 Bk  k     b     b         2192   50    0 3s 2h
+homer     986915073  8  1 Bc  k     b     b         2142   50   80 
+homer     986915102  8  8 f   -     -     -         2172    0    0 
+homer     986915130  8  7 c   k     b     bc        2172   70    0 Kd 7s
+homer     986915173  8  6 f   -     -     -         2102    0    0 
+homer     986915230  8  5 c   f     -     -         2102   10    0 
+homer     986915268  8  4 f   -     -     -         2092    0    0 
+homer     986915278  8  3 c   kc    kQ    -         2092   20    0 
+homer     986967520  9  6 f   -     -     -         3105    0    0 
+homer     986967573  9  5 c   k     k     f         3105   10    0 
+homer     986967633  8  4 f   -     -     -         3095    0    0 
+homer     986967677  8  3 f   -     -     -         3095    0    0 
+homer     986967733  9  2 Bk  k     kf    -         3095   10    0 
+homer     986967793  9  1 Bf  -     -     -         3085    5    0 
+homer     986967851  9  9 f   -     -     -         3080    0    0 
+homer     986967882  9  8 f   -     -     -         3080    0    0 
+homer     986967918  9  7 f   -     -     -         3080    0    0 
+homer     986967967 10  7 f   -     -     -         3080    0    0 
+homer     986968005 10  6 f   -     -     -         3080    0    0 
+homer     986968025  9  5 f   -     -     -         3080    0    0 
+homer     986968070 10  4 f   Q     -     -         3080    0    0 
+homer     986969614  7  4 cc  fQ    -     -         1000   30    0 
+homer     987176411  6  3 cc  kc    b     b         1451   70  200 Qh Td
+homer     987176463  6  2 Bk  f     -     -         1581   10    0 
+homer     987176512  6  1 Bf  -     -     -         1571    5    0 
+homer     987176544  6  6 c   f     -     -         1566   10    0 
+homer     987176631  6  5 c   r     r     k         1556   70    0 Kh 9c
+homer     987176684  6  4 c   f     -     -         1486   10    0 
+homer     987176751  8  3 rc  rc    k     k         1476   60    0 Th Ts
+homer     987176882  8  1 Bk  k     br    b         1416   90  250 
+homer     987176949  9  1 Bc  kf    Q     -         1576   10    0 
+homer     987350301  8  7 c   c     k     k         1491   20    0 Qd 2h
+homer     987350339  8  6 c   r     rc    kc        1471  110    0 7h 9h
+homer     987350397  8  5 c   c     f     -         1361   20    0 
+homer     987350440  8  4 c   kc    bc    b         1341   80  240 
+homer     987350499  8  3 c   c     c     f         1501   40    0 
+homer     987350528  8  2 Brr b     b     b         1461   90  380 Ah As
+homer     987350577  8  1 Bc  bc    kc    kc        1751   80    0 5c 5d
+homer     987350616  8  8 f   -     -     -         1671    0    0 
+homer     987350675  8  7 f   -     -     -         1671    0    0 
+homer     987350700  8  6 f   -     -     -         1671    0    0 
+homer     987350734  7  5 cc  c     r     b         1671   90  230 2d 3d
+homer     987350781  7  4 f   -     -     -         1811    0    0 
+homer     987350810  7  3 rc  k     b     b         1811   70  255 Jc Js
+homer     987350840  7  2 Bk  k     b     -         1996   30   55 
+homer     987350861  7  1 Bf  -     -     -         2021    5    0 
+homer     987350882  7  7 c   c     rc    c         2016  100    0 6s 9s
+homer     987350928  9  6 f   -     -     -         1916    0    0 
+homer     987350990  8  4 f   -     -     -         1916    0    0 
+homer     987351036  8  3 f   -     -     -         1916    0    0 
+homer     987351086  9  2 Bk  k     kc    kf        1916   30    0 
+homer     987351133  9  1 Bc  kf    -     -         1886   10    0 
+homer     987351179  9  9 f   -     -     -         1876    0    0 
+homer     987351231  9  8 f   -     -     -         1876    0    0 
+homer     987351296 10  7 f   -     -     -         1876    0    0 
+homer     987351321  9  5 f   -     -     -         1876    0    0 
+homer     987351363 10  4 ccc kc    kc    kf        1876   80    0 
+homer     987351436  9  2 cc  kc    kf    -         1796   30    0 
+homer     987351480 10  2 Brr bc    kc    k         1766   80    0 Qc Qs
+homer     987351542  9  1 Bf  -     Q     -         1686    5    0 
+homer     987380991 10  5 c   kc    kc    kf        1681   40    0 
+homer     987381053 10  4 f   -     -     -         1641    0    0 
+homer     987381137  9  3 f   -     -     -         1641    0    0 
+homer     987381197  9  2 Bcc kc    kcc   kf        1641  120    0 
+homer     987381314 10  1 Bf  -     -     -         1521    5    0 
+homer     987381365 10 10 c   f     -     -         1516   10    0 
+homer     987381438 10  9 c   k     b     -         1506   30   65 
+homer     987381510 10  8 cc  kc    k     f         1541   30    0 
+homer     987381563 10  7 r   b     b     -         1511   50   95 
+homer     987381591 10  6 c   kc    b     bc        1556   80    0 6h 6d
+homer     987381641 10  5 c   kf    -     -         1476   10    0 
+homer     987381685 10  4 c   k     b     b         1466   50  105 
+homer     987381722 10  3 f   -     -     -         1521    0    0 
+homer     987381785 10  2 Bk  kf    -     -         1521   10    0 
+homer     987381856 10  1 Br  b     bc    k         1511   70    0 Ad Jd
+homer     987381900 10 10 ccc b     b     b         1441   90  360 
+homer     987382014 10  9 c   c     b     rc        1711  100  205 3c 3d
+homer     987382079 10  8 f   -     -     -         1816    0    0 
+homer     987382154 10  8 c   bc    f     -         1816   30    0 
+homer     987382267 10  6 ccc bc    f     -         1786   60    0 
+homer     987382412  9  4 f   -     -     -         1726    0    0 
+homer     987382454 10  4 c   c     c     c         1726   60    0 Kd 2h
+homer     987382520 10  3 fQ  -     -     -         1666    0    0 
+homer     987382788 10  3 cc  k     -     -         1666   20   55 
+homer     987382921  8  2 Bc  kc    kf    -         1701   30    0 
+homer     987382992  7  1 Bc  krc   kc    kc        1671   80    0 As 2c
+homer     987383041  7  7 c   r     r     k         1591   80    0 9s 9h
+homer     987383092  7  6 f   -     -     -         1511    0    0 
+homer     987383174  7  5 c   krc   b     bc        1511  100  320 Js Qs
+homer     987383267  8  5 cc  cc    k     f         1731   40    0 
+homer     987383339  8  4 f   -     -     -         1691    0    0 
+homer     987383368  8  3 f   -     -     -         1691    0    0 
+homer     987383399  8  2 Bf  -     -     -         1691   10    0 
+homer     987383450  9  1 Bc  bc    bc    bc        1681  120    0 Js 7s
+homer     987383491  8  8 c   b     b     -         1561   40   75 
+homer     987383542  8  7 f   -     -     -         1596    0    0 
+homer     987383576  8  6 f   -     -     -         1596    0    0 
+homer     987383633  8  5 f   -     -     -         1596    0    0 
+homer     987383677  8  4 f   -     -     -         1596    0    0 
+homer     987383688  8  3 c   b     -     -         1596   20   70 
+homer     987383718  8  2 Bc  c     f     -         1646   30    0 
+homer     987383757  8  1 Bc  kf    -     -         1616   10    0 
+homer     987383828  9  9 f   -     -     -         1606    0    0 
+homer     987383869  9  8 c   f     -     -         1606   20    0 
+homer     987383928 10  8 c   c     c     b         1586   80    0 Kh 6h
+homer     987383988 10  7 f   -     -     -         1506    0    0 
+homer     987384033 10  6 f   -     -     -         1506    0    0 
+homer     987384081 10  5 cc  kc    kc    k         1506   50    0 Qs Ad
+homer     987384182 10  4 fQ  -     -     -         1456    0    0 
+homer     987486945  5  3 f   -     -     -         1127    0    0 
+homer     987486979  5  2 Bk  bf    -     -         1127   20    0 
+homer     987487024  5  1 Bc  kc    bc    kf        1107   60    0 
+homer     987487067  5  5 c   c     k     k         1047   20    0 7c 9c
+homer     987487099  5  4 c   c     kc    bf        1027   60    0 
+homer     987487153  5  3 f   -     -     -          967    0    0 
+homer     987487194  5  2 Bk  f     -     -          967   10    0 
+homer     987487251  5  1 Bc  brc   b     b          957   90  280 4c Qc
+homer     987487290  4  4 c   c     c     c         1147   60    0 Kc 6h
+homer     987487322  3  3 c   k     c     r         1087   70    0 Jc 8d
+homer     987487347  3  2 Bk  k     k     k         1017   10   10 7c 8d
+homer     987487396  3  1 Bcc bc    bc    kc        1017  100    0 8h Td
+homer     987487430  3  3 c   k     r     b          917   70  130 
+homer     987487459  3  2 Bk  k     k     b          977   30   65 Jc 7h
+homer     987487472  3  1 Bc  b     b     b         1012   60    0 7s Th
+homer     987487489  4  3 rc  kc    b     br         952  120  280 Th 8h
+homer     987487517  4  2 Br  b     b     b         1112   70  130 
+homer     987487544  4  1 Bf  -     -     -         1172    5    0 
+homer     987487558  4  4 f   -     -     -         1167    0    0 
+homer     987487587  4  3 f   -     -     -         1167    0    0 
+homer     987487604  4  2 Bc  kc    k     br        1167   90  195 
+homer     987487630  4  1 Bc  kf    -     -         1272   10    0 
+homer     987487643  4  4 f   -     -     -         1262    0    0 
+homer     987487668  4  3 f   -     -     -         1262    0    0 
+homer     987487697  4  2 Bc  kc    kc    bc        1262   90    0 3s Qc
+homer     987487730  5  1 Bc  kc    kf    -         1172   20    0 
+homer     987487765  6  6 f   -     -     -         1152    0    0 
+homer     987487805  6  5 cc  c     c     k         1152   50    0 Th Ac
+homer     987487849  7  5 c   b     b     -         1102   40   85 
+homer     987487874  7  4 c   c     kr    b         1147   80    0 8s 8c
+homer     987487926  7  3 c   c     c     r         1067   80    0 Ad 2d
+homer     987487973  7  2 Bk  kc    br    b          987  100    0 Kc 8h
+homer     987488037  7  1 Br  b     b     b          887   70  200 
+homer     987488098  8  8 f   -     -     -         1017    0    0 
+homer     987488139  8  7 f   -     -     -         1017    0    0 
+homer     987488176  8  6 f   -     -     -         1017    0    0 
+homer     987488213  8  5 c   c     c     c         1017   60    0 7d 8d
+homer     987488255  8  4 f   -     -     -          957    0    0 
+homer     987488296  9  3 f   -     -     -          957    0    0 
+homer     987488337  9  2 Bk  kc    kf    -          957   20    0 
+homer     987488370  9  1 Br  b     b     b          937   70    0 Th Ah
+homer     987488405  8  8 c   b     b     b          867   60  180 3s 5h
+homer     987488456  8  7 rc  c     rf    -          987  100    0 
+homer     987488513  7  6 r   rc    r     b          887  110    0 9h Ah
+homer     987488560  7  4 r   b     b     b          777   70  143 Ts 2h
+homer     987488608  7  3 rc  rr    b     brc        850  163    0 Kc 8c
+homer     987488658  7  2 Br  br    b     b          687   90    0 8d Ad
+homer     987488690  8  1 Br  b     b     -          597   50  120 
+homer     987488718  8  8 cr  b     b     b          667   80    0 2h 5h
+homer     987488770  8  7 r   b     b     b          587   70    0 8s 5s
+homer     987488801  8  6 r   b     b     b          517   80  118 Js 4c
+homer     987488857  8  5 rc  rc    r     b          555  160    0 Kh 7h
+homer     987488924  7  3 rc  br    b     b          395  110    0 Jc 8d
+homer     987488960  8  3 rr  br    b     b          285  110  415 Td 2d
+homer     987489008  9  2 Br  br    brc   br         590  210    0 8c 2h
+homer     987489079  9  1 Br  b     brc   brc        380  190    0 2c Jc
+homer     987489129  7  7 r   b     rr    r          190  150    0 9h 3d
+homer     987489212  7  7 r   b     -     -           40   30   65 
+homer     987489247  6  5 r   b     b     k           75   50    0 Th 8h
+homer     987489281  6  4 r   bA    -     -           25   25   43 4c Qc
+homer     987489336  7  3 r   b     -     -           43   30   85 
+homer     987489359  7  2 Br  br    b     bf          98   90    0 
+homer     987489416  6  1 BcA -     -     -            8    8   11 5s 4d
+homer     987489482  6  6 rA  -     -     -           11   11   32 9d Qc
+homer     987489521  5  4 rrA -     -     -           32   32    0 As 4d
+homer     987489595  5  2 Bk  k     b     kc        1000   50    0 Ac 5s
+homer     987489640  5  1 Bcc kf    -     -          950   20    0 
+homer     987489665  5  5 c   b     b     b          930   60  163 Qc Ad
+homer     987489714  4  3 f   -     -     -         1033    0    0 
+homer     987489720  4  2 Bk  c     r     b         1033   80  220 As 4c
+homer     987489751  5  1 Bc  b     -     -         1173   20   40 
+homer     987489764  5  5 c   k     f     -         1193   10    0 
+homer     987489800  6  5 f   -     -     -         1183    0    0 
+homer     987489838  6  4 c   k     f     -         1183   10    0 
+homer     987489871  5  3 Q   -     -     -         1173    0    0 
+homer     987574191  8  8 c   c     c     f         1173   50    0 
+homer     987574254  8  8 c   c     c     c         1123   70    0 9h 9d
+homer     987574293  8  7 f   -     -     -         1053    0    0 
+homer     987574318  8  6 c   b     b     b         1053   60  160 
+homer     987574364  8  5 c   c     kc    kf        1153   40    0 
+homer     987574419  8  4 f   -     -     -         1113    0    0 
+homer     987574475  8  3 cc  b     rc    c         1113  110    0 7d Jd
+homer     987574522  8  2 Bc  c     bc    c         1003   90    0 Qd 8d
+homer     987574570  7  1 Bf  -     -     -          913    5    0 
+homer     987574587  7  7 c   k     k     f          908   10    0 
+homer     987574635  7  6 f   -     -     -          898    0    0 
+homer     987574648  7  5 f   -     -     -          898    0    0 
+homer     987574678  7  4 r   r     b     b          898   80    0 6c Ac
+homer     987574710  7  3 c   k     c     r          818   70    0 Jd Qc
+homer     987574771  7  2 Br  b     b     b          748   70  210 3d 7d
+homer     987574835  7  1 Br  b     b     bc         888   90    0 9c Ah
+homer     987574877  6  6 c   c     r     rf         798  100    0 
+homer     987574914  6  5 f   -     Q     -          698    0    0 
+homer     987577180 10  5 f   -     -     -          698    0    0 
+homer     987577238  9  3 c   kf    -     -          698   10    0 
+homer     987577311  9  2 Bk  f     -     -          688   10    0 
+homer     987577386 10  1 Bf  -     -     -          678    5    0 
+homer     987577439 10 10 f   -     -     -          673    0    0 
+homer     987577470  9  9 f   -     -     -          673    0    0 
+homer     987577548  9  8 c   c     c     f          673   40    0 
+homer     987577654  9  7 c   b     b     b          633   60  140 
+homer     987577774  8  6 cc  c     cc    kf         713  100    0 
+homer     987577839  7  5 c   rc    rc    r          613  170    0 8c 7d
+homer     987577920  7  4 r   b     br    b          443  110    0 2c 9h
+homer     987578018  6  3 rr  br    br    brc        333  210    0 4d Kc
+homer     987578092  6  2 Br  br    b     bcA        123  123    0 6d Td
+homer     987578171  6  2 Bf  -     -     -         1000   10    0 
+homer     987578216  6  1 Bc  kc    kfQ   -          990   40    0 
+homer     987608265  2  2 BQ  -     -     -          950   10    0 
+homer     987782093  9  4 cc  kc    c     c          815   70    0 9h Td
+homer     987782144  9  3 f   -     -     -          745    0    0 
+homer     987782185  9  2 Bk  kc    kc    b          745   60    0 9h 4c
+homer     987782221  8  1 Bc  k     kf    -          685   10    0 
+homer     987782262  8  8 c   c     f     -          675   30    0 
+homer     987782306  6  5 f   -     -     -          645    0    0 
+homer     987782335  7  4 f   -     -     -          645    0    0 
+homer     987782355  7  3 cc  r     b     bc         645  100    0 7d 2d
+homer     987782415  7  2 Bk  k     f     -          545   10    0 
+homer     987782491  7  1 Bc  kc    kc    kf         535   50    0 
+homer     987782546  7  7 c   c     k     c          485   50    0 6c 5c
+homer     987782602  7  6 c   b     b     b          435   60    0 6d 7h
+homer     987782665  7  5 r   k     c     k          375   40   53 Kd Th
+homer     987782733  9  6 c   f     -     -          388   10    0 
+homer     987782794  9  5 c   cc    rr    r          378  150    0 7d Ks
+homer     987782867  9  5 rr  b     b     r          228  110    0 Jc 8d
+homer     987782908  8  3 r   brc   bc    bA         118  118    0 As 7c
+homer     987783011  8  8 c   b     b     k         1000   40  180 Qh Kh
+homer     987783060  9  8 f   -     -     -         1140    0    0 
+homer     987783090  8  6 c   b     b     bc        1140   80    0 Kc 3s
+homer     987783125  9  5 f   -     -     -         1060    0    0 
+homer     987783169  9  4 c   kc    kcc   kf        1060   80    0 
+homer     987783240  9  3 c   c     kc    b          980   60  195 5c Kd
+homer     987783370  8  2 Bk  k     k     b         1115   30   55 
+homer     987783404  8  1 Bf  -     -     -         1140    5    0 
+homer     987783453  8  8 f   -     -     -         1135    0    0 
+homer     987783493  8  7 f   -     -     -         1135    0    0 
+homer     987783540  7  5 f   -     -     -         1135    0    0 
+homer     987783565  6  3 c   k     rc    k         1135   70    0 9h Qs
+homer     987783606  6  3 f   -     -     -         1065    0    0 
+homer     987783638  6  2 Bk  kc    kf    -         1065   30    0 
+homer     987783671  6  1 Bc  kc    kf    -         1035   30    0 
+homer     987783693  6  6 c   c     r     b         1005  110    0 Ks Th
+homer     987783727  7  6 c   b     b     b          895   60  205 Tc Kc
+homer     987783783  7  5 c   k     r     b         1040   70    0 4d 6d
+homer     987783837  7  4 c   k     r     bc         970   90    0 Kh 9c
+homer     987783876  8  4 f   -     -     -          880    0    0 
+homer     987783928  8  3 f   -     -     -          880    0    0 
+homer     987783985  9  3 c   kc    k     kf         880   20    0 
+homer     987784061  8  1 Bk  kc    kc    bf         860   60    0 
+homer     987784105  9  1 Bc  kf    -     -          800   20    0 
+homer     987784160  8  8 f   -     -     -          780    0    0 
+homer     987784202  8  7 f   -     -     -          780    0    0 
+homer     987784313  7  5 r   b     b     b          780   70  165 Kd Qd
+homer     987784340  7  4 c   f     -     -          875   10    0 
+homer     987784378  7  3 c   k     k     b          865   30    0 Ac 6d
+homer     987784421  7  2 Bc  kf    Q     -          835   20    0 
+homer     987784877  6  2 Bk  k     k     kf         815   10    0 
+homer     987784894  6  1 Bf  -     -     -          805    5    0 
+homer     987784907  6  6 c   k     r     b          800   70    0 8c 7d
+homer     987784931  6  5 Q   -     -     -          730    0    0 
+homer     987828383 10  9 c   k     k     b          730   30   60 
+homer     987828452  6  4 c   c     c     r          760   90    0 9s 9d
+homer     987828501  7  5 c   k     k     k          670   10    0 7h 6c
+homer     987828543  8  4 c   bc    kc    kc         660   70    0 9h Ah
+homer     987828591  9  3 f   -     -     -          590    0    0 
+homer     987828618 10  2 Bc  b     b     b          590   70    0 Qc 5d
+homer     987828668 10  1 Bf  -     -     -          520    5    0 
+homer     987828724 10 10 f   -     -     -          515    0    0 
+homer     987828770 10  9 cc  k     c     f          515   60    0 
+homer     987828857 10  8 f   -     -     -          455    0    0 
+homer     987828901 10  7 c   c     k     c          455   40    0 8d 8c
+homer     987828966 10  6 c   c     c     f          415   40    0 
+homer     987829043 10  5 r   b     b     b          375   70    0 Jh Kc
+homer     987829086 10  4 c   k     f     -          305   10    0 
+homer     987829208 10  3 r   k     kr    br         295  120    0 Jh Ad
+homer     987829294 10  2 Br  br    b     b          175   90  390 7c Qh
+homer     987829407 10  1 Br  kc    kc    k          475   90    0 Qd 7c
+homer     987829460  9  9 c   c     k     brc        385  100  235 4h Ks
+homer     987829536 10  9 r   b     b     b          520   70  255 Ac Kd
+homer     987829616 10  8 cc  c     c     c          705   70  185 9h 8s
+homer     987829655 10  7 cc  ccc   c     kf         820   90    0 
+homer     987829768  9  6 c   k     b     b          730   50   60 Jd 7c
+homer     987829806  9  5 c   k     b     b          740   50  140 6d 5h
+homer     987829887  9  4 c   c     f     -          830   30    0 
+homer     987829949  8  3 f   -     -     -          800    0    0 
+homer     987829988  9  2 Bc  kc    kc    kf         800   50    0 
+homer     987830046 10  1 Bc  kc    kcc   kf         750   60    0 
+homer     987830103 10 10 c   f     -     -          690   20    0 
+homer     987830163 10  9 c   c     c     f          670   40    0 
+homer     987830218 10  8 c   c     c     k          630   40    0 5h Kd
+homer     987830276 10  7 c   f     -     -          590   10    0 
+homer     987830320 10  6 c   br    b     r          580  100    0 6d 3d
+homer     987830395 10  5 c   kcc   krc   br         480  190    0 8c Qh
+homer     987830494 10  4 r   b     b     b          290   70  205 Ac Qc
+homer     987830538 10  3 r   bc    brc   b          425  140    0 As Qh
+homer     987830582 10  2 Br  br    b     b          285   90  300 Ac As
+homer     987830636 10  1 Bc  b     br    b          495  100    0 5d 2c
+homer     987830672 10 10 r   r     r     b          395  100    0 5h Td
+homer     987830738 10  9 r   b     k     k          295   30    0 2c 2d
+homer     987830815 10  8 c   kc    b     brc        265  120    0 5d Jd
+homer     987830877  9  6 r   b     r     r          145  120    0 5c Ah
+homer     987830924 10  5 r   bA    -     -           25   25  125 6s Ad
+homer     987831013  9  4 r   b     b     b          125   70    0 7s 2h
+homer     987831064  9  3 r   b     b     bA          55   55  150 
+homer     987831098  9  2 Br  b     b     brf        150  110    0 
+homer     987831142 10  1 Br  b     bA    -           40   40    0 9s Qh
+homer     987831214  9  8 c   c     k     b         1000   40  125 Kd 9h
+homer     987831258  9  7 c   f     -     -         1085   10    0 
+homer     987831324  9  6 c   c     c     c         1075  100    0 9s 8s
+homer     987831362  9  5 cc  c     c     c          975   70    0 9c 6c
+homer     987831407  8  4 c   b     b     k          905   40  160 Kc 9c
+homer     987831476  8  3 f   -     -     -         1025    0    0 
+homer     987831520  8  2 Bk  k     bc    k         1025   50    0 5d Qc
+homer     987831577 10  1 Bc  b     b     kc         975   60    0 9h Ah
+homer     987831638 10 10 c   k     c     k          915   30    0 Tc Ks
+homer     987831732 10  9 r   rc    bc    kc         885  110    0 As Ad
+homer     987831829  9  3 Q   -     -     -          775    0    0 
+homer     987832527 10  6 c   kc    b     r          775   80  385 8h 3h
+homer     987832627 10  5 c   b     b     b         1080   60  170 
+homer     987832672 10  4 f   -     -     -         1190    0    0 
+homer     987832744 10  4 c   k     c     kf        1190   30    0 
+homer     987832803 10  2 Bf  -     -     -         1160   10    0 
+homer     987832817  9  1 Bc  k     k     b         1150   30    0 Kc Js
+homer     987832876 10 10 c   c     c     f         1120   40    0 
+homer     987832947 10 10 c   f     -     -         1080   10    0 
+homer     987832998  9  8 c   f     -     -         1070   10    0 
+homer     987833049  9  7 c   k     b     b         1060   50    0 Ac Ts
+homer     987833131  9  6 f   -     -     -         1010    0    0 
+homer     987833209  9  5 rc  r     kc    kc        1010  100    0 Js Jh
+homer     987833293  9  4 f   -     -     -          910    0    0 
+homer     987833319  9  3 c   b     b     bc         910   80    0 Jd Ac
+homer     987833369  9  2 Bk  b     bc    kf         830   60    0 
+homer     987833440  9  1 Bc  kc    k     k          770   20   80 4c 5c
+homer     987833525  9  9 c   c     r     k          830   60    0 Ah 9c
+homer     987833589  9  8 f   -     -     -          770    0    0 
+homer     987833620  9  7 c   f     -     -          770   10    0 
+homer     987833689  9  6 r   b     b     b          760   70  155 Jh Js
+homer     987833728  9  5 f   -     -     -          845    0    0 
+homer     987833762  9  4 c   kc    kc    kf         845   40    0 
+homer     987833817 10  3 c   k     k     k          805   10    0 Tc Kd
+homer     987833894 10  2 Bk  b     b     b          795   60    0 4c 7c
+homer     987833975 10  1 Bcc kc    b     k          735   50    0 Ad Th
+homer     987834069 10 10 c   c     c     f          685   40    0 
+homer     987834137 10  9 r   b     b     b          645   70  270 Ah Ad
+homer     987834209 10  8 c   f     -     -          845   20    0 
+homer     987834271 10  7 f   -     -     -          825    0    0 
+homer     987834331 10  6 c   k     k     k          825   10   50 Qc 9h
+homer     987834443  8  4 c   k     b     b          865   50    0 6c 6h
+homer     987834486  8  3 cc  k     kc    kf         815   60    0 
+homer     987834560  9  3 f   -     Q     -          755    0    0 
+homer     987883548 10  9 c   k     c     f          755   30    0 
+homer     987883643 10  8 c   k     c     f          725   30    0 
+homer     987883686 10  7 c   k     c     k          695   30  110 Th Ts
+homer     987883742 10  6 c   c     k     f          775   30    0 
+homer     987883808 10  5 c   k     k     f          745   10    0 
+homer     987883907 10  4 cc  cc    f     -          735   40    0 
+homer     987884026 10  3 f   -     -     -          695    0    0 
+homer     987884086  9  2 Bc  kf    -     -          695   40    0 
+homer     987884142  9  1 Bc  b     b     b          655   70  240 Th Qs
+homer     987884188  9  8 c   f     -     -          825   10    0 
+homer     987884245  9  7 f   -     -     -          815    0    0 
+homer     987884314 10  6 f   -     -     -          815    0    0 
+homer     987884372 10  5 c   kc    c     f          815   40    0 
+homer     987884440 10  5 f   -     -     -          775    0    0 
+homer     987884502 10  3 c   cc    c     f          775   50    0 
+homer     987884591 10  2 Bk  kc    k     k          725   20    0 Th 6h
+homer     987884708 10  1 Bc  k     k     kf         705   20    0 
+homer     987884840 10 10 f   -     -     -          685    0    0 
+homer     987884942 10  9 c   f     -     -          685   20    0 
+homer     987884990 10  8 f   -     -     -          665    0    0 
+homer     987885052 10  7 f   -     -     -          665    0    0 
+homer     987885109 10  6 f   -     -     -          665    0    0 
+homer     987885192 10  5 cc  kc    kf    -          665   30    0 
+homer     987885296 10  4 f   -     -     -          635    0    0 
+homer     987885354 10  3 f   -     -     -          635    0    0 
+homer     987885449 10  2 Bc  k     bc    k          635   60    0 Qh 2d
+homer     987885542  9  1 Bc  kc    br    kc         575  100    0 Kd 3s
+homer     987885614 10  5 Q   -     -     -          475    0    0 
+homer     987887618 10  9 cc  f     -     -          475   20    0 
+homer     987887798 10  8 f   -     -     -          455    0    0 
+homer     987887942 10  7 cc  bc    krf   -          455  100    0 
+homer     987888087  8  4 c   f     -     -          355   10    0 
+homer     987888184  7  2 cc  bc    kc    br         345  120    0 9h Qs
+homer     987888247  7  2 Bk  k     k     b          225   30    0 Td 4c
+homer     987888312  7  1 Bc  b     br    b          195  110    0 7c As
+homer     987888340  7  7 cc  rr    rA    -           85   85    0 4s Qc
+homer     987888506  7  4 rc  kc    br    b         1000  120  350 Ac Qc
+homer     987888562  7  4 Q   -     -     -         1230    0    0 
+homer     987956427  9  5 f   -     -     -         1230    0    0 
+homer     987956468  9  5 cc  rc    c     c         1230  120  445 9h Kh
+homer     987956525 10  4 c   cc    kf    -         1555   40    0 
+homer     987956592 10  3 ccc kf    -     -         1515   30    0 
+homer     987956711 10  2 Bc  kc    kf    -         1485   30    0 
+homer     987956805 10  1 Bf  -     -     -         1455    5    0 
+homer     987956916 10 10 f   -     -     -         1450    0    0 
+homer     987956988 10  9 f   -     -     -         1450    0    0 
+homer     987957025 10  8 f   -     -     -         1450    0    0 
+homer     987957100 10  7 f   -     -     -         1450    0    0 
+homer     987957189 10  7 f   -     -     -         1450    0    0 
+homer     987957240  8  4 f   -     -     -         1450    0    0 
+homer     987957321  8  3 f   -     -     -         1450    0    0 
+homer     987957358  8  2 Bf  -     -     -         1450   10    0 
+homer     987957407  8  1 Bc  kr    b     b         1440   80  160 
+homer     987957442  8  8 f   -     -     -         1520    0    0 
+homer     987957481  8  7 f   -     -     -         1520    0    0 
+homer     987957530  8  6 cc  c     cf    -         1520  100    0 
+homer     987957591  9  5 f   -     -     -         1420    0    0 
+homer     987957646  7  3 f   -     -     -         1420    0    0 
+homer     987957684  8  2 Bf  -     -     -         1420   10    0 
+homer     987957726  8  1 Bc  kr    b     b         1410   70    0 6h 8c
+homer     987957764  8  8 f   -     -     -         1340    0    0 
+homer     987957812  7  6 f   -     -     -         1340    0    0 
+homer     987957899  8  6 f   -     -     -         1340    0    0 
+homer     987957979  8  5 cr  b     bc    kc        1340  100  320 9s 8s
+homer     987958045  8  4 ccc cf    -     -         1560   50    0 
+homer     987958116 10  4 f   -     -     -         1510    0    0 
+homer     987958187 10  3 f   -     -     -         1510    0    0 
+homer     987958237 10  2 Bf  -     -     -         1510   10    0 
+homer     987958317 10  1 Bc  k     k     kf        1500   10    0 
+homer     987958434 10 10 c   f     -     -         1490   10    0 
+homer     987958491 10  9 f   -     -     -         1480    0    0 
+homer     987958529 10  8 f   -     -     -         1480    0    0 
+homer     987958614 10  7 f   -     -     -         1480    0    0 
+homer     987958644 10  6 f   -     -     -         1480    0    0 
+homer     987958693 10  5 f   -     -     -         1480    0    0 
+homer     987958732 10  4 ccc kc    kc    kf        1480   77    0 
+homer     987958800 10  3 c   k     br    b         1403   90    0 2s Ah
+homer     987958868 10  2 Bk  kQ    -     -         1313   10    0 
+homer     987983950  9  2 Bk  k     k     kf        1303   10    0 
+homer     987984016  9  1 Bf  -     -     -         1293    5    0 
+homer     987984060  9  9 c   cc    f     -         1288   70    0 
+homer     987984131  9  8 c   k     b     -         1218   40   95 
+homer     987984207  9  7 f   -     -     -         1273    0    0 
+homer     987984243 10  7 cc  b     b     kf        1273   50    0 
+homer     987984315 10  6 f   -     -     -         1223    0    0 
+homer     987984387 10  5 c   c     c     f         1223   40    0 
+homer     987984462 10  4 f   -     -     -         1183    0    0 
+homer     987984530 10  3 c   cc    b     b         1183   70  270 Kd Qh
+homer     987984599  9  2 Bf  -     -     -         1383   10    0 
+homer     987984672  9  1 Bf  -     -     -         1373    5    0 
+homer     987984773 10  9 f   -     -     -         1368    0    0 
+homer     987984831 10  3 Q   -     -     -         1368    0    0 
+homer     987985068 10  4 cc  f     -     -         1368   40    0 
+homer     987985137  9  3 cc  b     b     -         1328   50  160 
+homer     987985188  9  2 Bk  k     kc    kf        1438   30    0 
+homer     987985234  8  1 Bf  -     -     -         1408    5    0 
+homer     987985265  8  8 c   c     f     -         1403   30    0 
+homer     987985341  8  7 c   k     k     c         1373   30    0 4d 4c
+homer     987985414  8  6 f   -     -     -         1343    0    0 
+homer     987985453  7  4 c   k     b     k         1343   30    0 7h Th
+homer     987985511  8  4 f   -     -     -         1313    0    0 
+homer     987985556  7  3 f   -     -     -         1313    0    0 
+homer     987985602  7  2 Br  b     b     b         1313   70  140 Kd Td
+homer     987985632  6  1 Bc  kc    kf    -         1383   30    0 
+homer     987985661  4  4 fQ  -     -     -         1353    0    0 
+homer     987989918  5  4 c   k     k     k         1353   10    0 Kh 8c
+homer     987989944  5  3 f   -     -     -         1343    0    0 
+homer     987989965  5  2 Bk  b     b     b         1343   60  100 
+homer     987990000  5  1 Bf  -     -     -         1383    5    0 
+homer     987990038  5  5 c   k     c     f         1378   30    0 
+homer     987990098  5  4 f   -     -     -         1348    0    0 
+homer     987990137  5  3 c   k     k     f         1348   10    0 
+homer     987990174  5  2 Bk  b     r     c         1338   80    0 Tc Th
+homer     987990210  5  1 Bf  Q     -     -         1258    5    0 
+homer     988038619 10  7 c   b     r     k         1253   60  170 Tc Jd
+homer     988038692 10  6 f   -     -     -         1363    0    0 
+homer     988038758 10  5 c   c     r     b         1363   90  245 Kc Jd
+homer     988038798 10  4 f   -     -     -         1518    0    0 
+homer     988038877  9  2 c   f     -     -         1518   10    0 
+homer     988038900  9  2 Bk  k     b     b         1508   50   85 
+homer     988038943  9  1 Bc  k     b     k         1543   30    0 8d Tc
+homer     988038986  9  9 r   c     k     f         1513   40    0 
+homer     988039043  9  8 c   b     b     kc        1473   60    0 Qc 5c
+homer     988039144  8  6 c   kf    -     -         1413   10    0 
+homer     988039200  8  5 Q   -     -     -         1403    0    0 
+homer     988039492  9  6 f   -     -     -         1403    0    0 
+homer     988039525 10  6 c   f     -     -         1403   10    0 
+homer     988039551 10  5 f   -     -     -         1393    0    0 
+homer     988039568 10  4 cc  c     c     f         1393   50    0 
+homer     988039599 10  3 cc  b     b     b         1343   70  215 
+homer     988039704  8  2 Bk  kc    k     kf        1488   20    0 
+homer     988039755  8  1 Bf  -     -     -         1468    5    0 
+homer     988039794  8  8 f   -     -     -         1463    0    0 
+homer     988039814  8  7 c   c     b     r         1463   80  185 8h 8s
+homer     988039851  9  6 f   -     -     -         1568    0    0 
+homer     988039891  9  5 f   -     -     -         1568    0    0 
+homer     988039959  8  4 f   -     -     -         1568    0    0 
+homer     988040029  9  4 f   -     -     -         1568    0    0 
+homer     988040055  9  3 cc  rr    r     -         1568  100  280 
+homer     988040110  9  2 Bk  kf    -     -         1748   10    0 
+homer     988040155 10  1 Bf  -     -     -         1738    5    0 
+homer     988040192 10 10 c   cf    -     -         1733   20    0 
+homer     988040304 10  9 f   -     -     -         1713    0    0 
+homer     988040356 10  8 f   -     -     -         1713    0    0 
+homer     988040400  9  6 c   kc    k     k         1713   20    0 Ks Ts
+homer     988040480  9  5 f   -     -     -         1693    0    0 
+homer     988040541  9  4 c   kc    f     -         1693   20    0 
+homer     988040596  9  3 f   -     -     -         1673    0    0 
+homer     988040640  9  2 Bk  kc    kc    kc        1673   60    0 4s 4d
+homer     988040688  7  1 Bf  -     -     -         1613    5    0 
+homer     988040723  7  7 c   b     b     b         1608   60  130 
+homer     988040767  7  6 f   -     -     -         1678    0    0 
+homer     988040804  6  4 c   k     c     f         1678   30    0 
+homer     988040838  8  3 f   -     -     -         1648    0    0 
+homer     988040870  8  2 Bk  k     f     -         1648   10    0 
+homer     988040909  8  1 Bf  -     -     -         1638    5    0 
+homer     988040979  8  8 c   f     -     -         1633   10    0 
+homer     988041015  7  6 c   k     f     Q         1623   10    0 
+homer     988042492  7  7 c   f     -     -         1613   20    0 
+homer     988042543  7  6 c   bc    b     b         1593   80  195 Qs 9s
+homer     988042583  8  6 f   -     -     -         1708    0    0 
+homer     988042626  7  4 f   -     -     -         1708    0    0 
+homer     988042667  7  3 f   Q     -     -         1708    0    0 
+homer     988063233 10 10 f   -     -     -         1708    0    0 
+homer     988063337  8  7 f   -     -     -         1708    0    0 
+homer     988063409  9  7 c   b     -     -         1708   20   45 
+homer     988063441  9  6 f   -     -     -         1733    0    0 
+homer     988063491 10  5 r   b     b     b         1733   70  175 Ac Ah
+homer     988063532 10  4 f   -     -     -         1838    0    0 
+homer     988063594 10  3 c   b     -     -         1838   20   70 
+homer     988063644 10  2 Bf  -     -     -         1888   10    0 
+homer     988063716 10  1 Bc  kc    k     kf        1878   30    0 
+homer     988063800 10 10 f   -     -     -         1848    0    0 
+homer     988063861 10  9 c   brc   rr    rc        1848  200  535 Jh Kd
+homer     988064005 10  8 f   -     -     -         2183    0    0 
+homer     988064085 10  7 r   r     b     b         2183   80    0 Kh Kd
+homer     988064188 10  6 c   c     c     f         2103   40    0 
+homer     988064298 10  5 r   b     b     b         2063   70  215 Qc Qs
+homer     988064363 10  4 f   -     -     -         2208    0    0 
+homer     988064462 10  3 fQ  -     -     -         2208    0    0 
+homer     988065521 10  7 cc  kf    -     -         2208   20    0 
+homer     988065572 10  6 f   -     -     -         2188    0    0 
+homer     988065682 10  5 r   b     b     b         2188   70  225 
+homer     988065785 10  4 f   -     -     -         2343    0    0 
+homer     988065846 10  3 f   -     -     -         2343    0    0 
+homer     988065904 10  2 Bc  kc    kf    -         2343   30    0 
+homer     988065945 10  1 Bc  k     kf    -         2313   10    0 
+homer     988066002 10 10 c   f     -     -         2303   10    0 
+homer     988066107  9  8 f   -     -     -         2293    0    0 
+homer     988066147  9  7 c   c     k     c         2293   40    0 Td 4d
+homer     988066253  8  5 f   -     -     -         2253    0    0 
+homer     988066320  8  4 cc  ccc   ccc   f         2253  160    0 
+homer     988066436  8  3 f   Q     -     -         2093    0    0 
+homer     988066717  8  4 f   -     -     -         2093    0    0 
+homer     988066805  9  3 r   b     b     b         2093   70  195 Ad Kd
+homer     988066868  9  2 Bk  kc    kf    -         2218   20    0 
+homer     988066937  9  1 Bc  br    b     b         2198   90    0 Js Kh
+homer     988067022  8  8 f   -     -     -         2108    0    0 
+homer     988067065  8  8 f   -     -     -         2108    0    0 
+homer     988067108  9  8 f   -     -     -         2108    0    0 
+homer     988067142  9  7 c   k     f     -         2108   20    0 
+homer     988067196  9  6 f   -     -     -         2088    0    0 
+homer     988067224  9  4 f   -     -     -         2088    0    0 
+homer     988067292  9  3 f   -     -     -         2088    0    0 
+homer     988067329  9  2 Bf  -     -     -         2088   10    0 
+homer     988067391  9  1 Bc  kf    -     -         2078   10    0 
+homer     988067429  9  9 c   c     f     -         2068   30    0 
+homer     988067474 10  9 f   -     -     -         2038    0    0 
+homer     988067558  9  7 f   -     -     -         2038    0    0 
+homer     988067651  9  6 f   -     -     -         2038    0    0 
+homer     988067726  9  5 f   -     -     -         2038    0    0 
+homer     988067829 10  5 f   -     -     -         2038    0    0 
+homer     988067904  9  4 cf  -     Q     -         2038   10    0 
+homer     988077440 10  9 f   -     -     -         2028    0    0 
+homer     988077523 10  8 f   -     -     -         2028    0    0 
+homer     988077592 10  7 f   -     -     -         2028    0    0 
+homer     988077631 10  6 f   -     -     -         2028    0    0 
+homer     988077694 10  5 c   f     -     -         2028   20    0 
+homer     988077770  8  3 f   -     -     -         2008    0    0 
+homer     988077820  9  2 Bc  b     brc   b         2008  130    0 Kd Td
+homer     988077876  9  1 Bf  -     -     -         1878    5    0 
+homer     988077930 10 10 f   -     -     -         1873    0    0 
+homer     988078004 10  9 rc  r     b     rc        1873  140    0 Ah Qc
+homer     988078091 10  8 cc  f     -     -         1733   40    0 
+homer     988078169 10  7 c   b     b     b         1693   60    0 9s Jh
+homer     988078235 10  6 f   -     -     -         1633    0    0 
+homer     988078313 10  5 c   ccc   f     -         1633   60    0 
+homer     988078438 10  4 f   -     -     -         1573    0    0 
+homer     988078525 10  3 f   -     -     -         1573    0    0 
+homer     988078573 10  2 Bc  kcc   kcc   kf        1573  120    0 
+homer     988078704 10  1 Bcc kcc   kcc   bc        1453  200    0 8h 7c
+homer     988078827 10  7 Q   -     -     -         1253    0    0 
+homer     988124836  7  5 c   f     -     -         1253   10    0 
+homer     988124859  7  4 f   -     -     -         1243    0    0 
+homer     988124908  7  3 f   -     -     -         1243    0    0 
+homer     988124936  7  2 Bk  k     k     k         1243   10    0 5d 2h
+homer     988124974  7  1 Bf  -     -     -         1233    5    0 
+homer     988125028  7  7 f   -     -     -         1228    0    0 
+homer     988125054  7  6 c   b     -     -         1228   20   60 
+homer     988125100  7  5 f   -     -     -         1268    0    0 
+homer     988125131  7  5 f   -     -     -         1268    0    0 
+homer     988125172  7  4 c   f     -     -         1268   10    0 
+homer     988125206  7  3 c   b     r     rc        1258  140  430 9s Jc
+homer     988125265  6  2 Bk  b     b     kc        1548   60    0 Jd 9h
+homer     988125308  6  1 Bc  k     kc    kf        1488   30    0 
+homer     988125336  6  6 f   -     -     -         1458    0    0 
+homer     988125366  6  5 f   -     -     -         1458    0    0 
+homer     988125419  8  5 f   -     -     -         1458    0    0 
+homer     988125434  8  4 c   bc    k     kc        1458   50  125 9c 8c
+homer     988125479  8  3 c   k     f     -         1533   10    0 
+homer     988125530  8  2 Bf  -     -     -         1523   10    0 
+homer     988125572  9  1 Bf  -     -     -         1513    5    0 
+homer     988125612  9  9 c   c     c     c         1508   60    0 Th Ts
+homer     988125665  9  8 c   b     b     b         1448   70  230 
+homer     988125762  8  6 f   -     -     -         1608    0    0 
+homer     988125818  8  5 c   k     f     -         1608   10    0 
+homer     988125884  9  5 f   -     -     -         1598    0    0 
+homer     988125894  9  4 cc  kf    -     -         1598   20    0 
+homer     988125970  9  3 f   -     -     -         1578    0    0 
+homer     988126033  9  2 Bc  b     b     b         1578   70  160 
+homer     988126078  9  1 Bf  -     -     -         1668    5    0 
+homer     988126120  9  9 f   -     -     -         1663    0    0 
+homer     988126166  9  8 c   k     c     rc        1663  100    0 5c Tc
+homer     988126247  9  7 c   c     rc    k         1563   80  185 Ah Qs
+homer     988126300  9  6 c   r     rc    kf        1668   90    0 
+homer     988126357  9  5 f   -     -     -         1578    0    0 
+homer     988126457  8  4 cc  ccc   cc    c         1578  130    0 As 8s
+homer     988126506 10  3 f   -     -     -         1448    0    0 
+homer     988126562 10  2 Bk  b     -     -         1448   20   40 
+homer     988126592 10  1 Bc  k     b     -         1468   30   60 
+homer     988126627 10 10 c   c     c     rc        1498  100    0 6h Ac
+homer     988126677  9  8 f   -     -     -         1398    0    0 
+homer     988126719  9  7 c   b     -     -         1398   20   45 
+homer     988126746  9  6 r   b     -     -         1423   40  115 
+homer     988126774  9  5 cc  kc    k     bf        1498   50    0 
+homer     988126857 10  5 f   -     -     -         1448    0    0 
+homer     988126940  9  3 c   k     bf    -         1448   30    0 
+homer     988126990  7  3 c   kc    f     -         1418   20    0 
+homer     988127038  8  2 Bf  -     -     -         1398   10    0 
+homer     988127070  8  1 Bf  -     -     -         1388    5    0 
+homer     988127130  8  8 c   r     c     c         1383   70    0 Kh 4h
+homer     988127190 10  9 f   -     -     -         1313    0    0 
+homer     988127239 10  8 c   cc    cc    f         1313  100    0 
+homer     988127354 10  7 r   b     -     -         1213   30   65 
+homer     988127389 10  6 f   -     -     -         1248    0    0 
+homer     988127471 10  5 c   k     b     -         1248   30   70 
+homer     988127534 10  4 c   k     k     k         1288   10    0 Jc 2c
+homer     988127595 10  3 f   -     -     -         1278    0    0 
+homer     988127637 10  2 Bk  kf    -     -         1278   10    0 
+homer     988127696 10  1 Bc  kc    kf    -         1268   20    0 
+homer     988127754 10 10 c   f     -     -         1248   10    0 
+homer     988127824 10  9 f   -     -     -         1238    0    0 
+homer     988127900 10  8 f   -     -     -         1238    0    0 
+homer     988127968 10  7 f   -     -     -         1238    0    0 
+homer     988128006 10  6 f   -     -     -         1238    0    0 
+homer     988128079 10  5 cc  kc    kf    -         1238   30    0 
+homer     988128122 10  3 Q   -     -     -         1208    0    0 
+homer     988178432  2  2 c   c     k     c         1208   40    0 6s Js
+homer     988178463  2  2 Bk  c     br    c         1168  100    0 8h As
+homer     988178490  2  1 Bc  -     -     -         1068   10   20 
+homer     988210146  2  1 Br  k     b     -         1078   40   60 
+homer     988210269  5  1 Bc  k     kf    -         1098   10    0 
+homer     988210336  4  4 c   k     k     f         1088   10    0 
+homer     988210374  4  3 c   b     bc    c         1078   80    0 8c Ah
+homer     988210402  4  1 Bk  b     -     -          998   20   30 
+homer     988210423  4  1 Bf  -     -     -         1008    5    0 
+homer     988210438  4  4 cc  k     c     b         1003   60  140 
+homer     988210467  4  3 cc  c     f     -         1083   40    0 
+homer     988210493  4  2 Bk  f     -     -         1043   10    0 
+homer     988210516  4  1 Bc  kf    -     -         1033   10    0 
+homer     988210547  4  4 c   f     -     -         1023   20    0 
+homer     988210581  5  4 c   b     b     b         1003   60  120 
+homer     988210622  4  2 c   kc    b     b         1063   60    0 4s 6s
+homer     988210664  4  2 Bc  k     k     f         1003   20    0 
+homer     988210701  3  1 Bc  b     bc    b          983   80    0 Th 9h
+homer     988210721  3  3 fQ  -     -     -          903    0    0 
+homer     988255148  8  4 cc  b     b     b          903   70    0 Kc 3h
+homer     988255190  8  3 c   k     bc    br         833  130  210 7h 2h
+homer     988255249  9  2 Bc  kc    kc    kc         913   90    0 8c Ah
+homer     988255317  9  1 Bf  -     -     -          823    5    0 
+homer     988255347  9  9 c   r     b     b          818   70    0 2s Kd
+homer     988255408  9  8 c   c     c     f          748   40    0 
+homer     988255487  9  7 c   f     -     -          708   10    0 
+homer     988255544  9  6 c   k     kc    k          698   30    0 Th 7h
+homer     988255624  9  5 c   kf    -     -          668   10    0 
+homer     988255703  9  4 c   c     kf    -          658   20    0 
+homer     988255767  9  3 f   -     -     -          638    0    0 
+homer     988255830  9  2 Bk  k     b     b          638   50  150 5d 8d
+homer     988255916  8  1 Bf  -     -     -          738    5    0 
+homer     988255980  8  8 c   r     -     -          733   30   75 
+homer     988256017  7  6 c   f     -     -          778   10    0 
+homer     988256064  8  5 r   bc    b     b          768   80  205 
+homer     988256149  7  4 c   kc    kc    kf         893   40    0 
+homer     988256240  7  3 f   -     -     -          853    0    0 
+homer     988256291  8  2 Bk  kf    -     -          853   10    0 
+homer     988256360  8  1 Bf  -     -     -          843    5    0 
+homer     988256433  9  9 c   f     -     -          838   10    0 
+homer     988256493 10  9 cc  f     -     -          828   20    0 
+homer     988256576 10  8 cc  r     c     cc         808  140    0 Ad 8s
+homer     988256668 10  7 cc  kf    -     -          668   40    0 
+homer     988256782 10  7 c   k     f     -          628   10    0 
+homer     988256863 10  5 c   kf    -     -          618   10    0 
+homer     988256920 10  4 c   k     bc    kf         608   50    0 
+homer     988257007  9  3 f   -     -     -          558    0    0 
+homer     988257064 10  2 Bk  b     b     -          558   40   95 
+homer     988257116  9  1 Bc  bc    krc   kf         613  110    0 
+homer     988257170  9  9 rc  rc    rc    rr         503  200    0 5h 5d
+homer     988257226 10  9 rr  rr    rr    rr         303  240    0 Ac 8h
+homer     988257329 10  8 r   r     rA    -           63   63    0 8s 7c
+homer     988257496 10  6 f   -     -     -         1000    0    0 
+homer     988257535 10  5 f   -     -     -         1000    0    0 
+homer     988257586 10  4 f   -     -     -         1000    0    0 
+homer     988257639 10  3 f   -     -     -         1000    0    0 
+homer     988257705 10  2 Bk  kc    k     f         1000   20    0 
+homer     988257815 10  1 Bf  -     -     -          980    5    0 
+homer     988257857 10  3 Q   -     -     -          975    0    0 
+homer     988420059 10  3 c   bc    kc    bc         975   90    0 Ad Jc
+homer     988420134 10  2 Bk  k     kf    -          885   10    0 
+homer     988420192 10  1 Bf  -     -     -          875    5    0 
+homer     988420242 10 10 c   c     c     f          870   40    0 
+homer     988420283 10  9 f   -     -     -          830    0    0 
+homer     988420369 10  8 f   -     -     -          830    0    0 
+homer     988420424 10  7 c   r     b     b          830   80    0 Qs 9d
+homer     988420484 10  6 c   kc    kc    kf         750   40    0 
+homer     988420548 10  5 c   k     b     b          710   50  150 
+homer     988420628  9  4 c   kf    -     -          810   10    0 
+homer     988420666  9  3 r   b     r     c          800   90    0 Qs As
+homer     988420715  9  2 Bk  kc    kf    -          710   20    0 
+homer     988420764 10  1 Bf  -     -     -          690    5    0 
+homer     988420803 10 10 fQ  -     -     -          685    0    0 
+homer     988478780  7  7 c   c     r     b          685   90  285 4s 3s
+homer     988478832  7  7 cc  c     c     k          880   50    0 Kc 5s
+homer     988478884  7  6 c   b     -     -          830   20   60 
+homer     988478913  8  5 f   -     -     -          870    0    0 
+homer     988478948  9  4 cc  kc    kc    k          870   50    0 Jc Kc
+homer     988478982  9  3 cc  k     b     b          820   60  265 Kd 6d
+homer     988479051  9  2 Bk  f     -     -         1025   10    0 
+homer     988479105 10  1 Bc  kf    -     -         1015   10    0 
+homer     988479168 10 10 c   r     b     b         1005   90    0 Js Ac
+homer     988479244 10  9 f   -     -     -          915    0    0 
+homer     988479302 10  8 c   b     b     -          915   40  140 
+homer     988479360 10  7 f   -     -     -         1015    0    0 
+homer     988479404 10  6 f   -     -     -         1015    0    0 
+homer     988479461 10  5 f   -     -     -         1015    0    0 
+homer     988479533 10  4 cc  kc    kc    kf        1015   60    0 
+homer     988479600 10  3 f   -     -     -          955    0    0 
+homer     988479658  9  2 Bk  kc    kr    b          955   80  310 4c 4d
+homer     988479724 10  1 Bc  kc    kc    kf        1185   40    0 
+homer     988479797 10 10 r   c     c     f         1145   50    0 
+homer     988479871 10  9 cc  k     r     c         1095   80    0 Qd Js
+homer     988479924 10  8 cc  r     bc    c         1015  100    0 Js As
+homer     988480001  9  6 cc  kc    kc    k          915   50    0 Tc Td
+homer     988480054  9  5 f   -     -     -          865    0    0 
+homer     988480118  9  4 c   b     bc    kc         865   80    0 Td Qh
+homer     988480166  8  3 f   -     -     -          785    0    0 
+homer     988480214  9  2 Bc  b     b     b          785   70    0 Qh 9h
+homer     988480279  7  1 BQ  -     -     -          715    5    0 
+homer     988529963  8  7 c   c     c     rr         710  150    0 6d Kc
+homer     988530039  9  7 c   b     -     -          560   20   70 
+homer     988530088  9  6 c   k     b     -          610   30   55 
+homer     988530113  9  5 c   k     c     f          635   30    0 
+homer     988530151 10  4 f   -     -     -          605    0    0 
+homer     988530200 10  3 c   kf    -     -          605   10    0 
+homer     988530244 10  2 Bk  b     bf    -          595   40    0 
+homer     988530330  9  1 Bf  -     -     -          555    5    0 
+homer     988530388  9  9 r   b     b     b          550   70  200 
+homer     988530451  9  8 f   -     -     -          680    0    0 
+homer     988530480 10  7 c   b     c     c          680   60    0 Ac 5d
+homer     988530588 10  6 c   k     kc    kf         620   30    0 
+homer     988530701  9  4 c   k     c     b          590   50  140 
+homer     988530764  9  3 c   b     b     b          680   60    0 9d 6h
+homer     988530810  9  2 Bk  c     c     f          620   40    0 
+homer     988530859  8  1 Bc  b     b     bc         580   80  200 Td Qs
+homer     988530956  8  8 c   k     k     b          700   30    0 8c As
+homer     988530996  8  7 r   k     b     b          670   60  130 
+homer     988531046  8  6 c   k     k     r          740   50    0 3h 3d
+homer     988531121  8  5 c   b     r     br         690  120    0 Ad 9h
+homer     988531204  5  2 c   k     k     kf         570   10    0 
+homer     988531293  7  2 Bk  k     k     k          560   10   20 4s Ah
+homer     988531367  6  1 Bcc kc    bc    kf         570   70    0 
+homer     988531418  7  7 f   -     -     -          500    0    0 
+homer     988531524  8  7 c   f     -     -          500   20    0 
+homer     988531592  9  7 r   b     b     -          480   50  177 4h 3h
+homer     988531669  9  5 c   f     -     -          607   10    0 
+homer     988531743  9  4 f   -     -     -          597    0    0 
+homer     988531869  8  4 c   k     k     k          597   10    0 2c Kc
+homer     988531961  7  3 f   -     -     -          587    0    0 
+homer     988532029  7  2 Bk  b     rc    c          587  100    0 Ac As
+homer     988532086  7  1 Bf  -     -     -          487    5    0 
+homer     988532127  7  7 c   k     k     b          482   30   33 6d 4s
+homer     988532212  7  6 r   b     b     b          485   70  230 
+homer     988532276  7  5 r   b     b     bc         645   90  150 Ks Ad
+homer     988532337  7  4 c   k     k     b          705   30    0 6h 2h
+homer     988532407  8  3 c   kf    -     -          675   10    0 
+homer     988532474  8  2 Bk  kc    kc    kf         665   40    0 
+homer     988532545  8  1 Bc  kc    kf    -          625   20    0 
+homer     988532642  8  8 f   -     -     -          605    0    0 
+homer     988532676  8  7 c   c     c     f          605   40    0 
+homer     988532743  8  6 c   kc    b     kc         565   60  170 2h Ac
+homer     988532807  9  6 c   b     bf    -          675   40    0 
+homer     988532906  8  4 r   b     brc   kf         635  110    0 
+homer     988532967  8  3 r   b     b     b          525   70  235 As 2c
+homer     988533017  7  1 Bk  kc    kf    -          690   20    0 
+homer     988533101  7  1 BfQ -     -     -          670    5    0 
+homer     988533532  6  6 r   r     b     b          665   80  165 
+homer     988533568  6  5 c   k     c     f          750   30    0 
+homer     988533611  5  4 c   c     f     -          720   20    0 
+homer     988533651  7  4 cf  -     -     -          700   10    0 
+homer     988533678  7  3 fQ  -     -     -          690    0    0 

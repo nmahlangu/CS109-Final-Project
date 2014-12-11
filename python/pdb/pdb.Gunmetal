@@ -1,0 +1,660 @@
+Gunmetal  986943140  9  7 f   -     -     -          510    0    0 
+Gunmetal  986943236  9  6 c   kf    -     -          510   10    0 
+Gunmetal  986943340  9  4 f   -     -     -          500    0    0 
+Gunmetal  986943418  9  3 c   r     r     b          500   90  230 Ts 9d
+Gunmetal  986943493  9  2 Bk  k     b     b          640   50   68 6c 4c
+Gunmetal  986943576  8  1 Bc  kf    -     -          658   10    0 
+Gunmetal  986943700  7  7 c   k     k     c          648   30    0 Ah 3h
+Gunmetal  986943744  7  6 f   -     -     -          618    0    0 
+Gunmetal  986943773  8  6 f   -     -     -          618    0    0 
+Gunmetal  986943809  8  5 c   cc    c     f          618  100    0 
+Gunmetal  986943864  8  4 c   k     k     k          518   10   50 7d Qs
+Gunmetal  986943984  8  3 f   -     -     -          558    0    0 
+Gunmetal  986944029  8  2 Bf  -     -     -          558   10    0 
+Gunmetal  986944103  8  1 Bc  kc    kc    kf         548   50    0 
+Gunmetal  986944167  8  8 c   k     f     -          498   10    0 
+Gunmetal  986944201  8  7 c   c     f     -          488   30    0 
+Gunmetal  986944286  8  6 c   r     br    k          458  100  235 Js As
+Gunmetal  986944365  9  6 ccc kc    kc    brc        593  150  420 Ts 6h
+Gunmetal  986944491  9  5 f   -     -     -          863    0    0 
+Gunmetal  986944571  9  4 f   -     -     -          863    0    0 
+Gunmetal  986944617  9  3 cc  k     f     -          863   20    0 
+Gunmetal  986944673  9  2 Bk  b     -     -          843   20   45 
+Gunmetal  986944708  9  1 Br  br    brc   bc         868  170    0 As Ad
+Gunmetal  986944766  8  8 c   r     k     rc         698   90    0 7h Ad
+Gunmetal  986944841  9  8 f   -     -     -          608    0    0 
+Gunmetal  986944887  9  7 c   k     f     -          608   10    0 
+Gunmetal  986944929  9  6 cc  f     -     -          598   20    0 
+Gunmetal  986944985 10  5 c   f     -     -          578   20    0 
+Gunmetal  986945055 10  4 f   -     -     -          558    0    0 
+Gunmetal  986945124 10  3 c   kf    -     -          558   10    0 
+Gunmetal  986945193  9  2 Bc  k     k     f          548   20    0 
+Gunmetal  986945245  9  1 Bf  -     -     -          528    5    0 
+Gunmetal  986945314  9  9 r   c     k     c          523   50    0 Jd Jh
+Gunmetal  986945368 10  9 cc  f     -     -          473   20    0 
+Gunmetal  986945450 10  8 f   -     -     -          453    0    0 
+Gunmetal  986945512 10  7 c   kc    k     f          453   30    0 
+Gunmetal  986945585  9  6 c   c     k     k          423   20    0 7d Td
+Gunmetal  986945632  9  5 c   c     f     -          403   20    0 
+Gunmetal  986945690 10  4 cc  rc    c     r          383  120  400 Qc Kc
+Gunmetal  986945795  7  3 f   -     -     -          663    0    0 
+Gunmetal  986945875  6  2 Bk  b     b     b          663   60  115 
+Gunmetal  986945909  6  1 Bc  kf    -     -          718   20    0 
+Gunmetal  986945946  6  6 f   -     -     -          698    0    0 
+Gunmetal  986945995  6  5 c   b     -     -          698   20   45 
+Gunmetal  986946021  6  4 c   b     b     b          723   60  120 
+Gunmetal  986946057  6  3 c   k     k     k          783   10   45 Jh Ad
+Gunmetal  986946090  8  2 Bk  k     k     kr         818   50   53 Kd 7s
+Gunmetal  986946128  9  1 Bc  k     kf    -          821   10    0 
+Gunmetal  986946170  9  9 cc  c     k     c          811   60  200 Qs 7d
+Gunmetal  986946232  9  8 cc  c     c     c          951   70    0 7h 6d
+Gunmetal  986946268  9  7 f   -     -     -          881    0    0 
+Gunmetal  986946304  9  6 c   kf    -     -          881   10    0 
+Gunmetal  986946364 10  5 f   -     -     -          871    0    0 
+Gunmetal  986946432  9  3 f   -     -     -          871    0    0 
+Gunmetal  986946476  9  3 c   f     -     -          871   10    0 
+Gunmetal  986946502  9  2 Bk  f     -     -          861   10    0 
+Gunmetal  986946552  9  1 Bc  kf    -     -          851   20    0 
+Gunmetal  986946592 10 10 c   r     r     b          831   90  100 Kc Qd
+Gunmetal  986946640 10  9 c   c     f     -          841   20    0 
+Gunmetal  986946703  9  8 c   rr    r     c          821  110  150 Th Jc
+Gunmetal  986946767 10  7 c   cc    c     f          861   60    0 
+Gunmetal  986946854 10  6 c   c     c     f          801   40    0 
+Gunmetal  986946896 10  5 c   c     c     r          761   80  195 8s Jh
+Gunmetal  986946969 10  4 c   k     kf    -          876   10    0 
+Gunmetal  986947053  9  3 f   -     -     -          866    0    0 
+Gunmetal  986947113  9  2 Bc  ccc   c     kf         866   80    0 
+Gunmetal  986947155  8  1 Bc  krr   kc    kc         786   90  250 Ah Jh
+Gunmetal  986947210  7  7 c   c     f     -          946   30    0 
+Gunmetal  986947246  6  6 f   -     -     -          916    0    0 
+Gunmetal  986947259  6  5 c   brc   br    kf         916  110    0 
+Gunmetal  986947308  6  4 f   -     -     -          806    0    0 
+Gunmetal  986947338  7  4 f   -     -     -          806    0    0 
+Gunmetal  986947377  7  3 f   -     -     -          806    0    0 
+Gunmetal  986947400  7  2 Bf  -     -     -          806   10    0 
+Gunmetal  986947422  7  1 Bf  -     -     -          796    5    0 
+Gunmetal  986947429  7  7 c   c     f     -          791   40    0 
+Gunmetal  986947470  7  6 f   -     -     -          751    0    0 
+Gunmetal  986947504  7  5 c   br    rr    r          751  160  465 7s 5s
+Gunmetal  986947573  7  4 c   k     k     k         1056   10   45 7s 2s
+Gunmetal  986947601  7  3 cc  kf    -     -         1091   20    0 
+Gunmetal  986947643  7  2 Bc  kf    -     -         1071   20    0 
+Gunmetal  986947685  7  1 Bc  kf    -     -         1051   20    0 
+Gunmetal  986947713  8  8 c   b     -     -         1031   20   60 
+Gunmetal  986947752  8  7 c   c     br    -         1071   90  185 
+Gunmetal  986947787  6  4 f   -     -     -         1166    0    0 
+Gunmetal  986947811  6  3 cc  rr    r     -         1166  100  185 
+Gunmetal  986947837  6  2 Bc  b     k     b         1251   50  105 
+Gunmetal  986947870  6  1 Bc  k     kf    -         1306   10    0 
+Gunmetal  986947924  6  6 cc  c     c     f         1296   50    0 
+Gunmetal  986947977  8  7 cc  kc    kc    kf        1246   50    0 
+Gunmetal  986948039  8  6 f   -     -     -         1196    0    0 
+Gunmetal  986948059  8  5 c   kc    kc    kf        1196   40    0 
+Gunmetal  986948123  8  4 f   -     -     -         1156    0    0 
+Gunmetal  986948150  8  3 c   b     b     -         1156   40   65 
+Gunmetal  986948175  7  2 Bc  kc    kc    kf        1181   50    0 
+Gunmetal  986948210  7  1 Bc  k     kf    -         1131   10    0 
+Gunmetal  986948250  7  7 f   -     -     -         1121    0    0 
+Gunmetal  986948298  7  6 cc  k     f     -         1121   20    0 
+Gunmetal  986948328  7  5 f   -     -     -         1101    0    0 
+Gunmetal  986948378  6  4 c   b     -     -         1101   20   35 
+Gunmetal  986948400  6  3 c   k     k     f         1116   10    0 
+Gunmetal  986948451  6  2 Bk  f     -     -         1106   10    0 
+Gunmetal  986948482  6  1 Bc  kc    b     b         1096   70  170 Td Kh
+Gunmetal  986948519  6  6 c   k     k     k         1196   10    0 6s Jh
+Gunmetal  986948567  6  5 f   -     -     -         1186    0    0 
+Gunmetal  986948610  6  4 cc  kf    -     -         1186   20    0 
+Gunmetal  986948629  6  3 c   kc    kc    kf        1166   40    0 
+Gunmetal  986948705  6  2 Bk  b     b     b         1126   60  105 
+Gunmetal  986948732  6  1 Bf  -     -     -         1171    5    0 
+Gunmetal  986948760  6  6 f   -     -     -         1166    0    0 
+Gunmetal  986948837  7  6 c   cf    -     -         1166   20    0 
+Gunmetal  986948882  7  5 f   -     -     -         1146    0    0 
+Gunmetal  986948943  6  4 f   -     -     -         1146    0    0 
+Gunmetal  986948987  6  3 ccc c     rr    r         1146  180  460 Ac 6s
+Gunmetal  986949039  5  2 Bf  -     -     -         1426   10    0 
+Gunmetal  986949065  5  1 Bc  k     kc    kf        1416   30    0 
+Gunmetal  986949095  6  6 c   c     ccc   cf        1386  130    0 
+Gunmetal  986949135  6  5 f   -     -     -         1256    0    0 
+Gunmetal  986949159  6  4 f   -     -     -         1256    0    0 
+Gunmetal  986949172  6  3 c   r     -     -         1256   30   70 
+Gunmetal  986949200  6  2 Bc  b     kc    b         1296   70  170 
+Gunmetal  986949233  8  1 Bc  kf    -     -         1396   20    0 
+Gunmetal  986949266  7  7 c   k     k     f         1376   10    0 
+Gunmetal  986949341  7  6 c   f     -     -         1366   10    0 
+Gunmetal  986949365  7  5 cc  ccc   f     -         1356   60    0 
+Gunmetal  986949420 10  4 f   -     -     -         1296    0    0 
+Gunmetal  986949533  9  3 f   -     -     -         1296    0    0 
+Gunmetal  986949585  9  2 Bc  kf    -     -         1296   20    0 
+Gunmetal  986949615  9  1 Bc  kc    kf    -         1276   40    0 
+Gunmetal  986949673  9  9 cc  c     f     -         1236   50    0 
+Gunmetal  986949731  8  7 c   kc    brc   br        1186  160  455 Jh Ah
+Gunmetal  986949805  8  6 f   -     -     -         1481    0    0 
+Gunmetal  986949839  8  5 f   -     -     -         1481    0    0 
+Gunmetal  986949894  8  4 c   k     b     b         1481   60  155 5c 5s
+Gunmetal  986949925  8  3 f   -     -     -         1576    0    0 
+Gunmetal  986949960  8  2 Bk  kc    kc    kc        1576   60    0 7h 5c
+Gunmetal  986950055  7  1 Bc  k     kf    -         1516   20    0 
+Gunmetal  986950095  6  6 fQ  -     -     -         1496    0    0 
+Gunmetal  987529923  4  2 Bk  f     -     -         1798   10    0 
+Gunmetal  987529947  4  1 Bf  -     -     -         1788    5    0 
+Gunmetal  987529966  4  4 c   f     -     -         1783   20    0 
+Gunmetal  987529986  4  3 c   r     b     b         1763   70  145 
+Gunmetal  987530015  4  2 Bc  r     r     k         1838   80  160 3s Ah
+Gunmetal  987530048  4  1 Bcc kc    kc    k         1918   50    0 6d 6s
+Gunmetal  987530098  5  5 c   k     k     k         1868   10    0 Ah 8h
+Gunmetal  987530130  4  3 f   -     -     -         1858    0    0 
+Gunmetal  987530179  4  2 Bk  k     kf    -         1858   10    0 
+Gunmetal  987530207  4  1 Bf  -     -     -         1848    5    0 
+Gunmetal  987530243  4  4 f   -     -     -         1843    0    0 
+Gunmetal  987530268  4  3 cc  f     -     -         1843   20    0 
+Gunmetal  987530302  4  2 Bc  f     -     -         1823   20    0 
+Gunmetal  987530319  5  1 Bf  -     -     -         1803    5    0 
+Gunmetal  987530347  5  5 c   k     k     k         1798   10   25 Jc 7c
+Gunmetal  987530370  5  4 c   k     k     k         1813   20   75 6s Jc
+Gunmetal  987530431  7  3 f   -     -     -         1868    0    0 
+Gunmetal  987530486  7  2 Bc  bcc   kc    kf        1868   80    0 
+Gunmetal  987530557  6  1 Bc  k     kf    -         1788   10    0 
+Gunmetal  987530597  6  6 c   c     c     k         1778   50  165 Ac 5h
+Gunmetal  987530645  6  5 cc  c     r     b         1893   90  280 8h 7s
+Gunmetal  987530696  6  4 c   k     c     r         2083   70  180 
+Gunmetal  987530744  7  4 c   k     k     k         2193   10    0 5h 7h
+Gunmetal  987530769  7  3 r   b     b     b         2183   70  210 
+Gunmetal  987530845  7  2 Bc  kf    -     -         2323   20    0 
+Gunmetal  987530897  7  1 Bf  -     -     -         2303    5    0 
+Gunmetal  987530932  6  6 c   c     f     -         2298   20    0 
+Gunmetal  987530983  6  5 c   k     k     f         2278   10    0 
+Gunmetal  987531027  7  5 cc  f     -     -         2268   20    0 
+Gunmetal  987531075  7  4 cc  kc    kc    kf        2248   50    0 
+Gunmetal  987531146  7  3 f   -     -     -         2198    0    0 
+Gunmetal  987531213  7  2 Bk  kf    -     -         2198   10    0 
+Gunmetal  987531251  7  1 Bf  Q     -     -         2188    5    0 
+Gunmetal  987544613  7  2 Bk  kf    -     -         1683   10    0 
+Gunmetal  987544666  7  1 Bc  k     kf    -         1673   10    0 
+Gunmetal  987544717  7  7 f   -     -     -         1663    0    0 
+Gunmetal  987544756  7  6 f   -     -     -         1663    0    0 
+Gunmetal  987544805  7  5 c   k     c     f         1663   30    0 
+Gunmetal  987544855  7  4 f   -     -     -         1633    0    0 
+Gunmetal  987544922  7  3 r   b     bc    b         1633   90  270 Qd Ad
+Gunmetal  987544987  6  2 Bk  k     k     k         1813   10   35 2d Ah
+Gunmetal  987545018  6  1 Br  b     b     b         1838   70  150 Ac Ks
+Gunmetal  987545042  6  6 f   -     -     -         1918    0    0 
+Gunmetal  987545065  6  5 c   k     k     k         1918   10   30 As Qc
+Gunmetal  987545102  5  3 c   k     kc    kf        1938   30    0 
+Gunmetal  987545142  5  2 Bk  Q     -     -         1908   10    0 
+Gunmetal  987545520  6  6 f   -     -     -         1898    0    0 
+Gunmetal  987545560  6  5 c   c     c     r         1898   80  185 6s 6c
+Gunmetal  987545589  6  4 c   k     f     -         2003   10    0 
+Gunmetal  987545624  6  3 c   b     b     c         1993   60    0 5s 8s
+Gunmetal  987545660  5  2 Bk  kc    kf    -         1933   20    0 
+Gunmetal  987545721  5  1 Bc  b     b     b         1913   70  250 Ts Kh
+Gunmetal  987545758  5  5 c   k     f     -         2093   10    0 
+Gunmetal  987545800  5  4 c   k     k     k         2083   10   40 As 8s
+Gunmetal  987545829  5  3 r   b     b     b         2113   70  160 Ac Kc
+Gunmetal  987545861  5  2 Bk  b     b     b         2203   60  165 9h 9s
+Gunmetal  987545890  5  1 Bf  -     -     -         2308    5    0 
+Gunmetal  987545922  5  5 f   -     -     -         2303    0    0 
+Gunmetal  987545954  5  4 c   fQ    -     -         2303   20    0 
+Gunmetal  987575460  9  6 f   -     -     -         1000    0    0 
+Gunmetal  987575499  9  5 cc  k     kc    b         1000   60  145 Qc Js
+Gunmetal  987575549  9  4 c   b     b     b         1085   60  220 5s 8s
+Gunmetal  987575610  9  3 cc  kf    -     -         1245   20    0 
+Gunmetal  987575639  9  2 Bc  kf    -     -         1225   20    0 
+Gunmetal  987575694  9  1 Bc  k     kr    b         1205   70  140 
+Gunmetal  987575739  9  9 c   k     k     f         1275   10    0 
+Gunmetal  987575786  9  8 c   k     f     -         1265   10    0 
+Gunmetal  987575818  9  7 c   k     c     f         1255   30    0 
+Gunmetal  987575859  8  5 c   k     k     k         1225   10    0 Ah Jh
+Gunmetal  987575903  7  3 f   -     -     -         1215    0    0 
+Gunmetal  987575932  7  2 Bk  kf    -     -         1215   10    0 
+Gunmetal  987576020  7  1 Bf  -     -     -         1205    5    0 
+Gunmetal  987576058  7  7 c   c     f     -         1200   20    0 
+Gunmetal  987576096  7  6 c   k     k     f         1180   10    0 
+Gunmetal  987576134  7  5 c   k     c     f         1170   40    0 
+Gunmetal  987576188  7  4 Q   -     -     -         1130    0    0 
+Gunmetal  987645355 10  2 Bf  -     -     -         1495   10    0 
+Gunmetal  987645386 10  1 Bc  kf    -     -         1485   10    0 
+Gunmetal  987645432 10 10 r   rc    b     b         1475  110  455 Qh Qc
+Gunmetal  987645499 10  9 cc  b     k     c         1820   50    0 7h 4h
+Gunmetal  987645568 10  8 c   k     k     f         1770   10    0 
+Gunmetal  987645640 10  7 c   k     k     k         1760   10    0 Jd Th
+Gunmetal  987645725 10  6 c   k     k     kf        1750   10    0 
+Gunmetal  987645822 10  5 ccc br    b     b         1740  110    0 8h 2h
+Gunmetal  987645893 10  4 f   -     -     -         1630    0    0 
+Gunmetal  987645953 10  3 c   br    b     b         1630   80  220 
+Gunmetal  987646000 10  2 Bk  kc    k     k         1770   20   80 4h As
+Gunmetal  987646050 10  1 Bf  -     -     -         1830    5    0 
+Gunmetal  987646100 10 10 c   b     b     b         1825   70  245 
+Gunmetal  987646190 10  9 c   c     c     f         2000   50    0 
+Gunmetal  987646261 10  8 c   f     -     -         1950   10    0 
+Gunmetal  987646371 10  7 cc  k     b     k         1940   40  145 4s Ac
+Gunmetal  987646470 10  6 f   Q     -     -         2045    0    0 
+Gunmetal  987646568 10  4 c   kc    b     bc        2045   80  255 9s 8h
+Gunmetal  987646617 10  3 f   -     -     -         2220    0    0 
+Gunmetal  987646659 10  2 Bc  f     -     -         2220   20    0 
+Gunmetal  987646728 10  1 Bc  k     kc    kf        2200   30    0 
+Gunmetal  987646784 10 10 c   f     -     -         2170   10    0 
+Gunmetal  987646864 10  9 c   f     -     -         2160   10    0 
+Gunmetal  987646978  9  7 c   f     -     -         2150   20    0 
+Gunmetal  987647009  8  5 f   -     -     -         2130    0    0 
+Gunmetal  987647066  8  4 c   r     b     b         2130   80   92 Ad Qs
+Gunmetal  987647101  7  3 f   -     -     -         2142    0    0 
+Gunmetal  987647157  7  2 Bk  kfQ   -     -         2142   10    0 
+Gunmetal  987647509  6  4 c   k     b     -         2132   30   55 
+Gunmetal  987647533  7  4 c   k     kf    -         2157   10    0 
+Gunmetal  987647594  6  3 f   -     -     -         2147    0    0 
+Gunmetal  987647621  6  2 Bk  k     k     f         2147   10    0 
+Gunmetal  987647654  6  1 Bc  k     kf    -         2137   10    0 
+Gunmetal  987647676  6  6 c   f     -     -         2127   10    0 
+Gunmetal  987647723  6  5 c   k     rc    f         2117   70    0 
+Gunmetal  987647763  6  4 c   k     k     k         2047   10    0 4h 7h
+Gunmetal  987647791  6  3 c   k     k     k         2037   10    0 Ac 6h
+Gunmetal  987647818  6  2 Bk  kQ    -     -         2027   10    0 
+Gunmetal  987664959  9  2 Bk  kf    -     -         2017   10    0 
+Gunmetal  987665010  9  1 Bf  -     -     -         2007    5    0 
+Gunmetal  987665049  8  8 c   c     c     f         2002   40    0 
+Gunmetal  987665073  7  6 f   -     -     -         1962    0    0 
+Gunmetal  987665116  7  5 cc  brc   bc    kc        1962  120    0 Ts Qs
+Gunmetal  987665165  6  3 c   b     b     b         1842   60    0 9s 9h
+Gunmetal  987665191  6  2 Bk  k     k     k         1782   10    0 Kc 7d
+Gunmetal  987665217  6  1 Bc  kc    kf    -         1772   20    0 
+Gunmetal  987665259  7  7 cc  f     -     -         1752   30    0 
+Gunmetal  987665292  7  6 c   k     k     f         1722   10    0 
+Gunmetal  987665340  7  5 cc  kcc   brc   brc       1712  210    0 8h 7s
+Gunmetal  987665408  8  4 c   f     -     -         1502   10    0 
+Gunmetal  987665459  8  3 c   b     b     b         1492   60  145 Qs Kh
+Gunmetal  987665484  8  2 Bk  kc    kc    kf        1577   40    0 
+Gunmetal  987665556  8  1 Bc  k     kc    k         1537   30    0 5h 5d
+Gunmetal  987665603  8  8 c   c     c     f         1507   40    0 
+Gunmetal  987665641  8  7 c   f     -     -         1467   10    0 
+Gunmetal  987665693  8  6 c   cc    kc    kf        1457   50    0 
+Gunmetal  987665747  8  5 c   c     k     f         1407   20    0 
+Gunmetal  987665781  8  4 c   k     k     k         1387   10   45 7d 8s
+Gunmetal  987665843  8  3 c   k     k     b         1422   30   38 6s Kh
+Gunmetal  987665864  8  2 Bk  kc    kf    -         1430   20    0 
+Gunmetal  987665896  8  1 Bf  -     -     -         1410    5    0 
+Gunmetal  987665913  9  9 cc  f     -     -         1405   20    0 
+Gunmetal  987665945  9  8 f   -     -     -         1385    0    0 
+Gunmetal  987665986  8  6 c   kc    kc    f         1385   40    0 
+Gunmetal  987666029  8  5 f   -     -     -         1345    0    0 
+Gunmetal  987666074  7  4 f   -     -     -         1345    0    0 
+Gunmetal  987666113  7  3 c   kc    kc    kf        1345   40    0 
+Gunmetal  987666157  8  2 Bk  kc    kc    b         1305   60  185 5s 3s
+Gunmetal  987666193  8  1 Bf  -     -     -         1430    5    0 
+Gunmetal  987666225  8  8 f   -     -     -         1425    0    0 
+Gunmetal  987666250  8  7 f   -     -     -         1425    0    0 
+Gunmetal  987666289  7  5 f   -     -     -         1425    0    0 
+Gunmetal  987666322  7  4 cc  kc    brc   brc       1425  190  565 Jc 9h
+Gunmetal  987666382  7  3 f   -     -     -         1800    0    0 
+Gunmetal  987666410  7  2 Bc  c     c     c         1800   70    0 Qd 3s
+Gunmetal  987666450  7  1 Bf  -     -     -         1730    5    0 
+Gunmetal  987666472  7  7 f   -     -     -         1725    0    0 
+Gunmetal  987666493  7  6 c   f     -     -         1725   10    0 
+Gunmetal  987666556  7  5 c   c     k     b         1715   40  140 Kc 6c
+Gunmetal  987666595  7  4 c   kf    -     -         1815   10    0 
+Gunmetal  987666649  7  3 c   kf    -     -         1805   10    0 
+Gunmetal  987666672  7  2 Bf  -     -     -         1795   10    0 
+Gunmetal  987666699  7  1 Bc  kc    kc    kc        1785   60    0 6h 2h
+Gunmetal  987666738  8  8 f   -     -     -         1725    0    0 
+Gunmetal  987666768  8  7 f   -     -     -         1725    0    0 
+Gunmetal  987666812  8  6 f   -     -     -         1725    0    0 
+Gunmetal  987666839  8  5 f   -     -     -         1725    0    0 
+Gunmetal  987666850  8  4 c   b     -     -         1725   20   65 
+Gunmetal  987666880  8  3 f   -     -     -         1770    0    0 
+Gunmetal  987666929  8  2 Bk  k     kf    -         1770   10    0 
+Gunmetal  987666950  8  1 Bcc k     kf    -         1760   20    0 
+Gunmetal  987666982  8  8 f   -     -     -         1740    0    0 
+Gunmetal  987667005  8  7 f   -     -     -         1740    0    0 
+Gunmetal  987667031  8  6 f   -     -     -         1740    0    0 
+Gunmetal  987667103  8  5 f   -     -     -         1740    0    0 
+Gunmetal  987667141  7  3 f   -     -     -         1740    0    0 
+Gunmetal  987667182  8  3 f   -     -     -         1740    0    0 
+Gunmetal  987667195  8  2 Bk  kf    -     -         1740   10    0 
+Gunmetal  987667218  9  1 Bf  -     -     -         1730    5    0 
+Gunmetal  987667257 10 10 c   f     -     -         1725   10    0 
+Gunmetal  987667286 10  9 c   c     c     k         1715   50    0 Ts Js
+Gunmetal  987667337 10  8 f   -     -     -         1665    0    0 
+Gunmetal  987667384  9  6 c   f     -     -         1665   10    0 
+Gunmetal  987667413 10  6 c   kc    kc    kf        1655   70    0 
+Gunmetal  987667473 10  5 c   b     b     b         1585   60  160 5d Ah
+Gunmetal  987667509 10  4 c   k     kf    -         1685   10    0 
+Gunmetal  987667535 10  3 cc  kc    kc    b         1675   70  205 Jd Qh
+Gunmetal  987667578 10  2 Bk  kf    -     -         1810   10    0 
+Gunmetal  987667622 10  1 Bc  kc    kf    -         1800   20    0 
+Gunmetal  987667690 10 10 c   c     c     f         1780   50    0 
+Gunmetal  987667725 10  9 c   c     c     f         1730   40    0 
+Gunmetal  987667757 10  8 c   k     k     k         1690   10   50 9c Th
+Gunmetal  987667794 10  7 cc  kc    k     k         1730   30    0 7h 7c
+Gunmetal  987667827 10  6 c   k     kc    b         1700   50  130 Js Jd
+Gunmetal  987667859 10  5 f   -     -     -         1780    0    0 
+Gunmetal  987667905  9  3 f   -     -     -         1780    0    0 
+Gunmetal  987667940  9  3 c   cc    f     -         1780   40    0 
+Gunmetal  987667984  9  2 Bk  kf    -     -         1740   10    0 
+Gunmetal  987668035  9  1 Bf  -     -     -         1730    5    0 
+Gunmetal  987668058  9  9 c   b     b     b         1725   60  115 
+Gunmetal  987668083  9  8 c   k     c     rr        1780  120  295 8c Td
+Gunmetal  987668128  9  7 cc  kf    -     -         1955   20    0 
+Gunmetal  987668164  8  5 c   k     kf    -         1935   10    0 
+Gunmetal  987668190  8  4 c   cc    kf    -         1925   30    0 
+Gunmetal  987668232  8  3 r   b     b     b         1895   70  175 Kh Ks
+Gunmetal  987668257  8  2 Bk  k     b     -         2000   30   45 
+Gunmetal  987668275  8  1 Bf  -     -     -         2015    5    0 
+Gunmetal  987668327  7  7 c   k     b     -         2010   30   55 
+Gunmetal  987668362  7  6 c   r     k     k         2035   30  100 Kh 5h
+Gunmetal  987668403  7  5 cc  k     k     k         2105   20   70 8h Ad
+Gunmetal  987668432  7  4 f   -     -     -         2155    0    0 
+Gunmetal  987668454  7  3 f   -     -     -         2155    0    0 
+Gunmetal  987668468  7  2 Br  b     bc    bc        2155  110    0 Kc Kd
+Gunmetal  987668498  7  1 Bc  k     kc    kf        2045   30    0 
+Gunmetal  987668534  7  7 f   -     Q     -         2015    0    0 
+Gunmetal  987711756  8  2 Bk  f     -     -         2015   10    0 
+Gunmetal  987711792  8  1 Bc  kc    kc    kf        2005   70    0 
+Gunmetal  987711837  9  9 f   -     -     -         1935    0    0 
+Gunmetal  987711888  9  8 r   r     b     b         1935   90  355 Ah As
+Gunmetal  987711940  9  7 f   -     -     -         2200    0    0 
+Gunmetal  987712031  9  6 r   b     b     b         2200   70  160 Ad Ac
+Gunmetal  987712076 10  5 f   -     -     -         2290    0    0 
+Gunmetal  987712125 10  4 f   -     -     -         2290    0    0 
+Gunmetal  987712199 10  3 c   f     -     -         2290   10    0 
+Gunmetal  987712240 10  2 Bf  -     -     -         2280   10    0 
+Gunmetal  987712322 10  1 Bc  kc    kc    kf        2270   60    0 
+Gunmetal  987712364 10 10 c   k     k     k         2210   20    0 8s 2s
+Gunmetal  987712418 10  9 cc  f     -     -         2190   20    0 
+Gunmetal  987712497 10  8 cc  kf    -     -         2170   20    0 
+Gunmetal  987712565 10  7 f   -     -     -         2150    0    0 
+Gunmetal  987712614 10  6 c   f     -     -         2150   10    0 
+Gunmetal  987712660 10  5 cc  f     -     -         2140   30    0 
+Gunmetal  987712745 10  4 f   -     -     -         2110    0    0 
+Gunmetal  987712825 10  3 f   -     -     -         2110    0    0 
+Gunmetal  987712883 10  2 Bc  k     k     kf        2110   30    0 
+Gunmetal  987712948 10  1 Bc  br    b     b         2080  100   96 8d Qd
+Gunmetal  987713026  9  9 f   -     -     -         2076    0    0 
+Gunmetal  987713085  9  8 c   k     kf    -         2076   20    0 
+Gunmetal  987713120  8  6 c   r     b     b         2056   90  305 Ac Tc
+Gunmetal  987713153  8  5 c   c     k     c         2271   40    0 6d 6s
+Gunmetal  987713185  9  4 f   -     -     -         2231    0    0 
+Gunmetal  987713265  9  3 c   c     k     k         2231   20    0 9h 8s
+Gunmetal  987713308  9  2 Bk  kf    -     -         2211   10    0 
+Gunmetal  987713361  9  1 Bc  bcc   kcc   kf        2201  140    0 
+Gunmetal  987713436  9  9 f   -     -     -         2061    0    0 
+Gunmetal  987713487  9  8 f   -     -     -         2061    0    0 
+Gunmetal  987713540  9  7 c   kf    -     -         2061   10    0 
+Gunmetal  987713574  9  6 f   -     -     -         2051    0    0 
+Gunmetal  987713623  9  5 c   kc    kc    kf        2051   40    0 
+Gunmetal  987713657  9  4 c   cc    c     f         2011   60    0 
+Gunmetal  987713697  9  3 f   -     -     -         1951    0    0 
+Gunmetal  987713761  9  2 Bf  -     -     -         1951   10    0 
+Gunmetal  987713809  9  1 Bc  k     k     kf        1941   10    0 
+Gunmetal  987713883  9  9 c   k     k     k         1931   10    0 Jd 8c
+Gunmetal  987713925  9  8 f   -     -     -         1921    0    0 
+Gunmetal  987713945  9  7 c   k     kf    -         1921   10    0 
+Gunmetal  987713990 10  7 f   -     -     -         1911    0    0 
+Gunmetal  987714038 10  6 c   cf    -     -         1911   20    0 
+Gunmetal  987714080 10  6 f   -     -     -         1891    0    0 
+Gunmetal  987714157  8  3 cc  rc    kc    kc        1891   90    0 Ts Js
+Gunmetal  987714221  8  2 Bk  cc    kc    kc        1801   80    0 Ts 6d
+Gunmetal  987714275  9  1 Bc  kf    -     -         1721   10    0 
+Gunmetal  987714323  9  9 f   -     -     -         1711    0    0 
+Gunmetal  987714344  9  8 f   -     -     -         1711    0    0 
+Gunmetal  987714377  8  7 c   c     c     k         1711   50    0 9h 8d
+Gunmetal  987714424  7  5 f   -     -     -         1661    0    0 
+Gunmetal  987714454  8  4 f   -     -     -         1661    0    0 
+Gunmetal  987714484  8  3 f   -     -     -         1661    0    0 
+Gunmetal  987714520  8  2 Bf  -     -     -         1661   10    0 
+Gunmetal  987714554  8  1 Bf  -     -     -         1651    5    0 
+Gunmetal  987714592  9  9 c   f     -     -         1646   10    0 
+Gunmetal  987714632  9  8 f   Q     -     -         1636    0    0 
+Gunmetal  987719029 10  8 f   -     -     -         1636    0    0 
+Gunmetal  987719094  9  7 f   -     -     -         1636    0    0 
+Gunmetal  987719144  9  6 cc  k     f     -         1636   20    0 
+Gunmetal  987719194  9  4 c   b     br    b         1616  100  265 Ks Ac
+Gunmetal  987719235  9  3 f   -     -     -         1781    0    0 
+Gunmetal  987719292  9  2 Bc  kc    k     kf        1781   30    0 
+Gunmetal  987719347 10  1 Bc  kf    -     -         1751   10    0 
+Gunmetal  987719434 10 10 f   -     -     -         1741    0    0 
+Gunmetal  987719507  8  7 c   k     k     k         1741   10    0 9d 6d
+Gunmetal  987719554  8  6 cc  f     -     -         1731   20    0 
+Gunmetal  987719626  8  5 cc  kc    bc    k         1711   70    0 Ad Qs
+Gunmetal  987719675  7  4 f   -     -     -         1641    0    0 
+Gunmetal  987719702  6  3 c   bc    k     k         1641   40    0 9h Jh
+Gunmetal  987719764  7  2 Bc  kf    -     -         1601   20    0 
+Gunmetal  987719790  6  1 Br  b     -     -         1581   30   60 
+Gunmetal  987719804  7  6 c   k     c     k         1611   30  105 As 8d
+Gunmetal  987719849  7  5 f   -     -     -         1686    0    0 
+Gunmetal  987719895  8  5 cc  br    rc    b         1686  150  605 4s 4h
+Gunmetal  987720002  8  4 ccc k     k     k         2141   40    0 Th Kc
+Gunmetal  987720056  8  3 cc  kf    -     -         2101   20    0 
+Gunmetal  987720111  8  2 Bk  k     b     r         2081   70  240 Qh 3h
+Gunmetal  987720161  9  1 Bc  bc    kc    k         2251   50    0 9c 8c
+Gunmetal  987721518 10  2 Bk  kf    -     -         2201   10    0 
+Gunmetal  987721581  9  1 Bc  kf    -     -         2191   10    0 
+Gunmetal  987721655  9  9 c   c     k     k         2181   20    0 Jc Qh
+Gunmetal  987721739  9  8 c   b     b     k         2161   60  225 7c As
+Gunmetal  987721822  9  7 c   f     -     -         2326   10    0 
+Gunmetal  987721872  9  6 cc  f     -     -         2316   30    0 
+Gunmetal  987721996  8  4 cc  kf    -     -         2286   20    0 
+Gunmetal  987722051  9  4 cc  cf    -     -         2266   30    0 
+Gunmetal  987722135  9  3 f   -     -     -         2236    0    0 
+Gunmetal  987722234  9  2 Bk  kf    -     -         2236   10    0 
+Gunmetal  987722314 10  1 Bc  kc    kc    kc        2226   70  240 5c 6h
+Gunmetal  987722372 10 10 f   -     -     -         2396    0    0 
+Gunmetal  987722436  9  8 c   b     k     b         2396   40    0 Qs Ad
+Gunmetal  987722487  8  6 f   -     -     -         2356    0    0 
+Gunmetal  987722544  8  6 c   cc    c     k         2356   60    0 Ac Qh
+Gunmetal  987722589  8  5 c   kf    -     -         2296   10    0 
+Gunmetal  987722640  7  4 c   kc    kc    k         2286   50    0 5c 7h
+Gunmetal  987722698  7  3 f   -     -     -         2236    0    0 
+Gunmetal  987722742  7  2 Bk  kf    -     -         2236   10    0 
+Gunmetal  987722779  8  1 Bf  -     -     -         2226    5    0 
+Gunmetal  987722863  8  8 f   -     -     -         2221    0    0 
+Gunmetal  987722912  8  7 c   c     f     -         2221   20    0 
+Gunmetal  987722958  8  6 f   -     -     -         2201    0    0 
+Gunmetal  987722997  8  5 c   k     k     k         2201   10    0 Th 6h
+Gunmetal  987723029  8  4 c   c     f     -         2191   20    0 
+Gunmetal  987723069  8  3 c   b     b     b         2171   60  190 Kd Jh
+Gunmetal  987723116  7  2 Bk  kf    -     -         2301   10    0 
+Gunmetal  987723142  8  1 Bf  -     -     -         2291    5    0 
+Gunmetal  987723173  8  8 c   k     c     f         2286   30    0 
+Gunmetal  987723216  8  7 f   -     -     -         2256    0    0 
+Gunmetal  987723262  7  5 c   f     -     -         2256   10    0 
+Gunmetal  987723279  7  4 f   -     -     -         2246    0    0 
+Gunmetal  987723307  7  3 cc  kf    -     -         2246   20    0 
+Gunmetal  987723353  7  2 B   -     -     -         2226   10   15 
+Gunmetal  987723362  7  1 Bc  kf    -     -         2231   10    0 
+Gunmetal  987723402  7  7 c   k     k     k         2221   10   25 7d 9d
+Gunmetal  987723428  7  6 c   k     k     f         2236   10    0 
+Gunmetal  987723461  7  5 f   -     -     -         2226    0    0 
+Gunmetal  987723489  7  4 f   -     -     -         2226    0    0 
+Gunmetal  987723500  7  3 f   -     -     -         2226    0    0 
+Gunmetal  987723511  7  2 Bk  kf    -     -         2226   10    0 
+Gunmetal  987723527  7  1 Bcc kf    -     -         2216   20    0 
+Gunmetal  987723584  7  7 c   c     f     -         2196   20    0 
+Gunmetal  987723629  7  6 c   k     k     k         2176   10    0 8d 6s
+Gunmetal  987723689  7  5 f   -     -     -         2166    0    0 
+Gunmetal  987723701  7  4 f   -     -     -         2166    0    0 
+Gunmetal  987723726  7  3 f   -     -     -         2166    0    0 
+Gunmetal  987723755  7  2 Bk  k     kQ    -         2166   10    0 
+Gunmetal  987740730 10  9 f   -     -     -         2721    0    0 
+Gunmetal  987740781  9  3 Q   -     -     -         2721    0    0 
+Gunmetal  987755972  8  6 c   c     c     f         2721   40    0 
+Gunmetal  987756020  8  5 c   k     b     c         2681   50  120 6d 5d
+Gunmetal  987756057  8  4 f   -     -     -         2751    0    0 
+Gunmetal  987756105  9  3 c   f     -     -         2751   10    0 
+Gunmetal  987756144  9  2 Bk  k     k     k         2741   10    0 7c 3h
+Gunmetal  987756172  9  1 Bf  -     -     -         2731    5    0 
+Gunmetal  987756238  9  9 r   c     f     -         2726   40    0 
+Gunmetal  987756305  8  7 c   f     -     -         2686   10    0 
+Gunmetal  987756352  8  6 c   kf    -     -         2676   10    0 
+Gunmetal  987756409  8  5 c   c     f     -         2666   20    0 
+Gunmetal  987756455  8  4 c   b     b     b         2646   60  140 9h 9c
+Gunmetal  987756510  8  3 c   cc    k     kc        2726   50    0 Qc 3c
+Gunmetal  987756556  8  2 Bk  k     k     kf        2676   10    0 
+Gunmetal  987756584  7  1 Bc  kf    -     -         2666   10    0 
+Gunmetal  987756660  6  6 c   k     k     k         2656   10    0 Qd Jc
+Gunmetal  987756723  6  6 c   c     c     f         2646   50    0 
+Gunmetal  987756763  5  4 f   -     -     -         2596    0    0 
+Gunmetal  987756808  5  3 c   r     -     -         2596   30   60 
+Gunmetal  987756834  4  2 Bk  b     bc    k         2626   60   63 5d Ks
+Gunmetal  987756854  4  1 Bc  kf    -     -         2629   20    0 
+Gunmetal  987756886  4  4 c   b     -     -         2609   30   75 
+Gunmetal  987756905  4  3 f   -     -     -         2654    0    0 
+Gunmetal  987756930  5  2 Bf  -     -     -         2654   10    0 
+Gunmetal  987756956  5  1 Bf  -     -     -         2644    5    0 
+Gunmetal  987756977  5  5 f   -     -     -         2639    0    0 
+Gunmetal  987757008  5  4 c   f     -     -         2639   10    0 
+Gunmetal  987757044  5  3 r   b     b     b         2629   70  135 
+Gunmetal  987757124  5  2 Bk  b     b     b         2694   60  105 
+Gunmetal  987757145  5  1 Bf  -     -     -         2739    5    0 
+Gunmetal  987757161  5  5 c   k     c     f         2734   30    0 
+Gunmetal  987757194  5  4 c   b     b     rr        2704  120  245 Tc Td
+Gunmetal  987757228  6  4 c   k     f     -         2829   10    0 
+Gunmetal  987757284  6  3 c   k     k     k         2819   10    0 6s 8s
+Gunmetal  987757311  6  2 Bf  -     -     -         2809   10    0 
+Gunmetal  987757343  6  1 Bf  -     -     -         2799    5    0 
+Gunmetal  987757371  6  6 c   f     -     -         2794   10    0 
+Gunmetal  987757413  6  5 c   k     k     k         2784   10    0 Qd 2d
+Gunmetal  987757445  6  4 c   k     k     k         2774   10    0 Ts Kh
+Gunmetal  987757482  6  3 f   -     -     -         2764    0    0 
+Gunmetal  987757515  6  2 Bk  f     -     -         2764   10    0 
+Gunmetal  987757523  6  1 Bc  kc    kc    kc        2754   60    0 9s Th
+Gunmetal  987757550  6  6 c   f     -     -         2694   20    0 
+Gunmetal  987757581  6  5 f   -     -     -         2674    0    0 
+Gunmetal  987757604  6  4 c   b     b     b         2674   60  125 As 5d
+Gunmetal  987757636  6  3 c   k     k     k         2739   10    0 Ah Jd
+Gunmetal  987757666  6  2 Bk  k     f     -         2729   10    0 
+Gunmetal  987757699  6  1 Bc  k     k     k         2719   10    0 8c Kc
+Gunmetal  987757732  6  6 c   k     k     k         2709   10    0 8d As
+Gunmetal  987757753  6  5 c   b     b     b         2699   60  190 Tc Th
+Gunmetal  987757809  5  3 f   -     -     -         2829    0    0 
+Gunmetal  987757852  6  2 Bk  kf    -     -         2829   10    0 
+Gunmetal  987757871  6  1 Bf  -     -     -         2819    5    0 
+Gunmetal  987757893  6  6 f   -     -     -         2814    0    0 
+Gunmetal  987757921  6  5 c   k     kf    -         2814   10    0 
+Gunmetal  987757946  6  4 f   Q     -     -         2804    0    0 
+Gunmetal  987814465  9  5 f   -     -     -         2712    0    0 
+Gunmetal  987814488 10  4 f   -     -     -         2712    0    0 
+Gunmetal  987814571  9  3 f   -     -     -         2712    0    0 
+Gunmetal  987814620  8  2 Bc  kf    -     -         2712   20    0 
+Gunmetal  987814655  7  1 Bc  kc    b     -         2692   40   60 
+Gunmetal  987814680  7  7 f   Q     -     -         2712    0    0 
+Gunmetal  987818578 10  8 cc  k     f     -         2557   20    0 
+Gunmetal  987818622 10  7 c   k     r     r         2537   90  205 Ah 2s
+Gunmetal  987818675 10  7 c   b     k     rr        2652  100  230 5s 6s
+Gunmetal  987818724  9  5 cc  kc    kc    kf        2782   50    0 
+Gunmetal  987818767 10  4 f   -     -     -         2732    0    0 
+Gunmetal  987818823 10  3 c   k     k     k         2732   10    0 8d 9c
+Gunmetal  987818856  9  2 Br  bc    kf    -         2722   40    0 
+Gunmetal  987818897 10  1 Bf  -     -     -         2682    5    0 
+Gunmetal  987818992 10 10 f   -     -     -         2677    0    0 
+Gunmetal  987819049 10  9 f   -     -     -         2677    0    0 
+Gunmetal  987819086 10  8 r   rr    b     b         2677  100  320 Ks Kc
+Gunmetal  987819151  9  6 c   f     -     -         2897   10    0 
+Gunmetal  987819219  9  5 r   k     b     -         2887   40   85 
+Gunmetal  987819254  9  4 cc  bc    c     rr        2932  140    0 9s Qc
+Gunmetal  987819318  8  3 f   -     -     -         2792    0    0 
+Gunmetal  987819333  8  2 Bk  kf    -     -         2792   10    0 
+Gunmetal  987819379  8  1 Bc  b     b     kc        2782   60    0 4s 6c
+Gunmetal  987819413  8  8 f   -     -     -         2722    0    0 
+Gunmetal  987819460  8  7 c   c     kf    -         2722   20    0 
+Gunmetal  987819536  8  6 f   -     -     -         2702    0    0 
+Gunmetal  987819580  8  5 f   -     -     -         2702    0    0 
+Gunmetal  987819649 10  5 cc  cc    kf    -         2702   60    0 
+Gunmetal  987819745  8  2 cc  f     -     -         2642   30    0 
+Gunmetal  987819894  7  2 Bk  k     k     kf        2612   10    0 
+Gunmetal  987819950  8  1 Bc  b     -     -         2602   20   50 
+Gunmetal  987819966  8  8 f   -     -     -         2632    0    0 
+Gunmetal  987819998  8  7 cc  c     c     r         2632  110  440 3s 3d
+Gunmetal  987820053  9  7 c   kf    -     -         2962   10    0 
+Gunmetal  987820136  9  6 r   b     b     -         2952   50  125 
+Gunmetal  987820244  8  4 c   bc    b     kc        3027   70  220 Kd Qs
+Gunmetal  987820295  9  4 cc  kc    b     -         3177   50  140 
+Gunmetal  987820351 10  4 c   b     bc    bc        3267  100  245 5s Ks
+Gunmetal  987820413  9  3 rr  br    b     b         3412  110  315 Ks Kc
+Gunmetal  987820483  9  2 Bk  k     kQ    -         3617   10    0 
+Gunmetal  988412173 10  5 cc  f     -     -         3607   20    0 
+Gunmetal  988412291 10  4 cc  r     b     k         3587   60    0 9s 5s
+Gunmetal  988412349 10  3 ccc c     f     -         3527   50    0 
+Gunmetal  988412427 10  2 Bk  kf    -     -         3477   10    0 
+Gunmetal  988412473 10  1 Bf  -     -     -         3467    5    0 
+Gunmetal  988412518 10 10 f   -     -     -         3462    0    0 
+Gunmetal  988412557 10  9 c   c     cc    f         3462  120    0 
+Gunmetal  988412657 10  8 f   -     -     -         3342    0    0 
+Gunmetal  988412703 10  7 f   -     -     -         3342    0    0 
+Gunmetal  988412738 10  6 f   -     -     -         3342    0    0 
+Gunmetal  988412777 10  5 f   -     -     -         3342    0    0 
+Gunmetal  988412833 10  4 f   -     -     -         3342    0    0 
+Gunmetal  988412930 10  3 f   -     -     -         3342    0    0 
+Gunmetal  988412998 10  2 Bc  kc    kc    kf        3342   80    0 
+Gunmetal  988413078 10  1 Bc  kf    -     -         3262   20    0 
+Gunmetal  988413116 10 10 c   c     k     k         3242   30  105 Ah 5d
+Gunmetal  988413180 10  9 f   -     -     -         3317    0    0 
+Gunmetal  988413241 10  8 f   -     -     -         3317    0    0 
+Gunmetal  988413316 10  7 ccc c     c     c         3317  110    0 8h Qs
+Gunmetal  988413397 10  6 f   -     -     -         3207    0    0 
+Gunmetal  988413447 10  5 cc  c     c     f         3207   70    0 
+Gunmetal  988413507 10  4 cc  kf    -     -         3137   30    0 
+Gunmetal  988413591 10  3 c   b     -     -         3107   20   50 
+Gunmetal  988413687  9  2 Bc  kcc   kf    -         3137   50    0 
+Gunmetal  988413752 10  1 Bcc kf    -     -         3087   40    0 
+Gunmetal  988413794 10 10 cc  rc    c     k         3047  100    0 Jd 8h
+Gunmetal  988413918 10  9 f   -     -     -         2947    0    0 
+Gunmetal  988413991 10  8 cc  k     f     -         2947   30    0 
+Gunmetal  988414066 10  7 rr  rr    rc    c         2917  160  207 Jd Ad
+Gunmetal  988414139 10  6 cc  f     -     -         2964   20    0 
+Gunmetal  988414233 10  5 c   f     -     -         2944   10    0 
+Gunmetal  988414290 10  4 cc  c     r     b         2934  110  455 6h 7h
+Gunmetal  988414373 10  3 rr  rr    rr    r         3279  200    0 Qc Qs
+Gunmetal  988414516  8  2 Brf -     -     -         3079   20    0 
+Gunmetal  988414593  9  1 Bf  -     -     -         3059    5    0 
+Gunmetal  988414682  9  9 c   cc    f     -         3054   50    0 
+Gunmetal  988414750  8  7 f   -     -     -         3004    0    0 
+Gunmetal  988414802  8  6 f   -     -     -         3004    0    0 
+Gunmetal  988414863  7  4 cc  cc    kf    -         3004   40    0 
+Gunmetal  988414946  7  3 f   -     -     -         2964    0    0 
+Gunmetal  988415017  8  1 Bk  kf    -     -         2964   10    0 
+Gunmetal  988415070  8  1 Bc  kf    -     -         2954   20    0 
+Gunmetal  988415133  9  9 c   c     b     k         2934   40  150 Kh 3h
+Gunmetal  988415208 10  9 f   -     -     -         3044    0    0 
+Gunmetal  988415256 10  8 r   r     r     b         3044  100  345 As Ad
+Gunmetal  988415374 10  7 f   -     -     -         3289    0    0 
+Gunmetal  988415427 10  6 f   -     -     -         3289    0    0 
+Gunmetal  988415489 10  5 cc  cc    k     k         3289   40    0 5s 5c
+Gunmetal  988415548 10  4 cc  b     b     b         3249   70  245 Kh Js
+Gunmetal  988415617 10  3 c   kc    kf    -         3424   20    0 
+Gunmetal  988415684 10  2 Bk  k     kc    kc        3404   50    0 4d 9h
+Gunmetal  988415755 10  1 Bc  k     k     kf        3354   10    0 
+Gunmetal  988415804 10 10 c   c     k     f         3344   20    0 
+Gunmetal  988415852 10  9 c   f     -     -         3324   10    0 
+Gunmetal  988415905 10  8 c   c     c     f         3314   50    0 
+Gunmetal  988415958 10  7 c   c     f     -         3264   20    0 
+Gunmetal  988416036 10  6 c   kf    -     -         3244   10    0 
+Gunmetal  988416096 10  5 f   -     -     -         3234    0    0 
+Gunmetal  988416175 10  4 c   f     -     -         3234   10    0 
+Gunmetal  988416223 10  3 cc  c     f     -         3224   30    0 
+Gunmetal  988416271 10  2 Bk  kc    kc    kc        3194   60  145 Th Kh
+Gunmetal  988416313 10  1 Bc  kr    b     b         3279   70  190 Ah Th
+Gunmetal  988416356 10 10 c   k     c     c         3399   60  175 7c Jh
+Gunmetal  988416432  9  8 c   c     c     f         3514   50    0 
+Gunmetal  988416495  7  6 f   -     -     -         3464    0    0 
+Gunmetal  988416553  7  5 c   c     r     b         3464   90  195 
+Gunmetal  988416601  9  4 c   k     k     kf        3569   10    0 
+Gunmetal  988416644  9  3 f   -     -     -         3559    0    0 
+Gunmetal  988416702  9  2 Bk  kc    kcc   kf        3559   80    0 
+Gunmetal  988416763  9  1 Bf  -     -     -         3479    5    0 
+Gunmetal  988416804  9  9 c   f     -     -         3474   20    0 
+Gunmetal  988416886  9  8 cc  c     rr    b         3454  130  410 Ks Ts
+Gunmetal  988416981  9  7 f   -     -     -         3734    0    0 
+Gunmetal  988417044  8  6 f   -     -     -         3734    0    0 
+Gunmetal  988417148  7  5 c   k     k     k         3734   10   40 Jc 8d
+Gunmetal  988417196  7  4 c   f     -     -         3764   10    0 
+Gunmetal  988417241  7  3 c   c     cc    f         3754   80    0 
+Gunmetal  988417323  8  2 Bk  kf    -     -         3674   10    0 
+Gunmetal  988417396 10  1 Bc  kc    b     bc        3664   80  300 Ks 8s
+Gunmetal  988417469 10 10 f   -     -     -         3884    0    0 
+Gunmetal  988417528 10  9 c   f     -     -         3884   20    0 
+Gunmetal  988417609 10  8 cc  rr    b     k         3864   80    0 Qd 6d
+Gunmetal  988417711 10  7 cc  kf    -     -         3784   20    0 
+Gunmetal  988417756 10  7 f   -     -     -         3764    0    0 
+Gunmetal  988417783 10  5 c   f     -     -         3764   20    0 
+Gunmetal  988417863  9  4 cc  kf    -     -         3744   20    0 
+Gunmetal  988417920 10  3 f   Q     -     -         3724    0    0 

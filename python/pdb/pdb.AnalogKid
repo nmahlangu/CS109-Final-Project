@@ -1,0 +1,58 @@
+AnalogKid 987408016  6  3 f   -     -     -         1000    0    0 
+AnalogKid 987408105  6  2 Bc  kf    -     -         1000   20    0 
+AnalogKid 987408159  6  1 Bcc kf    -     -          980   20    0 
+AnalogKid 987408224  6  6 c   f     -     -          960   10    0 
+AnalogKid 987408292  6  5 cc  b     b     k          950   50    0 2d Kd
+AnalogKid 987408356  6  4 f   -     -     -          900    0    0 
+AnalogKid 987408433  5  3 f   -     -     -          900    0    0 
+AnalogKid 987408463  4  2 Br  b     b     b          900   70  180 
+AnalogKid 987408513  6  1 Bc  b     b     -         1010   40   90 
+AnalogKid 987408552  6  6 c   k     b     -         1060   30   70 
+AnalogKid 987408588  6  5 f   -     -     -         1100    0    0 
+AnalogKid 987408630  6  4 rc  kf    -     -         1100   30    0 
+AnalogKid 987408726  6  3 f   -     -     -         1070    0    0 
+AnalogKid 987408791  6  2 Bk  k     k     k         1070   10    0 7d 2d
+AnalogKid 987408843  5  1 Bf  -     -     -         1060    5    0 
+AnalogKid 987408892  5  5 f   -     -     -         1055    0    0 
+AnalogKid 987408959  5  4 f   -     -     -         1055    0    0 
+AnalogKid 987409010  5  4 f   -     -     Q         1055    0    0 
+AnalogKid 988095110  4  2 B   -     -     -          680   10   15 
+AnalogKid 988095117  4  1 Br  bf    -     -          685   30    0 
+AnalogKid 988095131  4  4 f   -     -     -          655    0    0 
+AnalogKid 988095148  4  3 KQ  -     -     -          655    0    0 
+AnalogKid 988095227  4  4 f   -     -     -          655    0    0 
+AnalogKid 988095238  4  3 r   b     -     -          655   30   70 
+AnalogKid 988095274  4  2 Bf  -     -     -          695   10    0 
+AnalogKid 988095283  4  1 Bf  -     -     -          685    5    0 
+AnalogKid 988095316  4  4 rc  k     f     -          680   30    0 
+AnalogKid 988095340  4  3 f   -     -     -          650    0    0 
+AnalogKid 988095343  4  2 Bc  brf   -     -          650   50    0 
+AnalogKid 988095362  4  1 Br  b     b     bc         600  100    0 Qd Ad
+AnalogKid 988095395  4  4 f   -     -     -          500    0    0 
+AnalogKid 988095424  4  3 r   b     -     -          500   30   60 
+AnalogKid 988095443  4  2 Bc  k     f     -          530   20    0 
+AnalogKid 988095469  5  1 Bc  b     b     bf         510   60    0 
+AnalogKid 988095492  5  5 f   -     -     -          450    0    0 
+AnalogKid 988095512  5  4 r   b     b     k          450   50    0 Qc Ad
+AnalogKid 988095548  5  3 f   -     -     -          400    0    0 
+AnalogKid 988095588  5  2 Bf  -     -     -          400   10    0 
+AnalogKid 988095603  4  1 Br  -     -     -          390   20   30 
+AnalogKid 988095610  4  4 r   -     -     -          400   20   35 
+AnalogKid 988095626  4  3 f   -     -     -          415    0    0 
+AnalogKid 988095659  3  1 B   -     -     -          415   10   10 
+AnalogKid 988096003  2  2 B   -     -     -          415   10   15 
+AnalogKid 988096010  2  1 Bc  kf    -     -          420   10    0 
+AnalogKid 988096038  2  2 B   -     -     -          410   10   30 
+AnalogKid 988166331 10  4 f   -     -     -          505    0    0 
+AnalogKid 988166370 10  3 f   -     -     -          505    0    0 
+AnalogKid 988166412 10  2 Bk  kf    -     -          505   10    0 
+AnalogKid 988166445 10  1 Bf  -     -     -          495    5    0 
+AnalogKid 988166519 10 10 r   f     -     -          490   20    0 
+AnalogKid 988166610 10  9 f   -     -     -          470    0    0 
+AnalogKid 988166729  8  7 f   -     -     -          470    0    0 
+AnalogKid 988166768  8  5 f   -     -     -          470    0    0 
+AnalogKid 988166810 10  6 f   -     -     -          470    0    0 
+AnalogKid 988166896 10  4 f   -     -     -          470    0    0 
+AnalogKid 988166933 10  3 c   k     b     k          470   30   85 Qh Kh
+AnalogKid 988166984 10  2 Bk  kf    -     -          525   10    0 
+AnalogKid 988167069  9  1 BQ  -     -     -          515    5    0 

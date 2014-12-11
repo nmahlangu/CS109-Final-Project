@@ -1,0 +1,416 @@
+dallas    986164451 10  9 f   -     -     -          655    0    0 
+dallas    986164497 10  8 f   -     -     -          655    0    0 
+dallas    986164559 10  7 f   -     -     -          655    0    0 
+dallas    986164673  9  6 f   -     -     -          655    0    0 
+dallas    986164702 10  5 f   -     -     -          655    0    0 
+dallas    986164741  9  3 cc  kf    -     -          655   20    0 
+dallas    986164843  9  2 Br  k     kcc   k          635  100    0 Jc Js
+dallas    986164906 10  1 Bc  kc    kc    kc         535   70    0 Ac Ks
+dallas    986165032 10  9 Q   -     -     -          465    0    0 
+dallas    986167122  7  7 c   k     k     k          465   10    0 4s Ah
+dallas    986167175  9  7 f   -     -     -          455    0    0 
+dallas    986167223  9  6 f   -     -     -          455    0    0 
+dallas    986167279 10  6 c   c     c     f          455   40    0 
+dallas    986167335 10  5 cc  br    b     kf         415   80    0 
+dallas    986167428 10  4 r   b     -     -          335   30   65 
+dallas    986167460  9  3 cc  k     kf    -          370   20    0 
+dallas    986167509 10  2 Bc  b     bc    b          350   90  390 Qc 8c
+dallas    986167602 10  1 Bc  bc    bc    brc        650  180    0 7h 8s
+dallas    986167700 10 10 cc  c     c     f          470   60    0 
+dallas    986167783 10  9 c   c     c     rr         410  130  315 4c 3s
+dallas    986167838  9  7 c   c     c     f          595   40    0 
+dallas    986167877  9  6 c   f     -     -          555   10    0 
+dallas    986167962  9  5 Q   -     -     -          545    0    0 
+dallas    986169875 10  7 f   -     -     -          545    0    0 
+dallas    986169932 10  6 c   b     b     b          545   70  255 
+dallas    986170009 10  5 f   -     -     -          730    0    0 
+dallas    986170067 10  5 c   f     -     -          730   10    0 
+dallas    986170144  9  3 fQ  -     -     -          720    0    0 
+dallas    986171198 10  5 f   -     -     -          720    0    0 
+dallas    986171238 10  4 cc  kcc   c     kc         720  100    0 Td Ad
+dallas    986171292 10  3 f   -     -     -          620    0    0 
+dallas    986171340 10  2 Bk  f     -     -          620   10    0 
+dallas    986171368 10  1 Bc  kc    kc    kc         610   70    0 9c Jd
+dallas    986171426 10 10 f   -     -     -          540    0    0 
+dallas    986171465 10  9 f   -     -     -          540    0    0 
+dallas    986171520  9  7 f   -     -     -          540    0    0 
+dallas    986171601 10  7 f   -     -     -          540    0    0 
+dallas    986171665 10  6 c   b     b     bc         540   80    0 Ah Qh
+dallas    986171727 10  5 f   -     -     -          460    0    0 
+dallas    986171783 10  4 f   -     -     -          460    0    0 
+dallas    986171862 10  3 f   -     -     -          460    0    0 
+dallas    986171927 10  2 Bk  kc    kc    k          460   40  100 Kc 4d
+dallas    986171985 10  1 Bf  -     -     -          520    5    0 
+dallas    986172078 10 10 c   k     k     c          515   30    0 Kh Ah
+dallas    986172201 10  9 f   -     -     -          485    0    0 
+dallas    986172230 10  7 Q   -     -     -          485    0    0 
+dallas    986172596  8  2 Bk  kf    -     -          485   10    0 
+dallas    986172662  8  1 Bc  k     k     k          475   10    0 2c As
+dallas    986172718  8  8 c   f     -     -          465   20    0 
+dallas    986172777  8  7 f   -     -     -          445    0    0 
+dallas    986172833  8  6 f   -     -     -          445    0    0 
+dallas    986172870  8  5 f   -     -     -          445    0    0 
+dallas    986172918  8  4 f   -     -     -          445    0    0 
+dallas    986172983  8  3 f   -     -     -          445    0    0 
+dallas    986173024  8  2 Bk  kc    kc    kf         445   40    0 
+dallas    986173058  7  1 Bc  k     kc    kc         405   50    0 8s 2s
+dallas    986173103  7  7 c   k     k     f          355   20    0 
+dallas    986173135  7  6 c   k     c     b          335   60  175 5c Qh
+dallas    986173183  7  5 cc  k     f     -          450   20    0 
+dallas    986173216  7  4 c   cc    ccc   f          430  130    0 
+dallas    986173278  7  3 f   -     -     -          300    0    0 
+dallas    986173324  7  2 Bc  kc    kc    kc         300   70    0 9c Qc
+dallas    986173376  8  1 BQ  -     -     -          230    5    0 
+dallas    986173511  9  7 cc  kc    kc    kf         225   60    0 
+dallas    986173556 10  7 cc  k     b     b          165   60  145 Ks 9h
+dallas    986173602 10  6 f   -     -     -          250    0    0 
+dallas    986173658 10  5 c   c     c     f          250   40    0 
+dallas    986173729 10  4 c   k     cc    kf         210   50    0 
+dallas    986173804 10  3 f   -     -     -          160    0    0 
+dallas    986173849 10  2 Bc  k     kc    kf         160   40    0 
+dallas    986173943 10  1 Bc  kf    -     -          120   20    0 
+dallas    986174006 10 10 cc  c     r     b          100   90  220 9s 9c
+dallas    986174086 10  9 c   k     k     f          230   10    0 
+dallas    986174181 10  8 cc  k     f     -          220   20    0 
+dallas    986174312 10  7 cc  kr    k     bc         200   90    0 5h 4h
+dallas    986174372 10  6 f   -     -     -          110    0    0 
+dallas    986174452 10  5 f   -     -     -          110    0    0 
+dallas    986174526 10  4 c   cc    c     f          110   80    0 
+dallas    986174641 10  3 cc  k     cA    -           30   30    0 7c 6s
+dallas    986178072 10  9 f   -     -     -         1000    0    0 
+dallas    986178139 10  8 f   -     -     -         1000    0    0 
+dallas    986178217 10  7 f   -     -     -         1000    0    0 
+dallas    986178336 10  6 f   -     -     -         1000    0    0 
+dallas    986178394 10  5 f   -     -     -         1000    0    0 
+dallas    986178508 10  4 ccc kf    -     -         1000   40    0 
+dallas    986178630 10  3 f   -     -     -          960    0    0 
+dallas    986178715 10  2 Bc  f     -     -          960   20    0 
+dallas    986178775 10  1 Bc  kf    -     -          940   10    0 
+dallas    986178864 10 10 f   -     -     -          930    0    0 
+dallas    986178924 10  9 f   -     -     -          930    0    0 
+dallas    986178973 10  8 f   -     -     -          930    0    0 
+dallas    986179022 10  7 f   -     -     -          930    0    0 
+dallas    986179071 10  6 f   -     -     -          930    0    0 
+dallas    986179173 10  5 c   cc    kc    k          930   50    0 3s 3c
+dallas    986179265 10  3 Q   -     -     -          880    0    0 
+dallas    986348066  6  6 c   c     c     c          880   60    0 4h 4c
+dallas    986348097  5  4 f   -     -     -          820    0    0 
+dallas    986348144  5  3 c   kc    kc    kc         820   60  175 Kd 9h
+dallas    986348203  6  2 Bk  kf    -     -          935   10    0 
+dallas    986348233  6  1 Bc  k     kr    b          925   70   80 Ad 5d
+dallas    986348286  6  6 f   -     -     -          935    0    0 
+dallas    986348327  6  5 c   c     c     f          935   40    0 
+dallas    986348366  7  5 cc  c     f     -          895   30    0 
+dallas    986348442  7  6 f   -     -     -          865    0    0 
+dallas    986348493  7  4 f   -     -     -          865    0    0 
+dallas    986348528  7  3 cc  c     cc    kf         865   70    0 
+dallas    986348590  7  2 Bc  kc    kf    -          795   30    0 
+dallas    986348619  7  1 Bc  kc    kc    kr         765   80  170 Th Ah
+dallas    986348650  7  7 f   -     -     -          855    0    0 
+dallas    986348687  7  6 f   -     -     -          855    0    0 
+dallas    986348723  8  5 c   kc    br    kr         855  120  340 As 8h
+dallas    986348797  8  4 f   -     -     -         1075    0    0 
+dallas    986348868  9  4 f   -     -     -         1075    0    0 
+dallas    986348947  9  3 f   -     -     -         1075    0    0 
+dallas    986349016  9  2 Bc  kc    kc    kr        1075   90  255 7c As
+dallas    986349086 10  1 Bc  kc    kc    kc        1240   60    0 Kh Ks
+dallas    986349172 10 10 f   -     -     -         1180    0    0 
+dallas    986349235 10  9 c   f     -     -         1180   30    0 
+dallas    986349324 10  8 f   -     -     -         1150    0    0 
+dallas    986349359  9  6 cc  f     -     -         1150   20    0 
+dallas    986349418  9  5 f   -     -     -         1130    0    0 
+dallas    986349485 10  5 c   f     -     -         1130   10    0 
+dallas    986349546 10  4 c   kc    kr    br        1120  120  410 Jh Jc
+dallas    986349654 10  3 cc  f     -     -         1410   20    0 
+dallas    986349710  8  2 Bk  k     kf    -         1390   10    0 
+dallas    986349764  8  1 Bc  k     b     -         1380   40  100 
+dallas    986349818  8  8 c   c     c     c         1440   60    0 5d 5h
+dallas    986349896  8  7 f   -     -     -         1380    0    0 
+dallas    986349938  8  6 f   -     -     -         1380    0    0 
+dallas    986350001  8  6 cc  cc    f     -         1380   50    0 
+dallas    986350058  8  5 f   -     -     -         1330    0    0 
+dallas    986350119  8  4 f   -     -     -         1330    0    0 
+dallas    986350154  8  3 f   -     -     -         1330    0    0 
+dallas    986350208  8  2 Bk  b     b     kc        1330   60    0 2h Ad
+dallas    986350256  8  1 Bf  -     -     -         1270    5    0 
+dallas    986350308  8  8 f   -     -     -         1265    0    0 
+dallas    986350350  8  7 c   k     b     b         1265   50   95 
+dallas    986350401  8  6 c   f     -     -         1310   10    0 
+dallas    986350438  8  5 f   -     -     -         1300    0    0 
+dallas    986350478  8  4 f   -     -     -         1300    0    0 
+dallas    986350567  8  3 f   -     -     -         1300    0    0 
+dallas    986350613  7  2 Bc  kc    kc    kf        1300   50    0 
+dallas    986350668  7  1 Bc  kf    -     -         1250   10    0 
+dallas    986350720  7  7 f   Q     -     -         1240    0    0 
+dallas    986436191 10  9 f   -     -     -         1493    0    0 
+dallas    986436230  9  6 f   -     -     -         1493    0    0 
+dallas    986436340  8  5 f   -     -     -         1493    0    0 
+dallas    986436378  9  4 cc  kc    kc    krc       1493  110    0 3s 6s
+dallas    986436431  9  3 c   kc    kc    kf        1383   40    0 
+dallas    986436490  9  2 Bc  kcc   kc    kf        1343   70    0 
+dallas    986436547  9  1 Bc  kf    -     -         1273   20    0 
+dallas    986436657 10 10 f   -     -     -         1253    0    0 
+dallas    986436710 10  9 f   -     -     -         1253    0    0 
+dallas    986436787 10  8 f   -     -     -         1253    0    0 
+dallas    986436847 10  7 f   -     -     -         1253    0    0 
+dallas    986437004  8  4 f   -     -     -         1253    0    0 
+dallas    986437084  9  4 c   k     f     -         1253   10    0 
+dallas    986437149  9  3 f   -     -     -         1243    0    0 
+dallas    986437188 10  2 Bc  kc    kc    kc        1243   70    0 Jh Tc
+dallas    986437226 10  1 Bc  kc    kc    kr        1173   90  230 Qd Qs
+dallas    986437288  9  9 c   c     c     rc        1308  150  420 Ts 6h
+dallas    986437365  9  8 r   c     f     -         1578   30    0 
+dallas    986437439 10  7 f   -     -     -         1548    0    0 
+dallas    986437515 10  6 f   -     -     -         1548    0    0 
+dallas    986437632 10  5 f   -     -     -         1548    0    0 
+dallas    986437718  7  3 f   -     -     -         1548    0    0 
+dallas    986437739  8  3 f   -     -     -         1548    0    0 
+dallas    986437762  7  2 Bk  k     b     -         1548   30   45 
+dallas    986437780  8  1 Bc  b     b     -         1563   40   90 
+dallas    986437825  7  7 c   fQ    -     -         1613   10    0 
+dallas    986441846 10  8 cc  f     -     -         1200   40    0 
+dallas    986441896 10  7 f   -     -     -         1150    0    0 
+dallas    986441923 10  6 f   -     -     -         1150    0    0 
+dallas    986441976 10  6 c   cc    cc    f         1150  120    0 
+dallas    986442030 10  4 c   f     -     -         1030   20    0 
+dallas    986442102 10  3 f   -     -     -         1010    0    0 
+dallas    986442170 10  2 Bc  c     c     c         1010   70  250 Qh 7c
+dallas    986442224 10  1 Bc  kc    kc    kc        1190   80    0 Kh Tc
+dallas    986442292 10 10 Q   -     -     -         1110    0    0 
+dallas    986445356 10 10 c   r     bc    c         1110  100    0 9d Ks
+dallas    986445433 10  9 f   -     -     -         1010    0    0 
+dallas    986445514 10  8 f   -     -     -         1010    0    0 
+dallas    986445539 10  7 c   k     b     -         1010   30   60 
+dallas    986445592 10  6 f   -     -     -         1040    0    0 
+dallas    986445627 10  5 f   -     -     -         1040    0    0 
+dallas    986445686 10  4 f   -     -     -         1040    0    0 
+dallas    986445743 10  3 cc  k     br    -         1040   80  175 
+dallas    986445794 10  2 Bc  kf    -     -         1135   20    0 
+dallas    986445852 10  1 Bc  k     kc    kr        1115   70  130 
+dallas    986445894 10 10 c   b     b     -         1175   50   95 
+dallas    986445922 10  9 f   -     -     -         1220    0    0 
+dallas    986445993 10  8 f   -     -     -         1220    0    0 
+dallas    986446033 10  7 f   -     -     -         1220    0    0 
+dallas    986446095 10  6 f   -     -     -         1220    0    0 
+dallas    986446178 10  5 c   c     c     f         1220   40    0 
+dallas    986446250 10  4 cc  kc    kc    kf        1180   50    0 
+dallas    986446316 10  3 f   -     -     -         1130    0    0 
+dallas    986446377 10  2 Bc  kc    kc    kf        1130   50    0 
+dallas    986446439 10  1 Bc  kccc  kcc   kf        1080  130    0 
+dallas    986446500 10 10 f   -     -     -          950    0    0 
+dallas    986446572 10  9 f   -     -     -          950    0    0 
+dallas    986446646 10  8 f   -     -     -          950    0    0 
+dallas    986446709 10  7 c   c     c     c          950   60    0 7s 3s
+dallas    986446815 10  6 c   k     k     k          890   10   40 7c Jd
+dallas    986446933 10  5 c   kc    k     b          920   40  120 2s Ah
+dallas    986447020 10  4 c   k     k     k         1000   10    0 7h Ad
+dallas    986447120 10  3 cc  kc    kf    -          990   30    0 
+dallas    986447176 10  2 Bc  kc    kc    kc         960   70    0 Th 7c
+dallas    986447230 10  1 Bc  kc    kc    kf         890   40    0 
+dallas    986447341 10 10 c   c     c     c          850   60    0 6d 8d
+dallas    986447406 10 10 f   -     -     -          790    0    0 
+dallas    986447455 10  4 Q   -     -     -          790    0    0 
+dallas    986695144 10  8 c   kf    -     -          825   10    0 
+dallas    986695187 10  7 c   cc    f     -          815   30    0 
+dallas    986695245 10  6 f   -     -     -          785    0    0 
+dallas    986695316 10  5 c   c     k     f          785   20    0 
+dallas    986695355 10  4 f   -     -     -          765    0    0 
+dallas    986695409 10  3 c   kc    k     k          765   30    0 As 9c
+dallas    986695467 10  2 Bc  kc    kc    kc         735   70   73 Ac 2d
+dallas    986695515 10  1 Bc  kcc   kc    kf         738   70    0 
+dallas    986695569 10 10 f   -     -     -          668    0    0 
+dallas    986695632 10  9 c   c     c     c          668   80    0 8c 8d
+dallas    986695676 10  8 f   -     -     -          588    0    0 
+dallas    986695726 10  7 c   c     c     kf         588   40    0 
+dallas    986695799 10  6 c   kr    kc    kcc        548  110    0 Qh 3h
+dallas    986695907 10  5 cc  c     c     k          438   50    0 6d 3d
+dallas    986695986 10  4 f   -     -     -          388    0    0 
+dallas    986696040 10  3 f   -     -     -          388    0    0 
+dallas    986696094 10  2 Bcc kcc   kcc   kf         388  140    0 
+dallas    986696214 10  1 Bc  kc    kc    kc         248   60    0 8c 6c
+dallas    986696289 10 10 cc  cc    k     cc         188  110   12 6h Kh
+dallas    986696370 10  9 c   c     c     k           90   40    0 5h Kd
+dallas    986696442 10  8 f   -     -     -           50    0    0 
+dallas    986696513 10  7 c   f     -     -           50   10    0 
+dallas    986696654 10  6 f   -     -     -           40    0    0 
+dallas    986696782  9  4 c   kc    kcA   -           40   40    0 Js Qh
+dallas    986706113 10  8 f   -     -     -         1000    0    0 
+dallas    986706166 10  7 c   cc    cc    cc        1000  210    0 Qs Kh
+dallas    986706241 10  6 c   c     f     -          790   20    0 
+dallas    986706295 10  5 cc  f     -     -          770   20    0 
+dallas    986706323 10  4 cc  c     c     f          750   50    0 
+dallas    986706359 10  3 cc  f     -     -          700   20    0 
+dallas    986706400 10  2 Bc  kc    kc    b          680   80  380 Tc 3s
+dallas    986706477 10  1 Bc  kf    -     -          980   20    0 
+dallas    986706571  9  9 c   c     c     f          960   60    0 
+dallas    986706632  9  8 c   c     rr    b          900  120  270 Kh 5h
+dallas    986706705  9  7 f   -     -     -         1050    0    0 
+dallas    986706751  9  6 f   -     -     -         1050    0    0 
+dallas    986706775 10  5 f   -     -     -         1050    0    0 
+dallas    986706826 10  4 f   -     -     -         1050    0    0 
+dallas    986706887 10  3 f   -     -     -         1050    0    0 
+dallas    986706931 10  2 Bk  kf    -     -         1050   10    0 
+dallas    986707013  9  1 Bf  -     -     -         1040    5    0 
+dallas    986707069  9  9 f   -     -     -         1035    0    0 
+dallas    986707140  8  7 f   -     -     -         1035    0    0 
+dallas    986707201  8  6 cc  kf    -     -         1035   20    0 
+dallas    986707241  8  5 f   -     -     -         1015    0    0 
+dallas    986707284  8  4 f   -     -     -         1015    0    0 
+dallas    986707308  8  3 f   -     -     -         1015    0    0 
+dallas    986707360  8  2 Bk  kc    kc    kc        1015   60  160 Ah 6h
+dallas    986707419  8  1 Bc  kc    kf    -         1115   20    0 
+dallas    986707480  8  8 c   cc    c     c         1095   80    0 Qd Tc
+dallas    986707535  9  8 c   cc    c     k         1015   60  225 Kc 9c
+dallas    986707610  8  7 f   -     -     -         1180    0    0 
+dallas    986707709  8  6 f   Q     -     -         1180    0    0 
+dallas    986708170  5  3 c   kf    -     -         1180   10    0 
+dallas    986708206  5  2 Bc  kc    kc    kc        1170   70  165 Ac Jd
+dallas    986708233  5  1 Bf  -     -     -         1265    5    0 
+dallas    986708271  5  5 f   -     -     -         1260    0    0 
+dallas    986708303  5  4 c   b     k     c         1260   40    0 8c 7c
+dallas    986708344  6  3 c   c     k     k         1220   20    0 9d 9c
+dallas    986708381  6  2 Bk  k     k     k         1200   10    0 9s 7d
+dallas    986708410  6  1 Bcc kc    kc    kf        1190   50    0 
+dallas    986708462  6  6 cr  rr    c     rc        1140  150  330 Ad Qd
+dallas    986708512  6  5 f   -     -     -         1320    0    0 
+dallas    986708544  6  4 cc  kc    kr    bc        1320  110  260 Kd Qs
+dallas    986708592  6  3 f   -     -     -         1470    0    0 
+dallas    986708642  6  2 Bc  kf    -     -         1470   20    0 
+dallas    986708674  6  1 Bf  -     -     -         1450    5    0 
+dallas    986708706  6  6 c   c     c     k         1445   50    0 8s 4s
+dallas    986708746  6  5 f   -     -     -         1395    0    0 
+dallas    986708772  6  4 f   -     -     -         1395    0    0 
+dallas    986708810  6  3 f   -     -     -         1395    0    0 
+dallas    986708847  6  2 Bk  k     kc    kc        1395   50    0 3d Kh
+dallas    986708877  7  1 Bc  k     k     kf        1345   20    0 
+dallas    986708909  7  7 f   -     -     -         1325    0    0 
+dallas    986708949  7  6 c   c     cc    f         1325   90    0 
+dallas    986708991  8  6 cc  c     c     c         1235   70  210 Kd Th
+dallas    986709045  9  6 crc rc    rr    rc        1375  210  520 Ts Tc
+dallas    986709125  9  5 f   -     -     -         1685    0    0 
+dallas    986709218  9  5 c   kc    kc    bc        1685   80    0 9s Ks
+dallas    986709264 10  4 f   -     -     -         1605    0    0 
+dallas    986709354  9  3 f   -     -     -         1605    0    0 
+dallas    986709447  9  2 Bc  kcc   k     k         1605   40  205 6c 7s
+dallas    986709522  9  1 Bc  b     b     k         1770   50  200 Tc Kd
+dallas    986709594  9  9 c   f     -     -         1920   20    0 
+dallas    986709658  9  8 f   -     -     -         1900    0    0 
+dallas    986709713  9  7 cc  f     -     -         1900   20    0 
+dallas    986709774  9  7 c   f     -     -         1880   10    0 
+dallas    986709824  9  6 c   cc    c     f         1870   70    0 
+dallas    986709894  9  5 f   -     -     -         1800    0    0 
+dallas    986709937  9  4 f   -     -     -         1800    0    0 
+dallas    986709997 10  3 c   k     b     -         1800   30   90 
+dallas    986710111 10  2 B   -     -     -         1860   10   15 
+dallas    986710126  9  1 BQ  -     -     -         1865    5    0 
+dallas    986789108  3  3 f   -     -     -         2325    0    0 
+dallas    986789127  3  3 c   c     c     c         2325   60    0 As Qd
+dallas    986789157  4  2 Bk  c     k     c         2265   40    0 2c Qh
+dallas    986789186  4  1 Bc  k     b     -         2225   30   40 
+dallas    986789208  3  3 f   -     -     -         2235    0    0 
+dallas    986789232  3  2 Bc  f     -     -         2235   20    0 
+dallas    986789243  3  1 Bc  k     k     kc        2215   30    0 Qd 9d
+dallas    986789265  3  3 cc  c     c     f         2185   50    0 
+dallas    986789287  2  1 B   -     -     -         2135   10   10 
+dallas    986789299  2  1 Bc  k     k     k         2135   10    0 6h 2d
+dallas    986789317  2  2 Br  -     -     -         2125   20   30 
+dallas    986789327  2  1 Bc  b     b     -         2135   40   60 
+dallas    986789341  2  2 B   -     -     -         2155   10   15 
+dallas    986789346  2  1 Bf  -     -     -         2160    5    0 
+dallas    986789349  2  2 B   -     -     -         2155   10   15 
+dallas    986789352  2  1 Bc  kr    br    b         2160  110  220 8h 9s
+dallas    986789384  2  2 Bk  k     k     k         2270   10   20 Kc 6h
+dallas    986789419  2  1 Bc  b     b     -         2280   40   60 
+dallas    986789437  3  3 c   k     k     k         2300   10   25 3c Jc
+dallas    986789457  3  2 B   -     -     -         2315   10   15 
+dallas    986789536  4  1 Bc  k     kf    -         2320   10    0 
+dallas    986789567  5  5 f   -     -     -         2310    0    0 
+dallas    986789610  5  4 f   -     -     -         2310    0    0 
+dallas    986789643  5  3 f   -     -     -         2310    0    0 
+dallas    986789677  5  2 Bc  c     c     k         2310   50    0 2s 7s
+dallas    986789721  7  1 Bc  kc    kc    kc        2260   60    0 7c 8s
+dallas    986789762  7  7 c   f     -     -         2200   10    0 
+dallas    986789819  8  7 c   c     c     f         2190   40    0 
+dallas    986789924  8  6 f   -     -     -         2150    0    0 
+dallas    986789955  8  5 c   k     b     b         2150   50   90 
+dallas    986790006 10  4 c   kf    -     -         2190   10    0 
+dallas    986790089 10  3 c   kr    bc    cc        2180  200    0 8s Kh
+dallas    986790183 10  2 Bc  kr    b     b         1980   80  225 
+dallas    986790267 10  1 Brr b     b     b         2125   90  380 
+dallas    986790368 10 10 f   -     -     -         2415    0    0 
+dallas    986790443  7  6 f   -     -     -         2415    0    0 
+dallas    986790484  7  5 c   c     c     k         2415   40  110 5h Kh
+dallas    986790537  5  3 fQ  -     -     -         2485    0    0 
+dallas    986874025 10  5 f   -     -     -         2845    0    0 
+dallas    986874041 10  4 f   -     -     -         2845    0    0 
+dallas    986874072 10  3 f   -     -     -         2845    0    0 
+dallas    986874116 10  2 Bc  kf    -     -         2845   20    0 
+dallas    986874171 10  1 Bc  k     b     b         2825   50  110 Kc Tc
+dallas    986874211  9  9 c   f     -     -         2885   10    0 
+dallas    986874255  9  8 f   -     -     -         2875    0    0 
+dallas    986874333 10  8 c   cc    k     b         2875   50  210 3h 5h
+dallas    986874408 10  7 f   -     -     -         3035    0    0 
+dallas    986874433 10  6 f   -     -     -         3035    0    0 
+dallas    986874482 10  5 f   -     -     -         3035    0    0 
+dallas    986874505  9  3 f   -     -     -         3035    0    0 
+dallas    986874549 10  2 Bk  f     -     -         3035   10    0 
+dallas    986874598 10  1 Bc  kc    kc    k         3025   50  200 6s Qc
+dallas    986874658 10 10 c   k     f     -         3175   10    0 
+dallas    986874738 10  9 f   -     -     -         3165    0    0 
+dallas    986874788 10  8 c   b     b     -         3165   40   85 
+dallas    986874849 10  7 f   -     -     -         3210    0    0 
+dallas    986874917  8  4 f   -     -     -         3210    0    0 
+dallas    986874925  8  3 f   -     -     -         3210    0    0 
+dallas    986874998  8  2 Bk  b     -     -         3210   20   35 
+dallas    986875015  8  1 Bc  kf    -     -         3225   10    0 
+dallas    986875055  7  7 f   -     -     -         3215    0    0 
+dallas    986875063  7  6 c   c     c     c         3215   60    0 7h 7s
+dallas    986875098  7  5 f   -     -     -         3155    0    0 
+dallas    986875110  8  5 c   bc    c     c         3155   70  160 Jh 2h
+dallas    986875156  8  4 f   -     -     -         3245    0    0 
+dallas    986875176  8  3 f   -     -     -         3245    0    0 
+dallas    986875224  8  2 Bk  f     -     -         3245   10    0 
+dallas    986875244  8  1 Bf  -     -     -         3235    5    0 
+dallas    986875276  8  8 c   r     rr    c         3230  130    0 Ah Ac
+dallas    986875333  8  7 c   k     f     -         3100   10    0 
+dallas    986875408  8  6 c   c     c     f         3090   40    0 
+dallas    986875431  8  5 c   c     c     c         3050   60    0 5s 3d
+dallas    986875484  8  4 f   -     -     -         2990    0    0 
+dallas    986875523  8  3 f   -     -     -         2990    0    0 
+dallas    986875562  8  2 Bk  k     f     -         2990   10    0 
+dallas    986875601  9  1 Bf  -     -     -         2980    5    0 
+dallas    986875648 10 10 c   k     f     -         2975   10    0 
+dallas    986875709 10  9 f   -     -     -         2965    0    0 
+dallas    986875754 10  8 f   Q     -     -         2965    0    0 
+dallas    986876641  9  7 f   -     -     -         2965    0    0 
+dallas    986876694  9  6 c   k     c     c         2965   50  160 4c 6c
+dallas    986876743  9  5 c   k     f     -         3075   10    0 
+dallas    986876817  8  4 f   -     -     -         3065    0    0 
+dallas    986876842  8  3 c   kf    -     -         3065   10    0 
+dallas    986876894 10  2 Bk  kf    -     -         3055   10    0 
+dallas    986876946 10  1 Bc  k     kc    k         3045   30    0 6s 3h
+dallas    986877004 10 10 c   k     c     f         3015   30    0 
+dallas    986877114 10  9 r   c     c     c         2985  100    0 Ac As
+dallas    986877186 10  8 r   rr    k     bc        2885  100    0 Kc Ks
+dallas    986877272 10  7 f   -     -     -         2785    0    0 
+dallas    986877322 10  6 c   k     r     r         2785  110  175 Tc 5c
+dallas    986877378 10  5 f   -     -     -         2850    0    0 
+dallas    986877450 10  4 c   cc    k     f         2850   30    0 
+dallas    986877498 10  3 c   kf    -     -         2820   10    0 
+dallas    986877538 10  2 Bc  kc    kc    kf        2810   50    0 
+dallas    986877599 10  1 Br  k     kc    b         2760   60  310 
+dallas    986877677 10 10 f   -     -     -         3010    0    0 
+dallas    986877721 10  9 f   -     -     -         3010    0    0 
+dallas    986877762 10  8 f   -     -     -         3010    0    0 
+dallas    986877813 10  7 f   -     -     -         3010    0    0 
+dallas    986877879 10  6 c   f     -     -         3010   10    0 
+dallas    986877948  9  5 c   k     f     -         3000   10    0 
+dallas    986878015 10  4 cc  b     b     k         2990   50    0 Td 9c
+dallas    986878068 10  3 c   f     -     -         2940   10    0 
+dallas    986878104 10  2 Bk  kr    brc   b         2930  130  183 Th Ad
+dallas    986878179 10  1 Bf  -     -     -         2983    5    0 
+dallas    986878247 10 10 c   b     b     b         2978   60  170 
+dallas    986878359 10  5 Q   -     -     -         3088    0    0 
+dallas    987133992  5  5 f   -     -     -         2998    0    0 
+dallas    987134002  5  4 f   -     -     -         2998    0    0 
+dallas    987134039  5  3 Q   -     -     -         2998    0    0 

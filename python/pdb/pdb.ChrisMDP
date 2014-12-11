@@ -1,0 +1,371 @@
+ChrisMDP  987528409 10 10 c   f     -     -         1000   10    0 
+ChrisMDP  987528456 10  9 f   -     -     -          990    0    0 
+ChrisMDP  987528504  9  7 c   b     b     -          990   40  100 
+ChrisMDP  987528543  8  5 c   cf    -     -         1050   20    0 
+ChrisMDP  987528591  7  4 c   kf    -     -         1030   10    0 
+ChrisMDP  987528656  6  3 c   f     -     -         1020   10    0 
+ChrisMDP  987528684  6  3 cc  f     -     -         1010   20    0 
+ChrisMDP  987528720  5  2 Bk  f     -     -          990   10    0 
+ChrisMDP  987528749  5  1 Bc  k     br    br         980  170    0 3c 7c
+ChrisMDP  987528795  5  5 f   -     -     -          810    0    0 
+ChrisMDP  987528833  5  4 c   k     b     -          810   40   95 
+ChrisMDP  987528875  5  3 f   -     -     -          865    0    0 
+ChrisMDP  987528899  5  2 Bk  k     k     k          865   10    0 As Ts
+ChrisMDP  987528960  6  1 Bf  -     -     -          855    5    0 
+ChrisMDP  987528978  6  6 f   -     -     -          850    0    0 
+ChrisMDP  987529015  5  4 c   f     -     -          850   10    0 
+ChrisMDP  987529050  4  3 c   k     k     b          840   30   55 
+ChrisMDP  987529082  4  2 Bk  kf    -     -          865   10    0 
+ChrisMDP  987529110  4  1 Bf  -     -     -          855    5    0 
+ChrisMDP  987529129  4  4 cc  c     f     -          850   30    0 
+ChrisMDP  987529154  5  3 cc  f     -     -          820   20    0 
+ChrisMDP  987529194  5  2 Bf  -     -     -          800   10    0 
+ChrisMDP  987529215  5  1 Bc  kc    kf    -          790   30    0 
+ChrisMDP  987529271  5  5 r   k     b     b          760   70  160 
+ChrisMDP  987529316  6  5 f   -     -     -          850    0    0 
+ChrisMDP  987529340  6  4 rr  r     br    b          850  140    0 Ts Th
+ChrisMDP  987529391  5  2 Bc  kQ    -     -          710   20    0 
+ChrisMDP  987529806  4  4 f   -     -     -          690    0    0 
+ChrisMDP  987529833  4  3 cc  f     -     -          690   20    0 
+ChrisMDP  987529865  4  2 B   -     -     -          670   10   15 
+ChrisMDP  987529869  4  1 Bc  b     b     k          675   50    0 7d Ah
+ChrisMDP  987529905  4  3 Q   -     -     -          625    0    0 
+ChrisMDP  987530431  7  4 c   c     f     -          625   20    0 
+ChrisMDP  987530486  7  3 cc  crc   b     b          605  100  345 Ts Js
+ChrisMDP  987530557  6  2 Bk  k     kf    -          850   10    0 
+ChrisMDP  987530597  6  1 Bf  -     -     -          840    5    0 
+ChrisMDP  987530645  6  6 r   c     f     -          835   30    0 
+ChrisMDP  987530696  6  5 f   -     -     -          805    0    0 
+ChrisMDP  987530744  7  5 f   -     -     -          805    0    0 
+ChrisMDP  987530769  7  4 f   -     -     -          805    0    0 
+ChrisMDP  987530845  7  3 r   b     b     b          805   70  250 Kd Qh
+ChrisMDP  987530897  7  2 Bk  kf    -     -          985   10    0 
+ChrisMDP  987530932  6  1 Bc  b     b     brc        975  120    0 Tc 6s
+ChrisMDP  987530983  6  6 c   k     k     f          855   10    0 
+ChrisMDP  987531027  7  6 f   -     -     -          845    0    0 
+ChrisMDP  987531075  7  5 cc  kc    b     b          845   70  255 Ks 7s
+ChrisMDP  987531146  7  4 c   kf    -     -         1030   10    0 
+ChrisMDP  987531213  7  3 c   br    b     b         1020   80    0 7s Js
+ChrisMDP  987531251  7  2 Bk  kc    kf    -          940   20    0 
+ChrisMDP  987531306  5  1 Bc  kc    kf    -          920   30    0 
+ChrisMDP  987531359  5  5 r   b     -     -          890   30   60 
+ChrisMDP  987531384  5  4 f   Q     -     -          920    0    0 
+ChrisMDP  987531497  4  2 Bc  b     b     -          920   50   80 
+ChrisMDP  987531519  4  1 Bc  k     b     -          950   30   50 
+ChrisMDP  987531543  4  4 c   k     b     rr         970  110    0 Js Qd
+ChrisMDP  987531587  4  3 f   -     -     -          860    0    0 
+ChrisMDP  987531611  4  2 Bk  k     br    kr         860  110    0 Qh 2c
+ChrisMDP  987531663  5  1 Bc  kf    -     -          750   10    0 
+ChrisMDP  987531699  5  5 f   -     -     -          740    0    0 
+ChrisMDP  987531730  4  3 f   -     -     -          740    0    0 
+ChrisMDP  987531758  4  2 B   -     -     -          740   10   15 
+ChrisMDP  987531763  4  1 Bf  -     -     -          745    5    0 
+ChrisMDP  987531788  4  4 f   -     -     -          740    0    0 
+ChrisMDP  987531811  4  3 f   -     -     -          740    0    0 
+ChrisMDP  987531839  4  2 Bk  kc    k     kc         740   40    0 As 4s
+ChrisMDP  987531870  4  1 Bc  k     b     -          700   30   40 
+ChrisMDP  987531888  4  4 f   -     -     -          710    0    0 
+ChrisMDP  987531901  4  3 cc  k     kf    -          710   20    0 
+ChrisMDP  987531939  5  3 f   -     -     -          690    0    0 
+ChrisMDP  987531967  5  2 Brc kc    kf    -          690   50    0 
+ChrisMDP  987531999  5  1 Bc  b     b     b          640   70  160 
+ChrisMDP  987532037  5  5 cf  -     -     -          730   10    0 
+ChrisMDP  987532051  5  4 cf  -     -     -          720   10    0 
+ChrisMDP  987532084  5  3 cc  k     f     -          710   20    0 
+ChrisMDP  987532112  5  2 Brc k     b     -          690   60  140 
+ChrisMDP  987532150  6  1 Bf  -     -     -          770    5    0 
+ChrisMDP  987532159  6  6 c   f     -     -          765   20    0 
+ChrisMDP  987532180  6  5 f   -     -     -          745    0    0 
+ChrisMDP  987532198  6  4 c   f     -     -          745   10    0 
+ChrisMDP  987532223  7  3 c   k     f     -          735   10    0 
+ChrisMDP  987532263  8  2 Bk  f     -     -          725   10    0 
+ChrisMDP  987532305  9  1 Bc  k     k     k          715   10    0 Kd Js
+ChrisMDP  987532341  8  8 f   -     -     -          705    0    0 
+ChrisMDP  987532380  8  8 f   -     -     -          705    0    0 
+ChrisMDP  987532465  8  7 c   c     f     -          705   20    0 
+ChrisMDP  987532554  7  4 f   -     -     -          685    0    0 
+ChrisMDP  987532600  7  3 cc  k     kf    -          685   20    0 
+ChrisMDP  987532685  7  2 Bk  kf    -     -          665   10    0 
+ChrisMDP  987532726  6  1 Bf  -     -     -          655    5    0 
+ChrisMDP  987532777  6  6 c   k     k     f          650   10    0 
+ChrisMDP  987532840  7  6 f   -     -     -          640    0    0 
+ChrisMDP  987532888  7  5 f   -     -     -          640    0    0 
+ChrisMDP  987532978  7  4 cc  kf    -     -          640   20    0 
+ChrisMDP  987533058  7  3 f   -     -     -          620    0    0 
+ChrisMDP  987533117  7  2 Bk  kc    k     kf         620   20    0 
+ChrisMDP  987533194  7  1 Bf  -     -     -          600    5    0 
+ChrisMDP  987533231  6  6 f   -     -     -          595    0    0 
+ChrisMDP  987533254  4  3 f   -     -     -          595    0    0 
+ChrisMDP  987533283  5  3 f   -     -     -          595    0    0 
+ChrisMDP  987533311  5  2 Bf  -     -     -          595   10    0 
+ChrisMDP  987533346  5  1 Bf  -     -     -          585    5    0 
+ChrisMDP  987533363  5  5 f   -     -     -          580    0    0 
+ChrisMDP  987533418  5  4 r   k     r     r          580  100    0 9d 8h
+ChrisMDP  987533464  5  3 f   -     -     -          480    0    0 
+ChrisMDP  987533493  4  2 Bk  br    b     b          480   80   85 Ah 4s
+ChrisMDP  987533531  4  1 Bc  kc    kc    bc         485  100    0 Js Jh
+ChrisMDP  987533641  6  5 c   k     k     k          385   10    0 6s Kc
+ChrisMDP  987533694  6  4 f   -     -     -          375    0    0 
+ChrisMDP  987533763  6  3 c   b     b     -          375   40   90 
+ChrisMDP  987533828  6  2 Bk  k     kf    -          425   10    0 
+ChrisMDP  987533862  6  1 Brc kc    kf    -          415   50    0 
+ChrisMDP  987533914  5  5 f   -     -     -          365    0    0 
+ChrisMDP  987533926  5  5 f   -     -     -          365    0    0 
+ChrisMDP  987534000  5  4 cc  f     -     -          365   20    0 
+ChrisMDP  987534042  5  3 c   k     kf    -          345   10    0 
+ChrisMDP  987534092  5  2 Bc  b     b     bc         335   90    0 Qd 5s
+ChrisMDP  987534151  6  1 Bc  kr    b     b          245   80    0 Ks 6c
+ChrisMDP  987534204  6  6 f   -     -     -          165    0    0 
+ChrisMDP  987534220  6  5 c   r     r     b          165   90    0 2h As
+ChrisMDP  987534263  6  4 c   b     b     b           75   60  135 2c Kc
+ChrisMDP  987534315  7  3 r   b     b     b          150   70  220 Ts Td
+ChrisMDP  987534374  7  2 Bk  b     b     k          300   40  150 Qc 4c
+ChrisMDP  987534511  6  1 Bf  -     -     -          410    5    0 
+ChrisMDP  987534548  6  6 f   -     -     -          405    0    0 
+ChrisMDP  987534558  7  6 f   -     -     -          405    0    0 
+ChrisMDP  987534612  7  5 c   k     k     f          405   10    0 
+ChrisMDP  987534666  7  4 c   k     f     -          395   10    0 
+ChrisMDP  987534714  7  4 f   -     -     -          385    0    0 
+ChrisMDP  987534766  7  3 f   -     -     -          385    0    0 
+ChrisMDP  987534819  8  2 Bk  kf    -     -          385   10    0 
+ChrisMDP  987534887  8  1 Bf  -     -     -          375    5    0 
+ChrisMDP  987534936  9  9 c   f     -     -          370   20    0 
+ChrisMDP  987534974  9  8 c   c     f     -          350   30    0 
+ChrisMDP  987535036  8  6 cf  -     -     -          320   10    0 
+ChrisMDP  987535077  7  4 f   -     -     -          310    0    0 
+ChrisMDP  987535109  7  3 f   -     -     -          310    0    0 
+ChrisMDP  987535147  6  2 Bk  kc    kf    -          310   20    0 
+ChrisMDP  987535194  7  1 Bf  -     -     -          290    5    0 
+ChrisMDP  987535223  7  7 f   -     -     -          285    0    0 
+ChrisMDP  987535276  7  6 f   -     -     -          285    0    0 
+ChrisMDP  987535333  7  5 c   f     -     -          285   10    0 
+ChrisMDP  987535383  8  5 f   -     -     -          275    0    0 
+ChrisMDP  987535420  8  4 f   -     -     -          275    0    0 
+ChrisMDP  987535503  8  3 c   kf    -     -          275   10    0 
+ChrisMDP  987535574  7  2 Bk  kf    -     -          265   10    0 
+ChrisMDP  987535630  7  1 Bf  -     -     -          255    5    0 
+ChrisMDP  987535670  5  5 cc  f     -     -          250   20    0 
+ChrisMDP  987535731  5  4 f   -     -     -          230    0    0 
+ChrisMDP  987535763  5  3 r   b     -     -          230   30   55 
+ChrisMDP  987535785  5  2 Bk  kf    -     -          255   10    0 
+ChrisMDP  987535819  5  1 Bf  -     -     -          245    5    0 
+ChrisMDP  987535854  5  5 c   k     b     -          240   30   70 
+ChrisMDP  987535891  5  4 f   -     -     -          280    0    0 
+ChrisMDP  987535935  7  4 f   -     -     -          280    0    0 
+ChrisMDP  987536001  8  3 f   -     -     -          280    0    0 
+ChrisMDP  987536089  7  2 Bk  c     rc    c          280  100    0 2d As
+ChrisMDP  987536135  7  1 Bf  -     -     -          180    5    0 
+ChrisMDP  987536177  7  7 c   cc    b     b          175   90  330 
+ChrisMDP  987536254  8  6 f   -     -     -          415    0    0 
+ChrisMDP  987536304  8  5 f   -     -     -          415    0    0 
+ChrisMDP  987536395  8  4 c   kc    kc    k          415   40    0 Jh 2h
+ChrisMDP  987536448  8  3 f   -     -     -          375    0    0 
+ChrisMDP  987536489  8  2 Bc  kc    kf    -          375   30    0 
+ChrisMDP  987536550  8  1 Bc  kf    -     -          345   20    0 
+ChrisMDP  987536600  9  9 f   -     -     -          325    0    0 
+ChrisMDP  987536623  9  8 f   -     -     -          325    0    0 
+ChrisMDP  987536673  9  7 rc  rr    rr    c          325  180    0 5s 5c
+ChrisMDP  987536785  9  6 c   k     f     -          145   20    0 
+ChrisMDP  987536835  8  4 Q   -     -     -          125    0    0 
+ChrisMDP  987613225  3  2 Bk  c     c     b          125   60    0 6d 4d
+ChrisMDP  987613249  2  1 Br  b     b     bA          65   65    0 2s 2c
+ChrisMDP  987684463  4  3 c   f     -     -         1000   10    0 
+ChrisMDP  987684489  4  2 Bk  kc    kc    b          990   60    0 5c Jh
+ChrisMDP  987684535  4  1 Bc  kf    -     -          930   10    0 
+ChrisMDP  987684555  4  4 f   -     -     -          920    0    0 
+ChrisMDP  987684562  4  3 f   -     -     -          920    0    0 
+ChrisMDP  987684575  4  2 Bk  k     k     b          920   30   65 Kh 7s
+ChrisMDP  987684595  4  1 Bf  -     -     -          955    5    0 
+ChrisMDP  987684631  4  4 f   -     -     -          950    0    0 
+ChrisMDP  987684665  4  3 cc  kf    -     -          950   20    0 
+ChrisMDP  987684703  5  2 Bk  k     b     bf         930   50    0 
+ChrisMDP  987684750  5  1 Bc  k     k     kf         880   10    0 
+ChrisMDP  987684787  5  5 c   b     b     -          870   40   75 
+ChrisMDP  987684826  5  4 c   b     b     -          905   40   70 
+ChrisMDP  987684857  5  3 f   -     -     -          935    0    0 
+ChrisMDP  987684889  5  2 Bk  kr    k     b          935   50  105 Ah Th
+ChrisMDP  987684920  5  1 Bf  -     -     -          990    5    0 
+ChrisMDP  987684965  5  5 c   k     f     -          985   10    0 
+ChrisMDP  987684998  5  4 c   f     -     -          975   10    0 
+ChrisMDP  987685037  5  3 c   b     rr    rc         965  180    0 4d Qd
+ChrisMDP  987685113  5  2 Bk  kf    -     -          785   10    0 
+ChrisMDP  987685149  5  1 Bc  k     kf    -          775   10    0 
+ChrisMDP  987685197  4  4 c   r     b     b          765   70  190 2s Ac
+ChrisMDP  987685234  4  4 c   c     r     rr         885  140    0 Qd 2d
+ChrisMDP  987685280  4  3 c   k     k     f          745   10    0 
+ChrisMDP  987685330  4  2 Bk  k     kf    -          735   10    0 
+ChrisMDP  987685374  4  1 Bf  Q     -     -          725    5    0 
+ChrisMDP  987699676  3  2 Bk  k     b     -          720   30   40 
+ChrisMDP  987699704  3  1 Bf  -     -     -          730    5    0 
+ChrisMDP  987699723  4  3 Q   -     -     -          725    0    0 
+ChrisMDP  987770411  8  4 f   -     -     -          725    0    0 
+ChrisMDP  987770449  8  3 c   f     -     -          725   10    0 
+ChrisMDP  987770485  8  2 Bk  k     b     -          715   30   70 
+ChrisMDP  987770514  8  1 Bf  -     -     -          755    5    0 
+ChrisMDP  987770565  9  9 f   -     -     -          750    0    0 
+ChrisMDP  987770581  9  8 r   b     b     -          750   50  150 
+ChrisMDP  987770633  9  7 f   -     -     -          850    0    0 
+ChrisMDP  987770674  8  5 cc  kc    b     kf         850   50    0 
+ChrisMDP  987770720  8  4 c   kf    -     -          800   10    0 
+ChrisMDP  987770759  8  3 f   -     -     -          790    0    0 
+ChrisMDP  987770787  8  2 Bk  k     k     kf         790   10    0 
+ChrisMDP  987770833  8  1 Bc  b     b     b          780   60  150 
+ChrisMDP  987770867  8  8 c   f     -     -          870   10    0 
+ChrisMDP  987770886  6  5 f   -     -     -          860    0    0 
+ChrisMDP  987770903  6  4 cc  f     -     -          860   20    0 
+ChrisMDP  987770929  6  3 r   b     b     b          840   70  125 
+ChrisMDP  987770959  6  2 Bf  -     -     -          895   10    0 
+ChrisMDP  987770974  6  1 Bf  -     -     -          885    5    0 
+ChrisMDP  987771009  6  6 f   -     -     -          880    0    0 
+ChrisMDP  987771034  6  5 f   -     -     -          880    0    0 
+ChrisMDP  987771057  6  4 f   -     -     -          880    0    0 
+ChrisMDP  987771081  6  3 f   -     -     -          880    0    0 
+ChrisMDP  987771104  5  2 Br  b     -     -          880   30   55 
+ChrisMDP  987771119  6  1 Bc  bc    kc    kc         905   70    0 Js 7d
+ChrisMDP  987771174  6  6 f   -     -     -          835    0    0 
+ChrisMDP  987771196  6  5 cc  b     b     b          835   70  175 3h Qc
+ChrisMDP  987771241  5  3 c   k     k     k          940   10    0 Jd Tc
+ChrisMDP  987771269  5  2 Bk  kf    -     -          930   10    0 
+ChrisMDP  987771293  5  1 Bc  b     b     b          920   60   95 2c Ks
+ChrisMDP  987771326  5  5 f   -     -     -          955    0    0 
+ChrisMDP  987771349  5  4 c   bf    -     -          955   20    0 
+ChrisMDP  987771389  5  3 f   -     -     -          935    0    0 
+ChrisMDP  987771419  5  2 Bk  bc    kf    -          935   30    0 
+ChrisMDP  987771456  4  1 Bf  Q     -     -          905    5    0 
+ChrisMDP  987786306  7  6 c   r     b     b          900   70  240 Js Jd
+ChrisMDP  987786359  7  5 c   k     kf    -         1070   10    0 
+ChrisMDP  987786402  7  4 c   kf    -     -         1060   10    0 
+ChrisMDP  987786442  7  3 c   k     kf    -         1050   10    0 
+ChrisMDP  987786504  8  2 Bf  -     -     -         1040   10    0 
+ChrisMDP  987786609  8  1 Bf  -     -     -         1030    5    0 
+ChrisMDP  987786660  8  8 f   -     -     -         1025    0    0 
+ChrisMDP  987786666  8  7 r   b     b     b         1025   70   85 8h 8s
+ChrisMDP  987786693  7  6 f   -     -     -         1040    0    0 
+ChrisMDP  987786706  7  5 f   -     -     -         1040    0    0 
+ChrisMDP  987786724  7  4 c   kf    -     -         1040   10    0 
+ChrisMDP  987786786  7  3 f   -     -     -         1030    0    0 
+ChrisMDP  987786821  7  2 Bk  bcf   -     -         1030   30    0 
+ChrisMDP  987786902  6  1 BQ  -     -     -         1000    5    0 
+ChrisMDP  988047353 10  6 c   k     c     k          995   30    0 Ad 7d
+ChrisMDP  988047420 10  6 c   kf    -     -          965   10    0 
+ChrisMDP  988047488  9  4 f   -     -     -          955    0    0 
+ChrisMDP  988047521  9  3 f   -     -     -          955    0    0 
+ChrisMDP  988047569 10  2 Bf  -     -     -          955   10    0 
+ChrisMDP  988047664 10  1 Bf  -     -     -          945    5    0 
+ChrisMDP  988047709 10 10 c   f     -     -          940   10    0 
+ChrisMDP  988047789 10  9 c   c     b     b          930   60  160 Th Kc
+ChrisMDP  988047841 10  8 r   k     k     c         1030   50    0 Ad Kd
+ChrisMDP  988047927 10  7 c   b     b     b          980   60  150 
+ChrisMDP  988047992 10  6 c   f     -     -         1070   10    0 
+ChrisMDP  988048045 10  5 c   kf    -     -         1060   10    0 
+ChrisMDP  988048100 10  4 cf  -     -     -         1050   10    0 
+ChrisMDP  988048142 10  3 c   r     b     c         1040   70  155 Kh Jh
+ChrisMDP  988048195 10  2 Bk  k     kf    -         1125   10    0 
+ChrisMDP  988048259 10  1 Bc  b     bc    kc        1115   80    0 4h Kh
+ChrisMDP  988048334 10 10 f   -     -     -         1035    0    0 
+ChrisMDP  988048411 10  9 f   -     -     -         1035    0    0 
+ChrisMDP  988048463  9  7 f   -     -     -         1035    0    0 
+ChrisMDP  988048519 10  7 c   b     b     b         1035   60  170 
+ChrisMDP  988048692 10  6 c   f     -     -         1145   20    0 
+ChrisMDP  988048776 10  5 c   fQ    -     -         1125   10    0 
+ChrisMDP  988114958  4  4 f   -     -     -         1115    0    0 
+ChrisMDP  988114978  4  4 c   b     -     -         1115   20   40 
+ChrisMDP  988115004  4  3 f   -     -     -         1135    0    0 
+ChrisMDP  988115023  4  2 Bk  k     b     brc       1135  110  113 Jh 2c
+ChrisMDP  988115055  4  1 Bf  -     -     -         1138    5    0 
+ChrisMDP  988115079  6  4 c   f     -     -         1133   10    0 
+ChrisMDP  988115104  6  3 c   k     k     f         1123   10    0 
+ChrisMDP  988115140  6  2 Bf  -     -     -         1113   10    0 
+ChrisMDP  988115177  6  1 Bf  -     -     -         1103    5    0 
+ChrisMDP  988115228  6  6 c   b     -     -         1098   20   45 
+ChrisMDP  988115255  6  5 f   -     -     -         1123    0    0 
+ChrisMDP  988115269  6  4 c   k     b     b         1123   50   90 
+ChrisMDP  988115313  6  3 cf  -     -     -         1163   10    0 
+ChrisMDP  988115328  6  2 Bc  f     -     -         1153   20    0 
+ChrisMDP  988115367  6  1 Bf  -     -     -         1133    5    0 
+ChrisMDP  988115389  7  6 f   -     -     -         1128    0    0 
+ChrisMDP  988115418  7  5 c   c     c     c         1128   70    0 7h Ah
+ChrisMDP  988115451  7  4 c   kf    -     -         1058   10    0 
+ChrisMDP  988115531  7  3 f   -     -     -         1048    0    0 
+ChrisMDP  988115586  7  2 Bk  c     f     -         1048   20    0 
+ChrisMDP  988115620  7  1 Bc  bc    kc    kc        1028   80    0 Ac 9s
+ChrisMDP  988115670  8  8 f   -     -     -          948    0    0 
+ChrisMDP  988115719  8  7 c   f     -     -          948   10    0 
+ChrisMDP  988115768  8  6 c   f     -     -          938   20    0 
+ChrisMDP  988115838  8  5 f   -     -     -          918    0    0 
+ChrisMDP  988115892  9  4 f   -     -     -          918    0    0 
+ChrisMDP  988115947  9  3 c   kf    -     -          918   10    0 
+ChrisMDP  988115993  9  2 Bk  f     -     -          908   10    0 
+ChrisMDP  988116054  7  1 Bf  -     -     -          898    5    0 
+ChrisMDP  988116084  7  7 c   b     b     b          893   60    0 5c Qs
+ChrisMDP  988116114  6  5 f   -     -     -          833    0    0 
+ChrisMDP  988116149  6  5 f   -     -     -          833    0    0 
+ChrisMDP  988116173  6  4 c   b     b     b          833   60  150 4h 3h
+ChrisMDP  988116205  6  3 cf  Q     -     -          923   10    0 
+ChrisMDP  988218424  6  5 r   f     -     -          913   20    0 
+ChrisMDP  988218453  6  4 f   -     -     -          893    0    0 
+ChrisMDP  988218480  4  1 Bk  kc    kf    -          893   20    0 
+ChrisMDP  988218512  4  1 Bc  kf    -     -          873   10    0 
+ChrisMDP  988218548  4  4 f   -     -     -          863    0    0 
+ChrisMDP  988218582  4  3 c   k     b     b          863   50    0 Ks 9d
+ChrisMDP  988218613  3  2 Bk  b     b     b          813   60    0 Tc As
+ChrisMDP  988218641  3  1 Bf  -     -     -          753    5    0 
+ChrisMDP  988218649  3  3 r   b     b     b          748   70  125 
+ChrisMDP  988218673  4  3 c   b     b     b          803   60  140 
+ChrisMDP  988218710  4  2 Bk  k     b     bc         883   70    0 8s 2h
+ChrisMDP  988218754  4  1 Bf  -     -     -          813    5    0 
+ChrisMDP  988218775  4  4 f   -     -     -          808    0    0 
+ChrisMDP  988218813  5  4 c   bf    -     -          808   30    0 
+ChrisMDP  988218866  4  2 f   -     -     -          778    0    0 
+ChrisMDP  988218886  5  2 Bf  -     -     -          778   10    0 
+ChrisMDP  988218935  5  1 Bf  -     -     -          768    5    0 
+ChrisMDP  988218980  5  5 c   rc    c     c          763   90    0 Th Ad
+ChrisMDP  988219007  5  5 c   f     -     -          673   20    0 
+ChrisMDP  988219037  7  3 f   -     -     -          653    0    0 
+ChrisMDP  988219099  7  2 Bc  kf    Q     -          653   20    0 
+ChrisMDP  988288324  5  3 c   b     -     -          633   20   50 
+ChrisMDP  988288348  5  2 Bk  c     f     -          663   20    0 
+ChrisMDP  988288372  5  1 Bf  -     -     -          643    5    0 
+ChrisMDP  988288393  5  5 f   -     -     -          638    0    0 
+ChrisMDP  988288430  5  4 f   -     -     -          638    0    0 
+ChrisMDP  988288460  5  3 f   -     -     -          638    0    0 
+ChrisMDP  988288468  5  2 Bk  kf    -     -          638   10    0 
+ChrisMDP  988288488  5  1 Bc  b     -     -          628   20   30 
+ChrisMDP  988288505  5  5 f   -     -     -          638    0    0 
+ChrisMDP  988288535  5  4 c   k     b     b          638   50   95 
+ChrisMDP  988288585  5  3 f   -     -     -          683    0    0 
+ChrisMDP  988288618  5  2 Br  k     b     -          683   40   85 
+ChrisMDP  988288660  5  1 Bc  k     k     b          728   30   35 Tc Ah
+ChrisMDP  988288691  5  5 f   -     -     -          733    0    0 
+ChrisMDP  988288721  5  4 c   f     -     -          733   10    0 
+ChrisMDP  988288766  5  3 f   -     -     -          723    0    0 
+ChrisMDP  988288797  5  2 Bk  k     krc   kc         723   90    0 Qc 4c
+ChrisMDP  988288849  5  1 Bc  k     kf    -          633   10    0 
+ChrisMDP  988288908  5  5 cc  bc    c     c          623   80    0 Ac Kc
+ChrisMDP  988288965  5  4 cc  c     c     b          543   70    0 As 5s
+ChrisMDP  988289007  5  3 c   kc    b     brc        473  120  265 Kh 2h
+ChrisMDP  988289050  5  2 Bk  kc    kc    b          618   60  140 Qh 7h
+ChrisMDP  988289099  5  1 Bc  kc    bc    kc         698   80    0 2s Qd
+ChrisMDP  988289147  5  5 f   -     -     -          618    0    0 
+ChrisMDP  988289179  5  4 c   kf    -     -          618   10    0 
+ChrisMDP  988289212  5  3 fQ  -     -     -          608    0    0 
+ChrisMDP  988289720  4  4 f   -     -     -          608    0    0 
+ChrisMDP  988289758  4  3 f   -     -     -          608    0    0 
+ChrisMDP  988289782  4  2 B   -     -     -          608   10   15 
+ChrisMDP  988289797  4  1 Bc  kc    kf    -          613   20    0 
+ChrisMDP  988289832  4  4 c   rc    f     -          593   40    0 
+ChrisMDP  988289871  4  3 c   k     kf    -          553   10    0 
+ChrisMDP  988289906  4  2 Bf  -     -     -          543   10    0 
+ChrisMDP  988289916  4  1 Bf  -     -     -          533    5    0 
+ChrisMDP  988289925  4  3 Q   -     -     -          528    0    0 
+ChrisMDP  988304816 10  8 f   -     -     -          528    0    0 
+ChrisMDP  988304892 10  7 c   kf    -     -          528   10    0 
+ChrisMDP  988304950 10  6 rc  br    -     -          518   60  125 
+ChrisMDP  988304979 10  5 f   -     -     -          583    0    0 
+ChrisMDP  988305019 10  4 f   -     -     -          583    0    0 
+ChrisMDP  988305038 10  3 c   c     b     b          583   60  130 
+ChrisMDP  988305124 10  2 Br  f     -     -          653   20    0 
+ChrisMDP  988305213 10  1 Bf  -     -     -          633    5    0 
+ChrisMDP  988305255 10 10 cc  c     f     -          628   30    0 
+ChrisMDP  988305331  9  8 f   -     -     -          598    0    0 
+ChrisMDP  988305390  8  6 fQ  -     -     -          598    0    0 

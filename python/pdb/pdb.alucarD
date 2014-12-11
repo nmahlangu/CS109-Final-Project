@@ -1,0 +1,137 @@
+alucarD   986920645  7  4 f   -     -     -         1000    0    0 
+alucarD   986920680  7  3 f   -     -     -         1000    0    0 
+alucarD   986920693  7  2 B   -     -     -         1000   10   15 
+alucarD   986920703  7  1 Bf  -     -     -         1005    5    0 
+alucarD   986920782  9  9 c   c     f     -         1000   30    0 
+alucarD   986920847  8  7 f   -     -     -          970    0    0 
+alucarD   986920872  8  6 c   bc    c     c          970   70    0 Qs Td
+alucarD   986920914  8  5 f   -     -     -          900    0    0 
+alucarD   986920968  8  4 f   -     -     -          900    0    0 
+alucarD   986921011  8  3 f   -     -     -          900    0    0 
+alucarD   986921125  7  2 Bk  kf    -     -          900   10    0 
+alucarD   986921150  7  1 Bf  -     -     -          890    5    0 
+alucarD   986921193  7  7 c   c     f     -          885   30    0 
+alucarD   986921258  7  6 c   cc    c     f          855   50    0 
+alucarD   986921316  7  5 f   -     -     -          805    0    0 
+alucarD   986921361  7  4 f   -     -     -          805    0    0 
+alucarD   986921368  7  3 f   -     -     -          805    0    0 
+alucarD   986921386  7  2 Bk  k     k     k          805   10   35 Jd 4d
+alucarD   986921450  8  1 Bf  -     -     -          830    5    0 
+alucarD   986921476  8  7 Q   -     -     -          825    0    0 
+alucarD   987370657  9  2 Bf  -     -     -          640   10    0 
+alucarD   987370705 10  1 Bf  -     -     -          630    5    0 
+alucarD   987370761 10 10 f   -     -     -          625    0    0 
+alucarD   987370831 10  9 c   c     c     f          625   50    0 
+alucarD   987370886 10  8 r   r     b     k          575   60  230 Kc Ks
+alucarD   987370969 10  7 r   r     b     b          745   80  235 Ah As
+alucarD   987371010 10  6 f   -     -     -          900    0    0 
+alucarD   987371050 10  5 c   kc    b     b          900   60  160 
+alucarD   987371110 10  4 f   -     -     -         1000    0    0 
+alucarD   987371169  9  3 f   -     -     -         1000    0    0 
+alucarD   987371232 10  2 Bc  kc    k     kf        1000   30    0 
+alucarD   987371279 10  1 Bf  -     -     -          970    5    0 
+alucarD   987371315 10 10 f   -     -     -          965    0    0 
+alucarD   987371446 10  9 f   -     -     -          965    0    0 
+alucarD   987371482 10  8 f   -     -     -          965    0    0 
+alucarD   987371542 10  7 f   -     -     -          965    0    0 
+alucarD   987371598 10  6 f   -     -     -          965    0    0 
+alucarD   987371645 10  5 c   kc    kf    -          965   20    0 
+alucarD   987371698 10  4 c   k     k     kf         945   10    0 
+alucarD   987371754 10  3 r   b     c     b          935   70    0 Qd Qc
+alucarD   987371789 10  2 Bk  kc    k     k          865   20    0 Qs Th
+alucarD   987371847  9  1 Bf  -     -     -          845    5    0 
+alucarD   987371908  9  9 c   k     f     -          840   10    0 
+alucarD   987371959  9  8 f   -     -     -          830    0    0 
+alucarD   987371997  9  7 f   -     -     -          830    0    0 
+alucarD   987372036  9  6 f   -     -     -          830    0    0 
+alucarD   987372096  8  4 f   -     -     -          830    0    0 
+alucarD   987372138  8  4 f   -     -     -          830    0    0 
+alucarD   987372211  9  3 f   -     -     -          830    0    0 
+alucarD   987372264  9  2 Bk  kc    kf    -          830   20    0 
+alucarD   987372325  9  1 Bf  -     -     -          810    5    0 
+alucarD   987372372  8  8 c   c     c     k          805   40  135 7c 7s
+alucarD   987372415  9  8 f   -     -     -          900    0    0 
+alucarD   987372465  9  7 f   -     -     -          900    0    0 
+alucarD   987372534  9  6 f   -     -     -          900    0    0 
+alucarD   987372559  9  5 f   -     -     -          900    0    0 
+alucarD   987372588  9  4 f   -     -     -          900    0    0 
+alucarD   987372628  9  3 f   -     -     -          900    0    0 
+alucarD   987372677 10  2 Bk  kf    -     -          900   10    0 
+alucarD   987372726 10  1 Bc  kc    kc    kf         890   40    0 
+alucarD   987372766 10 10 c   k     f     -          850   10    0 
+alucarD   987372822 10  9 c   k     k     k          840   10    0 4h 4c
+alucarD   987372870 10  8 f   -     -     -          830    0    0 
+alucarD   987372942 10  7 f   Q     -     -          830    0    0 
+alucarD   987740891  8  8 f   -     -     -         1405    0    0 
+alucarD   987740912  8  7 f   -     -     -         1405    0    0 
+alucarD   987740967  8  6 f   -     -     -         1405    0    0 
+alucarD   987741018  7  4 c   k     k     k         1405   10    0 3c 3s
+alucarD   987741111  7  3 f   -     -     -         1395    0    0 
+alucarD   987741195  8  2 Bc  bc    kc    brc       1395  140  365 Th Ah
+alucarD   987741261  8  1 Bf  -     -     -         1620    5    0 
+alucarD   987741308  8  8 f   -     -     -         1615    0    0 
+alucarD   987741352  7  6 f   -     -     -         1615    0    0 
+alucarD   987741391  7  5 c   c     c     b         1615   60  170 Ad Ts
+alucarD   987741437  7  4 f   -     -     -         1725    0    0 
+alucarD   987741469  7  3 f   -     -     -         1725    0    0 
+alucarD   987741492  7  2 Bf  -     -     -         1725   10    0 
+alucarD   987741510  7  1 Bf  -     -     -         1715    5    0 
+alucarD   987741517  7  7 cc  f     -     -         1710   20    0 
+alucarD   987741538  7  6 f   -     -     -         1690    0    0 
+alucarD   987741545  7  5 f   -     -     -         1690    0    0 
+alucarD   987741584  6  3 fQ  -     -     -         1690    0    0 
+alucarD   987820244  8  3 f   -     -     -         1605    0    0 
+alucarD   987820295  9  3 f   -     -     -         1605    0    0 
+alucarD   987820351 10  3 f   -     -     -         1605    0    0 
+alucarD   987820413  9  2 Bcc kf    -     -         1605   40    0 
+alucarD   987820483  9  1 Bf  -     -     -         1565    5    0 
+alucarD   987820528  8  8 f   -     -     -         1560    0    0 
+alucarD   987820570  8  8 f   -     -     -         1560    0    0 
+alucarD   987820604  9  7 f   -     -     -         1560    0    0 
+alucarD   987820665  8  5 f   -     -     -         1560    0    0 
+alucarD   987820706  9  5 f   -     -     -         1560    0    0 
+alucarD   987820743  9  4 f   -     -     -         1560    0    0 
+alucarD   987820787  9  3 f   -     -     -         1560    0    0 
+alucarD   987820860  9  2 Bk  k     k     bc        1560   50    0 3s Jc
+alucarD   987820918  9  1 Bf  -     -     -         1510    5    0 
+alucarD   987820980  9  9 rc  c     c     r         1505  100  295 Jc Jd
+alucarD   987821089  9  8 c   b     b     k         1700   40    0 Ad Ts
+alucarD   987821138  8  6 f   Q     -     -         1660    0    0 
+alucarD   987879392  9  8 c   c     c     f         1660   40    0 
+alucarD   987879435  9  7 f   -     -     -         1620    0    0 
+alucarD   987879464  9  6 cc  c     c     c         1620   70    0 Kc Jc
+alucarD   987879516  9  5 f   -     -     -         1550    0    0 
+alucarD   987879552  9  4 f   -     -     -         1550    0    0 
+alucarD   987879584  8  2 Bk  f     -     -         1550   10    0 
+alucarD   987879637  8  1 Bf  -     -     -         1540    5    0 
+alucarD   987879680  8  8 c   k     c     k         1535   30    0 Js Ah
+alucarD   987879735  8  7 f   -     -     -         1505    0    0 
+alucarD   987879785  8  6 f   -     -     -         1505    0    0 
+alucarD   987879813  8  5 f   -     -     -         1505    0    0 
+alucarD   987879859  9  5 f   -     -     -         1505    0    0 
+alucarD   987879911  9  4 f   -     -     -         1505    0    0 
+alucarD   987879955  9  3 fQ  -     -     -         1505    0    0 
+alucarD   987904654 10  9 f   -     -     -         1505    0    0 
+alucarD   987904679 10  8 f   -     -     -         1505    0    0 
+alucarD   987904717 10  7 f   -     -     -         1505    0    0 
+alucarD   987904775 10  6 f   -     -     -         1505    0    0 
+alucarD   987904821 10  5 f   -     -     -         1505    0    0 
+alucarD   987904900 10  4 f   -     -     -         1505    0    0 
+alucarD   987904952 10  3 f   -     -     -         1505    0    0 
+alucarD   987905051 10  2 Bk  kf    -     -         1505   10    0 
+alucarD   987905107 10  1 Bf  -     -     -         1495    5    0 
+alucarD   987905148 10 10 f   -     -     -         1490    0    0 
+alucarD   987905159 10  9 f   -     -     -         1490    0    0 
+alucarD   987905209 10  8 f   -     -     -         1490    0    0 
+alucarD   987905279 10  7 c   b     -     -         1490   20   80 
+alucarD   987905331 10  6 r   -     -     -         1550   20   35 
+alucarD   987905361 10  5 f   -     -     -         1565    0    0 
+alucarD   987905383 10  4 f   -     -     -         1565    0    0 
+alucarD   987905406 10  3 f   -     -     -         1565    0    0 
+alucarD   987905448 10  2 Bf  -     -     -         1565   10    0 
+alucarD   987905580 10  1 Bc  k     k     k         1555   10   30 Ad Tc
+alucarD   987905720 10 10 f   -     -     -         1575    0    0 
+alucarD   987905783 10  9 f   -     -     -         1575    0    0 
+alucarD   987905857 10  8 f   -     -     -         1575    0    0 
+alucarD   987905922 10  8 f   -     -     -         1575    0    0 
+alucarD   987905969  9  6 fQ  -     -     -         1575    0    0 

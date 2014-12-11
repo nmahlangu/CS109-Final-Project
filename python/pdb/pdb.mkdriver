@@ -1,0 +1,52 @@
+mkdriver  986958158  8  6 f   -     -     -         1000    0    0 
+mkdriver  986958207  8  5 cc  kc    kc    kc        1000   70    0 Ah Qh
+mkdriver  986958271  8  4 cc  kf    -     -          930   20    0 
+mkdriver  986958329  8  4 c   kf    -     -          910   10    0 
+mkdriver  986958375  7  2 Bc  k     k     f          900   20    0 
+mkdriver  986958422  8  1 Bf  -     -     -          880    5    0 
+mkdriver  986958448  8  8 f   -     -     -          875    0    0 
+mkdriver  986958467  7  6 f   -     -     -          875    0    0 
+mkdriver  986958511  7  5 ccc f     -     -          875   40    0 
+mkdriver  986958553  6  3 f   -     -     -          835    0    0 
+mkdriver  986958567  6  2 Bc  kc    kc    kf         835   50    0 
+mkdriver  986958612  6  1 Bc  kc    kc    kc         785   70    0 Ah 6c
+mkdriver  986958662  6  6 cc  f     -     -          715   30    0 
+mkdriver  986958701  5  5 c   rr    r     r          685  130  270 4d As
+mkdriver  986958750  5  4 cc  kc    kf    -          825   30    0 
+mkdriver  986958815  6  3 cc  k     kc    kf         795   40    0 
+mkdriver  986958894  6  2 Bf  -     -     -          755   10    0 
+mkdriver  986958922  6  1 Bc  kc    br    b          745  100  230 3d 8d
+mkdriver  986958991  6  6 c   c     c     f          875   50    0 
+mkdriver  986959022  6  5 f   -     -     -          825    0    0 
+mkdriver  986959060  7  5 cc  f     -     -          825   40    0 
+mkdriver  986959133  7  4 c   k     rc    c          785  110    0 Ac 2c
+mkdriver  986959210  7  3 cc  b     b     b          675   70  175 Ah 4h
+mkdriver  986959257  6  2 Bf  -     -     -          780   10    0 
+mkdriver  986959303  6  1 Bf  -     -     -          770    5    0 
+mkdriver  986959354  6  6 c   k     f     -          765   10    0 
+mkdriver  986959400  6  5 f   -     -     -          755    0    0 
+mkdriver  986959437  6  4 c   kr    b     -          755   50  115 
+mkdriver  986959512  6  3 c   b     -     -          820   20   35 
+mkdriver  986959536  6  2 Bc  kf    -     -          835   30    0 
+mkdriver  986959570  6  1 Bc  k     bc    kc         805   80    0 5c 5d
+mkdriver  986959613  6  6 c   f     -     -          725   20    0 
+mkdriver  986959639  7  6 cc  rr    c     f          705  100    0 
+mkdriver  986959718  7  5 c   k     k     k          605   10   25 Jd 8d
+mkdriver  986959747  7  4 c   c     f     -          620   20    0 
+mkdriver  986959771  8  3 c   c     rr    b          600  120  265 3h Qh
+mkdriver  986959810  8  2 Bk  kf    -     -          745   10    0 
+mkdriver  986959866  8  1 Bf  -     -     -          735    5    0 
+mkdriver  986959928  8  8 c   c     r     k          730   70   97 3c As
+mkdriver  986959968  8  7 f   -     -     -          757    0    0 
+mkdriver  986959982  9  6 f   -     -     -          757    0    0 
+mkdriver  986960025  9  5 c   kc    k     k          757   20    0 Jd 7d
+mkdriver  986960085  9  4 f   -     -     -          737    0    0 
+mkdriver  986960132  9  3 f   -     -     -          737    0    0 
+mkdriver  986960171  9  2 Bk  k     k     f          737   10    0 
+mkdriver  986960207  9  1 Bc  k     kc    kf         727   40    0 
+mkdriver  986960252 10 10 f   -     -     -          687    0    0 
+mkdriver  986960313  9  8 f   -     -     -          687    0    0 
+mkdriver  986960361  9  7 rc  r     b     br         687  140  480 Ac Ah
+mkdriver  986960481  9  6 c   c     r     -         1027   70  165 
+mkdriver  986960511  8  4 f   -     -     -         1122    0    0 
+mkdriver  986960591  8  3 KQ  -     -     -         1122    0    0 

@@ -1,0 +1,729 @@
+raylow    986148414  8  2 Bc  kc    kf    -         1206   30    0 
+raylow    986148514  8  1 Bc  kc    kc    kf        1176   60    0 
+raylow    986148671  9  8 f   -     -     -         1116    0    0 
+raylow    986148728  9  7 f   -     -     -         1116    0    0 
+raylow    986148779  9  6 f   -     -     -         1116    0    0 
+raylow    986148830  9  5 c   k     c     k         1116   30    0 6c 4c
+raylow    986148890 10  4 f   -     -     -         1086    0    0 
+raylow    986148933 10  3 f   -     -     -         1086    0    0 
+raylow    986148993 10  2 Bc  kc    kf    -         1086   40    0 
+raylow    986149091 10  1 Br  kc    kc    kf        1046   70    0 
+raylow    986149220 10 10 f   -     -     -          976    0    0 
+raylow    986149277 10  9 f   -     -     -          976    0    0 
+raylow    986149379 10  8 c   c     f     -          976   20    0 
+raylow    986149474 10  7 f   -     -     -          956    0    0 
+raylow    986149543 10  6 f   -     -     -          956    0    0 
+raylow    986149629 10  5 f   -     -     -          956    0    0 
+raylow    986149727 10  4 c   b     k     c          956   40    0 Qs 9h
+raylow    986149829 10  3 fQ  -     -     -          916    0    0 
+raylow    986150978 10  4 c   kf    -     -          916   10    0 
+raylow    986151062 10  3 f   -     -     -          906    0    0 
+raylow    986151123 10  2 Bf  -     -     -          906   10    0 
+raylow    986151225 10  1 Bc  k     kc    kc         896   50  170 7c Qs
+raylow    986151294  9  9 c   k     b     b         1016   50  125 
+raylow    986151375 10  9 c   k     k     b         1091   30   90 Kd 6d
+raylow    986151580  8  6 c   k     c     k         1151   30    0 Jh Kd
+raylow    986151645 10  6 c   f     -     -         1121   20    0 
+raylow    986151796 10  5 c   c     k     c         1101   50  145 Kc 5c
+raylow    986151909 10  4 f   -     -     -         1196    0    0 
+raylow    986152002 10  3 f   -     -     -         1196    0    0 
+raylow    986152028 10  2 Bk  f     -     -         1196   10    0 
+raylow    986152079 10  1 Bc  kf    -     -         1186   20    0 
+raylow    986152161 10 10 f   -     -     -         1166    0    0 
+raylow    986152232 10  9 c   kc    kc    k         1166   40    0 Jd Tc
+raylow    986152330  9  7 c   c     c     f         1126   50    0 
+raylow    986152401  9  6 f   -     -     -         1076    0    0 
+raylow    986152456  9  5 f   -     -     -         1076    0    0 
+raylow    986152550  9  4 f   -     -     -         1076    0    0 
+raylow    986152622 10  3 fQ  -     -     -         1076    0    0 
+raylow    986155367  9  7 f   -     -     -         1076    0    0 
+raylow    986155434 10  7 f   -     -     -         1076    0    0 
+raylow    986155498  9  6 c   rr    rf    -         1076  100    0 
+raylow    986155605  8  4 c   kf    -     -          976   10    0 
+raylow    986155681 10  4 f   -     -     -          966    0    0 
+raylow    986155739  9  3 f   -     -     -          966    0    0 
+raylow    986155800  8  2 Bk  f     -     -          966   10    0 
+raylow    986155860  8  1 Bf  -     -     -          956    5    0 
+raylow    986155906  8  8 c   f     -     -          951   20    0 
+raylow    986155973  9  8 f   -     -     -          931    0    0 
+raylow    986156015  9  7 c   c     k     f          931   30    0 
+raylow    986156086  9  6 c   c     k     f          901   20    0 
+raylow    986156131  9  5 cc  kc    k     k          881   30    0 Kd 8d
+raylow    986156198  9  4 cc  kc    kc    k          851   50    0 Ac 7s
+raylow    986156299  9  3 f   -     -     -          801    0    0 
+raylow    986156380  9  2 Bc  kc    kf    -          801   40    0 
+raylow    986156496 10  1 Br  b     brc   kc         761  150    0 Ah Ac
+raylow    986156589 10 10 f   -     -     -          611    0    0 
+raylow    986156658 10  9 f   -     -     -          611    0    0 
+raylow    986156735 10  8 f   -     -     -          611    0    0 
+raylow    986156821 10  7 c   c     r     c          611   80    0 7h Kh
+raylow    986156929  9  5 f   -     -     -          531    0    0 
+raylow    986156988  9  4 cc  kf    -     -          531   20    0 
+raylow    986157093  8  3 cc  kf    -     -          511   20    0 
+raylow    986157170 10  2 Br  br    bc    kc         491  140    0 As Ac
+raylow    986157288 10  1 Bf  -     -     -          351    5    0 
+raylow    986157379 10 10 c   f     -     -          346   10    0 
+raylow    986157450 10  9 f   -     -     -          336    0    0 
+raylow    986157553 10  8 f   -     -     -          336    0    0 
+raylow    986157654 10  8 r   b     b     kc         336   70    0 9d 9s
+raylow    986157775  8  5 fQ  -     -     -          266    0    0 
+raylow    986164843  9  9 f   -     -     -          266    0    0 
+raylow    986164906 10  9 c   c     c     f          266   50    0 
+raylow    986165032 10  8 f   -     -     -          216    0    0 
+raylow    986165083  9  7 c   c     kc    kc         216   60    0 6s Qc
+raylow    986165143  9  6 c   b     kc    bc         156   80  255 Js Kd
+raylow    986165217  9  5 f   -     -     -          331    0    0 
+raylow    986165255  8  3 cc  kc    kc    kf         331   50    0 
+raylow    986165323  8  3 f   -     -     -          281    0    0 
+raylow    986165357  7  2 Bc  bcc   kc    bc         281  120    0 Tc 6d
+raylow    986165420  8  1 Bc  kc    kf    -          161   20    0 
+raylow    986165462  8  8 f   -     -     -          141    0    0 
+raylow    986165478  8  7 f   -     -     -          141    0    0 
+raylow    986165503  8  6 f   -     -     -          141    0    0 
+raylow    986165557  8  5 f   -     -     -          141    0    0 
+raylow    986165611  7  4 f   -     -     -          141    0    0 
+raylow    986165663  8  3 f   -     -     -          141    0    0 
+raylow    986165699  8  2 Bc  kc    kc    kf         141   50    0 
+raylow    986165777  9  1 Bc  kf    -     -           91   10    0 
+raylow    986165822  8  8 f   -     -     -           81    0    0 
+raylow    986165848  8  7 c   k     k     f           81   20    0 
+raylow    986165891  8  6 c   f     -     -           61   10    0 
+raylow    986165924  9  6 cc  c     kc    cA          51   51    0 Kc 8c
+raylow    986166083  9  4 f   -     -     -         1000    0    0 
+raylow    986166136 10  4 f   -     -     -         1000    0    0 
+raylow    986166221 10  3 f   -     -     -         1000    0    0 
+raylow    986166298 10  2 Bc  kf    -     -         1000   20    0 
+raylow    986166435  9  1 BKQ -     -     -          980    5    0 
+raylow    986170144  9  7 f   -     -     -          975    0    0 
+raylow    986170199  9  5 f   -     -     -          975    0    0 
+raylow    986170231 10  4 f   -     -     -          975    0    0 
+raylow    986170277 10  3 f   -     -     -          975    0    0 
+raylow    986170327 10  2 Bc  brc   b     k          975   80  355 9c Qc
+raylow    986170421 10  1 Bf  -     -     -         1250    5    0 
+raylow    986170450  9  9 f   -     -     -         1245    0    0 
+raylow    986170494  9  8 r   b     -     -         1245   30   85 
+raylow    986170520  9  7 f   -     -     -         1300    0    0 
+raylow    986170535  9  6 f   -     -     -         1300    0    0 
+raylow    986170571  9  5 f   -     -     -         1300    0    0 
+raylow    986170632  9  4 f   -     -     -         1300    0    0 
+raylow    986170682 10  3 cc  kc    k     kf        1300   40    0 
+raylow    986170762 10  2 Bk  bc    k     k         1260   30  115 Js Qd
+raylow    986170812 10  1 Bf  -     -     -         1345    5    0 
+raylow    986170889 10 10 c   k     c     c         1340   60    0 Jh Ah
+raylow    986170954 10  9 f   -     -     -         1280    0    0 
+raylow    986170989 10  8 f   -     -     -         1280    0    0 
+raylow    986171027 10  7 f   -     -     -         1280    0    0 
+raylow    986171072 10  6 cc  b     kc    kf        1280   50    0 
+raylow    986171134 10  5 f   -     -     -         1230    0    0 
+raylow    986171198 10  4 c   kf    -     -         1230   10    0 
+raylow    986171238 10  3 f   -     -     -         1220    0    0 
+raylow    986171292 10  2 Bk  k     k     kf        1220   10    0 
+raylow    986171340 10  1 Bc  b     -     -         1210   20   50 
+raylow    986171368 10 10 f   -     -     -         1240    0    0 
+raylow    986171426 10  9 c   k     k     k         1240   10    0 Ac 6h
+raylow    986171465 10  8 f   -     -     -         1230    0    0 
+raylow    986171520  9  6 c   b     b     bc        1230   80    0 Qc Ac
+raylow    986171601 10  6 cc  k     f     -         1150   20    0 
+raylow    986171665 10  5 f   -     -     -         1130    0    0 
+raylow    986171727 10  4 f   -     -     -         1130    0    0 
+raylow    986171783 10  3 cc  b     -     -         1130   30   95 
+raylow    986171862 10  2 Bk  kf    -     -         1195   10    0 
+raylow    986171927 10  1 Bc  kf    -     -         1185   10    0 
+raylow    986171985 10 10 f   -     -     -         1175    0    0 
+raylow    986172078 10  9 c   k     k     f         1175   10    0 
+raylow    986172201 10  8 f   -     -     -         1165    0    0 
+raylow    986172230 10  8 c   b     b     k         1165   40    0 Ks 8c
+raylow    986172291 10  6 f   -     -     -         1125    0    0 
+raylow    986172369 10  5 f   -     -     -         1125    0    0 
+raylow    986172473  8  4 f   Q     -     -         1125    0    0 
+raylow    986187821  5  5 KQ  -     -     -          965    0    0 
+raylow    986275860  6  3 cc  rr    b     b          890  100  230 8d Kd
+raylow    986275913  5  3 f   -     -     -         1020    0    0 
+raylow    986275924  5  2 Bf  -     -     -         1020   10    0 
+raylow    986275952  3  1 Bc  k     kf    -         1010   10    0 
+raylow    986275981  3  3 f   -     -     -         1000    0    0 
+raylow    986275988  3  2 Bf  -     -     -         1000   10    0 
+raylow    986275996  4  1 Bf  -     -     -          990    5    0 
+raylow    986276018  4  4 f   -     -     -          985    0    0 
+raylow    986276029  4  3 cc  kf    -     -          985   20    0 
+raylow    986276069  4  2 Bk  kf    -     -          965   10    0 
+raylow    986276103  4  1 Bc  b     b     b          955   60  140 Ad Ah
+raylow    986276138  3  3 c   k     k     k         1035   10   25 5d Jd
+raylow    986276183  3  2 Bk  f     -     -         1050   10    0 
+raylow    986276202  3  1 Bf  -     -     -         1040    5    0 
+raylow    986276244  3  3 c   k     k     f         1035   10    0 
+raylow    986276287  2  1 Bc  b     bc    kf        1025   70    0 
+raylow    986276329  3  1 Bf  -     -     -          955    5    0 
+raylow    986276348  3  3 f   -     -     -          950    0    0 
+raylow    986276351  3  2 Bk  f     -     -          950   10    0 
+raylow    986276369  3  1 Bf  -     -     -          940    5    0 
+raylow    986276389  3  3 rc  k     c     c          935   70  170 8s 8d
+raylow    986276419  3  2 Bf  -     -     -         1035   10    0 
+raylow    986276431  3  1 Brc kc    kc    kf        1025   60    0 
+raylow    986276482  3  3 cc  b     c     c          965   70    0 Ac Qs
+raylow    986276515  2  1 B   -     -     -          895   10   10 
+raylow    986276524  2  1 Bc  kr    k     kc         895   50    0 As Qh
+raylow    986276571  2  2 Bk  k     k     b          845   30   40 
+raylow    986276607  2  1 Bc  -     -     -          855   10   20 
+raylow    987054283  5  5 f   -     -     -         3300    0    0 
+raylow    987054324  6  5 cc  cc    f     -         3300   80    0 
+raylow    987054395  6  4 f   -     -     -         3220    0    0 
+raylow    987054429  7  3 f   -     -     -         3220    0    0 
+raylow    987054474  7  2 Bc  kc    kf    -         3220   30    0 
+raylow    987054551  7  1 Bf  -     -     -         3190    5    0 
+raylow    987054596  7  7 c   ccc   f     -         3185   60    0 
+raylow    987054670  7  6 r   b     b     b         3125   70  175 Kd As
+raylow    987054711  7  5 c   cc    kc    kf        3230   60    0 
+raylow    987054760  8  5 f   -     -     -         3170    0    0 
+raylow    987054824  8  4 f   -     -     -         3170    0    0 
+raylow    987054969  8  3 cc  k     kf    -         3170   20    0 
+raylow    987055037  7  2 Bk  k     f     -         3150   10    0 
+raylow    987055087  8  1 Bc  k     k     k         3140   10    0 Jd 9d
+raylow    987055133  8  8 f   -     -     -         3130    0    0 
+raylow    987055181  8  7 c   k     c     k         3130   30    0 Qh 2h
+raylow    987055232  8  6 rr  b     b     kc        3100   90  370 Qc Qd
+raylow    987055327  8  5 f   -     -     -         3380    0    0 
+raylow    987055359  8  4 f   -     -     -         3380    0    0 
+raylow    987055402  8  3 f   -     -     -         3380    0    0 
+raylow    987055470  9  2 Bk  kf    -     -         3380   10    0 
+raylow    987055523  9  1 Bf  -     -     -         3370    5    0 
+raylow    987055580  8  8 cc  c     c     c         3365   70  170 Qc 7h
+raylow    987055636  8  7 f   -     -     -         3465    0    0 
+raylow    987055693  8  6 cc  f     -     -         3465   20    0 
+raylow    987055754  8  6 f   -     -     -         3445    0    0 
+raylow    987055787  7  4 c   kc    kc    kc        3445   60   75 9s Qh
+raylow    987055863  7  3 f   -     -     -         3460    0    0 
+raylow    987055897  7  2 Bc  kc    bc    k         3460   70  185 Qd Ac
+raylow    987055959  7  1 Bf  -     -     -         3575    5    0 
+raylow    987056028  6  6 KQ  -     -     -         3570    0    0 
+raylow    987179493 10 10 c   k     c     f         3570   30    0 
+raylow    987179536 10  9 f   -     -     -         3540    0    0 
+raylow    987179599 10  8 f   -     -     -         3540    0    0 
+raylow    987179648 10  7 c   k     k     kf        3540   20    0 
+raylow    987179738 10  6 f   -     -     -         3520    0    0 
+raylow    987179820 10  5 cc  kf    -     -         3520   20    0 
+raylow    987179899  9  4 f   -     -     -         3500    0    0 
+raylow    987179924  9  3 r   b     b     bc        3500   90    0 Ac Ah
+raylow    987179962  9  2 Bk  kf    -     -         3410   10    0 
+raylow    987180030  9  1 Bc  k     k     k         3400   10    0 6s Qs
+raylow    987180091  8  8 c   c     c     f         3390   40    0 
+raylow    987180222  7  6 c   c     f     -         3350   20    0 
+raylow    987180282  9  6 f   -     -     -         3330    0    0 
+raylow    987180339  9  5 f   -     -     -         3330    0    0 
+raylow    987180412  8  4 c   kf    -     -         3330   10    0 
+raylow    987180460  7  3 r   kc    k     f         3320   30    0 
+raylow    987180546  8  2 Bk  kf    -     -         3290   10    0 
+raylow    987180598  8  1 Bf  -     -     -         3280    5    0 
+raylow    987180680 10 10 c   c     r     b         3275   80  255 3h Jh
+raylow    987180746 10  9 r   k     c     cf        3450   60    0 
+raylow    987180837 10  8 c   k     f     -         3390   10    0 
+raylow    987180896 10  7 f   -     -     -         3380    0    0 
+raylow    987180946 10  6 f   -     -     -         3380    0    0 
+raylow    987181009 10  5 f   -     -     -         3380    0    0 
+raylow    987181126 10  4 f   -     -     -         3380    0    0 
+raylow    987181224 10  3 c   kc    kc    kf        3380   40    0 
+raylow    987181342 10  2 Bk  kf    -     -         3340   10    0 
+raylow    987181418 10  1 Bf  -     -     -         3330    5    0 
+raylow    987181513 10 10 c   k     f     -         3325   10    0 
+raylow    987181627  9  6 Q   -     -     -         3315    0    0 
+raylow    987750150 10 10 f   -     -     -         1437    0    0 
+raylow    987750189 10  9 f   -     -     -         1437    0    0 
+raylow    987750285  9  8 c   k     c     k         1437   30    0 Jd Ts
+raylow    987750334  8  6 c   r     c     k         1407   50  175 Qh Js
+raylow    987750386  8  5 f   -     -     -         1532    0    0 
+raylow    987750411  8  4 f   -     -     -         1532    0    0 
+raylow    987750452  8  3 f   -     -     -         1532    0    0 
+raylow    987750500  9  2 Bc  kf    -     -         1532   20    0 
+raylow    987750574  9  1 Bf  -     -     -         1512    5    0 
+raylow    987750616 10 10 c   f     -     -         1507   10    0 
+raylow    987750675 10  9 f   -     -     -         1497    0    0 
+raylow    987750703  9  7 f   -     -     -         1497    0    0 
+raylow    987750803 10  7 f   -     -     -         1497    0    0 
+raylow    987750854 10  6 cc  cc    kc    kf        1497   70    0 
+raylow    987750940 10  5 f   -     -     -         1427    0    0 
+raylow    987751010  8  3 f   -     -     -         1427    0    0 
+raylow    987751053  8  3 f   -     -     -         1427    0    0 
+raylow    987751149  8  2 Bc  kc    kf    -         1427   40    0 
+raylow    987751241  8  1 Bf  -     -     -         1387    5    0 
+raylow    987751323  8  8 f   -     -     -         1382    0    0 
+raylow    987751407  9  8 f   -     -     -         1382    0    0 
+raylow    987751491 10  8 f   -     -     -         1382    0    0 
+raylow    987751605 10  7 rr  rr    c     k         1382  100  485 Kh Kd
+raylow    987751754 10  6 f   -     -     -         1767    0    0 
+raylow    987751834 10  5 f   -     -     -         1767    0    0 
+raylow    987751962  8  4 f   -     -     -         1767    0    0 
+raylow    987752028  9  3 f   -     -     -         1767    0    0 
+raylow    987752079  9  2 Bk  kf    -     -         1767   10    0 
+raylow    987752127  9  1 Bc  k     k     k         1757   10    0 Th Qd
+raylow    987752207  9  9 r   c     k     f         1747   40    0 
+raylow    987752266  9  8 c   r     c     f         1707   80    0 
+raylow    987752338  9  7 f   -     -     -         1627    0    0 
+raylow    987752404  9  6 r   b     b     k         1627   50  245 Ad Ac
+raylow    987752470  9  5 f   -     -     -         1822    0    0 
+raylow    987752515  9  4 cc  cc    cc    kf        1822   90    0 
+raylow    987752620 10  4 f   -     -     -         1732    0    0 
+raylow    987752700 10  3 fQ  -     -     -         1732    0    0 
+raylow    987826752  9  3 f   -     -     -         1632    0    0 
+raylow    987826827  9  2 Bk  b     b     b         1632   60  120 
+raylow    987826890 10  1 Bc  kf    -     -         1692   10    0 
+raylow    987827023 10 10 c   r     c     b         1682  100  405 Qc Jh
+raylow    987827110  9  8 c   c     f     -         1987   20    0 
+raylow    987827176 10  8 f   -     -     -         1967    0    0 
+raylow    987827278 10  7 f   -     -     -         1967    0    0 
+raylow    987827346 10  6 c   k     f     -         1967   20    0 
+raylow    987827397 10  5 c   k     k     k         1947   10   12 7s As
+raylow    987827452 10  4 f   -     -     -         1949    0    0 
+raylow    987827555  8  2 f   -     -     -         1949    0    0 
+raylow    987827616 10  2 Bk  kf    -     -         1949   10    0 
+raylow    987827713 10  1 Bc  kf    -     -         1939   10    0 
+raylow    987827782 10 10 r   k     k     c         1929   40    0 5h 5c
+raylow    987827830 10  9 f   -     -     -         1889    0    0 
+raylow    987827870 10  8 c   c     b     b         1889   60  140 Ts Qd
+raylow    987827916 10  7 cc  f     -     -         1969   40    0 
+raylow    987828003 10  6 f   -     -     -         1929    0    0 
+raylow    987828075 10  5 cc  kc    kf    -         1929   30    0 
+raylow    987828135 10  4 f   -     -     -         1899    0    0 
+raylow    987828241 10  3 f   -     -     -         1899    0    0 
+raylow    987828313 10  2 Bk  kf    -     -         1899   10    0 
+raylow    987828383 10  1 Bc  k     k     kf        1889   10    0 
+raylow    987828452  6  6 f   -     -     -         1879    0    0 
+raylow    987828501  7  7 f   -     -     -         1879    0    0 
+raylow    987828543  8  6 c   r     b     b         1879   70  235 Kd Jd
+raylow    987828591  9  5 f   -     -     -         2044    0    0 
+raylow    987828618 10  4 f   -     -     -         2044    0    0 
+raylow    987828668 10  3 f   -     -     -         2044    0    0 
+raylow    987828724 10  2 Bk  k     kf    -         2044   10    0 
+raylow    987828770 10  1 Br  k     kf    -         2034   20    0 
+raylow    987828857 10 10 f   -     -     -         2014    0    0 
+raylow    987828901 10  9 c   f     -     -         2014   10    0 
+raylow    987828966 10  8 c   c     c     f         2004   40    0 
+raylow    987829043 10  7 f   -     -     -         1964    0    0 
+raylow    987829086 10  6 f   -     -     -         1964    0    0 
+raylow    987829208 10  5 f   -     -     -         1964    0    0 
+raylow    987829294 10  4 KQ  -     -     -         1964    0    0 
+raylow    987835024  7  5 f   -     -     -         1964    0    0 
+raylow    987835071  7  5 f   -     -     -         1964    0    0 
+raylow    987835118  8  4 f   -     -     -         1964    0    0 
+raylow    987835167  8  3 f   -     -     -         1964    0    0 
+raylow    987835277  8  2 Bc  b     k     c         1964   50    0 Kh 9h
+raylow    987835344  8  1 Bf  -     -     -         1914    5    0 
+raylow    987835390  8  8 f   -     -     -         1909    0    0 
+raylow    987835445  8  7 KQ  -     -     -         1909    0    0 
+raylow    987871941 10  3 f   -     -     -         1899    0    0 
+raylow    987872014 10  2 Bk  KQ    -     -         1899   10    0 
+raylow    987875362  8  5 f   -     -     -         1889    0    0 
+raylow    987875412 10  4 f   -     -     -         1889    0    0 
+raylow    987875452 10  3 f   -     -     -         1889    0    0 
+raylow    987875507 10  2 Bf  -     -     -         1889   10    0 
+raylow    987875549 10  1 Bc  bc    bc    kc        1879   90    0 Qs 4s
+raylow    987875596 10 10 c   k     k     k         1789   10   35 9s Th
+raylow    987875647  9  8 r   b     b     -         1814   50  115 
+raylow    987875702  9  7 f   -     -     -         1879    0    0 
+raylow    987875745  9  6 c   f     -     -         1879   10    0 
+raylow    987875803  9  5 f   -     -     -         1869    0    0 
+raylow    987875839 10  4 f   -     -     -         1869    0    0 
+raylow    987875908 10  3 f   -     -     -         1869    0    0 
+raylow    987875971 10  2 Bk  kf    -     -         1869   10    0 
+raylow    987876016 10  1 Bc  k     kf    -         1859   20    0 
+raylow    987876071 10 10 f   -     -     -         1839    0    0 
+raylow    987876110 10  9 r   rc    c     c         1839   90    0 Qh Qc
+raylow    987876199  8  6 f   -     -     -         1749    0    0 
+raylow    987876249  7  5 f   -     -     -         1749    0    0 
+raylow    987876298  7  3 f   -     -     -         1749    0    0 
+raylow    987876330  7  2 Bk  k     k     k         1749   10    0 6c 4s
+raylow    987876420  7  1 BQ  -     -     -         1739    5    0 
+raylow    987878092  9  2 Bf  -     -     -         1734   10    0 
+raylow    987878127  9  1 Bc  br    b     b         1724   80  270 Qd 9d
+raylow    987878194  8  8 c   c     c     f         1914   40    0 
+raylow    987878239  8  7 f   -     -     -         1874    0    0 
+raylow    987878268  8  6 cc  f     -     -         1874   30    0 
+raylow    987878310  8  5 c   r     r     br        1844  130  410 Jd 9d
+raylow    987878377  8  4 f   -     -     -         2124    0    0 
+raylow    987878452  8  3 f   -     -     -         2124    0    0 
+raylow    987878476  7  2 Bk  kf    -     -         2124   10    0 
+raylow    987878522  7  1 Bf  -     -     -         2114    5    0 
+raylow    987878550  7  7 f   -     -     -         2109    0    0 
+raylow    987878586  7  6 c   b     -     -         2109   20   50 
+raylow    987878616  8  6 f   -     -     -         2139    0    0 
+raylow    987878654  7  4 c   kf    -     -         2139   10    0 
+raylow    987878702  7  3 f   -     -     -         2129    0    0 
+raylow    987878745  7  2 Br  kc    kf    -         2129   30    0 
+raylow    987878786  7  1 Bf  -     -     -         2099    5    0 
+raylow    987878838  7  7 f   -     -     -         2094    0    0 
+raylow    987878883  7  6 c   kc    kf    -         2094   20    0 
+raylow    987878925  7  5 f   -     -     -         2074    0    0 
+raylow    987878969  7  4 f   -     -     -         2074    0    0 
+raylow    987879008  8  4 c   r     b     c         2074   70  220 Qs Jh
+raylow    987879050  8  3 f   -     -     -         2224    0    0 
+raylow    987879065  8  2 Bk  kf    -     -         2224   10    0 
+raylow    987879094  8  1 Bf  -     -     -         2214    5    0 
+raylow    987879156  9  9 c   k     f     -         2209   10    0 
+raylow    987879201  8  7 cc  c     f     -         2199   30    0 
+raylow    987879261  9  8 r   kc    kc    kc        2169   70  195 6d 6c
+raylow    987879316  9  6 f   -     -     -         2294    0    0 
+raylow    987879392  9  5 f   -     -     -         2294    0    0 
+raylow    987879435  9  4 f   -     -     -         2294    0    0 
+raylow    987879464  9  3 f   -     -     -         2294    0    0 
+raylow    987879516  9  2 Bk  b     b     b         2294   60  135 Js 6d
+raylow    987879552  9  1 Bf  -     -     -         2369    5    0 
+raylow    987879584  8  8 f   -     -     -         2364    0    0 
+raylow    987879637  8  7 c   k     b     -         2364   30   55 
+raylow    987879680  8  6 f   -     -     -         2389    0    0 
+raylow    987879735  8  5 f   -     -     -         2389    0    0 
+raylow    987879785  8  4 f   -     -     -         2389    0    0 
+raylow    987879813  8  3 f   -     -     -         2389    0    0 
+raylow    987879859  9  2 Bk  b     b     -         2389   40   75 
+raylow    987879911  9  1 Bc  b     b     k         2424   40    0 Th As
+raylow    987879955  9  9 c   k     k     f         2384   10    0 
+raylow    987880032  9  7 c   c     c     k         2374   40    0 7s 7c
+raylow    987880081  9  6 r   c     c     k         2334   50  175 Kc Ah
+raylow    987880143 10  5 cc  f     -     -         2459   30    0 
+raylow    987880207 10  5 f   -     -     -         2429    0    0 
+raylow    987880257 10  3 f   -     -     -         2429    0    0 
+raylow    987880319  9  2 Bf  -     -     -         2429   10    0 
+raylow    987880361  8  1 Bc  k     kf    -         2419   20    0 
+raylow    987880442  8  8 KQ  -     -     -         2399    0    0 
+raylow    987953844 10  2 Bc  kc    kc    b         2399   70    0 Qh Kd
+raylow    987953906 10  1 Bc  k     k     kf        2329   10    0 
+raylow    987954034 10 10 c   k     b     b         2319   50  125 9s 8d
+raylow    987954121  9  9 f   -     -     -         2394    0    0 
+raylow    987954197 10  8 cf  Q     -     -         2394   10    0 
+raylow    987975643  7  7 c   c     c     KQ        2554   40    0 
+raylow    988042583  8  2 Bc  kc    kc    kf        2514   50    0 
+raylow    988042626  7  1 Bc  kc    kf    -         2464   20    0 
+raylow    988042667  7  7 f   -     -     -         2444    0    0 
+raylow    988042695  6  5 f   -     -     -         2444    0    0 
+raylow    988042731  6  4 c   bc    k     kf        2444   30    0 
+raylow    988042778  6  3 f   -     -     -         2414    0    0 
+raylow    988042809  6  2 Bk  kf    -     -         2414   10    0 
+raylow    988042842  6  1 Bcc kc    kc    kc        2404   70    0 Qc 6d
+raylow    988042885  8  7 f   -     -     -         2334    0    0 
+raylow    988042947  7  5 cc  k     kf    -         2334   20    0 
+raylow    988042980  7  4 f   -     -     -         2314    0    0 
+raylow    988043011  7  3 f   -     -     -         2314    0    0 
+raylow    988043060  7  2 Bf  -     -     -         2314   10    0 
+raylow    988043097  7  1 Bf  -     -     -         2304    5    0 
+raylow    988043137  7  7 c   k     c     c         2299   50    0 Qs Jc
+raylow    988043182  7  6 c   k     b     -         2249   30   55 
+raylow    988043220  7  5 cc  c     c     c         2274   70  200 Qh Ad
+raylow    988043252  7  4 f   -     -     -         2404    0    0 
+raylow    988043313  7  3 f   -     -     -         2404    0    0 
+raylow    988043335  7  2 Bk  kc    k     k         2404   20    0 4h 4c
+raylow    988043364  7  1 Bf  -     -     -         2384    5    0 
+raylow    988043393  7  7 f   -     -     -         2379    0    0 
+raylow    988043429  7  6 f   -     -     -         2379    0    0 
+raylow    988043495  7  5 r   cc    c     c         2379  100    0 Js Jc
+raylow    988043567  7  4 c   c     f     -         2279   20    0 
+raylow    988043615  6  2 f   -     -     -         2259    0    0 
+raylow    988043642  7  2 BQ  -     -     -         2259   10    0 
+raylow    988043964  7  5 f   -     -     -         2249    0    0 
+raylow    988044024  7  4 f   -     -     -         2249    0    0 
+raylow    988044063  7  3 f   -     -     -         2249    0    0 
+raylow    988044167  6  2 Bk  k     f     -         2249   10    0 
+raylow    988044209  6  1 Bf  -     -     -         2239    5    0 
+raylow    988044252  6  6 c   b     b     c         2234   70    0 8d 9d
+raylow    988044293  5  4 f   -     -     -         2164    0    0 
+raylow    988044332  5  3 cc  f     -     -         2164   20    0 
+raylow    988044367  5  2 B   -     -     -         2144   10   15 
+raylow    988044377  5  1 Bf  -     -     -         2149    5    0 
+raylow    988044390  4  4 cc  k     c     r         2144   80  170 Ah 7d
+raylow    988044446  5  3 f   -     -     -         2234    0    0 
+raylow    988044498  5  2 Bk  kf    -     -         2234   10    0 
+raylow    988044529  6  1 Bf  -     -     -         2224    5    0 
+raylow    988044549  6  6 c   c     c     k         2219   50  185 Td Qc
+raylow    988044601  6  5 f   -     -     -         2354    0    0 
+raylow    988044671  6  4 c   k     kf    -         2354   10    0 
+raylow    988044702  6  3 f   -     -     -         2344    0    0 
+raylow    988044750  7  3 cc  kc    k     kf        2344   30    0 
+raylow    988044815  7  2 Bk  kc    b     b         2314   60  150 
+raylow    988044868  7  1 Bf  -     -     -         2404    5    0 
+raylow    988044916  7  7 c   k     f     -         2399   10    0 
+raylow    988044961  7  6 f   -     -     -         2389    0    0 
+raylow    988045003  9  5 f   -     -     -         2389    0    0 
+raylow    988045068  9  4 f   -     -     -         2389    0    0 
+raylow    988045126  9  3 f   -     -     -         2389    0    0 
+raylow    988045225 10  2 Bf  -     -     -         2389   10    0 
+raylow    988045297 10  1 Bf  -     -     -         2379    5    0 
+raylow    988045339  9  9 f   -     -     -         2374    0    0 
+raylow    988045375  8  7 f   -     -     -         2374    0    0 
+raylow    988045415  9  7 c   k     f     -         2374   10    0 
+raylow    988045478  9  6 f   -     -     -         2364    0    0 
+raylow    988045629  9  4 f   -     -     -         2364    0    0 
+raylow    988045690 10  3 cc  kf    -     -         2364   20    0 
+raylow    988045723  8  2 Bk  k     kf    -         2344   10    0 
+raylow    988045768  8  1 Bf  -     -     -         2334    5    0 
+raylow    988045802  9  9 c   f     -     -         2329   10    0 
+raylow    988045914  8  7 f   -     -     -         2319    0    0 
+raylow    988046014 10  8 f   -     -     -         2319    0    0 
+raylow    988046090 10  7 cc  bc    kc    kc        2319   90    0 Ts Kc
+raylow    988046235  9  6 Q   -     -     -         2229    0    0 
+raylow    988047067  8  2 Bf  -     -     -         2229   10    0 
+raylow    988047109  8  1 Bf  -     -     -         2219    5    0 
+raylow    988047154  9  9 c   f     -     -         2214   20    0 
+raylow    988047208 10  8 c   f     -     -         2194   20    0 
+raylow    988047265  9  7 f   -     -     -         2174    0    0 
+raylow    988047305  9  6 f   -     -     -         2174    0    0 
+raylow    988047353 10  5 f   -     -     -         2174    0    0 
+raylow    988047420 10  5 f   -     -     -         2174    0    0 
+raylow    988047488  9  3 c   c     r     -         2174   60  125 
+raylow    988047521  9  2 Bk  kc    kc    kf        2239   40    0 
+raylow    988047569 10  1 Bc  k     kf    -         2199   20    0 
+raylow    988047664 10 10 c   k     b     k         2179   30    0 9d Js
+raylow    988047709 10  9 f   -     -     -         2149    0    0 
+raylow    988047789 10  8 c   b     kc    kc        2149   60    0 Jc As
+raylow    988047841 10  7 f   -     Q     -         2089    0    0 
+raylow    988048835 10  4 cc  k     b     b         2089   60  187 Ad 7c
+raylow    988048912  9  2 f   -     -     -         2216    0    0 
+raylow    988048983  9  2 Bk  kf    -     -         2216   10    0 
+raylow    988049043  8  1 Bc  kc    kf    -         2206   20    0 
+raylow    988049123  8  8 c   k     c     c         2186   60    0 9h 8c
+raylow    988049237  9  8 r   c     rc    c         2126  110    0 Jh Ah
+raylow    988049316  9  7 f   -     -     -         2016    0    0 
+raylow    988049353  8  5 f   -     -     -         2016    0    0 
+raylow    988049406  9  4 f   -     -     -         2016    0    0 
+raylow    988049458 10  3 f   -     -     -         2016    0    0 
+raylow    988049492 10  2 Bc  ccc   kf    -         2016   60    0 
+raylow    988049567 10  1 Bc  kf    -     -         1956   20    0 
+raylow    988049624 10 10 c   k     f     -         1936   10    0 
+raylow    988049665 10  9 c   c     c     r         1926   80  275 9d Kd
+raylow    988049723 10  8 f   -     -     -         2121    0    0 
+raylow    988049767 10  7 c   f     -     -         2121   20    0 
+raylow    988049840 10  6 f   -     -     -         2101    0    0 
+raylow    988049884 10  5 f   -     -     -         2101    0    0 
+raylow    988049936 10  4 f   -     -     -         2101    0    0 
+raylow    988049976 10  3 c   f     -     -         2101   10    0 
+raylow    988050026 10  2 Bf  -     -     -         2091   10    0 
+raylow    988050102 10  1 Bc  kf    -     -         2081   10    0 
+raylow    988050165 10 10 f   -     -     -         2071    0    0 
+raylow    988050218 10  9 f   -     -     -         2071    0    0 
+raylow    988050267 10  8 rc  rc    c     c         2071  110    0 Jh Jc
+raylow    988050332 10  7 f   -     -     -         1961    0    0 
+raylow    988050399 10  6 c   cc    c     f         1961   60    0 
+raylow    988050479 10  5 f   -     -     -         1901    0    0 
+raylow    988050600  8  3 cc  k     b     b         1901   60  145 
+raylow    988050682  7  2 Bc  k     c     f         1986   40    0 
+raylow    988050727  9  1 Bc  kf    -     -         1946   20    0 
+raylow    988050790  9  9 c   c     k     k         1926   30    0 Jd Td
+raylow    988050861  8  7 f   -     -     -         1896    0    0 
+raylow    988050895  9  7 f   -     -     -         1896    0    0 
+raylow    988050951  9  6 cc  f     -     -         1896   20    0 
+raylow    988050995  9  5 f   -     -     -         1876    0    0 
+raylow    988051072  9  4 f   -     -     -         1876    0    0 
+raylow    988051118  8  3 f   -     -     -         1876    0    0 
+raylow    988051184  8  2 Bf  -     -     -         1876   10    0 
+raylow    988051231  9  1 Bf  -     -     -         1866    5    0 
+raylow    988051308  8  8 r   r     k     b         1861   70  260 
+raylow    988051445  7  6 cc  r     c     f         2051   60    0 
+raylow    988051488  7  5 c   f     -     -         1991   10    0 
+raylow    988051531  8  4 c   k     c     f         1981   30    0 
+raylow    988051577  8  3 f   -     -     -         1951    0    0 
+raylow    988051610  8  2 Bk  kf    -     -         1951   10    0 
+raylow    988051648  8  1 Bcc kf    -     -         1941   20    0 
+raylow    988051708  8  8 c   k     f     -         1921   20    0 
+raylow    988051753  8  7 f   -     -     -         1901    0    0 
+raylow    988051786  8  6 c   c     c     c         1901   60    0 9h 8s
+raylow    988051819  8  5 f   -     -     -         1841    0    0 
+raylow    988051864  8  4 f   -     -     -         1841    0    0 
+raylow    988051930  9  4 f   -     -     -         1841    0    0 
+raylow    988051966 10  3 rc  kc    kc    kf        1841   60    0 
+raylow    988052037 10  2 Bf  -     -     -         1781   10    0 
+raylow    988052093  9  1 Bc  kf    -     -         1771   10    0 
+raylow    988052180 10 10 f   -     -     -         1761    0    0 
+raylow    988052225  9  8 c   c     f     -         1761   30    0 
+raylow    988052296  9  7 f   -     -     -         1731    0    0 
+raylow    988052361  9  6 c   c     k     b         1731   40    0 6c Ac
+raylow    988052445  8  4 c   c     k     k         1691   30    0 8s Ks
+raylow    988052530  8  3 Q   -     -     -         1661    0    0 
+raylow    988053454  9  9 KQ  -     -     -         1661    0    0 
+raylow    988064546  9  2 Bc  f     -     -         1661   20    0 
+raylow    988064614 10  1 Bf  -     -     -         1641    5    0 
+raylow    988064671  9  9 c   k     f     -         1636   10    0 
+raylow    988064711 10  8 f   -     -     -         1626    0    0 
+raylow    988064739 10  7 r   r     c     c         1626   80    0 Ah Ac
+raylow    988064790 10  6 f   -     -     -         1546    0    0 
+raylow    988064852 10  5 f   -     -     -         1546    0    0 
+raylow    988064889 10  4 f   -     -     -         1546    0    0 
+raylow    988064947 10  3 f   -     -     -         1546    0    0 
+raylow    988065020 10  2 Bk  kc    k     kc        1546   40  130 3s Ac
+raylow    988065135 10  1 Bc  kf    -     -         1636   20    0 
+raylow    988065187 10 10 r   k     k     f         1616   20    0 
+raylow    988065302  9  8 f   -     -     -         1596    0    0 
+raylow    988065374 10  8 f   -     -     -         1596    0    0 
+raylow    988065422 10  7 r   k     c     c         1596   60    0 Ts Ah
+raylow    988065521 10  6 f   -     -     -         1536    0    0 
+raylow    988065572 10  5 c   kc    kc    kf        1536   40    0 
+raylow    988065682 10  4 cc  kf    -     -         1496   20    0 
+raylow    988065785 10  3 c   k     k     f         1476   10    0 
+raylow    988065846 10  2 Bk  kf    -     -         1466   10    0 
+raylow    988065904 10  1 Bf  -     -     -         1456    5    0 
+raylow    988065945 10 10 c   k     c     k         1451   30    0 Js Th
+raylow    988066002 10  9 c   c     k     k         1421   20    0 Qs 7s
+raylow    988066107  9  7 f   -     -     -         1401    0    0 
+raylow    988066147  9  6 f   -     -     -         1401    0    0 
+raylow    988066253  8  4 f   -     -     -         1401    0    0 
+raylow    988066320  8  3 cr  ccc   ccc   cf        1401  180    0 
+raylow    988066436  8  2 Bk  b     b     b         1221   60  165 Qc 4c
+raylow    988066486  7  1 Bc  bc    kc    kc        1326   80  190 6c 6h
+raylow    988066540  8  8 r   c     k     c         1436   50    0 Ah Qh
+raylow    988066633  7  6 f   -     -     -         1386    0    0 
+raylow    988066683  7  5 f   -     -     -         1386    0    0 
+raylow    988066717  8  5 r   k     k     k         1386   20   28 Ac Ts
+raylow    988066805  9  5 c   f     -     -         1394   20    0 
+raylow    988066868  9  4 f   -     -     -         1374    0    0 
+raylow    988066937  9  3 cc  f     -     -         1374   20    0 
+raylow    988067022  8  1 Bf  -     -     -         1354   10    0 
+raylow    988067065  8  1 Bc  kc    kf    -         1344   20    0 
+raylow    988067108  9  9 f   -     -     -         1324    0    0 
+raylow    988067142  9  8 f   -     -     -         1324    0    0 
+raylow    988067196  9  7 f   -     -     -         1324    0    0 
+raylow    988067224  9  6 f   -     -     -         1324    0    0 
+raylow    988067292  9  5 c   c     c     c         1324   60    0 Jh Jc
+raylow    988067329  9  4 f   -     -     -         1264    0    0 
+raylow    988067391  9  3 c   kf    -     -         1264   10    0 
+raylow    988067429  9  2 Bk  cf    -     -         1254   20    0 
+raylow    988067474 10  1 Bc  k     kc    kf        1234   30    0 
+raylow    988067558  9  9 c   k     k     c         1204   30   38 Ks 9d
+raylow    988067651  9  8 f   -     -     -         1212    0    0 
+raylow    988067726  9  7 c   k     k     k         1212   10   55 Kh 9d
+raylow    988067829 10  7 rr  cc    k     f         1257   70    0 
+raylow    988067904  9  6 f   -     -     -         1187    0    0 
+raylow    988068014  8  4 cc  c     k     cc        1187  110    0 8h Qh
+raylow    988068073  8  3 cc  kf    -     -         1077   20    0 
+raylow    988068133  9  2 Bc  krc   kc    k         1057   70    0 2d 2s
+raylow    988068242 10  1 Bf  -     -     -          987    5    0 
+raylow    988068287 10 10 c   k     k     k          982   10    0 Qh 6s
+raylow    988068379 10  9 rc  c     k     k          972   50    0 Qh As
+raylow    988068435 10  8 f   -     -     -          922    0    0 
+raylow    988068505  9  7 f   -     -     -          922    0    0 
+raylow    988068548 10  6 f   -     -     -          922    0    0 
+raylow    988068613 10  5 f   -     -     -          922    0    0 
+raylow    988068706 10  4 cc  cc    c     f          922   60    0 
+raylow    988068780  8  3 f   -     -     -          862    0    0 
+raylow    988068841  9  2 Bk  k     kc    kc         862   50    0 Qs Jd
+raylow    988068885  9  1 Bf  -     -     -          812    5    0 
+raylow    988068917  9  9 f   -     -     -          807    0    0 
+raylow    988068969  9  8 c   c     f     -          807   30    0 
+raylow    988069015  9  7 c   f     -     -          777   10    0 
+raylow    988069066  9  6 rr  cc    c     f          767   80    0 
+raylow    988069149  9  5 c   b     b     r          687   80  295 Ts Ks
+raylow    988069221 10  5 f   -     -     -          902    0    0 
+raylow    988069259 10  4 cr  k     b     -          902   50  125 
+raylow    988069339  9  2 f   -     -     -          977    0    0 
+raylow    988069400  9  2 Bc  kf    -     -          977   20    0 
+raylow    988069458  9  1 Bc  kf    -     -          957   10    0 
+raylow    988069503 10  9 c   f     -     -          947   20    0 
+raylow    988069572 10  8 f   -     -     -          927    0    0 
+raylow    988069620 10  7 f   -     -     -          927    0    0 
+raylow    988069686 10  6 f   -     -     -          927    0    0 
+raylow    988069752 10  5 f   -     -     -          927    0    0 
+raylow    988069796 10  4 cc  kc    k     cf         927   50    0 
+raylow    988069871 10  3 c   rr    cc    c          877  130    0 Td Kd
+raylow    988069940 10  2 Bf  -     -     -          747   10    0 
+raylow    988070025 10  1 Bc  bc    kc    k          737   50  230 Qd 6c
+raylow    988070114 10 10 f   -     -     -          917    0    0 
+raylow    988070172 10 10 c   c     rc    c          917  110    0 Qh Jh
+raylow    988070218 10  9 f   -     -     -          807    0    0 
+raylow    988070278  9  7 f   -     -     -          807    0    0 
+raylow    988070321 10  6 f   -     -     -          807    0    0 
+raylow    988070394 10  5 cc  kc    brc   br         807  170    0 9c Ac
+raylow    988070489 10  5 f   -     -     -          637    0    0 
+raylow    988070536 10  3 f   -     -     -          637    0    0 
+raylow    988070614 10  2 Bk  kc    kc    kf         637   40    0 
+raylow    988070679 10  1 Bf  -     -     -          597    5    0 
+raylow    988070716 10 10 f   -     -     -          592    0    0 
+raylow    988070769 10  9 f   -     -     -          592    0    0 
+raylow    988070821 10  8 c   k     k     k          592   10   40 Qs Kd
+raylow    988070921 10  7 r   b     c     c          622   90    0 Ac Kd
+raylow    988070992 10  6 c   k     cc    bc         532   90    0 Ad Th
+raylow    988071078 10  5 f   -     -     -          442    0    0 
+raylow    988071120 10  4 f   -     -     -          442    0    0 
+raylow    988071141 10  3 f   -     -     -          442    0    0 
+raylow    988071211 10  2 Bk  k     k     kf         442   10    0 
+raylow    988071293 10  1 Bc  kc    b     -          432   40   80 
+raylow    988071355  9  9 f   -     -     -          472    0    0 
+raylow    988071408  9  8 c   cc    c     c          472   90    0 Qs Th
+raylow    988071448  8  7 c   k     kf    -          382   10    0 
+raylow    988071489  8  6 f   -     -     -          372    0    0 
+raylow    988071523  9  6 f   -     -     -          372    0    0 
+raylow    988071569  9  5 f   -     -     -          372    0    0 
+raylow    988071632  9  4 f   -     -     -          372    0    0 
+raylow    988071675  9  3 f   -     -     -          372    0    0 
+raylow    988071723  8  2 Bk  k     kf    -          372   10    0 
+raylow    988071805  8  1 Bc  b     b     b          362   60  170 Kh 3c
+raylow    988071847  8  8 c   r     b     b          472   70  170 9h Ah
+raylow    988071894  8  7 f   -     -     -          572    0    0 
+raylow    988071957  8  6 f   -     -     -          572    0    0 
+raylow    988071978  9  6 f   -     -     -          572    0    0 
+raylow    988072066  7  4 f   -     -     -          572    0    0 
+raylow    988072105  8  3 c   KQ    -     -          572   10    0 
+raylow    988670031 10 10 f   -     -     -         1190    0    0 
+raylow    988670065 10  9 c   k     f     -         1190   10    0 
+raylow    988670159 10  8 f   -     -     -         1180    0    0 
+raylow    988670226 10  7 cc  kcc   kc    kf        1180   70    0 
+raylow    988670358 10  6 f   -     -     -         1110    0    0 
+raylow    988670384 10  5 cc  k     kf    -         1110   20    0 
+raylow    988670488 10  4 f   -     -     -         1090    0    0 
+raylow    988670565 10  3 f   -     -     -         1090    0    0 
+raylow    988670651  9  2 Bk  f     -     -         1090   10    0 
+raylow    988670699 10  1 Bc  kc    kc    kc        1080   70    0 Ac 9s
+raylow    988670760 10 10 f   -     -     -         1010    0    0 
+raylow    988670799 10  9 f   -     -     -         1010    0    0 
+raylow    988670851 10  8 f   -     -     -         1010    0    0 
+raylow    988670867 10  7 c   c     c     c         1010   60    0 Qh Ts
+raylow    988670945 10  6 f   -     -     -          950    0    0 
+raylow    988670988 10  5 c   kc    b     b          950   60    0 Ks 8s
+raylow    988671066  9  3 f   -     -     -          890    0    0 
+raylow    988671082  9  3 cc  kf    -     -          890   20    0 
+raylow    988671134  9  2 Br  br    b     b          870  110  340 Ac Ah
+raylow    988671197  9  1 Bf  -     -     -         1100    5    0 
+raylow    988671235  9  9 c   k     f     -         1095   10    0 
+raylow    988671285  8  7 f   -     -     -         1085    0    0 
+raylow    988671348  8  6 f   -     -     -         1085    0    0 
+raylow    988671418 10  7 f   -     -     -         1085    0    0 
+raylow    988671514  9  6 cc  kc    bc    k         1085   70  315 As Qs
+raylow    988671588  9  5 f   -     -     -         1330    0    0 
+raylow    988671644  9  4 cc  rc    kc    b         1330   90  275 2d Ad
+raylow    988671702  9  3 f   -     -     -         1515    0    0 
+raylow    988671767 10  2 Bc  kf    -     -         1515   20    0 
+raylow    988671820 10  1 Bf  -     -     -         1495    5    0 
+raylow    988671896 10 10 f   -     -     -         1490    0    0 
+raylow    988671944 10  9 c   c     KQ    -         1490   20    0 
+raylow    988672469  9  7 c   kf    -     -         1470   10    0 
+raylow    988672563  9  6 c   f     -     -         1460   20    0 
+raylow    988672622  9  5 f   -     -     -         1440    0    0 
+raylow    988672701  9  4 cc  f     -     -         1440   20    0 
+raylow    988672753  9  3 f   -     -     -         1420    0    0 
+raylow    988672809  9  2 Bk  k     kf    -         1420   10    0 
+raylow    988672862  8  1 Bc  k     k     k         1410   10    0 4h Th
+raylow    988672899  8  8 f   -     -     -         1400    0    0 
+raylow    988672950  9  8 f   -     -     -         1400    0    0 
+raylow    988673036 10  8 c   f     -     -         1400   20    0 
+raylow    988673115 10  7 f   -     -     -         1380    0    0 
+raylow    988673180  9  5 c   b     b     b         1380   60  145 
+raylow    988673294  9  4 cc  kf    -     -         1465   20    0 
+raylow    988673336  9  4 c   kc    kc    k         1445   40   83 Td Kd
+raylow    988673458 10  3 r   rr    k     c         1488   80    0 Ad Ks
+raylow    988673549 10  2 Bf  -     -     -         1408   10    0 
+raylow    988673626 10  1 Bc  kc    kf    -         1398   20    0 
+raylow    988673681 10 10 f   -     -     -         1378    0    0 
+raylow    988673718 10  9 c   k     cc    f         1378   50    0 
+raylow    988673772 10  8 f   -     -     -         1328    0    0 
+raylow    988673855 10  7 cc  kc    b     b         1328   70  210 6h Ac
+raylow    988673905 10  6 r   kc    k     kf        1468   30    0 
+raylow    988673989 10  5 c   kc    k     k         1438   20   60 Kc Qd
+raylow    988674033 10  4 f   -     -     -         1478    0    0 
+raylow    988674087 10  3 f   -     -     -         1478    0    0 
+raylow    988674151 10  2 Bk  kf    -     -         1478   10    0 
+raylow    988674239 10  1 Bf  -     -     -         1468    5    0 
+raylow    988674284 10 10 f   -     -     -         1463    0    0 
+raylow    988674319 10  9 f   -     -     -         1463    0    0 
+raylow    988674382 10  8 c   c     k     k         1463   20    0 5h 5s
+raylow    988674432 10  7 f   -     -     -         1443    0    0 
+raylow    988674493 10  6 c   c     rc    c         1443  120    0 Qh 4h
+raylow    988674561 10  5 f   -     -     -         1323    0    0 
+raylow    988674617 10  4 cc  bc    kc    kc        1323  100    0 7s Ts
+raylow    988674738 10  3 r   k     b     b         1223   60  185 Qd Qc
+raylow    988674831 10  2 Bk  k     k     kf        1348   10    0 
+raylow    988674897 10  1 Bf  -     -     -         1338    5    0 
+raylow    988674947 10 10 f   -     -     -         1333    0    0 
+raylow    988675017 10  3 Q   -     -     -         1333    0    0 

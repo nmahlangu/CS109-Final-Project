@@ -1,0 +1,263 @@
+ataman    987979679  4  3 c   k     k     f         1000   10    0 
+ataman    987979701  2  2 B   -     -     -          990   10   15 
+ataman    987979834  2  2 B   -     -     -          995   10   15 
+ataman    987979838  3  1 Bc  kc    kf    -         1000   30    0 
+ataman    987979898  3  3 f   -     -     -          970    0    0 
+ataman    987979906  3  2 Bf  -     -     -          970   10    0 
+ataman    987979915  3  1 Bc  b     -     -          960   20   30 
+ataman    987979927  3  3 c   k     k     k          970   10   25 Ah 3d
+ataman    987979953  3  2 Bc  kc    kc    k          985   50    0 4s 4d
+ataman    987979985  3  1 Bc  kc    kc    kf         935   50    0 
+ataman    987980018  3  3 f   -     -     -          885    0    0 
+ataman    987980024  3  2 Bf  -     -     -          885   10    0 
+ataman    987980028  3  1 Bf  -     -     -          875    5    0 
+ataman    987980031  3  3 f   -     -     -          870    0    0 
+ataman    987980042  3  2 Bk  k     k     k          870   10   25 3c 9s
+ataman    987980058  3  1 Bf  -     -     -          885    5    0 
+ataman    987980073  3  3 f   -     -     -          880    0    0 
+ataman    987980077  3  2 Bf  -     -     -          880   10    0 
+ataman    987980097  3  1 Bf  -     -     -          870    5    0 
+ataman    987980103  3  3 f   -     -     -          865    0    0 
+ataman    987980112  3  2 B   -     -     -          865   10   15 
+ataman    987980116  3  1 Bf  -     -     -          870    5    0 
+ataman    987980123  3  3 f   -     -     -          865    0    0 
+ataman    987980128  3  2 Bf  -     -     -          865   10    0 
+ataman    987980139  2  1 Bc  kc    kc    k          855   40   80 5c 4c
+ataman    987980167  2  2 B   -     -     -          895   10   15 
+ataman    987980293  2  2 BQ  -     -     -          900   10    0 
+ataman    987980307  3  3 f   -     -     -          890    0    0 
+ataman    987980312  3  2 Bf  -     -     -          890   10    0 
+ataman    987980316  3  1 Bf  -     -     -          880    5    0 
+ataman    987980323  3  3 c   f     -     -          875   10    0 
+ataman    987980335  3  2 Bf  -     -     -          865   10    0 
+ataman    987980340  3  1 Bf  -     -     -          855    5    0 
+ataman    987980349  3  3 f   -     -     -          850    0    0 
+ataman    987980361  3  2 B   -     -     -          850   10   15 
+ataman    987980365  3  1 Bf  -     -     -          855    5    0 
+ataman    987980372  3  3 c   k     k     k          850   10    0 4h Ad
+ataman    987980391  3  2 Bk  kf    -     -          840   10    0 
+ataman    987980409  3  1 Bf  -     -     -          830    5    0 
+ataman    987980412  3  3 c   c     f     -          825   20    0 
+ataman    987980425  3  2 Bk  k     k     f          805   10    0 
+ataman    987980441  3  1 Bf  -     -     -          795    5    0 
+ataman    987980447  3  3 c   k     k     k          790   10   25 9s 7s
+ataman    987980468  3  2 Bf  -     -     -          805   10    0 
+ataman    987980480  3  1 Bf  -     -     -          795    5    0 
+ataman    987980483  3  3 c   k     k     b          790   30   90 Qs Ks
+ataman    987980501  3  2 B   -     -     -          850   10   15 
+ataman    987980507  3  1 Bf  -     -     -          855    5    0 
+ataman    987980510  3  3 f   -     -     -          850    0    0 
+ataman    987980517  3  2 Bc  kc    kf    -          850   30    0 
+ataman    987980554  3  1 Bf  -     -     -          820    5    0 
+ataman    987980564  4  4 c   c     k     k          815   20   27 Ac 6d
+ataman    987980598  4  3 c   k     k     c          822   30   65 7d 7h
+ataman    987980621  4  2 Bc  k     k     k          857   20   45 As 7d
+ataman    987980638  4  1 Bc  k     kc    k          882   30   70 5c 5s
+ataman    987980666  4  4 f   -     -     -          922    0    0 
+ataman    987980685  4  3 c   k     f     -          922   10    0 
+ataman    987980701  4  2 Bc  k     kf    -          912   20    0 
+ataman    987980720  4  1 Bf  -     -     -          892    5    0 
+ataman    987980726  4  4 cc  k     k     k          887   20    0 4d 7d
+ataman    987980745  4  3 c   c     b     -          867   40   70 
+ataman    987980769  4  2 Bf  -     -     -          897   10    0 
+ataman    987980787  4  1 Bc  kf    -     -          887   20    0 
+ataman    987980811  4  4 c   b     r     b          867   90  215 Ac 9d
+ataman    987980839  4  3 rc  k     k     k          992   40    0 2h Ah
+ataman    987980862  4  2 Bf  -     -     -          952   10    0 
+ataman    987980870  4  1 Bc  kf    -     -          942   10    0 
+ataman    987980884  4  4 f   -     -     -          932    0    0 
+ataman    987980897  4  3 cc  c     c     c          932   70    0 6c Ks
+ataman    987980923  4  2 Bk  k     k     kf         862   10    0 
+ataman    987980945  4  1 Bc  k     k     kc         852   30    0 Ad 9d
+ataman    987980964  4  4 f   -     -     -          822    0    0 
+ataman    987980982  4  3 f   -     -     -          822    0    0 
+ataman    987981012  4  2 Bk  k     k     k          822   10   30 2h 3h
+ataman    987981035  4  1 Bf  -     -     -          842    5    0 
+ataman    987981053  4  4 c   k     k     f          837   10    0 
+ataman    987981080  4  3 f   -     -     -          827    0    0 
+ataman    987981102  4  2 Bc  kr    b     b          827   80  200 Qc Qd
+ataman    987981138  4  1 Br  k     k     kc         947   40    0 9d 8s
+ataman    987981160  4  4 f   -     -     -          907    0    0 
+ataman    987981167  4  3 c   kf    -     -          907   10    0 
+ataman    987981184  3  1 B   -     -     -          897   10   10 
+ataman    987981190  3  1 Bf  -     -     -          897    5    0 
+ataman    987981199  3  3 c   k     c     f          892   30    0 
+ataman    987981220  3  2 B   -     -     -          862   10   15 
+ataman    987981222  3  1 Bc  k     k     kf         867   10    0 
+ataman    987981242  3  3 f   -     -     -          857    0    0 
+ataman    987981251  3  2 Bk  k     f     -          857   10    0 
+ataman    987981263  3  1 Bf  -     -     -          847    5    0 
+ataman    987981272  3  3 f   -     -     -          842    0    0 
+ataman    987981283  3  2 Bc  c     c     r          842   90  160 
+ataman    987981306  3  1 Bc  k     k     k          912   20   50 8s Ad
+ataman    987981323  4  4 f   -     -     -          942    0    0 
+ataman    987981343  4  3 f   -     -     -          942    0    0 
+ataman    987981351  4  2 Bk  k     k     k          942   10    0 Jh As
+ataman    987981372  4  1 Bf  -     -     -          932    5    0 
+ataman    987981387  4  4 f   -     -     -          927    0    0 
+ataman    987981405  4  3 f   -     -     -          927    0    0 
+ataman    987981412  4  2 Bk  k     k     r          927   50   85 Ks 2h
+ataman    987981438  3  1 Bf  -     -     -          962    5    0 
+ataman    987981454  4  4 f   -     -     -          957    0    0 
+ataman    987981474  4  3 f   -     -     -          957    0    0 
+ataman    987981481  3  1 Bk  k     k     k          957   10   20 Jc 2h
+ataman    987981501  3  1 Bc  k     b     -          967   30   40 
+ataman    987981515  3  3 c   k     k     b          977   30   45 
+ataman    987981535  3  2 B   -     -     -          992   10   15 
+ataman    987981537  3  1 Bf  -     -     -          997    5    0 
+ataman    987981548  4  4 c   f     -     -          992   10    0 
+ataman    987981559  4  3 f   -     -     -          982    0    0 
+ataman    987981570  4  2 Bk  k     k     k          982   10   20 Kc 6s
+ataman    987981586  4  1 Bf  -     -     -          992    5    0 
+ataman    987981600  4  4 cc  k     k     f          987   20    0 
+ataman    987981625  3  2 Bf  -     -     -          967   10    0 
+ataman    987981637  3  1 Bf  -     -     -          957    5    0 
+ataman    987981647  3  3 c   k     k     f          952   10    0 
+ataman    987981665  3  2 B   -     -     -          942   10   15 
+ataman    987981667  3  1 Bf  -     -     -          947    5    0 
+ataman    987981669  3  3 f   -     -     -          942    0    0 
+ataman    987981671  3  2 Bc  kf    -     -          942   20    0 
+ataman    987981683  3  1 Bc  k     kf    -          922   10    0 
+ataman    987981699  3  3 f   -     -     -          912    0    0 
+ataman    987981703  3  2 Bf  -     -     -          912   10    0 
+ataman    987981705  3  1 Bf  -     -     -          902    5    0 
+ataman    987981718  3  3 f   -     -     -          897    0    0 
+ataman    987981727  3  2 B   -     -     -          897   10   15 
+ataman    987981734  3  1 Bf  -     -     -          902    5    0 
+ataman    987981739  3  3 c   k     k     c          897   30    0 As Kc
+ataman    987981757  3  2 Bk  k     f     -          867   10    0 
+ataman    987981769  3  1 Bf  -     -     -          857    5    0 
+ataman    987981780  3  3 f   -     -     -          852    0    0 
+ataman    987981785  3  2 Bf  -     -     -          852   10    0 
+ataman    987981796  3  1 Bf  -     -     -          842    5    0 
+ataman    987981810  3  3 cc  c     f     -          837   30    0 
+ataman    987981826  3  2 Bf  -     -     -          807   10    0 
+ataman    987981830  3  1 Bc  kc    br    b          797  100  200 Qc Jh
+ataman    987981861  3  3 c   k     k     k          897   10    0 Ah 9c
+ataman    987981881  3  2 B   -     -     -          887   10   15 
+ataman    987981885  3  1 Bc  k     b     br         892   90    0 8s Kd
+ataman    987981909  3  3 c   c     c     c          802   60  125 Qd 9h
+ataman    987981929  3  2 B   -     -     -          867   10   15 
+ataman    987981935  3  1 Bc  k     k     k          872   20   50 5h 8s
+ataman    987981945  3  3 f   -     -     -          902    0    0 
+ataman    987981958  3  2 B   -     -     -          902   10   15 
+ataman    987981962  3  1 Bc  kf    -     -          907   10    0 
+ataman    987981972  3  3 cc  c     c     k          897   50    0 Td Ks
+ataman    987981989  3  2 Bk  c     r     brc        847  140  280 6d 9h
+ataman    987982034  3  1 Bf  -     -     -          987    5    0 
+ataman    987982040  3  3 cc  c     r     b          982   90  185 5s 9s
+ataman    987982061  3  2 Bf  -     -     -         1077   10    0 
+ataman    987982068  3  1 Bc  kf    -     -         1067   20    0 
+ataman    987982084  3  3 f   -     -     -         1047    0    0 
+ataman    987982091  3  2 Bf  -     -     -         1047   10    0 
+ataman    987982110  3  1 Bf  -     -     -         1037    5    0 
+ataman    987982116  3  3 cc  c     f     -         1032   30    0 
+ataman    987982135  3  2 Bf  -     -     -         1002   10    0 
+ataman    987982138  3  1 Bf  -     -     -          992    5    0 
+ataman    987982141  3  3 cc  c     k     k          987   30   80 Jc Jd
+ataman    987982159  3  2 Bc  kc    b     -         1037   50   85 
+ataman    987982174  3  1 Bc  kc    kc    kf        1072   40    0 
+ataman    987982196  3  3 f   -     -     -         1032    0    0 
+ataman    987982199  3  2 Bk  kf    -     -         1032   10    0 
+ataman    987982208  3  1 Bc  kc    kc    kc        1022   60    0 8h Qs
+ataman    987982228  3  3 c   k     k     f          962   10    0 
+ataman    987982249  3  2 Bf  -     -     -          952   10    0 
+ataman    987982252  3  1 Bf  -     -     -          942    5    0 
+ataman    987982255  3  3 f   -     -     -          937    0    0 
+ataman    987982268  3  2 B   -     -     -          937   10   15 
+ataman    987982273  3  1 Bc  kc    k     k          942   20   40 Ts 5c
+ataman    987982290  3  3 f   -     -     -          962    0    0 
+ataman    987982304  3  2 Bc  k     k     k          962   20   40 3s 3h
+ataman    987982321  3  1 Bc  b     br    b          982  110    0 Kh 3h
+ataman    987982344  3  3 c   k     k     k          872   10   25 Jh Qh
+ataman    987982362  3  2 Bk  kf    -     -          887   10    0 
+ataman    987982378  3  1 Bf  -     -     -          877    5    0 
+ataman    987982382  3  3 cc  k     k     b          872   40   80 
+ataman    987982401  4  3 f   -     -     -          912    0    0 
+ataman    987982454  4  2 Bk  c     f     -          912   20    0 
+ataman    987982475  5  1 Bc  k     k     b          892   30   60 
+ataman    987982520  6  6 f   -     -     -          922    0    0 
+ataman    987982579  7  6 f   -     -     -          922    0    0 
+ataman    987982610  6  4 c   c     k     c          922   40  120 8s 8h
+ataman    987982643  6  3 cc  kc    kc    f         1002   50    0 
+ataman    987982711  6  2 Bf  -     -     -          952   10    0 
+ataman    987982759  6  1 Bc  kc    kc    kc         942   90    0 9h 9d
+ataman    987982805  7  7 f   -     -     -          852    0    0 
+ataman    987982853  8  7 c   k     k     c          852   30    0 Qd Jh
+ataman    987982893  8  6 f   -     -     -          822    0    0 
+ataman    987982938  9  5 cc  kc    k     f          822   30    0 
+ataman    987983021  9  4 f   -     -     -          792    0    0 
+ataman    987983067  9  3 f   -     -     -          792    0    0 
+ataman    987983132  9  2 Bk  c     c     c          792   60   85 Jc 6d
+ataman    987983169  9  1 Bf  -     -     -          817    5    0 
+ataman    987983201  9  9 f   -     -     -          812    0    0 
+ataman    987983252  9  8 c   c     c     f          812   40    0 
+ataman    987983308  8  6 f   -     -     -          772    0    0 
+ataman    987983342  8  5 c   k     k     c          772   30   90 Tc Qh
+ataman    987983393  8  4 cc  b     b     b          832   70  225 4c 3c
+ataman    987983480  8  3 f   -     -     -          987    0    0 
+ataman    987983553  8  2 Bk  kc    kf    -          987   20    0 
+ataman    987983616  8  1 Bc  kf    -     -          967   10    0 
+ataman    987983656  8  8 cc  c     c     c          957   90    0 Kd 3d
+ataman    987983725  8  7 f   -     -     -          867    0    0 
+ataman    987983767  8  6 f   -     -     -          867    0    0 
+ataman    987983797  8  5 f   -     -     -          867    0    0 
+ataman    987983853  8  4 c   k     f     -          867   10    0 
+ataman    987983910  8  3 cc  kc    k     k          857   30    0 3d 6d
+ataman    987983950  9  3 c   k     k     kf         827   10    0 
+ataman    987984016  9  2 Bk  kc    kc    kf         817   40    0 
+ataman    987984060  9  1 Bf  -     -     -          777    5    0 
+ataman    987984131  9  9 f   -     -     -          772    0    0 
+ataman    987984207  9  8 f   -     -     -          772    0    0 
+ataman    987984243 10  8 cc  c     c     b          772   70  140 Td As
+ataman    987984315 10  7 cc  f     -     -          842   20    0 
+ataman    987984387 10  6 f   -     -     -          822    0    0 
+ataman    987984462 10  5 cc  kc    kf    -          822   30    0 
+ataman    987984530 10  4 c   cc    f     -          792   30    0 
+ataman    987987341 10  9 f   -     -     -          762    0    0 
+ataman    987987391 10  8 c   k     k     k          762   10   70 2h 4h
+ataman    987987465 10  7 c   f     -     -          822   10    0 
+ataman    987987535 10  6 f   -     -     -          812    0    0 
+ataman    987987598 10  5 f   -     -     -          812    0    0 
+ataman    987987699 10  4 f   -     -     -          812    0    0 
+ataman    987987751 10  3 cc  r     b     r          812  100  202 Kh Qd
+ataman    987987819 10  2 Bk  kc    k     k          914   20  105 3h 6c
+ataman    987987909 10  1 Bf  -     -     -          999    5    0 
+ataman    987988017 10 10 f   -     -     -          994    0    0 
+ataman    987988111 10  9 f   -     -     -          994    0    0 
+ataman    987988133 10  8 f   -     -     -          994    0    0 
+ataman    987988228 10  7 c   f     -     -          994   20    0 
+ataman    987988297 10  6 cc  kc    rc    b          974  130    0 Ad 6h
+ataman    987988426 10  5 f   -     -     -          844    0    0 
+ataman    987988489  9  4 f   -     -     -          844    0    0 
+ataman    987988532  8  4 f   -     -     -          844    0    0 
+ataman    987988546  7  2 Bc  kc    kc    kc         844   70    0 Ks 2s
+ataman    987988605  7  1 Bc  k     kc    k          774   30   80 Th Qd
+ataman    987988635  7  7 c   f     -     -          824   20    0 
+ataman    987988668  7  6 cc  b     b     b          804   70  145 Qs Kd
+ataman    987988747  6  5 f   -     -     -          879    0    0 
+ataman    987988781  6  4 f   -     -     -          879    0    0 
+ataman    987988792  6  3 f   -     -     -          879    0    0 
+ataman    987988827  5  2 Bk  kc    kc    brc        879  120    0 Td 3d
+ataman    987988885  5  1 Bf  -     -     -          759    5    0 
+ataman    987988910  5  5 c   c     c     f          754   40    0 
+ataman    987988944  5  4 f   -     -     -          714    0    0 
+ataman    987988984  5  3 cc  kc    kf    -          714   30    0 
+ataman    987989025  5  2 Bk  k     k     kf         684   10    0 
+ataman    987989078  5  1 Br  brc   brc   brc        674  220    0 Qd Qh
+ataman    987989132  5  5 r   -     -     -          454   20   35 
+ataman    987989150  5  4 c   r     -     -          469   30   60 
+ataman    987989178  5  3 f   -     -     -          499    0    0 
+ataman    987989198  5  2 Bf  -     -     -          499   10    0 
+ataman    987989206  5  1 Bf  -     -     -          489    5    0 
+ataman    987989223  5  5 f   -     -     -          484    0    0 
+ataman    987989264  4  3 c   k     c     c          484   50    0 Ah Js
+ataman    987989298  4  2 Bk  k     k     k          434   10   20 2h Ah
+ataman    987989325  4  1 Bcc kc    kc    kc         444   70    0 7d 4d
+ataman    987989363  4  4 f   -     -     -          374    0    0 
+ataman    987989378  4  3 cc  kf    -     -          374   20    0 
+ataman    987989396  4  2 B   -     -     -          354   10   15 
+ataman    987989403  4  1 Bf  -     -     -          359    5    0 
+ataman    987989411  4  4 c   k     k     k          354   10    0 Ah 8s
+ataman    987989429  4  3 c   c     f     -          344   20    0 
+ataman    987989466  4  2 BQ  -     -     -          324   10    0 

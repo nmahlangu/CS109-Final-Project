@@ -1,0 +1,1595 @@
+Krahsloop 986176694  8  6 f   -     -     -         4826    0    0 
+Krahsloop 986176737  8  5 c   rc    c     c         4826   80  175 Kh As
+Krahsloop 986176770  8  4 c   k     k     k         4921   10   30 4s 4d
+Krahsloop 986176827 10  3 f   -     -     -         4941    0    0 
+Krahsloop 986176900 10  2 Bk  k     kf    -         4941   10    0 
+Krahsloop 986176952 10  1 Bf  -     -     -         4931    5    0 
+Krahsloop 986177010 10 10 f   -     -     -         4926    0    0 
+Krahsloop 986177093 10  9 c   f     -     -         4926   10    0 
+Krahsloop 986177161 10  8 c   f     -     -         4916   10    0 
+Krahsloop 986177232 10  7 f   -     -     -         4906    0    0 
+Krahsloop 986177297 10  6 c   c     b     c         4906   60  150 Kh Jd
+Krahsloop 986177361 10  5 c   kf    -     -         4996   10    0 
+Krahsloop 986177419 10  4 c   kf    -     -         4986   10    0 
+Krahsloop 986177462 10  3 f   -     -     -         4976    0    0 
+Krahsloop 986177498 10  2 Bk  f     -     -         4976   10    0 
+Krahsloop 986177547 10  1 Bf  -     -     -         4966    5    0 
+Krahsloop 986177610 10 10 c   bc    c     k         4961   50    0 Tc Kc
+Krahsloop 986177658 10  9 f   -     -     -         4911    0    0 
+Krahsloop 986177733 10  8 cc  k     k     f         4911   20    0 
+Krahsloop 986177877 10  7 c   f     -     -         4891   10    0 
+Krahsloop 986177964  9  6 c   c     c     f         4881   50    0 
+Krahsloop 986178005  7  4 f   -     -     -         4831    0    0 
+Krahsloop 986178072 10  4 c   kc    kc    kc        4831   60    0 Qs Td
+Krahsloop 986178139 10  3 f   -     -     -         4771    0    0 
+Krahsloop 986178217 10  2 Bf  -     -     -         4771   10    0 
+Krahsloop 986178336 10  1 Bf  -     -     -         4761    5    0 
+Krahsloop 986178394 10 10 c   f     -     -         4756   10    0 
+Krahsloop 986178508 10  9 f   -     -     -         4746    0    0 
+Krahsloop 986178630 10  8 f   -     -     -         4746    0    0 
+Krahsloop 986178715 10  7 f   -     -     -         4746    0    0 
+Krahsloop 986178775 10  6 f   -     -     -         4746    0    0 
+Krahsloop 986178864 10  5 c   f     -     -         4746   20    0 
+Krahsloop 986178924 10  4 f   -     -     -         4726    0    0 
+Krahsloop 986178973 10  3 f   -     -     -         4726    0    0 
+Krahsloop 986179022 10  2 Bk  b     k     kc        4726   40    0 2s 2d
+Krahsloop 986179071 10  1 Bf  -     -     -         4686    5    0 
+Krahsloop 986179173 10 10 f   -     -     -         4681    0    0 
+Krahsloop 986179265 10  9 c   c     c     f         4681   40    0 
+Krahsloop 986179320  9  7 c   k     k     f         4641   10    0 
+Krahsloop 986179411  9  6 f   -     -     -         4631    0    0 
+Krahsloop 986179498  9  5 f   -     -     -         4631    0    0 
+Krahsloop 986179614  8  3 c   k     bc    kc        4631   70  100 9d As
+Krahsloop 986179672  8  3 f   -     -     -         4661    0    0 
+Krahsloop 986179743  7  2 Bk  k     k     b         4661   30   50 
+Krahsloop 986179808  7  1 Bf  -     -     -         4681    5    0 
+Krahsloop 986179863  6  6 c   k     f     -         4676   10    0 
+Krahsloop 986179898  7  6 f   -     -     -         4666    0    0 
+Krahsloop 986179929  8  6 cc  f     -     -         4666   20    0 
+Krahsloop 986180005  8  5 f   -     -     -         4646    0    0 
+Krahsloop 986180074  8  4 f   -     -     -         4646    0    0 
+Krahsloop 986180104  8  3 f   -     -     -         4646    0    0 
+Krahsloop 986180125  8  2 Bk  kf    -     -         4646   10    0 
+Krahsloop 986180194  8  1 Bc  k     kf    -         4636   20    0 
+Krahsloop 986180276  8  8 KQ  -     -     -         4616    0    0 
+Krahsloop 986267215  8  2 Bk  k     k     kf        4279   10    0 
+Krahsloop 986267295  7  1 Bc  kc    kf    -         4269   30    0 
+Krahsloop 986267361  7  7 cc  f     -     -         4239   30    0 
+Krahsloop 986267441  7  6 f   -     -     -         4209    0    0 
+Krahsloop 986267458  7  5 f   -     -     -         4209    0    0 
+Krahsloop 986267542  7  4 f   -     -     -         4209    0    0 
+Krahsloop 986267597  8  3 f   -     -     -         4209    0    0 
+Krahsloop 986267674  8  2 Bf  -     -     -         4209   10    0 
+Krahsloop 986267730  8  1 Bc  k     kf    -         4199   10    0 
+Krahsloop 986267790  8  8 f   -     -     -         4189    0    0 
+Krahsloop 986267806  6  5 f   -     -     -         4189    0    0 
+Krahsloop 986267831  6  4 c   bc    b     k         4189   50    0 8h Ah
+Krahsloop 986267913  7  3 f   -     -     -         4139    0    0 
+Krahsloop 986267987  7  2 Bk  kf    -     -         4139   10    0 
+Krahsloop 986268054  7  1 Bf  -     -     -         4129    5    0 
+Krahsloop 986268414  4  4 f   -     -     -         4124    0    0 
+Krahsloop 986268454  5  4 f   -     -     -         4124    0    0 
+Krahsloop 986268479  5  4 cc  kc    kf    -         4124   30    0 
+Krahsloop 986268509  4  2 Bf  -     -     -         4094   10    0 
+Krahsloop 986268541  4  1 Bcc kc    kf    -         4084   30    0 
+Krahsloop 986268571  4  4 f   -     -     -         4054    0    0 
+Krahsloop 986268580  4  3 f   -     -     -         4054    0    0 
+Krahsloop 986268586  4  2 Bc  b     f     -         4054   30    0 
+Krahsloop 986268621  4  1 Bc  bcc   b     bcc       4024  150    0 Tc 7c
+Krahsloop 986268694  6  6 c   f     -     -         3874   10    0 
+Krahsloop 986268738  6  5 f   -     -     -         3864    0    0 
+Krahsloop 986268793  7  5 cc  f     -     -         3864   20    0 
+Krahsloop 986268929  7  4 c   k     k     f         3844   10    0 
+Krahsloop 986269048  6  3 f   -     -     -         3834    0    0 
+Krahsloop 986269088  5  2 Bk  brc   bc    kc        3834  110    0 9c 8d
+Krahsloop 986269147  4  1 Bf  -     -     -         3724    5    0 
+Krahsloop 986269195  4  4 f   -     -     -         3719    0    0 
+Krahsloop 986269216  4  3 Q   -     -     -         3719    0    0 
+Krahsloop 986428937  8  3 f   -     -     -         1499    0    0 
+Krahsloop 986428998  7  2 Bk  kf    -     -         1499   10    0 
+Krahsloop 986429027  7  1 Bc  b     kf    -         1489   20    0 
+Krahsloop 986429063  7  7 c   f     -     -         1469   10    0 
+Krahsloop 986429093  8  7 c   k     c     r         1459   70  155 Ad 4h
+Krahsloop 986429130  8  6 cc  f     -     -         1544   20    0 
+Krahsloop 986429176  8  5 c   f     -     -         1524   10    0 
+Krahsloop 986429202  8  4 f   -     -     -         1514    0    0 
+Krahsloop 986429250  8  3 cc  f     -     -         1514   20    0 
+Krahsloop 986429284  8  2 Bk  kf    -     -         1494   10    0 
+Krahsloop 986429319  8  1 Bc  kc    kc    kr        1484   80  170 Th Qh
+Krahsloop 986429359  8  8 f   -     -     -         1574    0    0 
+Krahsloop 986429398  8  7 c   b     b     f         1574   40    0 
+Krahsloop 986429462 10  6 f   -     -     -         1534    0    0 
+Krahsloop 986429524 10  5 f   -     -     -         1534    0    0 
+Krahsloop 986429576 10  4 f   -     -     -         1534    0    0 
+Krahsloop 986429655 10  3 cc  kc    kf    -         1534   30    0 
+Krahsloop 986429717 10  2 Bf  -     -     -         1504   10    0 
+Krahsloop 986429785  9  1 Bc  k     kf    -         1494   10    0 
+Krahsloop 986429824 10  9 f   -     -     -         1484    0    0 
+Krahsloop 986429863 10  8 f   -     -     -         1484    0    0 
+Krahsloop 986429915 10  7 f   -     -     -         1484    0    0 
+Krahsloop 986429977 10  6 f   -     -     -         1484    0    0 
+Krahsloop 986430040 10  5 c   b     k     b         1484   40  150 Qs Kd
+Krahsloop 986430121 10  4 c   cf    -     -         1594   20    0 
+Krahsloop 986430174 10  3 cc  k     kf    -         1574   20    0 
+Krahsloop 986430242 10  2 Bk  k     b     k         1554   30  100 Jd 8c
+Krahsloop 986430288 10  1 Bf  -     -     -         1624    5    0 
+Krahsloop 986430363 10 10 f   -     -     -         1619    0    0 
+Krahsloop 986430422 10  9 f   -     -     -         1619    0    0 
+Krahsloop 986430461  8  6 f   -     -     -         1619    0    0 
+Krahsloop 986430514 10  6 f   -     -     -         1619    0    0 
+Krahsloop 986430633 10  5 f   -     -     -         1619    0    0 
+Krahsloop 986430814  9  4 f   -     -     -         1619    0    0 
+Krahsloop 986430841  9  2 Bf  -     -     -         1619   10    0 
+Krahsloop 986430943  7  1 Bf  -     -     -         1609    5    0 
+Krahsloop 986431055  8  8 f   -     -     -         1604    0    0 
+Krahsloop 986431123  7  6 f   -     -     -         1604    0    0 
+Krahsloop 986431158  7  5 f   -     -     -         1604    0    0 
+Krahsloop 986431195  7  4 f   -     -     -         1604    0    0 
+Krahsloop 986431254  8  3 f   -     -     -         1604    0    0 
+Krahsloop 986431317  8  2 Bk  kf    -     -         1604   10    0 
+Krahsloop 986431384  8  1 Bc  k     kc    k         1594   30    0 Ks As
+Krahsloop 986431445  8  8 cf  -     -     -         1564   10    0 
+Krahsloop 986431480  8  7 f   -     -     -         1554    0    0 
+Krahsloop 986431516  8  6 f   -     -     -         1554    0    0 
+Krahsloop 986431560 10  6 c   kf    -     -         1554   10    0 
+Krahsloop 986431610 10  5 c   kf    -     -         1544   10    0 
+Krahsloop 986431698  9  4 f   -     -     -         1534    0    0 
+Krahsloop 986431755  9  3 c   kc    kc    b         1534   60  200 7s Ks
+Krahsloop 986431840  9  2 Bk  kc    kf    -         1674   20    0 
+Krahsloop 986431929 10  1 Bc  b     b     b         1654   70  270 Qc Th
+Krahsloop 986432000 10 10 f   -     -     -         1854    0    0 
+Krahsloop 986432064 10  9 f   -     -     -         1854    0    0 
+Krahsloop 986432103 10  8 f   -     -     -         1854    0    0 
+Krahsloop 986432188 10  7 f   -     -     -         1854    0    0 
+Krahsloop 986432269 10  7 c   kf    -     -         1854   10    0 
+Krahsloop 986432344  9  5 f   -     -     -         1844    0    0 
+Krahsloop 986432449  8  4 f   -     -     -         1844    0    0 
+Krahsloop 986432564  6  2 Bk  k     k     f         1844   10    0 
+Krahsloop 986432601  5  1 Bf  -     -     -         1834    5    0 
+Krahsloop 986432651  4  4 c   k     f     -         1829   10    0 
+Krahsloop 986432696  4  3 f   -     -     -         1819    0    0 
+Krahsloop 986432722  4  2 Bk  kf    Q     -         1819   10    0 
+Krahsloop 986448720 10  9 c   f     -     -         2362   10    0 
+Krahsloop 986448807 10  8 cc  f     -     -         2352   20    0 
+Krahsloop 986448954 10  7 f   -     -     -         2332    0    0 
+Krahsloop 986449055 10  6 f   -     -     -         2332    0    0 
+Krahsloop 986449121 10  5 f   -     -     -         2332    0    0 
+Krahsloop 986449225 10  4 cc  kf    -     -         2332   20    0 
+Krahsloop 986449316 10  3 cc  kf    -     -         2312   20    0 
+Krahsloop 986449383 10  2 Bk  kf    -     -         2292   10    0 
+Krahsloop 986449463 10  1 Bf  -     -     -         2282    5    0 
+Krahsloop 986449540 10 10 f   -     -     -         2277    0    0 
+Krahsloop 986449675 10  9 c   f     -     -         2277   10    0 
+Krahsloop 986449783 10  8 f   -     -     -         2267    0    0 
+Krahsloop 986449887 10  7 f   -     -     -         2267    0    0 
+Krahsloop 986449921 10  6 f   -     -     -         2267    0    0 
+Krahsloop 986449986 10  5 f   -     -     -         2267    0    0 
+Krahsloop 986450078 10  4 f   -     -     -         2267    0    0 
+Krahsloop 986450130 10  3 f   -     -     -         2267    0    0 
+Krahsloop 986450209 10  2 Bc  kc    kc    kf        2267   70    0 
+Krahsloop 986450291 10  1 Bf  -     -     -         2197    5    0 
+Krahsloop 986450355 10 10 cc  cc    cc    c         2192  150    0 Ac Ad
+Krahsloop 986450420  9  9 f   -     -     -         2042    0    0 
+Krahsloop 986450481  9  8 c   f     -     -         2042   10    0 
+Krahsloop 986450568  9  7 f   -     -     -         2032    0    0 
+Krahsloop 986450657  9  6 c   kf    -     -         2032   10    0 
+Krahsloop 986450718  9  5 f   -     -     -         2022    0    0 
+Krahsloop 986450746  9  4 f   -     -     -         2022    0    0 
+Krahsloop 986450791  9  3 f   -     -     -         2022    0    0 
+Krahsloop 986450837  9  2 Bf  -     -     -         2022   10    0 
+Krahsloop 986450888  9  1 Bc  kc    bc    kc        2012   80    0 Ad Qc
+Krahsloop 986450954 10 10 f   -     -     -         1932    0    0 
+Krahsloop 986451034 10  9 f   -     -     -         1932    0    0 
+Krahsloop 986451096  8  6 c   c     f     -         1932   20    0 
+Krahsloop 986451147  8  5 c   kf    -     -         1912   10    0 
+Krahsloop 986451211  8  4 cc  f     -     -         1902   20    0 
+Krahsloop 986451271  8  3 f   -     -     -         1882    0    0 
+Krahsloop 986451344  8  2 Bk  kf    -     -         1882   10    0 
+Krahsloop 986451418  8  1 Bf  -     -     -         1872    5    0 
+Krahsloop 986451468  8  8 f   -     -     -         1867    0    0 
+Krahsloop 986451494  8  7 f   -     -     -         1867    0    0 
+Krahsloop 986451597  8  6 c   f     -     -         1867   20    0 
+Krahsloop 986451641  8  5 cc  f     -     -         1847   20    0 
+Krahsloop 986451690  8  4 f   -     -     -         1827    0    0 
+Krahsloop 986451737  8  4 f   -     -     -         1827    0    0 
+Krahsloop 986451787  8  2 Bk  kf    -     -         1827   10    0 
+Krahsloop 986451807  8  1 Bf  Q     -     -         1817    5    0 
+Krahsloop 986575259  6  5 f   -     -     -         2307    0    0 
+Krahsloop 986575278  6  4 c   k     b     -         2307   30   45 
+Krahsloop 986575311  6  3 c   b     -     -         2322   20   40 
+Krahsloop 986575341  6  2 Bf  -     -     -         2342   10    0 
+Krahsloop 986575369  6  1 Bf  -     -     -         2332    5    0 
+Krahsloop 986575397  6  6 f   -     -     -         2327    0    0 
+Krahsloop 986575415  7  5 r   bc    k     c         2327   60    0 Jh Kh
+Krahsloop 986575452  7  4 c   f     -     -         2267   20    0 
+Krahsloop 986575485  8  3 c   kf    -     -         2247   10    0 
+Krahsloop 986575525  8  2 Bk  kf    -     -         2237   10    0 
+Krahsloop 986575557  8  1 Bc  b     b     k         2227   50  230 Ts Jc
+Krahsloop 986575609  8  8 c   f     -     -         2407   10    0 
+Krahsloop 986575639  7  6 f   -     -     -         2397    0    0 
+Krahsloop 986575683  7  5 f   -     -     -         2397    0    0 
+Krahsloop 986575717  7  4 f   -     -     -         2397    0    0 
+Krahsloop 986575750  7  3 f   -     -     -         2397    0    0 
+Krahsloop 986575798  7  2 Bf  -     -     -         2397   10    0 
+Krahsloop 986575827  7  1 Br  kc    b     k         2387   50    0 Jc Ks
+Krahsloop 986575859  7  7 c   f     -     -         2337   10    0 
+Krahsloop 986575908  7  6 f   -     -     -         2327    0    0 
+Krahsloop 986575922  7  5 f   -     -     -         2327    0    0 
+Krahsloop 986575967  7  4 f   -     -     -         2327    0    0 
+Krahsloop 986576010  7  3 f   -     -     -         2327    0    0 
+Krahsloop 986576069  7  2 Bf  -     -     -         2327   10    0 
+Krahsloop 986576135  8  1 Bc  kf    -     -         2317   10    0 
+Krahsloop 986576182  8  8 f   -     -     -         2307    0    0 
+Krahsloop 986576258  8  7 c   k     k     b         2307   30   70 
+Krahsloop 986576313  8  6 f   -     -     -         2347    0    0 
+Krahsloop 986576330  8  5 f   -     -     -         2347    0    0 
+Krahsloop 986576414  9  4 c   f     -     -         2347   10    0 
+Krahsloop 986576470  9  3 f   -     -     -         2337    0    0 
+Krahsloop 986576509 10  2 Bk  kf    -     -         2337   10    0 
+Krahsloop 986576586 10  1 Bf  -     -     -         2327    5    0 
+Krahsloop 986576653 10 10 c   c     f     -         2322   30    0 
+Krahsloop 986576683 10  9 f   -     -     -         2292    0    0 
+Krahsloop 986576760 10  8 f   -     -     -         2292    0    0 
+Krahsloop 986576853  9  6 c   c     f     -         2292   30    0 
+Krahsloop 986576903  7  4 f   -     -     -         2262    0    0 
+Krahsloop 986576948  7  4 c   f     -     -         2262   10    0 
+Krahsloop 986577002  7  3 f   -     -     -         2252    0    0 
+Krahsloop 986577072  7  2 BKQ -     -     -         2252   10    0 
+Krahsloop 986581087 10  7 f   -     -     -         2242    0    0 
+Krahsloop 986581146 10  6 f   -     -     -         2242    0    0 
+Krahsloop 986581227 10  5 f   -     -     -         2242    0    0 
+Krahsloop 986581280 10  4 f   -     -     -         2242    0    0 
+Krahsloop 986581366 10  3 c   kc    kf    -         2242   20    0 
+Krahsloop 986581435 10  2 Bf  -     -     -         2222   10    0 
+Krahsloop 986581484  9  1 Bc  kf    -     -         2212   10    0 
+Krahsloop 986581540  9  9 f   -     -     -         2202    0    0 
+Krahsloop 986581587  9  8 c   k     k     f         2202   10    0 
+Krahsloop 986581670  8  7 f   -     -     -         2192    0    0 
+Krahsloop 986581716  8  6 f   -     -     -         2192    0    0 
+Krahsloop 986581768  8  5 cc  kc    kf    -         2192   30    0 
+Krahsloop 986581815  8  4 f   -     -     -         2162    0    0 
+Krahsloop 986581841  8  3 f   -     -     -         2162    0    0 
+Krahsloop 986581877  9  2 Bk  kf    -     -         2162   10    0 
+Krahsloop 986582013  8  1 Bf  -     -     -         2152    5    0 
+Krahsloop 986582084  8  8 c   f     -     -         2147   10    0 
+Krahsloop 986582145  9  8 cc  f     -     -         2137   20    0 
+Krahsloop 986582194 10  8 cf  -     -     -         2117   10    0 
+Krahsloop 986582259 10  7 f   -     -     -         2107    0    0 
+Krahsloop 986582352 10  6 f   -     -     -         2107    0    0 
+Krahsloop 986582433 10  5 f   -     -     -         2107    0    0 
+Krahsloop 986582503 10  4 f   -     -     -         2107    0    0 
+Krahsloop 986582572 10  3 f   -     -     -         2107    0    0 
+Krahsloop 986582646 10  2 Bf  -     -     -         2107   10    0 
+Krahsloop 986582702 10  1 Bf  -     -     -         2097    5    0 
+Krahsloop 986582761 10 10 f   -     -     -         2092    0    0 
+Krahsloop 986582816 10  9 c   f     -     -         2092   10    0 
+Krahsloop 986582857 10  8 c   kr    rc    r         2082  150  505 Ad Ac
+Krahsloop 986582954 10  7 f   -     -     -         2437    0    0 
+Krahsloop 986582998 10  6 c   b     -     -         2437   20   45 
+Krahsloop 986583034 10  5 c   k     kf    -         2462   10    0 
+Krahsloop 986583087 10  4 f   -     -     -         2452    0    0 
+Krahsloop 986583184 10  3 f   -     -     -         2452    0    0 
+Krahsloop 986583245 10  2 Bk  kf    -     -         2452   10    0 
+Krahsloop 986583316 10  1 Bc  kf    -     -         2442   20    0 
+Krahsloop 986583458 10 10 f   -     -     -         2422    0    0 
+Krahsloop 986583527 10  9 f   -     -     -         2422    0    0 
+Krahsloop 986583598 10  8 c   f     -     -         2422   20    0 
+Krahsloop 986583690  9  7 c   r     f     -         2402   30    0 
+Krahsloop 986583747  9  6 c   f     -     -         2372   10    0 
+Krahsloop 986583795 10  5 c   c     f     -         2362   20    0 
+Krahsloop 986583856 10  4 f   -     -     -         2342    0    0 
+Krahsloop 986583917 10  3 cc  kf    -     -         2342   30    0 
+Krahsloop 986583984 10  2 Bk  k     k     bc        2312   50    0 Th Td
+Krahsloop 986584070 10  1 Bf  -     -     -         2262    5    0 
+Krahsloop 986584115 10 10 f   -     -     -         2257    0    0 
+Krahsloop 986584232 10  9 f   -     -     -         2257    0    0 
+Krahsloop 986584314 10  8 f   -     -     -         2257    0    0 
+Krahsloop 986584407 10  7 f   -     -     -         2257    0    0 
+Krahsloop 986584452 10  6 c   c     f     -         2257   20    0 
+Krahsloop 986584532 10  5 f   -     -     -         2237    0    0 
+Krahsloop 986584604 10  4 c   b     k     b         2237   40  115 Ad Ah
+Krahsloop 986584682 10  3 f   -     -     -         2312    0    0 
+Krahsloop 986584760 10  2 Bf  -     -     -         2312   10    0 
+Krahsloop 986584858 10  1 Bc  kf    -     -         2302   10    0 
+Krahsloop 986584936 10 10 c   c     k     f         2292   20    0 
+Krahsloop 986584992 10  9 f   -     -     -         2272    0    0 
+Krahsloop 986585094 10  8 c   k     b     c         2272   50    0 Jc Th
+Krahsloop 986585220 10  7 f   -     -     -         2222    0    0 
+Krahsloop 986585289 10  7 f   -     -     -         2222    0    0 
+Krahsloop 986585337  9  5 c   f     -     -         2222   10    0 
+Krahsloop 986585424  9  4 cc  c     rr    rc        2212  170  590 Qc Ts
+Krahsloop 986585518 10  3 f   -     -     -         2632    0    0 
+Krahsloop 986585557 10  2 Bf  -     -     -         2632   10    0 
+Krahsloop 986585620 10  1 Bf  -     -     -         2622    5    0 
+Krahsloop 986585686 10 10 f   -     -     -         2617    0    0 
+Krahsloop 986585765 10  9 f   -     -     -         2617    0    0 
+Krahsloop 986585852 10  8 f   -     -     -         2617    0    0 
+Krahsloop 986585904 10  7 cc  f     -     -         2617   20    0 
+Krahsloop 986585950 10  6 fQ  -     -     -         2597    0    0 
+Krahsloop 986679617  4  2 Bf  -     -     -         2937   10    0 
+Krahsloop 986679669  5  1 Bc  kf    -     -         2927   10    0 
+Krahsloop 986679713  5  5 f   -     -     -         2917    0    0 
+Krahsloop 986679755  5  4 f   -     -     -         2917    0    0 
+Krahsloop 986679789  5  3 cc  f     -     -         2917   20    0 
+Krahsloop 986679856  7  2 Bk  k     k     k         2897   10    0 5s Jh
+Krahsloop 986679900  8  1 Bc  bc    kc    kc        2887   90  390 Jc Ac
+Krahsloop 986679974  8  8 f   -     -     -         3187    0    0 
+Krahsloop 986680023  8  7 f   -     -     -         3187    0    0 
+Krahsloop 986680081  8  6 f   -     -     -         3187    0    0 
+Krahsloop 986680141  8  5 cc  rc    r     c         3187  120  350 Qd Qh
+Krahsloop 986680208  9  5 f   -     -     -         3417    0    0 
+Krahsloop 986680268  9  4 f   -     -     -         3417    0    0 
+Krahsloop 986680318  9  3 f   -     -     -         3417    0    0 
+Krahsloop 986680403  9  2 Bk  kf    -     -         3417   10    0 
+Krahsloop 986680499  9  1 Bf  -     -     -         3407    5    0 
+Krahsloop 986680581  9  9 f   -     -     -         3402    0    0 
+Krahsloop 986680654 10  8 c   b     r     b         3402   80  200 
+Krahsloop 986680754  7  5 f   -     -     -         3522    0    0 
+Krahsloop 986680822  6  4 f   -     -     -         3522    0    0 
+Krahsloop 986680875  6  4 c   bc    kc    brc       3522  130  275 Ac Qd
+Krahsloop 986680955  6  3 f   -     -     -         3667    0    0 
+Krahsloop 986681022  6  2 Bf  -     -     -         3667   10    0 
+Krahsloop 986681106  6  1 Bf  Q     -     -         3657    5    0 
+Krahsloop 986708344  6  5 f   -     -     -         6619    0    0 
+Krahsloop 986708381  6  4 c   k     k     k         6619   10    0 7s 8s
+Krahsloop 986708410  6  3 f   -     -     -         6609    0    0 
+Krahsloop 986708462  6  2 Bcc f     -     -         6609   30    0 
+Krahsloop 986708512  6  1 Bc  k     kf    -         6579   10    0 
+Krahsloop 986708544  6  6 f   -     -     -         6569    0    0 
+Krahsloop 986708592  6  5 f   -     -     -         6569    0    0 
+Krahsloop 986708642  6  4 c   f     -     -         6569   20    0 
+Krahsloop 986708674  6  3 cc  kc    k     b         6549   50   58 Qh As
+Krahsloop 986708706  6  2 Bc  b     b     k         6557   50  125 Ts As
+Krahsloop 986708746  6  1 Bf  -     -     -         6632    5    0 
+Krahsloop 986708772  6  6 f   -     -     -         6627    0    0 
+Krahsloop 986708810  6  5 f   -     -     -         6627    0    0 
+Krahsloop 986708847  6  4 c   k     b     b         6627   50  105 Kd Ad
+Krahsloop 986708877  7  3 f   -     -     -         6682    0    0 
+Krahsloop 986708909  7  2 Bf  -     -     -         6682   10    0 
+Krahsloop 986708949  7  1 Bf  -     -     -         6672    5    0 
+Krahsloop 986708991  8  8 cc  f     -     -         6667   20    0 
+Krahsloop 986709045  9  8 f   -     -     -         6647    0    0 
+Krahsloop 986709125  9  7 f   -     -     -         6647    0    0 
+Krahsloop 986709218  9  7 f   -     -     -         6647    0    0 
+Krahsloop 986709264 10  6 f   -     -     -         6647    0    0 
+Krahsloop 986709354  9  5 f   -     -     -         6647    0    0 
+Krahsloop 986709447  9  4 f   -     -     -         6647    0    0 
+Krahsloop 986709522  9  3 f   -     -     -         6647    0    0 
+Krahsloop 986709594  9  2 Bf  -     -     -         6647   10    0 
+Krahsloop 986709658  9  1 Bc  bc    brc   kc        6637  140    0 Kh Ac
+Krahsloop 986709713  9  9 f   -     -     -         6497    0    0 
+Krahsloop 986709774  9  9 f   -     -     -         6497    0    0 
+Krahsloop 986709824  9  8 f   -     -     -         6497    0    0 
+Krahsloop 986709894  9  7 f   -     -     -         6497    0    0 
+Krahsloop 986709937  9  6 f   -     -     -         6497    0    0 
+Krahsloop 986709997 10  5 f   -     -     -         6497    0    0 
+Krahsloop 986710111 10  4 f   -     -     -         6497    0    0 
+Krahsloop 986710126  9  4 fQ  -     -     -         6497    0    0 
+Krahsloop 986712285  8  7 cf  -     -     -         6497   10    0 
+Krahsloop 986712350  8  6 f   -     -     -         6487    0    0 
+Krahsloop 986712392  8  5 f   -     -     -         6487    0    0 
+Krahsloop 986712428  8  4 c   cc    bc    bc        6487  110  295 As 9d
+Krahsloop 986712472  8  3 f   -     -     -         6672    0    0 
+Krahsloop 986712517  8  2 Bk  kf    -     -         6672   10    0 
+Krahsloop 986712554  8  1 Bf  -     -     -         6662    5    0 
+Krahsloop 986712603  8  8 c   c     f     -         6657   20    0 
+Krahsloop 986712641  8  7 f   -     -     -         6637    0    0 
+Krahsloop 986712666  8  6 f   -     -     -         6637    0    0 
+Krahsloop 986712697  8  5 f   -     -     -         6637    0    0 
+Krahsloop 986712758  8  4 f   -     -     -         6637    0    0 
+Krahsloop 986712811  8  3 f   -     -     -         6637    0    0 
+Krahsloop 986712875  8  2 Bk  k     kf    -         6637   10    0 
+Krahsloop 986712927  8  1 Bf  -     -     -         6627    5    0 
+Krahsloop 986712961  7  7 c   r     r     c         6622   90  195 Ah Ac
+Krahsloop 986712995  7  6 c   b     rr    b         6727  120  255 Qs 7s
+Krahsloop 986713043  8  6 f   -     -     -         6862    0    0 
+Krahsloop 986713084  8  5 f   -     -     -         6862    0    0 
+Krahsloop 986713130  8  4 f   -     -     -         6862    0    0 
+Krahsloop 986713158  8  3 c   k     f     -         6862   10    0 
+Krahsloop 986713220  8  2 Bf  -     -     -         6852   10    0 
+Krahsloop 986713283  8  1 Bc  kc    kf    -         6842   20    0 
+Krahsloop 986713330  8  8 f   -     -     -         6822    0    0 
+Krahsloop 986713360  8  7 f   -     -     -         6822    0    0 
+Krahsloop 986713393  7  6 f   -     -     -         6822    0    0 
+Krahsloop 986713430  7  5 r   b     c     c         6822   70  185 Ah Ac
+Krahsloop 986713481  7  4 f   -     -     -         6937    0    0 
+Krahsloop 986713522  7  3 f   -     -     -         6937    0    0 
+Krahsloop 986713572  7  2 Bk  kc    kc    kf        6937   40    0 
+Krahsloop 986713611  7  1 Bf  -     -     -         6897    5    0 
+Krahsloop 986713649  7  7 f   -     -     -         6892    0    0 
+Krahsloop 986713704  7  6 f   -     -     -         6892    0    0 
+Krahsloop 986713739  7  5 c   c     f     -         6892   20    0 
+Krahsloop 986713768  7  4 f   -     -     -         6872    0    0 
+Krahsloop 986713809  7  3 f   -     -     -         6872    0    0 
+Krahsloop 986713854  7  2 Bk  kf    -     -         6872   10    0 
+Krahsloop 986713894  7  1 Bf  -     -     -         6862    5    0 
+Krahsloop 986713920  7  7 f   -     -     -         6857    0    0 
+Krahsloop 986713971  7  6 f   -     -     -         6857    0    0 
+Krahsloop 986714027  7  5 f   -     -     -         6857    0    0 
+Krahsloop 986714077  7  4 c   k     f     -         6857   10    0 
+Krahsloop 986714123  7  3 c   b     c     c         6847   60  150 Js Jc
+Krahsloop 986714167  7  2 Bk  k     k     k         6937   10    0 3s 4c
+Krahsloop 986714295  6  1 Bf  -     -     -         6927    5    0 
+Krahsloop 986714329  6  6 f   -     -     -         6922    0    0 
+Krahsloop 986714367  6  5 f   -     -     -         6922    0    0 
+Krahsloop 986714386  6  4 f   -     -     -         6922    0    0 
+Krahsloop 986714414  6  3 f   -     -     -         6922    0    0 
+Krahsloop 986714441  6  2 Bk  rc    c     c         6922   80    0 Ad Kh
+Krahsloop 986714493  6  1 Bf  -     -     -         6842    5    0 
+Krahsloop 986714542  6  6 f   -     -     -         6837    0    0 
+Krahsloop 986714596  6  5 f   -     -     -         6837    0    0 
+Krahsloop 986714636  6  4 f   -     -     -         6837    0    0 
+Krahsloop 986714659  6  3 f   -     -     -         6837    0    0 
+Krahsloop 986714693  6  2 Bk  k     kf    -         6837   10    0 
+Krahsloop 986714726  6  1 Bc  k     k     kf        6827   10    0 
+Krahsloop 986714758  6  6 cc  f     -     -         6817   20    0 
+Krahsloop 986714783  6  5 f   -     -     -         6797    0    0 
+Krahsloop 986714820  5  3 c   r     r     b         6797   90  190 Ac Ts
+Krahsloop 986714856  5  2 Bk  k     k     k         6897   10   30 Qc 5h
+Krahsloop 986714880  5  1 Bc  kf    -     -         6917   10    0 
+Krahsloop 986714919  6  5 f   -     -     -         6907    0    0 
+Krahsloop 986714956  6  4 c   f     -     -         6907   10    0 
+Krahsloop 986714990  6  3 f   -     -     -         6897    0    0 
+Krahsloop 986715021  6  2 Bf  -     -     -         6897   10    0 
+Krahsloop 986715036  6  1 Bc  kf    -     -         6887   20    0 
+Krahsloop 986715068  6  6 c   f     -     -         6867   10    0 
+Krahsloop 986715109  6  5 f   -     -     -         6857    0    0 
+Krahsloop 986715132  6  4 f   -     -     -         6857    0    0 
+Krahsloop 986715166  6  3 cc  c     c     f         6857   50    0 
+Krahsloop 986715198  6  2 Bk  f     -     -         6807   10    0 
+Krahsloop 986715233  6  1 Bf  -     -     -         6797    5    0 
+Krahsloop 986715263  6  6 f   -     -     -         6792    0    0 
+Krahsloop 986715289  6  5 f   -     -     -         6792    0    0 
+Krahsloop 986715327  6  4 c   k     f     -         6792   10    0 
+Krahsloop 986715363  6  3 f   -     -     -         6782    0    0 
+Krahsloop 986715414  5  1 Bk  kf    -     -         6782   10    0 
+Krahsloop 986715441  5  1 Bf  -     -     -         6772    5    0 
+Krahsloop 986715466  5  5 c   k     c     k         6767   30   75 8s Tc
+Krahsloop 986715502  5  4 f   -     -     -         6812    0    0 
+Krahsloop 986715513  5  3 f   -     -     -         6812    0    0 
+Krahsloop 986715522  5  2 Bc  k     kf    -         6812   20    0 
+Krahsloop 986715569  5  1 Bf  -     -     -         6792    5    0 
+Krahsloop 986715579  5  5 cc  k     c     c         6787   60    0 Ac Js
+Krahsloop 986715618  6  5 f   -     -     -         6727    0    0 
+Krahsloop 986715647  6  4 f   -     -     -         6727    0    0 
+Krahsloop 986715686  6  3 f   -     -     -         6727    0    0 
+Krahsloop 986715720  6  2 Bf  -     -     -         6727   10    0 
+Krahsloop 986715734  6  1 Bf  -     -     -         6717    5    0 
+Krahsloop 986715766  6  6 f   -     -     -         6712    0    0 
+Krahsloop 986715780  6  5 f   -     -     -         6712    0    0 
+Krahsloop 986715804  6  4 c   f     -     -         6712   10    0 
+Krahsloop 986715823  6  3 c   k     kc    kc        6702   50  190 Ah 9c
+Krahsloop 986715889  6  2 Bk  k     f     -         6842   10    0 
+Krahsloop 986715921  6  1 Bc  b     kc    k         6832   40   80 8h Qc
+Krahsloop 986715941  6  6 f   -     -     -         6872    0    0 
+Krahsloop 986715974  5  4 f   -     -     -         6872    0    0 
+Krahsloop 986716009  5  3 c   c     f     -         6872   20    0 
+Krahsloop 986716038  5  2 Bc  kc    kf    -         6852   30    0 
+Krahsloop 986716069  5  1 Bf  -     -     -         6822    5    0 
+Krahsloop 986716091  4  4 f   -     -     -         6817    0    0 
+Krahsloop 986716097  4  4 cc  f     -     -         6817   20    0 
+Krahsloop 986716112  4  3 f   -     -     -         6797    0    0 
+Krahsloop 986716116  4  2 Bf  -     -     -         6797   10    0 
+Krahsloop 986716130  4  1 Bc  k     kc    kf        6787   30    0 
+Krahsloop 986716157  4  4 f   -     -     -         6757    0    0 
+Krahsloop 986716178  4  3 c   b     -     -         6757   20   40 
+Krahsloop 986716202  4  2 Bk  c     r     b         6777   80  160 Td 8d
+Krahsloop 986716230  4  1 Bf  -     -     -         6857    5    0 
+Krahsloop 986716261  4  4 f   -     -     -         6852    0    0 
+Krahsloop 986716271  4  3 f   -     -     -         6852    0    0 
+Krahsloop 986716275  4  2 Bc  kc    kc    kc        6852   70  165 Kd Qc
+Krahsloop 986716306  4  1 Bf  -     -     -         6947    5    0 
+Krahsloop 986716328  4  4 c   f     -     -         6942   10    0 
+Krahsloop 986716343  4  3 c   k     k     f         6932   10    0 
+Krahsloop 986716368  4  2 Bk  f     -     -         6922   10    0 
+Krahsloop 986716382  4  1 Bc  kf    -     -         6912   10    0 
+Krahsloop 986716420  4  4 c   b     c     k         6902   40  105 Ad 5c
+Krahsloop 986716463  4  3 c   b     c     c         6967   60  125 Js Ad
+Krahsloop 986716494  4  2 Bc  kf    -     -         7032   20    0 
+Krahsloop 986716525  4  1 Bf  -     -     -         7012    5    0 
+Krahsloop 986716543  4  4 c   b     b     b         7007   60  105 
+Krahsloop 986716567  4  3 f   -     -     -         7052    0    0 
+Krahsloop 986716590  4  2 Bk  k     k     k         7052   10    0 Kh 2d
+Krahsloop 986716617  4  1 Bf  -     -     -         7042    5    0 
+Krahsloop 986716644  4  4 c   k     b     k         7037   30   65 3h Ac
+Krahsloop 986716666  4  3 cc  kc    kc    k         7072   50  125 6c Ad
+Krahsloop 986716704  4  2 Bk  f     -     -         7147   10    0 
+Krahsloop 986716723  4  1 Bc  k     kf    -         7137   20    0 
+Krahsloop 986716742  4  4 c   rc    rr    c         7117  140  290 9s 8s
+Krahsloop 986716770  4  3 f   -     -     -         7267    0    0 
+Krahsloop 986716800  4  2 Bk  f     -     -         7267   10    0 
+Krahsloop 986716816  4  1 Bf  -     -     -         7257    5    0 
+Krahsloop 986716830  4  4 c   f     -     -         7252   10    0 
+Krahsloop 986716853  4  3 f   -     -     -         7242    0    0 
+Krahsloop 986716858  4  2 B   -     -     -         7242   10   15 
+Krahsloop 986716863  4  1 Bf  -     -     -         7247    5    0 
+Krahsloop 986716879  4  4 f   -     -     -         7242    0    0 
+Krahsloop 986716886  4  3 f   -     -     -         7242    0    0 
+Krahsloop 986716893  4  2 Bk  kr    b     k         7242   50  115 Ts Ad
+Krahsloop 986716921  4  1 Bf  -     -     -         7307    5    0 
+Krahsloop 986716929  4  4 f   -     -     -         7302    0    0 
+Krahsloop 986716947  4  3 c   f     -     -         7302   10    0 
+Krahsloop 986716967  4  2 Bf  -     -     -         7292   10    0 
+Krahsloop 986716973  4  1 Bc  k     kf    -         7282   10    0 
+Krahsloop 986717013  4  4 cf  -     -     -         7272   10    0 
+Krahsloop 986717059  5  3 f   -     -     -         7262    0    0 
+Krahsloop 986717082  5  2 Bk  bc    kc    kc        7262   70    0 6c 3h
+Krahsloop 986717113  5  1 Bc  kc    kc    kc        7192   60    0 Kh 8d
+Krahsloop 986717148  5  5 c   c     rc    rr        7132  180  420 Ks Ac
+Krahsloop 986717189  5  4 f   -     -     -         7372    0    0 
+Krahsloop 986717224  5  3 f   -     -     -         7372    0    0 
+Krahsloop 986717254  5  2 Bk  k     k     k         7372   10    0 8d Qd
+Krahsloop 986717285  5  1 Bf  -     -     -         7362    5    0 
+Krahsloop 986717324  5  5 f   -     -     -         7357    0    0 
+Krahsloop 986717386  5  4 f   -     -     -         7357    0    0 
+Krahsloop 986717395  5  3 f   -     -     -         7357    0    0 
+Krahsloop 986717440  5  2 Bk  b     k     b         7357   40   65 
+Krahsloop 986717466  5  1 Bcf -     -     -         7382   10    0 
+Krahsloop 986717501  5  5 f   -     -     -         7372    0    0 
+Krahsloop 986717539  5  4 f   -     -     -         7372    0    0 
+Krahsloop 986717578  5  3 f   -     -     -         7372    0    0 
+Krahsloop 986717616  5  2 Bk  k     k     k         7372   10   25 6s 6h
+Krahsloop 986717640  5  1 Bc  bc    kc    kc        7387   80    0 Qs Th
+Krahsloop 986717677  5  5 c   k     k     b         7307   30   60 
+Krahsloop 986717719  6  5 cc  f     -     -         7337   20    0 
+Krahsloop 986717754  6  4 f   -     -     -         7317    0    0 
+Krahsloop 986717804  6  3 f   -     -     -         7317    0    0 
+Krahsloop 986717814  6  2 Bc  f     -     -         7317   20    0 
+Krahsloop 986717849  6  1 Bf  -     -     -         7297    5    0 
+Krahsloop 986717893  6  6 f   -     -     -         7292    0    0 
+Krahsloop 986717925  6  5 f   -     -     -         7292    0    0 
+Krahsloop 986717960  6  4 f   -     -     -         7292    0    0 
+Krahsloop 986717996  6  3 c   k     f     -         7292   10    0 
+Krahsloop 986718054  6  2 Bk  kf    -     -         7282   10    0 
+Krahsloop 986718077  6  1 Bf  -     -     -         7272    5    0 
+Krahsloop 986718131  6  6 f   -     -     -         7267    0    0 
+Krahsloop 986718206  6  5 c   f     -     -         7267   10    0 
+Krahsloop 986718262  6  4 f   -     -     -         7257    0    0 
+Krahsloop 986718311  6  3 f   -     -     -         7257    0    0 
+Krahsloop 986718365  6  2 Bf  -     -     -         7257   10    0 
+Krahsloop 986718383  6  1 Bc  k     k     k         7247   10    0 Td 8d
+Krahsloop 986718422  6  6 f   -     -     -         7237    0    0 
+Krahsloop 986718464  6  5 f   -     -     -         7237    0    0 
+Krahsloop 986718517  6  4 f   -     -     -         7237    0    0 
+Krahsloop 986718593  6  3 f   -     -     -         7237    0    0 
+Krahsloop 986718643  6  2 Bk  kf    -     -         7237   10    0 
+Krahsloop 986718686  6  1 Bf  -     -     -         7227    5    0 
+Krahsloop 986718717  6  6 f   -     -     -         7222    0    0 
+Krahsloop 986718765  6  5 f   -     -     -         7222    0    0 
+Krahsloop 986718827  6  4 c   b     r     k         7222   60    0 Qc Jh
+Krahsloop 986718875  5  2 Bk  kf    -     -         7162   10    0 
+Krahsloop 986718938  5  1 Bc  kc    kf    -         7152   20    0 
+Krahsloop 986718969  5  5 f   -     -     -         7132    0    0 
+Krahsloop 986718992  5  4 f   -     -     -         7132    0    0 
+Krahsloop 986719078  5  3 f   -     -     -         7132    0    0 
+Krahsloop 986719097  5  2 Bc  k     k     b         7132   40   80 6h 6d
+Krahsloop 986719126  5  1 Bc  kf    -     -         7172   10    0 
+Krahsloop 986719172  5  5 c   c     f     -         7162   30    0 
+Krahsloop 986719208  5  4 c   k     f     -         7132   10    0 
+Krahsloop 986719240  5  3 c   f     -     -         7122   10    0 
+Krahsloop 986719269  5  2 Bf  -     -     -         7112   10    0 
+Krahsloop 986719311  6  1 Bc  kf    -     -         7102   10    0 
+Krahsloop 986719372  6  6 f   -     -     -         7092    0    0 
+Krahsloop 986719419  6  5 c   f     -     -         7092   10    0 
+Krahsloop 986719468  6  4 f   -     -     -         7082    0    0 
+Krahsloop 986719496  6  3 f   -     -     -         7082    0    0 
+Krahsloop 986719517  6  2 Bk  rc    f     -         7082   40    0 
+Krahsloop 986719581  6  1 Bf  -     -     -         7042    5    0 
+Krahsloop 986719615  5  5 c   c     b     -         7037   40   70 
+Krahsloop 986719665  5  4 cf  -     -     -         7067   10    0 
+Krahsloop 986719708  5  3 c   c     k     k         7057   20    0 Kh 5h
+Krahsloop 986719756  5  2 Bk  k     k     k         7037   10   25 Td 3d
+Krahsloop 986719776  5  1 Bf  -     -     -         7052    5    0 
+Krahsloop 986719806  5  5 f   -     -     -         7047    0    0 
+Krahsloop 986719838  5  4 f   -     -     -         7047    0    0 
+Krahsloop 986719858  5  3 f   -     -     -         7047    0    0 
+Krahsloop 986719864  5  2 Bk  k     kf    -         7047   10    0 
+Krahsloop 986719894  5  1 Bf  -     -     -         7037    5    0 
+Krahsloop 986719928  5  5 f   -     -     -         7032    0    0 
+Krahsloop 986720010  6  5 f   -     -     -         7032    0    0 
+Krahsloop 986720041  6  4 cf  -     -     -         7032   10    0 
+Krahsloop 986720101  6  3 f   -     -     -         7022    0    0 
+Krahsloop 986720160  6  2 Bf  -     -     -         7022   10    0 
+Krahsloop 986720196  6  1 Bf  -     -     -         7012    5    0 
+Krahsloop 986720239  6  6 c   f     -     -         7007   10    0 
+Krahsloop 986720265  6  5 f   -     -     -         6997    0    0 
+Krahsloop 986720300  6  4 f   -     -     -         6997    0    0 
+Krahsloop 986720341  6  3 f   -     -     -         6997    0    0 
+Krahsloop 986720362  6  2 Bf  -     -     -         6997   10    0 
+Krahsloop 986720397  6  1 Bf  -     -     -         6987    5    0 
+Krahsloop 986720423  6  6 c   f     -     -         6982   10    0 
+Krahsloop 986720460  6  5 f   -     -     -         6972    0    0 
+Krahsloop 986720497  6  4 f   -     -     -         6972    0    0 
+Krahsloop 986720527  6  3 c   f     -     -         6972   10    0 
+Krahsloop 986720569  6  2 Bf  -     -     -         6962   10    0 
+Krahsloop 986720612  6  1 Bf  -     -     -         6952    5    0 
+Krahsloop 986720633  6  6 c   r     b     b         6947   80  170 
+Krahsloop 986720666  6  5 f   -     -     -         7037    0    0 
+Krahsloop 986720696  6  4 cc  f     -     -         7037   20    0 
+Krahsloop 986720742  6  3 c   f     -     -         7017   10    0 
+Krahsloop 986720773  7  3 f   -     -     -         7007    0    0 
+Krahsloop 986720809  6  2 Bk  kf    -     -         7007   10    0 
+Krahsloop 986720862  6  1 Bc  kf    -     -         6997   10    0 
+Krahsloop 986720902  6  6 f   -     -     -         6987    0    0 
+Krahsloop 986720951  7  6 f   -     -     -         6987    0    0 
+Krahsloop 986721015  6  5 f   -     -     -         6987    0    0 
+Krahsloop 986721025  6  4 c   f     -     -         6987   10    0 
+Krahsloop 986721056  6  3 cc  kc    kc    kc        6977   70    0 Qc Qd
+Krahsloop 986721095  6  2 Bk  kf    -     -         6907   10    0 
+Krahsloop 986721122  6  1 Bf  -     -     -         6897    5    0 
+Krahsloop 986721159  6  6 c   c     c     k         6892   40    0 Jc Kc
+Krahsloop 986721194  6  5 cc  f     -     -         6852   20    0 
+Krahsloop 986721212  7  4 f   -     -     -         6832    0    0 
+Krahsloop 986721234  7  3 cc  bc    kf    -         6832   40    0 
+Krahsloop 986721283  7  2 Bk  kQ    -     -         6792   10    0 
+Krahsloop 986844657  9  3 cf  -     -     -         6507   10    0 
+Krahsloop 986844730  9  2 Bk  kf    -     -         6497   10    0 
+Krahsloop 986844770  9  1 Bf  -     -     -         6487    5    0 
+Krahsloop 986844841  8  8 c   r     b     b         6482  100  355 As Ad
+Krahsloop 986844897  8  7 c   k     k     k         6737   10    0 Th Ac
+Krahsloop 986844950  8  6 f   -     -     -         6727    0    0 
+Krahsloop 986844998  9  6 c   b     k     c         6727   40    0 8s 8c
+Krahsloop 986845048  9  5 f   -     -     -         6687    0    0 
+Krahsloop 986845103  9  4 f   -     -     -         6687    0    0 
+Krahsloop 986845149 10  3 f   -     -     -         6687    0    0 
+Krahsloop 986845189 10  2 Bc  k     k     k         6687   20   95 5c Ac
+Krahsloop 986845265 10  1 Bc  kc    kf    -         6762   20    0 
+Krahsloop 986845338 10 10 c   f     -     -         6742   10    0 
+Krahsloop 986845388 10  9 f   -     -     -         6732    0    0 
+Krahsloop 986845446 10  8 f   -     -     -         6732    0    0 
+Krahsloop 986845510 10  7 c   f     -     -         6732   10    0 
+Krahsloop 986845572 10  6 f   -     -     -         6722    0    0 
+Krahsloop 986845627 10  5 f   -     -     -         6722    0    0 
+Krahsloop 986845684 10  4 KQ  -     -     -         6722    0    0 
+Krahsloop 986849005 10  7 f   Q     -     -         6722    0    0 
+Krahsloop 986871465  6  2 Bk  f     -     -        13062   10    0 
+Krahsloop 986871478  6  1 Bc  k     b     -        13052   30   40 
+Krahsloop 986871498  6  6 f   -     -     -        13062    0    0 
+Krahsloop 986871527  8  5 c   b     b     -        13062   40   90 
+Krahsloop 986871573  9  4 c   c     f     -        13112   20    0 
+Krahsloop 986871607  9  3 f   -     -     -        13092    0    0 
+Krahsloop 986871647  9  2 Bk  k     k     k        13092   10    0 9d Qs
+Krahsloop 986871711  8  1 Bf  -     -     -        13082    5    0 
+Krahsloop 986871732  8  8 f   -     -     -        13077    0    0 
+Krahsloop 986871743  8  7 f   -     -     -        13077    0    0 
+Krahsloop 986871781  8  6 f   -     -     -        13077    0    0 
+Krahsloop 986871824  8  5 f   -     -     -        13077    0    0 
+Krahsloop 986871877  8  4 c   k     k     k        13077   10    0 Qh Tc
+Krahsloop 986871925  8  3 fQ  -     -     -        13067    0    0 
+Krahsloop 986875800  9  5 KQ  -     -     -        13019    0    0 
+Krahsloop 987052346  9  8 f   -     -     -         9386    0    0 
+Krahsloop 987052397  9  7 f   -     -     -         9386    0    0 
+Krahsloop 987052460  9  7 f   -     -     -         9386    0    0 
+Krahsloop 987052511  8  5 f   -     -     -         9386    0    0 
+Krahsloop 987052626  7  4 f   -     -     -         9386    0    0 
+Krahsloop 987052656  8  3 c   kf    -     -         9386   10    0 
+Krahsloop 987052720  7  2 Bk  kf    Q     -         9376   10    0 
+Krahsloop 987478333  9  2 Bk  kc    kc    k        10256   50    0 Ac Qd
+Krahsloop 987478395 10  1 Bf  -     -     -        10206    5    0 
+Krahsloop 987478465 10 10 f   -     -     -        10201    0    0 
+Krahsloop 987478499 10  9 f   -     -     -        10201    0    0 
+Krahsloop 987478594 10  8 f   -     -     -        10201    0    0 
+Krahsloop 987478687 10  7 f   -     -     -        10201    0    0 
+Krahsloop 987478783  9  6 f   -     -     -        10201    0    0 
+Krahsloop 987478834  9  5 f   -     -     -        10201    0    0 
+Krahsloop 987478904  8  4 f   -     -     -        10201    0    0 
+Krahsloop 987478932  8  3 f   -     -     -        10201    0    0 
+Krahsloop 987479008  8  2 Bk  k     kf    -        10201   10    0 
+Krahsloop 987479064  8  1 Bf  -     -     -        10191    5    0 
+Krahsloop 987479093  8  8 f   -     -     -        10186    0    0 
+Krahsloop 987479124  8  7 cc  c     c     c        10186   70  200 Ah Jh
+Krahsloop 987479177  9  6 f   -     -     -        10316    0    0 
+Krahsloop 987479215  9  5 f   -     -     -        10316    0    0 
+Krahsloop 987479282  9  4 c   kc    kf    -        10316   20    0 
+Krahsloop 987479371  8  3 c   k     kc    k        10296   30    0 Td Qd
+Krahsloop 987479446  9  2 Bf  -     -     -        10266   10    0 
+Krahsloop 987479506  8  1 Bc  k     b     -        10256   30   70 
+Krahsloop 987479545  8  8 f   -     -     -        10296    0    0 
+Krahsloop 987479566  8  7 c   f     -     -        10296   10    0 
+Krahsloop 987479592  8  6 f   -     -     -        10286    0    0 
+Krahsloop 987479629  8  5 f   -     -     -        10286    0    0 
+Krahsloop 987479666  8  4 f   -     -     -        10286    0    0 
+Krahsloop 987479684  8  3 f   -     -     -        10286    0    0 
+Krahsloop 987479737  9  2 Bk  kf    -     -        10286   10    0 
+Krahsloop 987479800 10  1 Bf  -     -     -        10276    5    0 
+Krahsloop 987479871  9  9 f   -     -     -        10271    0    0 
+Krahsloop 987479913  9  9 f   -     -     -        10271    0    0 
+Krahsloop 987479944 10  8 f   -     -     -        10271    0    0 
+Krahsloop 987480022  9  6 f   -     -     -        10271    0    0 
+Krahsloop 987480110 10  6 f   -     -     -        10271    0    0 
+Krahsloop 987480168 10  5 f   -     -     -        10271    0    0 
+Krahsloop 987480234 10  4 f   -     -     -        10271    0    0 
+Krahsloop 987480306 10  3 f   -     -     -        10271    0    0 
+Krahsloop 987480355 10  2 Bk  k     c     f        10271   30    0 
+Krahsloop 987480407 10  1 Bf  -     -     -        10241    5    0 
+Krahsloop 987480469 10 10 c   c     k     k        10236   30    0 As 9s
+Krahsloop 987480543 10  9 f   -     -     -        10206    0    0 
+Krahsloop 987480604 10  8 f   -     -     -        10206    0    0 
+Krahsloop 987480622 10  7 cc  k     cf    -        10206   40    0 
+Krahsloop 987480686 10  6 f   -     -     -        10166    0    0 
+Krahsloop 987480755 10  5 f   -     -     -        10166    0    0 
+Krahsloop 987480828 10  4 f   -     -     -        10166    0    0 
+Krahsloop 987480863 10  3 cf  -     -     -        10166   10    0 
+Krahsloop 987480919 10  2 Bc  k     b     -        10156   40  120 
+Krahsloop 987481004 10  1 Bf  -     -     -        10236    5    0 
+Krahsloop 987481049  9  9 f   -     -     -        10231    0    0 
+Krahsloop 987481095 10  9 c   cc    cc    kc       10231  100  380 9d 9h
+Krahsloop 987481184 10  8 f   -     -     -        10511    0    0 
+Krahsloop 987481234 10  7 f   -     -     -        10511    0    0 
+Krahsloop 987481284 10  6 f   -     -     -        10511    0    0 
+Krahsloop 987481352 10  5 f   -     -     -        10511    0    0 
+Krahsloop 987481406 10  4 c   k     k     b        10511   30   90 Ad Kd
+Krahsloop 987481480 10  3 cc  kf    -     -        10571   20    0 
+Krahsloop 987481550 10  2 Bf  -     -     -        10551   10    0 
+Krahsloop 987481613 10  1 Bf  -     -     -        10541    5    0 
+Krahsloop 987481649 10 10 f   -     -     -        10536    0    0 
+Krahsloop 987481710  9  8 f   -     -     -        10536    0    0 
+Krahsloop 987481750 10  8 c   f     -     -        10536   10    0 
+Krahsloop 987481796 10  7 c   kc    c     cf       10526   80    0 
+Krahsloop 987481883 10  6 c   c     f     -        10446   20    0 
+Krahsloop 987481961 10  5 cc  f     -     -        10426   20    0 
+Krahsloop 987482050 10  4 f   -     -     -        10406    0    0 
+Krahsloop 987482097 10  3 c   k     k     b        10406   30   90 
+Krahsloop 987482175  9  1 Bk  kf    -     Q        10466   10    0 
+Krahsloop 987746327  8  6 c   k     cc    k         9836   50    0 Ah 3h
+Krahsloop 987746395  9  6 f   Q     -     -         9786    0    0 
+Krahsloop 988001302  8  5 c   f     -     -         2682   10    0 
+Krahsloop 988001383 10  4 f   -     -     -         2672    0    0 
+Krahsloop 988001440 10  3 f   -     -     -         2672    0    0 
+Krahsloop 988001478  9  2 Bf  -     -     -         2672   10    0 
+Krahsloop 988001510  9  1 Bf  -     -     -         2662    5    0 
+Krahsloop 988001580  9  9 f   -     -     -         2657    0    0 
+Krahsloop 988001612  9  8 c   c     f     -         2657   30    0 
+Krahsloop 988001696  9  7 f   -     -     -         2627    0    0 
+Krahsloop 988001734  9  6 f   -     -     -         2627    0    0 
+Krahsloop 988001763  9  5 f   -     -     -         2627    0    0 
+Krahsloop 988001819  9  4 f   -     -     -         2627    0    0 
+Krahsloop 988001879  9  3 cc  kf    -     -         2627   20    0 
+Krahsloop 988001961  8  2 Bc  b     kc    k         2607   50  135 Jh As
+Krahsloop 988002001  8  1 Bc  kc    kf    -         2692   20    0 
+Krahsloop 988002052  8  8 f   -     -     -         2672    0    0 
+Krahsloop 988002086  8  7 f   -     -     -         2672    0    0 
+Krahsloop 988002117  8  6 c   bf    -     -         2672   20    0 
+Krahsloop 988002168  8  5 f   -     -     -         2652    0    0 
+Krahsloop 988002201  8  4 f   -     -     -         2652    0    0 
+Krahsloop 988002248  9  4 c   b     b     -         2652   40   95 
+Krahsloop 988002286  8  2 Bk  c     c     k         2707   40    0 Kd Tc
+Krahsloop 988002326  8  1 Bc  kf    -     -         2667   10    0 
+Krahsloop 988002379  8  8 c   b     k     k         2657   20    0 Ad 4d
+Krahsloop 988002425  8  7 f   -     -     -         2637    0    0 
+Krahsloop 988002466  8  6 f   -     -     -         2637    0    0 
+Krahsloop 988002542  8  5 c   f     -     -         2637   20    0 
+Krahsloop 988002566  8  4 f   -     -     -         2617    0    0 
+Krahsloop 988002625  8  3 f   -     -     -         2617    0    0 
+Krahsloop 988002657  8  2 Bc  kf    -     -         2617   20    0 
+Krahsloop 988002708  9  1 Bf  -     -     -         2597    5    0 
+Krahsloop 988002757  9  9 f   -     -     -         2592    0    0 
+Krahsloop 988002805  9  8 f   -     -     -         2592    0    0 
+Krahsloop 988002845  7  5 c   b     b     b         2592   60  150 
+Krahsloop 988002887  7  4 c   f     -     -         2682   10    0 
+Krahsloop 988002907  8  3 f   -     -     -         2672    0    0 
+Krahsloop 988002931  8  2 Bk  k     k     k         2672   10    0 Kd 7h
+Krahsloop 988002990  8  1 Bf  -     -     -         2662    5    0 
+Krahsloop 988003019  8  8 c   b     -     -         2657   20   35 
+Krahsloop 988003036  8  7 f   -     -     -         2672    0    0 
+Krahsloop 988003072  8  7 cc  f     -     -         2672   20    0 
+Krahsloop 988003117  8  6 f   -     -     -         2652    0    0 
+Krahsloop 988003192  7  4 f   -     -     -         2652    0    0 
+Krahsloop 988003233  7  3 f   -     -     -         2652    0    0 
+Krahsloop 988003253  7  2 Bk  cf    -     -         2652   20    0 
+Krahsloop 988003271  7  1 Bc  kf    -     -         2632   20    0 
+Krahsloop 988003338  7  7 f   -     -     -         2612    0    0 
+Krahsloop 988003360  7  6 f   -     -     -         2612    0    0 
+Krahsloop 988003379  7  5 cc  f     -     -         2612   20    0 
+Krahsloop 988003421  7  4 f   -     -     -         2592    0    0 
+Krahsloop 988003463  7  3 f   -     -     -         2592    0    0 
+Krahsloop 988003474  7  2 Bf  -     -     -         2592   10    0 
+Krahsloop 988003483  7  1 Bc  kc    kf    -         2582   30    0 
+Krahsloop 988003503  8  8 f   -     -     -         2552    0    0 
+Krahsloop 988003531  9  7 f   -     -     -         2552    0    0 
+Krahsloop 988003566  9  6 c   cf    -     -         2552   20    0 
+Krahsloop 988003620  9  5 f   -     -     -         2532    0    0 
+Krahsloop 988003677  9  4 f   -     -     -         2532    0    0 
+Krahsloop 988003722  9  3 f   -     -     -         2532    0    0 
+Krahsloop 988003746  9  2 Bk  kc    bc    k         2532   60   93 Jh 9s
+Krahsloop 988003809  9  1 Bf  -     -     -         2565    5    0 
+Krahsloop 988003890  9  9 f   -     -     -         2560    0    0 
+Krahsloop 988003909  9  8 f   -     -     -         2560    0    0 
+Krahsloop 988003945  9  7 f   -     -     -         2560    0    0 
+Krahsloop 988003984  9  6 cc  kr    b     rc        2560  130    0 Qs Ad
+Krahsloop 988004058  9  5 f   -     -     -         2430    0    0 
+Krahsloop 988004105  9  4 f   -     -     -         2430    0    0 
+Krahsloop 988004160  9  3 f   -     -     -         2430    0    0 
+Krahsloop 988004205  9  2 Bk  k     k     b         2430   30   45 
+Krahsloop 988004262  9  1 Bc  kc    b     kc        2445   60    0 9s 9h
+Krahsloop 988004308 10 10 f   -     -     -         2385    0    0 
+Krahsloop 988004389  9  8 f   -     -     -         2385    0    0 
+Krahsloop 988004441 10  8 f   -     -     -         2385    0    0 
+Krahsloop 988004512 10  7 c   c     c     f         2385   40    0 
+Krahsloop 988004575 10  6 f   -     -     -         2345    0    0 
+Krahsloop 988004612 10  5 f   -     -     -         2345    0    0 
+Krahsloop 988004667 10  5 f   -     -     -         2345    0    0 
+Krahsloop 988004761  9  3 c   k     kf    -         2345   10    0 
+Krahsloop 988004844 10  2 Bk  k     kf    -         2335   10    0 
+Krahsloop 988004884 10  1 Bc  kf    -     -         2325   10    0 
+Krahsloop 988004974 10 10 f   -     -     -         2315    0    0 
+Krahsloop 988005015 10  9 f   -     -     -         2315    0    0 
+Krahsloop 988005080 10  8 f   -     -     -         2315    0    0 
+Krahsloop 988005139 10  7 c   k     k     f         2315   10    0 
+Krahsloop 988005215 10  6 f   -     -     -         2305    0    0 
+Krahsloop 988005265 10  5 f   -     -     -         2305    0    0 
+Krahsloop 988005335 10  4 f   -     -     -         2305    0    0 
+Krahsloop 988005376 10  3 c   kc    r     b         2305   90  160 Ts Ks
+Krahsloop 988005482 10  2 Bk  kf    -     -         2375   10    0 
+Krahsloop 988005560 10  1 Bf  -     -     -         2365    5    0 
+Krahsloop 988005598  9  9 f   -     -     -         2360    0    0 
+Krahsloop 988005611  9  8 f   -     -     -         2360    0    0 
+Krahsloop 988005648  9  7 c   k     k     c         2360   30    0 Th Jh
+Krahsloop 988005685  9  6 f   -     -     -         2330    0    0 
+Krahsloop 988005720  9  6 f   -     -     -         2330    0    0 
+Krahsloop 988005748  9  4 f   -     -     -         2330    0    0 
+Krahsloop 988005781  9  3 c   k     b     -         2330   30   55 
+Krahsloop 988005812  8  2 Bk  kf    -     -         2355   10    0 
+Krahsloop 988005882  7  1 Bc  kc    kc    kf        2345   40    0 
+Krahsloop 988005936  7  7 c   k     b     -         2305   30   55 
+Krahsloop 988005970  7  6 f   -     -     -         2330    0    0 
+Krahsloop 988006004  7  5 f   -     -     -         2330    0    0 
+Krahsloop 988006059  7  4 c   c     k     c         2330   40  100 Ah Kc
+Krahsloop 988006092  7  3 f   -     -     -         2390    0    0 
+Krahsloop 988006108  7  2 BfQ -     -     -         2390   10    0 
+Krahsloop 988015454  5  4 c   c     b     b         2380   60    0 Tc Ac
+Krahsloop 988015504  5  3 c   k     kc    kc        2320   50    0 8c Td
+Krahsloop 988015572  6  2 Bk  c     f     -         2270   20    0 
+Krahsloop 988015594  6  1 Bf  -     -     -         2250    5    0 
+Krahsloop 988015598  6  6 c   b     -     -         2245   20   40 
+Krahsloop 988015624  6  5 f   -     -     -         2265    0    0 
+Krahsloop 988015673  6  4 cc  f     -     -         2265   20    0 
+Krahsloop 988015724  6  3 f   -     -     -         2245    0    0 
+Krahsloop 988015767  5  2 Bk  c     f     -         2245   20    0 
+Krahsloop 988015809  5  1 Bc  k     kr    brc       2225  130    0 5d Kc
+Krahsloop 988015876  4  4 f   -     -     -         2095    0    0 
+Krahsloop 988015885  4  3 cc  c     c     c         2095   70    0 Th 8c
+Krahsloop 988015923  4  2 Bc  kf    -     -         2025   20    0 
+Krahsloop 988015950  3  1 Bc  b     b     kc        2005   60    0 Ah Jc
+Krahsloop 988015987  3  3 r   -     -     -         1945   20   35 
+Krahsloop 988015997  3  2 B   -     -     -         1960   10   15 
+Krahsloop 988016003  3  1 Bf  -     -     -         1965    5    0 
+Krahsloop 988016005  3  3 c   f     -     -         1960   10    0 
+Krahsloop 988016043  3  2 Bc  b     -     -         1950   30   50 
+Krahsloop 988016056  3  1 Bc  b     -     -         1970   20   30 
+Krahsloop 988016068  3  3 c   f     -     -         1980   10    0 
+Krahsloop 988016105  3  2 Bk  k     f     -         1970   10    0 
+Krahsloop 988016121  5  1 Bc  k     kf    -         1960   10    0 
+Krahsloop 988016161  6  6 cc  c     f     -         1950   30    0 
+Krahsloop 988016224  6  5 f   -     -     -         1920    0    0 
+Krahsloop 988016264  6  4 f   -     -     -         1920    0    0 
+Krahsloop 988016315  6  3 c   b     b     -         1920   40   70 
+Krahsloop 988016345  6  2 Bk  k     k     kf        1950   10    0 
+Krahsloop 988016393  6  1 Bc  k     k     k         1940   10   30 Qd 9h
+Krahsloop 988016428  6  6 c   f     -     -         1960   10    0 
+Krahsloop 988016457  6  5 f   -     -     -         1950    0    0 
+Krahsloop 988016492  7  5 f   -     -     -         1950    0    0 
+Krahsloop 988016533  7  4 f   -     -     -         1950    0    0 
+Krahsloop 988016574  7  3 f   -     -     -         1950    0    0 
+Krahsloop 988016615  7  2 Bk  kf    -     -         1950   10    0 
+Krahsloop 988016641  7  1 Bf  -     -     -         1940    5    0 
+Krahsloop 988016683  7  7 f   -     -     -         1935    0    0 
+Krahsloop 988016710  8  7 c   k     b     -         1935   30   65 
+Krahsloop 988016780  8  6 f   -     -     -         1970    0    0 
+Krahsloop 988016861  9  6 f   -     -     -         1970    0    0 
+Krahsloop 988016932  9  5 f   -     -     -         1970    0    0 
+Krahsloop 988016982  9  4 c   k     kf    -         1970   10    0 
+Krahsloop 988017057  9  3 f   -     -     -         1960    0    0 
+Krahsloop 988017080  9  2 Bk  k     k     kf        1960   10    0 
+Krahsloop 988017150  9  1 Bc  b     k     k         1950   20   80 9d Kh
+Krahsloop 988017206  9  9 f   -     -     -         2010    0    0 
+Krahsloop 988017297  9  8 f   -     -     -         2010    0    0 
+Krahsloop 988017346  9  7 f   -     -     -         2010    0    0 
+Krahsloop 988017364  9  6 f   -     -     -         2010    0    0 
+Krahsloop 988017428  9  5 f   -     -     -         2010    0    0 
+Krahsloop 988017527  9  4 f   -     -     -         2010    0    0 
+Krahsloop 988017617 10  4 f   -     -     -         2010    0    0 
+Krahsloop 988017667 10  4 f   -     -     -         2010    0    0 
+Krahsloop 988017718  7  2 Bf  -     -     -         2010   10    0 
+Krahsloop 988017787  7  1 Bf  -     -     -         2000    5    0 
+Krahsloop 988017829  7  7 f   -     -     -         1995    0    0 
+Krahsloop 988017864  7  6 cc  k     k     f         1995   20    0 
+Krahsloop 988017902  7  5 f   -     -     -         1975    0    0 
+Krahsloop 988017934  7  4 f   -     -     -         1975    0    0 
+Krahsloop 988017945  7  3 c   kc    kc    kf        1975   40    0 
+Krahsloop 988017982  7  2 Bf  -     -     -         1935   10    0 
+Krahsloop 988018001  7  1 Bf  -     -     -         1925    5    0 
+Krahsloop 988018022  7  7 f   -     -     -         1920    0    0 
+Krahsloop 988018092  6  5 c   k     b     f         1920   30    0 
+Krahsloop 988018130  6  4 cc  kc    bc    kc        1890   90  225 As Td
+Krahsloop 988018185  6  3 c   k     c     f         2025   30    0 
+Krahsloop 988018226  6  2 B   -     -     -         1995   10   15 
+Krahsloop 988018233  5  1 Bf  -     -     -         2000    5    0 
+Krahsloop 988018252  5  5 c   f     -     -         1995   10    0 
+Krahsloop 988018267  5  4 f   -     -     -         1985    0    0 
+Krahsloop 988018296  5  3 c   c     f     -         1985   20    0 
+Krahsloop 988018326  5  2 Bk  bc    kc    kc        1965   70  190 Ah 8d
+Krahsloop 988018364  5  1 Bf  -     -     -         2085    5    0 
+Krahsloop 988018388  5  5 f   -     -     -         2080    0    0 
+Krahsloop 988018404  6  5 f   -     -     -         2080    0    0 
+Krahsloop 988018420  6  4 f   -     -     -         2080    0    0 
+Krahsloop 988018438  6  3 f   -     -     -         2080    0    0 
+Krahsloop 988018481  6  2 Bc  kc    bc    k         2080   70  190 Jd 2d
+Krahsloop 988018527  6  1 Bc  kc    kc    b         2200   60  110 
+Krahsloop 988018564  6  6 f   -     -     -         2250    0    0 
+Krahsloop 988018595  5  4 c   f     -     -         2250   10    0 
+Krahsloop 988018616  5  3 f   -     -     -         2240    0    0 
+Krahsloop 988018635  5  2 Bk  k     k     b         2240   30   50 
+Krahsloop 988018670  6  1 Bc  kr    brc   brc       2260  210  470 Ah Ac
+Krahsloop 988018710  6  6 f   -     -     -         2520    0    0 
+Krahsloop 988018744  6  5 f   -     -     -         2520    0    0 
+Krahsloop 988018750  6  4 f   -     -     -         2520    0    0 
+Krahsloop 988018790  6  3 f   -     -     -         2520    0    0 
+Krahsloop 988018823  6  2 Bk  kf    -     -         2520   10    0 
+Krahsloop 988018881  7  1 Bc  b     k     b         2510   40   70 
+Krahsloop 988018921  7  7 c   k     k     b         2540   30   50 
+Krahsloop 988018969  7  6 f   -     -     -         2560    0    0 
+Krahsloop 988018990  7  5 c   k     b     kc        2560   50  120 Ah 8c
+Krahsloop 988019037  7  4 f   -     -     -         2630    0    0 
+Krahsloop 988019068  7  3 f   -     -     -         2630    0    0 
+Krahsloop 988019101  7  2 Bf  -     -     -         2630   10    0 
+Krahsloop 988019130  7  1 Bc  kf    -     -         2620   20    0 
+Krahsloop 988019184  7  7 f   -     -     -         2600    0    0 
+Krahsloop 988019202  7  6 f   -     -     -         2600    0    0 
+Krahsloop 988019235  7  5 f   -     -     -         2600    0    0 
+Krahsloop 988019280  7  4 ccc k     f     -         2600   40    0 
+Krahsloop 988019326  7  3 c   kc    k     kc        2560   40    0 Kd Kc
+Krahsloop 988019371  7  2 Bf  -     -     -         2520   10    0 
+Krahsloop 988019403  7  1 Bc  k     k     k         2510   10   30 Kd Jc
+Krahsloop 988019439  7  7 f   -     -     -         2530    0    0 
+Krahsloop 988019481  6  5 f   -     -     -         2530    0    0 
+Krahsloop 988019500  6  4 f   -     -     -         2530    0    0 
+Krahsloop 988019525  6  3 f   -     -     -         2530    0    0 
+Krahsloop 988019535  6  2 Bk  k     k     k         2530   10   10 Ac 4c
+Krahsloop 988019569  6  1 Bc  k     k     b         2530   30   40 
+Krahsloop 988019612  6  6 c   c     k     f         2540   20    0 
+Krahsloop 988019643  6  5 f   -     -     -         2520    0    0 
+Krahsloop 988019676  6  4 f   -     -     -         2520    0    0 
+Krahsloop 988019708  6  3 c   k     k     k         2520   10   25 Kd Qs
+Krahsloop 988019735  5  2 Bc  k     kc    kc        2535   60  140 Qd 7d
+Krahsloop 988019767  5  1 Bc  kf    -     -         2615   10    0 
+Krahsloop 988019784  5  5 c   rc    c     k         2605   60  135 Js As
+Krahsloop 988019835  6  4 c   c     c     k         2680   40    0 Kc Jc
+Krahsloop 988019869  6  3 f   -     -     -         2640    0    0 
+Krahsloop 988019879  6  2 Bk  k     kf    -         2640   10    0 
+Krahsloop 988019912  6  1 Bc  k     kf    -         2630   20    0 
+Krahsloop 988019952  6  6 c   r     k     c         2610   50  120 Ks Jc
+Krahsloop 988019990  6  5 c   k     f     -         2680   10    0 
+Krahsloop 988020026  6  4 cc  k     kf    -         2670   20    0 
+Krahsloop 988020063  7  4 f   -     -     -         2650    0    0 
+Krahsloop 988020091  7  3 f   -     -     -         2650    0    0 
+Krahsloop 988020134  7  2 Bf  -     -     -         2650   10    0 
+Krahsloop 988020144  7  1 Bf  -     -     -         2640    5    0 
+Krahsloop 988020186  8  8 c   b     k     c         2635   40    0 Qd Ah
+Krahsloop 988020281  7  6 f   -     -     -         2595    0    0 
+Krahsloop 988020301  7  5 f   -     -     -         2595    0    0 
+Krahsloop 988020319  7  4 cc  f     -     -         2595   20    0 
+Krahsloop 988020361  7  3 c   k     cc    kc        2575   90  310 Ks Kc
+Krahsloop 988020408  7  2 Bk  k     k     k         2795   10   20 2c As
+Krahsloop 988020433  7  1 Bc  kf    -     -         2805   10    0 
+Krahsloop 988020480  7  7 c   k     k     k         2795   10   35 As Ks
+Krahsloop 988020505  7  6 f   -     -     -         2820    0    0 
+Krahsloop 988020548  7  5 f   -     -     -         2820    0    0 
+Krahsloop 988020590  7  4 c   k     kc    k         2820   30   95 Kd 9c
+Krahsloop 988020641  7  3 f   -     -     -         2885    0    0 
+Krahsloop 988020649  6  2 Bk  kf    -     -         2885   10    0 
+Krahsloop 988020681  5  1 Bc  k     kc    kc        2875   50  160 9d Qs
+Krahsloop 988020714  6  5 f   -     -     -         2985    0    0 
+Krahsloop 988020736  6  4 f   -     -     -         2985    0    0 
+Krahsloop 988020757  6  3 c   b     -     -         2985   20   35 
+Krahsloop 988020771  6  2 Bk  kf    -     -         3000   10    0 
+Krahsloop 988020789  6  1 Bc  kf    -     -         2990   10    0 
+Krahsloop 988020816  6  6 f   -     -     -         2980    0    0 
+Krahsloop 988020843  6  5 f   -     -     -         2980    0    0 
+Krahsloop 988020850  6  4 c   k     f     -         2980   10    0 
+Krahsloop 988020878  6  3 f   -     -     -         2970    0    0 
+Krahsloop 988020890  6  2 Bk  kf    -     -         2970   10    0 
+Krahsloop 988020914  6  1 Bf  -     -     -         2960    5    0 
+Krahsloop 988020949  6  6 f   -     -     -         2955    0    0 
+Krahsloop 988020966  6  5 f   -     -     -         2955    0    0 
+Krahsloop 988020975  6  4 cc  kf    -     -         2955   20    0 
+Krahsloop 988021004  6  3 f   -     -     -         2935    0    0 
+Krahsloop 988021010  6  2 Bk  f     -     -         2935   10    0 
+Krahsloop 988021022  6  1 Bf  -     -     -         2925    5    0 
+Krahsloop 988021028  6  6 f   -     -     -         2920    0    0 
+Krahsloop 988021050  6  5 f   -     -     -         2920    0    0 
+Krahsloop 988021054  6  4 f   -     -     -         2920    0    0 
+Krahsloop 988021078  6  3 f   -     -     -         2920    0    0 
+Krahsloop 988021109  6  2 Bc  kf    -     -         2920   20    0 
+Krahsloop 988021127  6  1 Bf  -     -     -         2900    5    0 
+Krahsloop 988021133  6  6 f   -     -     -         2895    0    0 
+Krahsloop 988021151  6  5 f   -     -     -         2895    0    0 
+Krahsloop 988021176  6  4 f   -     -     -         2895    0    0 
+Krahsloop 988021194  6  3 f   -     -     -         2895    0    0 
+Krahsloop 988021206  6  2 Bk  f     -     -         2895   10    0 
+Krahsloop 988021226  6  1 Bf  -     -     -         2885    5    0 
+Krahsloop 988021235  6  6 f   -     -     -         2880    0    0 
+Krahsloop 988021256  6  5 f   -     -     -         2880    0    0 
+Krahsloop 988021270  6  4 f   -     -     -         2880    0    0 
+Krahsloop 988021294  6  3 f   -     -     -         2880    0    0 
+Krahsloop 988021314  6  2 Bf  -     -     -         2880   10    0 
+Krahsloop 988021333  6  1 Bc  kf    -     -         2870   10    0 
+Krahsloop 988021348  6  6 c   k     k     k         2860   20   70 6c 6d
+Krahsloop 988021371  6  5 f   -     -     -         2910    0    0 
+Krahsloop 988021391  6  4 f   -     -     -         2910    0    0 
+Krahsloop 988021407  6  3 c   kc    b     b         2910   60   68 7d Kd
+Krahsloop 988021432  6  2 Bf  -     -     -         2918   10    0 
+Krahsloop 988021445  6  1 Bc  k     k     k         2908   10   20 Ad 7h
+Krahsloop 988021462  6  6 f   -     -     -         2918    0    0 
+Krahsloop 988021483  6  5 f   -     -     -         2918    0    0 
+Krahsloop 988021504  6  4 f   -     -     -         2918    0    0 
+Krahsloop 988021515  6  3 f   -     -     -         2918    0    0 
+Krahsloop 988021522  6  2 Bk  cc    f     -         2918   30    0 
+Krahsloop 988021562  6  1 Bf  -     -     -         2888    5    0 
+Krahsloop 988021579  6  6 f   -     -     -         2883    0    0 
+Krahsloop 988021595  6  5 f   -     -     -         2883    0    0 
+Krahsloop 988021618  6  4 c   c     f     -         2883   20    0 
+Krahsloop 988021655  6  3 f   -     -     -         2863    0    0 
+Krahsloop 988021667  6  2 Bf  -     -     -         2863   10    0 
+Krahsloop 988021702  6  1 Bc  kf    -     -         2853   10    0 
+Krahsloop 988021724  6  6 f   -     -     -         2843    0    0 
+Krahsloop 988021736  6  5 f   -     -     -         2843    0    0 
+Krahsloop 988021758  6  4 f   -     -     -         2843    0    0 
+Krahsloop 988021776  6  3 f   -     -     -         2843    0    0 
+Krahsloop 988021796  7  2 Bk  kf    -     -         2843   10    0 
+Krahsloop 988021826  7  1 Bf  -     -     -         2833    5    0 
+Krahsloop 988021835  7  7 c   f     -     -         2828   10    0 
+Krahsloop 988021860  7  6 c   c     f     -         2818   20    0 
+Krahsloop 988021883  7  5 f   -     -     -         2798    0    0 
+Krahsloop 988021914  7  4 cc  k     cc    kc        2798   80    0 As 7c
+Krahsloop 988021948  6  2 Bk  kf    -     -         2718   10    0 
+Krahsloop 988021978  6  1 Bc  k     kc    k         2708   40    0 Qd Jh
+Krahsloop 988022023  6  6 f   -     -     -         2668    0    0 
+Krahsloop 988022060  6  5 f   -     -     -         2668    0    0 
+Krahsloop 988022086  6  4 f   -     -     -         2668    0    0 
+Krahsloop 988022103  6  3 f   -     -     -         2668    0    0 
+Krahsloop 988022129  6  2 Bc  kc    kc    b         2668   70  145 7c 9c
+Krahsloop 988022151  6  1 Bc  kf    -     -         2743   10    0 
+Krahsloop 988022174  6  6 f   -     -     -         2733    0    0 
+Krahsloop 988022189  6  5 f   -     -     -         2733    0    0 
+Krahsloop 988022211  6  4 f   -     -     -         2733    0    0 
+Krahsloop 988022233  6  3 f   -     -     -         2733    0    0 
+Krahsloop 988022266  6  2 Bk  kf    -     -         2733   10    0 
+Krahsloop 988022290  6  1 Bc  kf    -     -         2723   20    0 
+Krahsloop 988022305  6  6 c   k     k     b         2703   30   45 
+Krahsloop 988022322  6  5 f   -     -     -         2718    0    0 
+Krahsloop 988022338  6  4 f   -     -     -         2718    0    0 
+Krahsloop 988022363  6  3 c   kf    -     -         2718   10    0 
+Krahsloop 988022392  6  2 Bk  kf    -     -         2708   10    0 
+Krahsloop 988022427  6  1 Bc  kc    kc    kf        2698   50    0 
+Krahsloop 988022487  7  7 f   -     -     -         2648    0    0 
+Krahsloop 988022521  7  6 f   -     -     -         2648    0    0 
+Krahsloop 988022542  7  5 f   -     -     -         2648    0    0 
+Krahsloop 988022567  7  4 f   -     -     -         2648    0    0 
+Krahsloop 988022584  7  3 cc  k     cc    k         2648   60    0 Jd 9s
+Krahsloop 988022631  7  2 Bk  f     -     -         2588   10    0 
+Krahsloop 988022647  8  1 Bc  kf    -     -         2578   10    0 
+Krahsloop 988022664  8  8 c   f     -     -         2568   10    0 
+Krahsloop 988022706  8  7 f   -     -     -         2558    0    0 
+Krahsloop 988022763  8  6 cc  f     -     -         2558   20    0 
+Krahsloop 988022790  8  5 f   -     -     -         2538    0    0 
+Krahsloop 988022821  8  4 f   -     -     -         2538    0    0 
+Krahsloop 988022840  8  3 f   -     -     -         2538    0    0 
+Krahsloop 988022871  8  2 Bc  f     -     -         2538   20    0 
+Krahsloop 988022893  8  1 Bc  kf    -     -         2518   20    0 
+Krahsloop 988022931  9  9 f   -     -     -         2498    0    0 
+Krahsloop 988022985  8  7 f   -     -     -         2498    0    0 
+Krahsloop 988023020  8  6 f   -     -     -         2498    0    0 
+Krahsloop 988023042  8  5 f   -     -     -         2498    0    0 
+Krahsloop 988023076  8  4 cc  kf    -     -         2498   20    0 
+Krahsloop 988023105  9  3 f   -     -     -         2478    0    0 
+Krahsloop 988023144  9  2 Bf  -     -     -         2478   10    0 
+Krahsloop 988023158  9  1 Bf  -     -     -         2468    5    0 
+Krahsloop 988023214  9  9 f   -     -     -         2463    0    0 
+Krahsloop 988023240  9  8 f   -     -     -         2463    0    0 
+Krahsloop 988023312  8  6 f   -     -     -         2463    0    0 
+Krahsloop 988023373  8  5 f   -     -     -         2463    0    0 
+Krahsloop 988023440  9  5 cc  f     -     -         2463   20    0 
+Krahsloop 988023489  9  4 cf  -     -     -         2443   10    0 
+Krahsloop 988023556  9  3 c   k     f     -         2433   10    0 
+Krahsloop 988023594  9  2 Bf  -     -     -         2423   10    0 
+Krahsloop 988023637  9  1 Bf  -     -     -         2413    5    0 
+Krahsloop 988023691  9  9 f   -     -     -         2408    0    0 
+Krahsloop 988023755  9  8 f   -     -     -         2408    0    0 
+Krahsloop 988023796  9  7 c   f     -     -         2408   20    0 
+Krahsloop 988023841  9  6 c   f     -     -         2388   20    0 
+Krahsloop 988023902  9  5 c   f     -     -         2368   10    0 
+Krahsloop 988023964  9  4 f   -     -     -         2358    0    0 
+Krahsloop 988024004  9  3 f   -     -     -         2358    0    0 
+Krahsloop 988024052  9  2 Bk  kf    -     -         2358   10    0 
+Krahsloop 988024104  9  1 Bc  kc    kc    b         2348   60  160 2c As
+Krahsloop 988024151  9  9 f   Q     -     -         2448    0    0 
+Krahsloop 988184651  9  6 c   c     c     f         2233   40    0 
+Krahsloop 988184699  9  5 c   kf    -     -         2193   10    0 
+Krahsloop 988184760  9  3 c   k     f     -         2183   10    0 
+Krahsloop 988184807  9  3 f   -     -     -         2173    0    0 
+Krahsloop 988184838  9  2 Bk  k     k     k         2173   10   50 6h 4d
+Krahsloop 988184888  9  1 Bf  -     -     -         2213    5    0 
+Krahsloop 988184918  9  9 c   k     f     -         2208   10    0 
+Krahsloop 988184955  9  8 f   -     -     -         2198    0    0 
+Krahsloop 988184994  9  7 f   -     -     -         2198    0    0 
+Krahsloop 988185041  9  6 f   -     -     -         2198    0    0 
+Krahsloop 988185077  9  5 c   c     f     -         2198   20    0 
+Krahsloop 988185104  9  4 f   -     -     -         2178    0    0 
+Krahsloop 988185121  9  3 f   -     -     -         2178    0    0 
+Krahsloop 988185200  9  2 Bk  k     kc    kf        2178   30    0 
+Krahsloop 988185238  9  1 Bc  k     k     kf        2148   10    0 
+Krahsloop 988185289 10 10 f   -     -     -         2138    0    0 
+Krahsloop 988185340 10  9 f   -     -     -         2138    0    0 
+Krahsloop 988185387 10  8 f   -     -     -         2138    0    0 
+Krahsloop 988185427 10  7 cc  bc    k     bc        2138   80  200 Kc Ah
+Krahsloop 988185480  8  4 f   -     -     -         2258    0    0 
+Krahsloop 988185516  8  3 fQ  -     -     -         2258    0    0 
+Krahsloop 988227527  8  7 f   -     -     -         2258    0    0 
+Krahsloop 988227557  7  5 f   -     -     -         2258    0    0 
+Krahsloop 988227595  7  4 cc  kc    kf    -         2258   30    0 
+Krahsloop 988227650  6  2 f   -     -     -         2228    0    0 
+Krahsloop 988227687  6  2 Bk  k     kf    -         2228   10    0 
+Krahsloop 988227711  6  1 Bc  kf    -     -         2218   10    0 
+Krahsloop 988227732  6  6 c   b     -     -         2208   20   45 
+Krahsloop 988227744  6  5 c   c     c     b         2233   60    0 8s Qs
+Krahsloop 988227777  6  4 f   -     -     -         2173    0    0 
+Krahsloop 988227817  6  3 f   -     -     -         2173    0    0 
+Krahsloop 988227843  6  2 Bc  kc    k     k         2173   30    0 Qs 5s
+Krahsloop 988227882  6  1 Bf  -     -     -         2143    5    0 
+Krahsloop 988227902  6  6 c   c     c     k         2138   60    0 Ah 4h
+Krahsloop 988227940  7  6 f   -     -     -         2078    0    0 
+Krahsloop 988227967  7  5 c   c     c     r         2078   80  175 Qd Jd
+Krahsloop 988227999  6  4 f   -     -     -         2173    0    0 
+Krahsloop 988228061  6  3 f   -     -     -         2173    0    0 
+Krahsloop 988228115  5  2 Bk  k     k     b         2173   30   65 
+Krahsloop 988228139  5  1 Bc  kr    b     b         2208   70  130 
+Krahsloop 988228162  5  5 c   f     -     -         2268   10    0 
+Krahsloop 988228179  6  4 f   -     -     -         2258    0    0 
+Krahsloop 988228218  5  3 c   r     b     -         2258   50  100 
+Krahsloop 988228246  5  2 Bf  -     -     -         2308   10    0 
+Krahsloop 988228299  7  1 Bf  -     -     -         2298    5    0 
+Krahsloop 988228368  8  8 f   -     -     -         2293    0    0 
+Krahsloop 988228400  8  7 f   -     -     -         2293    0    0 
+Krahsloop 988228438  9  7 cc  k     f     -         2293   20    0 
+Krahsloop 988228499 10  7 f   -     -     -         2273    0    0 
+Krahsloop 988228544 10  7 f   -     -     -         2273    0    0 
+Krahsloop 988228577  9  5 f   -     -     -         2273    0    0 
+Krahsloop 988228611 10  4 f   -     -     -         2273    0    0 
+Krahsloop 988228681 10  3 c   b     k     b         2273   40   90 
+Krahsloop 988228736 10  2 Bk  kf    -     -         2323   10    0 
+Krahsloop 988228779 10  1 Bf  -     -     -         2313    5    0 
+Krahsloop 988228816  9  9 f   -     -     -         2308    0    0 
+Krahsloop 988228879 10  9 cf  -     -     -         2308   20    0 
+Krahsloop 988228949 10  8 c   f     -     -         2288   20    0 
+Krahsloop 988229083 10  7 f   -     -     -         2268    0    0 
+Krahsloop 988229149 10  6 f   -     -     -         2268    0    0 
+Krahsloop 988229246 10  5 cc  kf    -     -         2268   20    0 
+Krahsloop 988229327 10  4 c   k     k     k         2248   10    0 Ad Kd
+Krahsloop 988229383 10  3 fQ  -     -     -         2238    0    0 
+Krahsloop 988240987  8  5 f   -     -     -         2238    0    0 
+Krahsloop 988241044  9  5 f   -     -     -         2238    0    0 
+Krahsloop 988241121 10  5 c   k     f     -         2238   10    0 
+Krahsloop 988241165 10  4 f   -     -     -         2228    0    0 
+Krahsloop 988241253 10  3 f   -     -     -         2228    0    0 
+Krahsloop 988241307 10  2 Bk  f     -     -         2228   10    0 
+Krahsloop 988241368 10  1 Bc  kc    bf    -         2218   40    0 
+Krahsloop 988241454 10 10 c   f     -     -         2178   10    0 
+Krahsloop 988241518 10  9 f   -     -     -         2168    0    0 
+Krahsloop 988241585 10  8 cc  kf    -     -         2168   20    0 
+Krahsloop 988241673 10  7 c   bc    kc    bc        2148   90    0 Qh Qd
+Krahsloop 988241765 10  6 f   -     -     -         2058    0    0 
+Krahsloop 988241824 10  5 c   k     k     kc        2058   30    0 Kd Tc
+Krahsloop 988241903 10  4 f   -     -     -         2028    0    0 
+Krahsloop 988241970 10  3 f   -     -     -         2028    0    0 
+Krahsloop 988242027 10  2 Bk  kf    -     -         2028   10    0 
+Krahsloop 988242091 10  1 Bc  kf    -     -         2018   10    0 
+Krahsloop 988242144 10 10 c   k     k     f         2008   10    0 
+Krahsloop 988242252 10  9 c   c     c     c         1998   70    0 Ks Qc
+Krahsloop 988242308 10  8 f   -     -     -         1928    0    0 
+Krahsloop 988242395 10  8 cc  bf    -     -         1928   30    0 
+Krahsloop 988242445 10  6 c   c     c     c         1898   60    0 As Tc
+Krahsloop 988242496 10  5 f   -     -     -         1838    0    0 
+Krahsloop 988242554 10  4 cc  kc    kc    kf        1838   50    0 
+Krahsloop 988242633 10  3 f   -     -     -         1788    0    0 
+Krahsloop 988322061  3  3 f   -     -     -         1803    0    0 
+Krahsloop 988322065  3  2 Bk  k     k     b         1803   30   40 
+Krahsloop 988322079  3  1 Bc  k     kc    kf        1813   30    0 
+Krahsloop 988322111  3  3 c   b     -     -         1783   20   40 
+Krahsloop 988322120  3  2 Bk  k     b     bc        1803   70    0 Kh 7d
+Krahsloop 988322139  3  1 Bc  b     b     -         1733   40   60 
+Krahsloop 988322151  3  3 f   -     -     -         1753    0    0 
+Krahsloop 988322155  3  2 Bk  b     k     b         1753   40   70 
+Krahsloop 988322174  3  1 Bc  k     b     k         1783   30   70 Qh 4h
+Krahsloop 988322192  4  3 f   -     -     -         1823    0    0 
+Krahsloop 988322198  4  2 Bk  kf    -     -         1823   10    0 
+Krahsloop 988322215  4  1 Bf  -     -     -         1813    5    0 
+Krahsloop 988322219  5  5 f   -     -     -         1808    0    0 
+Krahsloop 988322223  5  4 f   -     -     -         1808    0    0 
+Krahsloop 988322226  5  3 f   -     -     -         1808    0    0 
+Krahsloop 988322234  5  2 Bk  kf    -     -         1808   10    0 
+Krahsloop 988322260  5  1 Bc  b     k     b         1798   40  130 As Ad
+Krahsloop 988322291  7  7 f   -     -     -         1888    0    0 
+Krahsloop 988322346  7  6 f   -     -     -         1888    0    0 
+Krahsloop 988322382  7  5 f   -     -     -         1888    0    0 
+Krahsloop 988322420  6  4 f   -     -     -         1888    0    0 
+Krahsloop 988322467  7  3 c   f     -     -         1888   10    0 
+Krahsloop 988322505  7  2 Bk  k     k     b         1878   30   45 
+Krahsloop 988322542  9  1 Bc  kc    kc    k         1893   50    0 Ts Th
+Krahsloop 988322583  9  9 f   -     -     -         1843    0    0 
+Krahsloop 988322625  9  8 f   -     -     -         1843    0    0 
+Krahsloop 988322678 10  8 f   -     -     -         1843    0    0 
+Krahsloop 988322712 10  7 f   -     -     -         1843    0    0 
+Krahsloop 988322843  8  5 f   -     -     -         1843    0    0 
+Krahsloop 988322890  9  5 c   f     -     -         1843   10    0 
+Krahsloop 988322927  9  4 f   -     -     -         1833    0    0 
+Krahsloop 988322987 10  3 f   -     -     -         1833    0    0 
+Krahsloop 988323050  8  2 Bk  k     krc   kc        1833   90    0 7c 6h
+Krahsloop 988323097  8  1 Bf  -     -     -         1743    5    0 
+Krahsloop 988323134  8  8 f   -     -     -         1738    0    0 
+Krahsloop 988323160  8  7 f   -     -     -         1738    0    0 
+Krahsloop 988323188  9  6 cc  cf    -     -         1738   30    0 
+Krahsloop 988323280  9  5 f   -     -     -         1708    0    0 
+Krahsloop 988323316  9  4 f   -     -     -         1708    0    0 
+Krahsloop 988323407  9  3 cc  bc    kc    kc        1708   80  230 Th Ac
+Krahsloop 988323469 10  2 Bk  kc    kc    kc        1858   60  140 Jc 6d
+Krahsloop 988323520 10  1 Bf  Q     -     -         1938    5    0 
+Krahsloop 988396540  5  5 c   f     -     -         1933   10    0 
+Krahsloop 988396586  5  4 f   -     -     -         1923    0    0 
+Krahsloop 988396617  5  3 f   -     -     -         1923    0    0 
+Krahsloop 988396631  5  2 Bk  kc    kf    -         1923   20    0 
+Krahsloop 988396679  6  1 Bf  -     -     -         1903    5    0 
+Krahsloop 988396716  6  6 c   b     b     k         1898   40    0 Ah Jc
+Krahsloop 988396789  6  5 f   -     -     -         1858    0    0 
+Krahsloop 988396825  7  4 KQ  -     -     -         1858    0    0 
+Krahsloop 988407038  7  6 c   c     c     f         1858   40    0 
+Krahsloop 988407107  7  5 f   -     -     -         1818    0    0 
+Krahsloop 988407184  7  4 r   kc    k     b         1818   50  125 Ah Ad
+Krahsloop 988407235  8  3 f   -     -     -         1893    0    0 
+Krahsloop 988407271  8  2 Bf  -     -     -         1893   10    0 
+Krahsloop 988407328  8  1 Bc  kf    -     -         1883   20    0 
+Krahsloop 988407401 10 10 c   r     c     c         1863   70  210 Tc Ah
+Krahsloop 988407481 10 10 c   f     -     -         2003   10    0 
+Krahsloop 988407557  8  7 f   -     -     -         1993    0    0 
+Krahsloop 988407616  8  6 cc  b     kc    b         1993   70  240 As Kh
+Krahsloop 988407696  8  4 cc  cf    -     -         2163   30    0 
+Krahsloop 988407757  8  3 f   -     -     -         2133    0    0 
+Krahsloop 988407811  8  2 Bk  b     -     -         2133   20   35 
+Krahsloop 988407847  8  1 Bf  -     -     -         2148    5    0 
+Krahsloop 988407985  9  9 c   k     f     -         2143   20    0 
+Krahsloop 988408103 10  9 f   -     -     -         2123    0    0 
+Krahsloop 988408155  9  8 c   f     -     -         2123   20    0 
+Krahsloop 988408197  8  6 f   -     -     -         2103    0    0 
+Krahsloop 988408265  9  6 f   -     -     -         2103    0    0 
+Krahsloop 988408334  9  5 f   -     -     -         2103    0    0 
+Krahsloop 988408398 10  4 c   k     f     -         2103   10    0 
+Krahsloop 988408474 10  3 f   -     -     -         2093    0    0 
+Krahsloop 988408553 10  2 Bk  kf    -     -         2093   10    0 
+Krahsloop 988408680 10  1 Bf  -     -     -         2083    5    0 
+Krahsloop 988408725 10 10 f   -     -     -         2078    0    0 
+Krahsloop 988408795 10  9 f   -     -     -         2078    0    0 
+Krahsloop 988408825 10  8 cc  f     -     -         2078   20    0 
+Krahsloop 988408920 10  7 f   -     -     -         2058    0    0 
+Krahsloop 988409071 10  6 f   -     -     -         2058    0    0 
+Krahsloop 988409176 10  5 f   -     -     -         2058    0    0 
+Krahsloop 988409238  9  4 cf  -     -     -         2058   10    0 
+Krahsloop 988409314  8  3 c   b     k     b         2048   40   75 
+Krahsloop 988409360  8  2 Bf  -     -     -         2083   10    0 
+Krahsloop 988409397  8  1 Bc  k     k     b         2073   30   40 
+Krahsloop 988409432  8  8 f   -     -     -         2083    0    0 
+Krahsloop 988409454  8  7 f   -     -     -         2083    0    0 
+Krahsloop 988409521  8  6 f   -     -     -         2083    0    0 
+Krahsloop 988409587  8  5 f   -     -     -         2083    0    0 
+Krahsloop 988409624  8  4 fQ  -     -     -         2083    0    0 
+Krahsloop 988445967  5  2 Bk  kf    -     -         2083   10    0 
+Krahsloop 988446006  5  1 Bc  kf    -     -         2073   10    0 
+Krahsloop 988446044  5  5 f   -     -     -         2063    0    0 
+Krahsloop 988446068  5  4 f   -     -     -         2063    0    0 
+Krahsloop 988446103  6  3 c   c     f     -         2063   20    0 
+Krahsloop 988446175  6  2 Bk  k     kf    -         2043   10    0 
+Krahsloop 988446203  6  1 Bf  -     -     -         2033    5    0 
+Krahsloop 988446244  6  6 c   f     -     -         2028   10    0 
+Krahsloop 988446282  7  6 f   -     -     -         2018    0    0 
+Krahsloop 988446315  7  5 f   -     -     -         2018    0    0 
+Krahsloop 988446381  7  5 f   -     -     -         2018    0    0 
+Krahsloop 988446407  6  3 f   -     -     -         2018    0    0 
+Krahsloop 988446444  6  2 Bk  kf    -     -         2018   10    0 
+Krahsloop 988446477  6  1 Bf  -     -     -         2008    5    0 
+Krahsloop 988446499  6  6 c   k     b     b         2003   50   90 
+Krahsloop 988446534  6  5 f   -     -     -         2043    0    0 
+Krahsloop 988446562  6  4 f   -     -     -         2043    0    0 
+Krahsloop 988446585  6  3 c   f     -     -         2043   10    0 
+Krahsloop 988446619  6  2 Bf  -     -     -         2033   10    0 
+Krahsloop 988446667  6  1 Bc  k     kc    k         2023   30   70 Ad 8h
+Krahsloop 988446705  5  5 f   -     -     -         2063    0    0 
+Krahsloop 988446751  5  4 f   -     -     -         2063    0    0 
+Krahsloop 988446769  4  2 Bf  -     -     -         2063   10    0 
+Krahsloop 988446783  4  1 Bf  -     -     -         2053    5    0 
+Krahsloop 988446802  4  4 c   f     -     -         2048   10    0 
+Krahsloop 988446823  3  2 f   -     -     -         2038    0    0 
+Krahsloop 988446831  3  2 Bk  kf    -     -         2038   10    0 
+Krahsloop 988446842  3  1 Bc  kf    -     -         2028   10    0 
+Krahsloop 988446861  3  3 cc  f     -     -         2018   20    0 
+Krahsloop 988446888  4  3 c   kf    -     -         1998   10    0 
+Krahsloop 988446909  4  2 Bk  kf    -     -         1988   10    0 
+Krahsloop 988446931  4  1 Bf  -     -     -         1978    5    0 
+Krahsloop 988446967  4  4 f   -     -     -         1973    0    0 
+Krahsloop 988447014  4  3 f   -     -     -         1973    0    0 
+Krahsloop 988447038  4  2 Bf  -     -     -         1973   10    0 
+Krahsloop 988447062  4  1 Bf  -     -     -         1963    5    0 
+Krahsloop 988447065  4  4 c   b     b     b         1958   60  110 
+Krahsloop 988447108  5  3 f   -     -     -         2008    0    0 
+Krahsloop 988447130  5  2 Bf  -     -     -         2008   10    0 
+Krahsloop 988447162  5  1 Bf  -     -     -         1998    5    0 
+Krahsloop 988447208  5  5 f   -     -     -         1993    0    0 
+Krahsloop 988447254  5  4 f   -     -     -         1993    0    0 
+Krahsloop 988447270  5  3 cc  k     k     b         1993   32   71 6d 6h
+Krahsloop 988447300  4  2 Bk  kf    -     -         2032   10    0 
+Krahsloop 988447328  5  1 Bc  kf    -     -         2022   20    0 
+Krahsloop 988447385  4  4 f   -     -     -         2002    0    0 
+Krahsloop 988447407  4  3 f   -     -     -         2002    0    0 
+Krahsloop 988447423  4  2 Bk  kf    -     -         2002   10    0 
+Krahsloop 988447443  4  1 Bc  k     k     k         1992   10   20 Ad 2s
+Krahsloop 988447465  4  4 f   -     -     -         2002    0    0 
+Krahsloop 988447482  4  3 c   f     -     -         2002   10    0 
+Krahsloop 988447528  4  2 Bk  kf    -     -         1992   10    0 
+Krahsloop 988447549  3  1 Bf  -     -     -         1982    5    0 
+Krahsloop 988447583  3  3 c   f     -     -         1977   10    0 
+Krahsloop 988447605  3  2 Bk  kc    krc   kc        1967  100  210 5h Ks
+Krahsloop 988447643  3  1 Bc  kf    -     -         2077   10    0 
+Krahsloop 988447658  3  3 f   -     -     -         2067    0    0 
+Krahsloop 988447695  3  2 Bf  -     -     -         2067   10    0 
+Krahsloop 988447711  3  1 Bf  -     -     -         2057    5    0 
+Krahsloop 988447740  3  3 f   -     -     -         2052    0    0 
+Krahsloop 988447780  3  2 Bf  -     -     -         2052   10    0 
+Krahsloop 988447832  3  1 Bc  b     bc    br        2042  120  240 Jc Kh
+Krahsloop 988447871  4  4 fQ  -     -     -         2162    0    0 
+Krahsloop 988533718  7  7 f   -     -     -         2162    0    0 
+Krahsloop 988533781  7  6 f   -     -     -         2162    0    0 
+Krahsloop 988533832  7  5 f   -     -     -         2162    0    0 
+Krahsloop 988533875  7  4 f   -     -     -         2162    0    0 
+Krahsloop 988533980  6  3 Q   -     -     -         2162    0    0 
+Krahsloop 988538505  6  5 f   -     -     -         2162    0    0 
+Krahsloop 988538548  6  4 f   -     -     -         2162    0    0 
+Krahsloop 988538592  6  3 KQ  -     -     -         2162    0    0 
+Krahsloop 988538834  5  2 Bk  kf    -     -         2162   10    0 
+Krahsloop 988538869  5  1 Bc  kc    kf    -         2152   30    0 
+Krahsloop 988538905  5  5 f   -     -     -         2122    0    0 
+Krahsloop 988538913  5  4 c   f     -     -         2122   10    0 
+Krahsloop 988538957  5  3 f   -     -     -         2112    0    0 
+Krahsloop 988538988  5  2 Bf  -     -     -         2112   10    0 
+Krahsloop 988539026  5  1 Bf  -     -     -         2102    5    0 
+Krahsloop 988539067  5  5 f   -     -     -         2097    0    0 
+Krahsloop 988539104  5  4 f   -     -     -         2097    0    0 
+Krahsloop 988539142  6  4 f   -     -     -         2097    0    0 
+Krahsloop 988539210  6  3 f   -     -     -         2097    0    0 
+Krahsloop 988539261  6  2 Bc  kf    -     -         2097   20    0 
+Krahsloop 988539353  6  1 Bf  -     -     -         2077    5    0 
+Krahsloop 988539385  6  6 f   -     -     -         2072    0    0 
+Krahsloop 988539447  6  5 f   -     -     -         2072    0    0 
+Krahsloop 988539484  7  4 f   -     -     -         2072    0    0 
+Krahsloop 988539526  7  3 c   kc    k     k         2072   20    0 Td Tc
+Krahsloop 988539562  7  2 Bk  f     -     -         2052   10    0 
+Krahsloop 988539637  7  1 Bc  k     k     bc        2042   50    0 Tc 9c
+Krahsloop 988539677  7  7 c   c     c     c         1992   70  290 3c Jc
+Krahsloop 988539737  7  6 c   c     k     f         2212   20    0 
+Krahsloop 988539794  7  5 f   -     -     -         2192    0    0 
+Krahsloop 988539824  7  4 f   -     -     -         2192    0    0 
+Krahsloop 988539841  7  3 f   -     -     -         2192    0    0 
+Krahsloop 988539881  7  2 Bk  f     -     -         2192   10    0 
+Krahsloop 988539951  7  1 Bc  b     kc    kc        2182   60    0 2c Td
+Krahsloop 988539996  7  7 c   k     f     -         2122   10    0 
+Krahsloop 988540075  7  6 f   -     -     -         2112    0    0 
+Krahsloop 988540130  7  5 c   k     f     -         2112   10    0 
+Krahsloop 988540173  7  4 c   kf    -     -         2102   10    0 
+Krahsloop 988540209  7  3 cc  f     -     -         2092   20    0 
+Krahsloop 988540292  7  2 Bk  kf    -     -         2072   10    0 
+Krahsloop 988540355  7  1 Bc  b     kc    krc       2062  120  410 Kd 6h
+Krahsloop 988540403  7  7 c   cf    -     -         2352   20    0 
+Krahsloop 988540456  6  5 f   -     -     -         2332    0    0 
+Krahsloop 988540502  6  4 f   -     -     -         2332    0    0 
+Krahsloop 988540548  6  3 f   -     -     -         2332    0    0 
+Krahsloop 988540573  6  2 BKQ -     -     -         2332   10    0 
+Krahsloop 988540861  7  4 c   kf    -     -         2322   10    0 
+Krahsloop 988540928  7  3 c   f     -     -         2312   10    0 
+Krahsloop 988540982  7  2 Bf  -     -     -         2302   10    0 
+Krahsloop 988541005  7  1 Bcf -     -     -         2292   10    0 
+Krahsloop 988541080  7  7 c   f     -     -         2282   10    0 
+Krahsloop 988541115  6  5 f   -     -     -         2272    0    0 
+Krahsloop 988541146  7  5 f   -     -     -         2272    0    0 
+Krahsloop 988541200  7  4 c   c     f     -         2272   20    0 
+Krahsloop 988541240  7  3 f   -     -     -         2252    0    0 
+Krahsloop 988541293  7  2 Bf  -     -     -         2252   10    0 
+Krahsloop 988541312  7  1 Bc  kc    kf    -         2242   20    0 
+Krahsloop 988541372  7  7 f   -     -     -         2222    0    0 
+Krahsloop 988541429  7  6 f   -     -     -         2222    0    0 
+Krahsloop 988541464  7  5 f   -     -     -         2222    0    0 
+Krahsloop 988541497  7  4 KQ  -     -     -         2222    0    0 
+Krahsloop 988542112  7  7 c   b     b     -         2222   40  110 
+Krahsloop 988542166  7  6 f   -     -     -         2292    0    0 
+Krahsloop 988542190  7  5 f   -     -     -         2292    0    0 
+Krahsloop 988542229  7  4 c   f     -     -         2292   20    0 
+Krahsloop 988542288  8  3 c   k     kf    -         2272   10    0 
+Krahsloop 988542362  9  2 Bk  kf    -     -         2262   10    0 
+Krahsloop 988542432  9  1 Bf  -     -     -         2252    5    0 
+Krahsloop 988542484  8  8 f   -     -     -         2247    0    0 
+Krahsloop 988542547  8  7 c   c     k     c         2247   50  165 6s 6h
+Krahsloop 988542588  8  6 f   -     -     -         2362    0    0 
+Krahsloop 988542674  8  5 f   -     -     -         2362    0    0 
+Krahsloop 988542725  9  5 cc  kc    kc    kc        2362   70  245 Ac Ad
+Krahsloop 988542811  8  4 f   -     -     -         2537    0    0 
+Krahsloop 988542887  8  3 f   -     -     -         2537    0    0 
+Krahsloop 988542926  8  2 Bf  -     -     -         2537   10    0 
+Krahsloop 988542979  8  1 Bf  -     -     -         2527    5    0 
+Krahsloop 988543027  8  8 f   -     -     -         2522    0    0 
+Krahsloop 988543078  8  7 f   -     -     -         2522    0    0 
+Krahsloop 988543162  8  6 f   -     -     -         2522    0    0 
+Krahsloop 988543207  7  4 f   -     -     -         2522    0    0 
+Krahsloop 988543275  7  3 fQ  -     -     -         2522    0    0 
+Krahsloop 988612892  5  5 f   -     -     -         2622    0    0 
+Krahsloop 988612938  4  3 f   -     -     -         2622    0    0 
+Krahsloop 988612967  4  2 B   -     -     -         2622   10   15 
+Krahsloop 988612975  4  1 Bf  -     -     -         2627    5    0 
+Krahsloop 988613029  4  4 f   -     -     -         2622    0    0 
+Krahsloop 988613053  4  3 c   k     f     -         2622   10    0 
+Krahsloop 988613097  4  2 Bf  -     -     -         2612   10    0 
+Krahsloop 988613129  4  1 Bc  k     kf    -         2602   10    0 
+Krahsloop 988613197  4  4 f   -     -     -         2592    0    0 
+Krahsloop 988613229  4  3 f   -     -     -         2592    0    0 
+Krahsloop 988613265  4  2 Bf  -     -     -         2592   10    0 
+Krahsloop 988613300  4  1 Bc  kc    kc    brc       2582  140  320 9s Ac
+Krahsloop 988613343  4  4 c   k     k     b         2762   30   50 
+Krahsloop 988613462  3  2 c   k     kc    kc        2782   50    0 As 2c
+Krahsloop 988613496  3  2 B   -     -     -         2732   10   15 
+Krahsloop 988613504  3  1 Bf  -     -     -         2737    5    0 
+Krahsloop 988613531  3  3 f   -     -     -         2732    0    0 
+Krahsloop 988613571  3  2 B   -     -     -         2732   10   15 
+Krahsloop 988613580  3  1 Bc  k     kf    -         2737   10    0 
+Krahsloop 988613594  3  3 f   -     -     -         2727    0    0 
+Krahsloop 988613622  3  2 Bf  -     -     -         2727   10    0 
+Krahsloop 988613640  3  1 Bf  -     -     -         2717    5    0 
+Krahsloop 988613662  3  3 f   -     -     -         2712    0    0 
+Krahsloop 988613700  3  2 Bf  -     -     -         2712   10    0 
+Krahsloop 988613723  3  1 Bf  -     -     -         2702    5    0 
+Krahsloop 988613749  3  3 f   -     -     -         2697    0    0 
+Krahsloop 988613770  3  2 Bf  -     -     -         2697   10    0 
+Krahsloop 988613774  3  1 Bf  -     -     -         2687    5    0 
+Krahsloop 988613787  3  3 f   -     -     -         2682    0    0 
+Krahsloop 988613830  3  2 Bc  b     k     k         2682   30   65 As 7h
+Krahsloop 988613855  3  1 Bf  -     -     -         2717    5    0 
+Krahsloop 988613866  3  3 f   -     -     -         2712    0    0 
+Krahsloop 988613890  3  2 Bk  k     kr    kc        2712   70    0 Tc 2d
+Krahsloop 988613921  3  1 Bc  kf    -     -         2642   10    0 
+Krahsloop 988613962  3  3 cc  f     -     -         2632   20    0 
+Krahsloop 988614000  3  2 Bk  b     k     k         2612   20   45 6c 8c
+Krahsloop 988614027  3  1 Bf  -     -     -         2637    5    0 
+Krahsloop 988614036  3  3 f   -     -     -         2632    0    0 
+Krahsloop 988614048  3  2 Bk  k     c     kc        2632   50    0 Qc Qh
+Krahsloop 988614071  3  1 Bf  -     -     -         2582    5    0 
+Krahsloop 988614078  3  3 f   -     -     -         2577    0    0 
+Krahsloop 988614096  3  2 B   -     -     -         2577   10   15 
+Krahsloop 988614100  3  1 Bf  -     -     -         2582    5    0 
+Krahsloop 988614119  3  3 c   k     k     b         2577   30   50 
+Krahsloop 988614156  3  2 Bk  f     -     -         2597   10    0 
+Krahsloop 988614194  3  1 Bc  kQ    -     -         2587   20    0 
+Krahsloop 988623272  2  2 Bk  k     c     c         2567   50    0 4c 9h
+Krahsloop 988623304  2  1 Bc  kf    -     -         2517   10    0 
+Krahsloop 988623322  2  2 Bk  f     -     -         2507   10    0 
+Krahsloop 988623333  2  1 Bc  k     k     k         2497   10    0 9h Kh
+Krahsloop 988623348  2  2 Bk  k     b     -         2487   30   40 
+Krahsloop 988623366  3  1 Bcf -     -     -         2497   10    0 
+Krahsloop 988623377  3  3 f   -     -     -         2487    0    0 
+Krahsloop 988623383  3  2 Bf  -     -     -         2487   10    0 
+Krahsloop 988623404  3  1 Bf  -     -     -         2477    5    0 
+Krahsloop 988623419  3  3 c   k     c     k         2472   30   32 8d Jc
+Krahsloop 988623442  3  2 B   -     -     -         2474   10   15 
+Krahsloop 988623448  3  1 Bcc kf    -     -         2479   20    0 
+Krahsloop 988623468  3  3 c   k     b     -         2459   30   45 
+Krahsloop 988623493  3  2 Bc  kc    kc    k         2474   50  105 Ts Ah
+Krahsloop 988623516  3  1 Bf  -     -     -         2529    5    0 
+Krahsloop 988623544  3  3 f   -     -     -         2524    0    0 
+Krahsloop 988623564  3  2 Bk  k     k     k         2524   10    0 3s 3h
+Krahsloop 988623585  3  1 Bf  -     -     -         2514    5    0 
+Krahsloop 988623607  3  3 f   -     -     -         2509    0    0 
+Krahsloop 988623625  3  2 Bc  kc    k     k         2509   30   65 Qd Ah
+Krahsloop 988623642  3  1 Bc  kr    kr    k         2544   70  170 9c Jc
+Krahsloop 988623683  3  3 f   -     -     -         2644    0    0 
+Krahsloop 988623734  3  2 Bc  kf    -     -         2644   20    0 
+Krahsloop 988623749  3  1 Bc  kf    -     -         2624   10    0 
+Krahsloop 988623763  3  3 f   -     -     -         2614    0    0 
+Krahsloop 988623771  3  2 B   -     -     -         2614   10   15 
+Krahsloop 988623783  3  1 Bf  -     -     -         2619    5    0 
+Krahsloop 988623800  3  3 f   -     -     -         2614    0    0 
+Krahsloop 988623806  3  2 B   -     -     -         2614   10   15 
+Krahsloop 988623812  2  1 Bc  k     k     k         2619   10   20 Ad 2c
+Krahsloop 988623826  2  2 B   -     -     -         2629   10   15 
+Krahsloop 988623833  2  1 Bc  k     k     k         2634   10   20 6d Ah
+Krahsloop 988623848  2  2 B   -     -     -         2644   10   15 
+Krahsloop 988623853  2  1 Bf  -     -     -         2649    5    0 
+Krahsloop 988623857  2  2 Bk  k     f     -         2644   10    0 
+Krahsloop 988623870  2  1 Bc  k     b     b         2634   50   80 
+Krahsloop 988623885  2  2 Bk  k     k     f         2664   10    0 
+Krahsloop 988623905  2  1 Bc  k     kc    brc       2654  110    0 4s Qd
+Krahsloop 988623939  2  2 Bk  k     b     k         2544   30   60 2c Qd
+Krahsloop 988623981  2  1 Bc  k     k     b         2574   30   40 
+Krahsloop 988623997  2  2 B   -     -     -         2584   10   15 
+Krahsloop 988623999  2  1 Bc  k     k     k         2589   10    0 5s Js
+Krahsloop 988624015  2  2 Bk  k     k     f         2579   10    0 
+Krahsloop 988624037  2  1 Bc  k     k     k         2569   10   20 5h 5c
+Krahsloop 988624051  2  2 Bk  k     k     b         2579   30   40 
+Krahsloop 988624081  2  1 Bf  -     -     -         2589    5    0 
+Krahsloop 988624084  2  2 Bk  k     b     -         2584   30   40 
+Krahsloop 988624100  2  1 Bf  -     -     -         2594    5    0 
+Krahsloop 988624103  2  2 B   -     -     -         2589   10   15 
+Krahsloop 988624106  2  1 Bc  -     -     -         2594   10   20 
+Krahsloop 988625996  2  2 BQ  -     -     -         2604   10    0 
+Krahsloop 988638173  6  6 f   -     -     -         2594    0    0 
+Krahsloop 988638185  6  5 f   -     -     -         2594    0    0 
+Krahsloop 988638209  6  4 f   -     -     -         2594    0    0 
+Krahsloop 988638250  6  3 c   r     k     k         2594   30   75 3h Ah
+Krahsloop 988638306  6  2 Bk  k     k     b         2639   30   55 
+Krahsloop 988638330  6  1 Bf  -     -     -         2664    5    0 
+Krahsloop 988638348  6  6 c   k     k     k         2659   10    0 8s Ad
+Krahsloop 988638382  6  5 f   -     -     -         2649    0    0 
+Krahsloop 988638409  6  4 c   f     -     -         2649   10    0 
+Krahsloop 988638445  5  3 c   b     c     b         2639   60  140 5c 5s
+Krahsloop 988638479  5  2 Bf  -     -     -         2719   10    0 
+Krahsloop 988638493  5  1 Bc  kf    -     -         2709   10    0 
+Krahsloop 988638514  5  5 f   -     -     -         2699    0    0 
+Krahsloop 988638533  5  4 f   -     -     -         2699    0    0 
+Krahsloop 988638613  5  2 Bk  c     c     k         2699   40    0 6d 9d
+Krahsloop 988638640  5  1 Bc  b     b     k         2659   40   80 Ac Qc
+Krahsloop 988638666  5  5 f   -     -     -         2699    0    0 
+Krahsloop 988638695  5  4 f   -     -     -         2699    0    0 
+Krahsloop 988638729  5  3 c   kc    k     k         2699   20   55 Tc Ts
+Krahsloop 988638756  4  2 Bc  kf    -     -         2734   20    0 
+Krahsloop 988638789  4  1 Bc  k     k     k         2714   10    0 5c 7s
+Krahsloop 988638806  4  4 f   -     -     -         2704    0    0 
+Krahsloop 988638822  4  3 f   -     -     -         2704    0    0 
+Krahsloop 988638835  4  2 Bk  k     kf    -         2704   10    0 
+Krahsloop 988638853  4  1 Bc  kf    -     -         2694   10    0 
+Krahsloop 988638867  4  4 c   k     c     c         2684   50  130 Jh 9d
+Krahsloop 988638897  4  3 f   -     -     -         2764    0    0 
+Krahsloop 988638914  4  2 Bk  kf    -     -         2764   10    0 
+Krahsloop 988638929  4  1 Bc  kf    -     -         2754   10    0 
+Krahsloop 988638955  4  4 c   f     -     -         2744   10    0 
+Krahsloop 988639008  4  3 cf  -     -     -         2734   10    0 
+Krahsloop 988639040  4  2 B   -     -     -         2724   10   15 
+Krahsloop 988639046  4  1 Bc  kf    -     -         2729   10    0 
+Krahsloop 988639077  4  4 f   -     -     -         2719    0    0 
+Krahsloop 988639105  4  3 c   k     kc    k         2719   30    0 7s Ts
+Krahsloop 988639135  5  3 f   -     -     -         2689    0    0 
+Krahsloop 988639165  5  2 Bk  k     b     k         2689   30   60 4s 6s
+Krahsloop 988639193  5  1 Bc  kc    kc    kc        2719   60    0 5c 5s
+Krahsloop 988639234  5  5 f   -     -     -         2659    0    0 
+Krahsloop 988639268  5  4 c   k     rr    rr        2659  170  370 7s 7h
+Krahsloop 988639307  5  3 f   -     -     -         2859    0    0 
+Krahsloop 988639338  5  2 Bf  -     -     -         2859   10    0 
+Krahsloop 988639368  5  1 Bc  b     k     bc        2849   60  120 Kc Jd
+Krahsloop 988639399  5  5 f   -     -     -         2909    0    0 
+Krahsloop 988639430  5  4 f   -     -     -         2909    0    0 
+Krahsloop 988639438  5  3 f   -     -     -         2909    0    0 
+Krahsloop 988639450  5  2 Bf  -     -     -         2909   10    0 
+Krahsloop 988639461  5  1 Bc  k     k     b         2899   30    0 8c Js
+Krahsloop 988639481  5  5 f   -     -     -         2869    0    0 
+Krahsloop 988639500  5  4 c   c     b     b         2869   60  130 
+Krahsloop 988639522  5  3 f   -     -     -         2939    0    0 
+Krahsloop 988639536  5  2 Bk  kf    -     -         2939   10    0 
+Krahsloop 988639561  5  1 Bc  b     k     b         2929   40  100 Qc Ah
+Krahsloop 988639592  5  5 c   k     k     k         2989   10    0 Ah 5h
+Krahsloop 988639617  5  4 f   -     -     -         2979    0    0 
+Krahsloop 988639643  5  3 f   -     -     -         2979    0    0 
+Krahsloop 988639665  5  2 Bk  f     -     -         2979   10    0 
+Krahsloop 988639687  5  1 Bc  kc    kf    -         2969   20    0 
+Krahsloop 988639721  5  5 c   k     f     -         2949   10    0 
+Krahsloop 988639791  5  4 c   c     c     k         2939   40  105 Kc Td
+Krahsloop 988639817  5  3 c   k     k     b         3004   30   60 
+Krahsloop 988639853  6  2 Bk  f     -     -         3034   10    0 
+Krahsloop 988639891  6  1 Bc  kQ    -     -         3024   10    0 
+Krahsloop 988640016  6  3 f   -     -     -         3014    0    0 
+Krahsloop 988640049  6  2 Bk  kc    kc    kc        3014   60    0 Ts Tc
+Krahsloop 988640095  7  1 Bf  -     -     -         2954    5    0 
+Krahsloop 988640124  6  6 c   f     -     -         2949   10    0 
+Krahsloop 988640145  6  5 f   -     -     -         2939    0    0 
+Krahsloop 988640170  6  4 c   k     c     k         2939   30  120 Qc 9c
+Krahsloop 988640204  6  3 f   Q     -     -         3029    0    0 

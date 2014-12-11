@@ -1,0 +1,91 @@
+hanshan   986607726  5  3 cc  br    bc    k          820  100    0 6c 5d
+hanshan   986607768  6  2 Bc  kc    br    b          720  120    0 Th Jd
+hanshan   986607818  5  1 Bf  -     -     -          600    5    0 
+hanshan   986607848  5  5 f   -     -     -          595    0    0 
+hanshan   986607885  5  4 f   -     -     -          595    0    0 
+hanshan   986607902  4  2 f   -     -     -          595    0    0 
+hanshan   986607929  5  2 Bk  krc   bc    kc         595  100    0 Ts 8h
+hanshan   986607982  6  1 Bc  kf    -     -          495   20    0 
+hanshan   986608032  5  5 f   -     -     -          475    0    0 
+hanshan   986608067  5  4 rr  c     rc    c          475  150    0 9c 9s
+hanshan   986608100  5  3 f   -     -     -          325    0    0 
+hanshan   986608143  5  2 Bk  k     b     -          325   30   45 
+hanshan   986608160  5  1 Bf  -     -     -          340    5    0 
+hanshan   986608189  5  5 c   k     r     b          335   70  160 8c 5c
+hanshan   986608216  4  3 f   -     -     -          425    0    0 
+hanshan   986608242  4  2 Bc  k     b     b          425   60  160 6h 4d
+hanshan   986608278  4  1 Bc  b     bc    kc         525   80    0 Ad 8h
+hanshan   986608299  4  4 f   -     -     -          445    0    0 
+hanshan   986608320  4  3 f   -     -     -          445    0    0 
+hanshan   986608348  4  2 Bc  f     -     -          445   20    0 
+hanshan   986608387  4  1 Bf  -     -     -          425    5    0 
+hanshan   986608405  4  4 f   -     -     -          420    0    0 
+hanshan   986608416  4  3 f   -     -     -          420    0    0 
+hanshan   986608445  4  2 Bc  k     kc    bc         420   80    0 9d Jh
+hanshan   986608476  4  1 Bf  -     -     -          340    5    0 
+hanshan   986608506  4  4 f   -     -     -          335    0    0 
+hanshan   986608528  4  3 cc  f     -     -          335   30    0 
+hanshan   986608571  4  2 Bf  -     -     -          305   10    0 
+hanshan   986608609  4  1 Bc  brc   b     b          295  100  105 9s Kh
+hanshan   986608643  4  4 f   -     -     -          300    0    0 
+hanshan   986608659  4  3 c   br    b     b          300   80  210 6s 9s
+hanshan   986608712  4  2 Bk  kf    -     -          430   10    0 
+hanshan   986608743  4  1 Bc  kf    -     -          420   20    0 
+hanshan   986608765  5  5 r   c     r     -          400   70  125 
+hanshan   986608792  6  5 c   b     b     b          455   60  110 
+hanshan   986608826  6  4 cc  k     c     r          505  100  330 Td Js
+hanshan   986608859  6  3 f   -     -     -          735    0    0 
+hanshan   986608935  6  2 Bc  br    k     b          735   70    0 8c Qc
+hanshan   986608965  7  1 Br  brc   br    b          665  140    0 Qs Js
+hanshan   986609002  7  7 f   -     -     -          525    0    0 
+hanshan   986609051  7  6 r   r     f     -          525   40    0 
+hanshan   986609128  8  5 cc  c     cr    c          485  130    0 5d Ah
+hanshan   986609200  8  4 f   -     -     -          355    0    0 
+hanshan   986609275  8  3 f   -     -     -          355    0    0 
+hanshan   986609312  8  2 Bc  k     b     bf         355   60    0 
+hanshan   986609365  9  1 Bf  -     -     -          295    5    0 
+hanshan   986609428  8  8 f   -     -     -          290    0    0 
+hanshan   986609557 10  7 fQ  -     -     -          290    0    0 
+hanshan   986965611  7  5 f   -     -     -          290    0    0 
+hanshan   986965691  6  3 rc  bc    kc    kf         290   70    0 
+hanshan   986965739  5  2 B   -     -     -          220   10   15 
+hanshan   986965752  5  1 Br  b     b     b          225   70  150 Jh Jd
+hanshan   986965796  5  5 r   -     -     -          305   20   35 
+hanshan   986965809  6  5 f   -     -     -          320    0    0 
+hanshan   986965844  7  5 f   -     -     -          320    0    0 
+hanshan   986965871  7  4 f   -     -     -          320    0    0 
+hanshan   986965923  8  4 f   -     -     -          320    0    0 
+hanshan   986966070  7  3 f   -     -     -          320    0    0 
+hanshan   986966083  8  2 Bk  kf    -     -          320   10    0 
+hanshan   986966101  6  1 Bc  krc   bc    kc         310  100    0 Ks 8c
+hanshan   986966154  6  6 c   b     -     -          210   20   45 
+hanshan   986966180  6  5 f   -     -     -          235    0    0 
+hanshan   986966208  7  5 f   -     -     -          235    0    0 
+hanshan   986966257  6  3 f   -     -     -          235    0    0 
+hanshan   986966285  6  2 Bf  -     -     -          235   10    0 
+hanshan   986966305  6  1 Br  b     b     k          225   50    0 9h 9d
+hanshan   986966359  6  6 f   -     -     -          175    0    0 
+hanshan   986966392  6  5 c   b     -     -          175   20   45 
+hanshan   986966421  6  4 r   k     b     -          200   40   65 
+hanshan   986966458  6  3 f   -     -     -          225    0    0 
+hanshan   986966494  7  2 B   -     -     -          225   10   15 
+hanshan   986966500  7  1 Bc  b     -     -          230   20   50 
+hanshan   986966518  8  8 f   -     -     -          260    0    0 
+hanshan   986966554  8  7 f   -     -     -          260    0    0 
+hanshan   986966584 10  6 f   -     -     -          260    0    0 
+hanshan   986966645 10  5 f   -     -     -          260    0    0 
+hanshan   986966699 10  4 f   -     -     -          260    0    0 
+hanshan   986966743 10  3 f   -     -     -          260    0    0 
+hanshan   986966775 10  2 Bk  f     -     -          260   10    0 
+hanshan   986966802  9  1 Bf  -     -     -          250    5    0 
+hanshan   986966855  9  9 f   Q     -     -          245    0    0 
+hanshan   988260295  9  5 f   -     -     -          245    0    0 
+hanshan   988260332  9  4 f   -     -     -          245    0    0 
+hanshan   988260412 10  3 f   -     -     -          245    0    0 
+hanshan   988260468 10  2 Bk  kf    -     -          245   10    0 
+hanshan   988260501  9  1 Bf  -     -     -          235    5    0 
+hanshan   988260532  9  9 f   -     -     -          230    0    0 
+hanshan   988260579 10  9 f   -     -     -          230    0    0 
+hanshan   988260639 10  8 r   c     KQ    -          230   40    0 
+hanshan   988347468  8  6 r   br    r     b          190  110  315 8s 6s
+hanshan   988347552  8  4 Q   -     -     -          395    0    0 

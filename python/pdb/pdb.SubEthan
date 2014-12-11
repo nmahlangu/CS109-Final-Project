@@ -1,0 +1,597 @@
+SubEthan  986225810  7  4 f   -     -     -         1924    0    0 
+SubEthan  986225855  7  3 c   kf    -     -         1924   10    0 
+SubEthan  986225911  8  2 Bk  k     k     f         1914   10    0 
+SubEthan  986225953  9  1 Bc  k     k     b         1904   30   55 9c Jd
+SubEthan  986226015  9  9 f   -     -     -         1929    0    0 
+SubEthan  986226031  9  8 c   k     f     -         1929   10    0 
+SubEthan  986226096  7  5 fQ  -     -     -         1919    0    0 
+SubEthan  986236481 10  6 f   -     -     -         1919    0    0 
+SubEthan  986236563 10  5 f   -     -     -         1919    0    0 
+SubEthan  986236603 10  4 f   -     -     -         1919    0    0 
+SubEthan  986236662 10  3 f   -     -     -         1919    0    0 
+SubEthan  986236726 10  2 Bk  kf    -     -         1919   10    0 
+SubEthan  986236801 10  1 Bf  -     -     -         1909    5    0 
+SubEthan  986236905 10 10 f   -     -     -         1904    0    0 
+SubEthan  986237076 10  9 f   -     -     -         1904    0    0 
+SubEthan  986237148  9  7 f   -     -     -         1904    0    0 
+SubEthan  986237226  8  6 f   -     -     -         1904    0    0 
+SubEthan  986237279  8  5 f   -     -     -         1904    0    0 
+SubEthan  986237344  8  4 f   -     -     -         1904    0    0 
+SubEthan  986237386  8  3 f   -     -     -         1904    0    0 
+SubEthan  986237453  7  2 Bk  KQ    -     -         1904   10    0 
+SubEthan  986244195  5  3 cc  bc    kc    k         1894   60  190 Th Ts
+SubEthan  986244246  5  2 Bf  -     -     -         2024   10    0 
+SubEthan  986244274  5  1 Bc  k     b     b         2014   50    0 6d 4c
+SubEthan  986244313  5  4 f   -     -     -         1964    0    0 
+SubEthan  986244351  5  4 cc  c     r     b         1964   90  220 7s 7c
+SubEthan  986244407  5  3 f   -     -     -         2094    0    0 
+SubEthan  986244458  6  2 Bk  kf    -     -         2094   10    0 
+SubEthan  986244502  7  1 Bc  kf    -     -         2084   10    0 
+SubEthan  986244564  8  8 f   -     -     -         2074    0    0 
+SubEthan  986244643  7  7 f   -     -     -         2074    0    0 
+SubEthan  986244703  7  6 f   -     -     -         2074    0    0 
+SubEthan  986244759  7  5 f   -     -     -         2074    0    0 
+SubEthan  986244815  7  4 f   -     -     -         2074    0    0 
+SubEthan  986244857  7  3 f   -     -     -         2074    0    0 
+SubEthan  986244905  7  2 Bc  kc    kr    b         2074  100  295 Th 7h
+SubEthan  986244969  8  1 Bf  -     -     -         2269    5    0 
+SubEthan  986245009  8  8 f   -     -     -         2264    0    0 
+SubEthan  986245079  6  5 r   b     b     b         2264   70  145 
+SubEthan  986245127  6  4 f   -     -     -         2339    0    0 
+SubEthan  986245160  6  3 f   -     -     -         2339    0    0 
+SubEthan  986245204  6  2 Bk  b     b     k         2339   40  140 9s Kc
+SubEthan  986245256  6  1 Bc  kc    kf    -         2439   20    0 
+SubEthan  986245328  7  7 f   -     -     -         2419    0    0 
+SubEthan  986245365  7  6 f   -     -     -         2419    0    0 
+SubEthan  986245410  7  5 f   -     -     -         2419    0    0 
+SubEthan  986245472  8  5 f   -     -     -         2419    0    0 
+SubEthan  986245515  8  4 rc  b     bc    k         2419   80    0 Ks Jh
+SubEthan  986245561  8  3 f   -     -     -         2339    0    0 
+SubEthan  986245612  8  2 Bk  b     k     b         2339   40  130 
+SubEthan  986245660  8  1 Bf  -     -     -         2429    5    0 
+SubEthan  986245715  8  8 f   -     -     -         2424    0    0 
+SubEthan  986245781 10  8 c   c     f     -         2424   20    0 
+SubEthan  986245846  9  7 f   -     -     -         2404    0    0 
+SubEthan  986245929  8  5 f   -     -     -         2404    0    0 
+SubEthan  986246007 10  6 f   -     -     -         2404    0    0 
+SubEthan  986246100 10  4 f   -     -     -         2404    0    0 
+SubEthan  986246195  9  3 f   -     -     -         2404    0    0 
+SubEthan  986246262  9  2 Bk  kf    -     -         2404   10    0 
+SubEthan  986246309 10  1 Bf  -     -     -         2394    5    0 
+SubEthan  986246380 10 10 f   -     -     -         2389    0    0 
+SubEthan  986246452 10  9 f   -     -     -         2389    0    0 
+SubEthan  986246531 10  8 f   -     -     -         2389    0    0 
+SubEthan  986246598  9  6 f   -     -     -         2389    0    0 
+SubEthan  986246661  9  5 f   -     -     -         2389    0    0 
+SubEthan  986246735 10  4 f   -     -     -         2389    0    0 
+SubEthan  986246851 10  3 f   -     -     -         2389    0    0 
+SubEthan  986246890 10  2 Bk  kf    -     -         2389   10    0 
+SubEthan  986247041  8  1 Bf  -     -     -         2379    5    0 
+SubEthan  986247116  9  9 f   -     -     -         2374    0    0 
+SubEthan  986247175  9  8 c   kf    -     -         2374   10    0 
+SubEthan  986247221  9  7 f   -     -     -         2364    0    0 
+SubEthan  986247303  9  6 c   c     kf    -         2364   20    0 
+SubEthan  986247384  9  5 f   -     -     -         2344    0    0 
+SubEthan  986247551  8  5 f   -     -     -         2344    0    0 
+SubEthan  986247594  8  4 f   -     -     -         2344    0    0 
+SubEthan  986247656  8  3 f   -     -     -         2344    0    0 
+SubEthan  986247694  8  2 Bk  kc    k     b         2344   40  100 
+SubEthan  986247749  8  1 Bf  -     -     -         2404    5    0 
+SubEthan  986247805  8  8 f   -     -     -         2399    0    0 
+SubEthan  986247857  8  7 r   br    b     bc        2399  110    0 Qh Kh
+SubEthan  986247908  8  6 c   bc    kc    c         2289   80  325 Td Jd
+SubEthan  986247999  8  5 rc  f     -     -         2534   40    0 
+SubEthan  986248053  8  4 f   -     -     -         2494    0    0 
+SubEthan  986248131  8  3 c   bc    kc    kc        2494   70    0 Kc Th
+SubEthan  986248182  8  2 Bk  kf    -     -         2424   10    0 
+SubEthan  986248258  9  1 Bc  b     bc    k         2414   60    0 Kh Td
+SubEthan  986248310  9  9 f   -     -     -         2354    0    0 
+SubEthan  986248355  9  8 f   -     -     -         2354    0    0 
+SubEthan  986248441  8  6 f   -     -     -         2354    0    0 
+SubEthan  986248463  8  5 cc  kc    kc    kf        2354   60    0 
+SubEthan  986248559  9  4 f   -     -     -         2294    0    0 
+SubEthan  986248658  8  3 f   -     -     -         2294    0    0 
+SubEthan  986248702  8  2 Brc b     b     b         2294   90    0 Jc Ah
+SubEthan  986248746  8  1 Bc  kf    -     -         2204   10    0 
+SubEthan  986248795  8  8 f   -     Q     -         2194    0    0 
+SubEthan  986407049  3  2 B   -     -     -         5188   10   15 
+SubEthan  986407059  3  1 Bf  -     -     -         5193    5    0 
+SubEthan  986407068  2  2 f   -     -     -         5188    0    0 
+SubEthan  986407071  2  2 Bk  b     -     -         5188   20   30 
+SubEthan  986407080  2  1 Bf  -     -     -         5198    5    0 
+SubEthan  986407083  2  2 B   -     -     -         5193   10   15 
+SubEthan  986407086  2  1 Bf  -     -     -         5198    5    0 
+SubEthan  986407088  2  2 B   -     -     -         5193   10   15 
+SubEthan  986407090  2  1 Br  -     -     -         5198   20   30 
+SubEthan  986407095  2  2 B   -     -     -         5208   10   15 
+SubEthan  986407098  2  1 Bf  -     -     -         5213    5    0 
+SubEthan  986407101  2  2 B   -     -     -         5208   10   15 
+SubEthan  986407103  2  1 Br  -     -     -         5213   20   30 
+SubEthan  986407110  2  2 B   -     -     -         5223   10   15 
+SubEthan  986407113  2  1 Bf  -     -     -         5228    5    0 
+SubEthan  986407119  2  2 Bf  -     -     -         5223   10    0 
+SubEthan  986407132  2  1 Bc  bc    kr    b         5213   90  160 
+SubEthan  986407159  2  2 Bk  f     -     -         5283   10    0 
+SubEthan  986407169  2  1 Bc  k     k     k         5273   10    0 8c 9h
+SubEthan  986407187  2  2 B   -     -     -         5263   10   15 
+SubEthan  986407194  2  1 Bc  k     k     k         5268   10   10 8c 7s
+SubEthan  986407211  2  2 B   -     -     -         5268   10   15 
+SubEthan  986407220  2  1 Bf  -     -     -         5273    5    0 
+SubEthan  986407223  2  2 Bk  b     b     b         5268   60  120 8s 9s
+SubEthan  986407245  2  1 Bc  k     k     k         5328   10   20 Kd 4h
+SubEthan  986407284  2  2 B   -     -     -         5338   10   15 
+SubEthan  986407298  2  1 Bc  k     kf    -         5343   10    0 
+SubEthan  986407325  2  2 B   -     -     -         5333   10   15 
+SubEthan  986407327  2  1 Bf  -     -     -         5338    5    0 
+SubEthan  986407333  2  2 B   -     -     -         5333   10   15 
+SubEthan  986407340  2  1 Bc  k     kf    -         5338   10    0 
+SubEthan  986407360  2  2 B   -     -     -         5328   10   15 
+SubEthan  986407366  2  1 Bc  b     bc    kc        5333   80    0 7c 3c
+SubEthan  986407425  2  2 Bk  b     -     -         5253   20   30 
+SubEthan  986407444  2  1 Bf  -     -     -         5263    5    0 
+SubEthan  986407449  2  2 Bk  k     k     k         5258   10    0 3s 2h
+SubEthan  986407503  2  1 Bc  kf    -     -         5248   10    0 
+SubEthan  986407519  2  2 B   -     -     -         5238   10   15 
+SubEthan  986407523  2  1 Bf  -     -     -         5243    5    0 
+SubEthan  986407526  2  2 B   -     -     -         5238   10   15 
+SubEthan  986407550  2  1 Bf  -     -     -         5243    5    0 
+SubEthan  986407554  2  2 Bk  k     k     b         5238   30   40 
+SubEthan  986407578  2  1 Bf  -     -     -         5248    5    0 
+SubEthan  986407581  2  2 B   -     -     -         5243   10   15 
+SubEthan  986407583  2  1 Bc  b     -     -         5248   20   30 
+SubEthan  986407592  2  2 Bk  b     b     -         5258   40   60 
+SubEthan  986407607  2  1 Bcc kc    kf    -         5278   30    0 
+SubEthan  986407626  2  2 Bk  k     b     bc        5248   70    0 7c 7h
+SubEthan  986407653  2  1 Bf  -     -     -         5178    5    0 
+SubEthan  986407668  2  2 B   -     -     -         5173   10   15 
+SubEthan  986407736  2  1 Bf  -     -     -         5178    5    0 
+SubEthan  986407758  2  2 B   -     -     -         5173   10   15 
+SubEthan  986407765  2  1 Bc  k     k     k         5178   10   20 Ad Ks
+SubEthan  986407789  2  2 B   -     -     -         5188   10   15 
+SubEthan  986407796  2  1 Bf  -     -     -         5193    5    0 
+SubEthan  986407799  2  2 Bk  c     k     k         5188   20    0 9h 8d
+SubEthan  986407820  2  1 Bf  -     -     -         5168    5    0 
+SubEthan  986407824  2  2 Bk  k     k     k         5163   10   10 Qh Kh
+SubEthan  986407841  2  1 Bf  -     -     -         5163    5    0 
+SubEthan  986407844  2  2 B   -     -     -         5158   10   15 
+SubEthan  986407846  2  1 Bf  -     -     -         5163    5    0 
+SubEthan  986407849  2  2 B   -     -     -         5158   10   15 
+SubEthan  986407852  2  1 Bc  b     -     -         5163   20   30 
+SubEthan  986407890  2  2 BQ  -     -     -         5173   10    0 
+SubEthan  986576135  8  6 f   -     -     -         8117    0    0 
+SubEthan  986576182  8  5 f   -     -     -         8117    0    0 
+SubEthan  986576258  8  4 f   -     -     -         8117    0    0 
+SubEthan  986576313  8  3 f   -     -     -         8117    0    0 
+SubEthan  986576330  8  2 Bk  f     -     -         8117   10    0 
+SubEthan  986576414  9  1 Bf  -     -     -         8107    5    0 
+SubEthan  986576470  9  9 r   rf    -     -         8102   40    0 
+SubEthan  986576509 10  9 f   -     -     -         8062    0    0 
+SubEthan  986576586 10  8 cc  kc    kc    k         8062   50    0 8s Ks
+SubEthan  986576653 10  7 f   -     -     -         8012    0    0 
+SubEthan  986576683 10  6 f   -     -     -         8012    0    0 
+SubEthan  986576760 10  5 c   kf    -     -         8012   10    0 
+SubEthan  986576853  9  3 fQ  -     -     -         8002    0    0 
+SubEthan  986828463  8  2 Br  bc    kf    -         7092   40    0 
+SubEthan  986828508  9  1 Bc  k     kf    -         7052   10    0 
+SubEthan  986828543  9  9 f   -     -     -         7042    0    0 
+SubEthan  986828587 10  8 r   b     b     -         7042   50  130 
+SubEthan  986828634 10  7 cc  r     b     ccc       7122  140  183 Js Kc
+SubEthan  986828719 10  7 f   Q     -     -         7165    0    0 
+SubEthan  986922657  9  7 f   -     -     -        21028    0    0 
+SubEthan  986922700 10  6 rr  br    b     b        21028  110  375 Ad Ac
+SubEthan  986922781 10  5 f   -     -     -        21293    0    0 
+SubEthan  986922835 10  4 f   -     -     -        21293    0    0 
+SubEthan  986922868 10  3 f   -     -     -        21293    0    0 
+SubEthan  986922948 10  2 Bk  k     kf    -        21293   10    0 
+SubEthan  986923024 10  1 Bc  k     k     kf       21283   20    0 
+SubEthan  986923097  9  9 f   -     -     -        21263    0    0 
+SubEthan  986923167 10  9 c   f     -     -        21263   20    0 
+SubEthan  986923217 10  8 f   -     -     -        21243    0    0 
+SubEthan  986923267 10  7 f   -     -     -        21243    0    0 
+SubEthan  986923315 10  6 f   -     -     -        21243    0    0 
+SubEthan  986923386 10  5 f   -     -     -        21243    0    0 
+SubEthan  986923440 10  4 f   -     -     -        21243    0    0 
+SubEthan  986923497 10  3 f   -     -     -        21243    0    0 
+SubEthan  986923550 10  2 Bc  k     b     b        21243   60  105 
+SubEthan  986923596 10  1 Bf  -     -     -        21288    5    0 
+SubEthan  986923657 10 10 c   f     -     -        21283   10    0 
+SubEthan  986923727  9  8 f   -     -     -        21273    0    0 
+SubEthan  986923762  8  6 rc  kf    -     -        21273   30    0 
+SubEthan  986923837  8  5 f   -     -     -        21243    0    0 
+SubEthan  986923872  8  4 f   -     -     -        21243    0    0 
+SubEthan  986923912  8  3 f   -     -     -        21243    0    0 
+SubEthan  986923969  8  2 Br  b     kf    -        21243   30    0 
+SubEthan  986924017  8  1 Bf  -     -     -        21213    5    0 
+SubEthan  986924089  8  8 c   k     r     b        21208   70  160 7s 7c
+SubEthan  986924143  8  7 f   -     -     -        21298    0    0 
+SubEthan  986924194  7  5 f   -     -     -        21298    0    0 
+SubEthan  986924221  7  3 Q   -     -     -        21298    0    0 
+SubEthan  987090357  4  3 f   -     -     -        20610    0    0 
+SubEthan  987090398  3  2 Br  b     -     -        20610   30   50 
+SubEthan  987090414  3  1 Bc  k     k     k        20630   10    0 Ks 7s
+SubEthan  987090435  3  3 c   k     k     k        20620   10    0 2h 2c
+SubEthan  987090450  3  2 Br  b     -     -        20610   40   75 
+SubEthan  987090464  4  1 Bcc kf    -     -        20645   20    0 
+SubEthan  987090482  4  4 f   -     Q     -        20625    0    0 
+SubEthan  987475572  3  2 Bk  k     k     k        54583   10    0 Ts 6c
+SubEthan  987475612  3  1 Bc  k     b     -        54573   30   40 
+SubEthan  987475630  3  3 f   -     -     -        54583    0    0 
+SubEthan  987475633  3  2 Bk  kf    -     -        54583   10    0 
+SubEthan  987475647  3  1 Bf  -     -     -        54573    5    0 
+SubEthan  987475653  3  3 f   -     -     -        54568    0    0 
+SubEthan  987475679  4  3 f   -     -     -        54568    0    0 
+SubEthan  987475698  4  2 Bk  r     b     b        54568   70  160 Tc 7s
+SubEthan  987475756  4  1 Bf  -     -     -        54658    5    0 
+SubEthan  987475802  4  4 c   b     b     -        54653   40   70 
+SubEthan  987475840  5  4 rc  r     b     k        54683   70  200 Ad Th
+SubEthan  987475890  5  3 f   -     -     -        54813    0    0 
+SubEthan  987475940  5  2 Bk  k     b     c        54813   50    0 2c Td
+SubEthan  987475985  6  1 Bf  -     -     -        54763    5    0 
+SubEthan  987476016  6  6 f   -     -     -        54758    0    0 
+SubEthan  987476065  5  4 f   -     -     -        54758    0    0 
+SubEthan  987476071  5  3 cc  c     f     -        54758   30    0 
+SubEthan  987476116  5  2 Br  b     b     b        54728   70  155 
+SubEthan  987476178  5  1 Bf  -     -     -        54813    5    0 
+SubEthan  987476203  5  5 f   -     -     -        54808    0    0 
+SubEthan  987476250  7  6 c   c     f     -        54808   20    0 
+SubEthan  987476325  7  5 f   -     -     -        54788    0    0 
+SubEthan  987476381  7  5 f   -     -     -        54788    0    0 
+SubEthan  987476418  7  4 r   b     -     -        54788   30  100 
+SubEthan  987476458  8  3 f   -     -     -        54858    0    0 
+SubEthan  987476554  8  2 Bf  -     -     -        54858   10    0 
+SubEthan  987476674  7  1 Bf  -     -     -        54848    5    0 
+SubEthan  987476712  7  7 c   f     -     -        54843   10    0 
+SubEthan  987476801  7  6 f   -     -     -        54833    0    0 
+SubEthan  987476858  7  5 fQ  -     -     -        54833    0    0 
+SubEthan  987526276  7  4 f   -     -     -        54748    0    0 
+SubEthan  987526318  8  3 f   -     -     -        54748    0    0 
+SubEthan  987526356  9  2 Bk  kf    -     -        54748   10    0 
+SubEthan  987526434 10  1 Br  b     b     b        54738   70    0 Js Ad
+SubEthan  987526480 10 10 rc  c     c     f        54668   60    0 
+SubEthan  987526534  9  8 f   -     -     -        54608    0    0 
+SubEthan  987526593  8  6 c   c     k     k        54608   20    0 Tc 8c
+SubEthan  987526639  8  5 f   -     -     -        54588    0    0 
+SubEthan  987526685  8  4 f   -     -     -        54588    0    0 
+SubEthan  987526742  8  3 cc  k     kf    -        54588   20    0 
+SubEthan  987526813  7  2 Bf  -     -     -        54568   10    0 
+SubEthan  987526899  8  1 Bf  -     -     -        54558    5    0 
+SubEthan  987526984  7  7 f   -     -     -        54553    0    0 
+SubEthan  987527064  6  5 f   -     -     -        54553    0    0 
+SubEthan  987527126  6  4 r   b     b     c        54553   70    0 Qs Ac
+SubEthan  987527194  8  4 r   b     b     b        54483   70  135 
+SubEthan  987527252 10  3 f   -     -     -        54548    0    0 
+SubEthan  987527319  9  2 Bk  b     b     -        54548   40   90 
+SubEthan  987527364  9  1 Bf  -     -     -        54598    5    0 
+SubEthan  987527434  9  9 c   c     k     f        54593   20    0 
+SubEthan  987527491  9  8 f   -     -     -        54573    0    0 
+SubEthan  987527580 10  8 rc  kc    kc    k        54573   70    0 Kd Qh
+SubEthan  987527644 10  7 f   -     -     -        54503    0    0 
+SubEthan  987527724 10  6 f   -     -     -        54503    0    0 
+SubEthan  987527777 10  5 f   -     -     -        54503    0    0 
+SubEthan  987527824 10  4 r   br    b     b        54503   90  195 Kd Kh
+SubEthan  987527856 10  3 f   -     -     -        54608    0    0 
+SubEthan  987527913 10  2 Bk  kf    -     -        54608   10    0 
+SubEthan  987527943 10  1 Bf  -     -     -        54598    5    0 
+SubEthan  987527991 10 10 cc  c     c     f        54593   70    0 
+SubEthan  987528048  9  8 f   -     -     -        54523    0    0 
+SubEthan  987528080 10  8 f   -     -     -        54523    0    0 
+SubEthan  987528130 10  7 r   cc    f     -        54523   40    0 
+SubEthan  987528195 10  6 r   f     -     -        54483   20    0 
+SubEthan  987528323 10  5 f   -     -     -        54463    0    0 
+SubEthan  987528409 10  4 f   -     -     -        54463    0    0 
+SubEthan  987528456 10  3 fQ  -     -     -        54463    0    0 
+SubEthan  987692587  7  5 c   b     k     f        54698   20    0 
+SubEthan  987692637  7  4 f   -     -     -        54678    0    0 
+SubEthan  987692668  7  3 fQ  -     -     -        54678    0    0 
+SubEthan  988137431 10  3 c   r     c     c        49816   70    0 5d 5c
+SubEthan  988137509 10  2 Bk  kf    -     -        49746   10    0 
+SubEthan  988137563 10  1 Bf  -     -     -        49736    5    0 
+SubEthan  988137595 10 10 c   k     k     f        49731   10    0 
+SubEthan  988137656 10  9 f   -     -     -        49721    0    0 
+SubEthan  988137721 10  8 cc  cf    -     -        49721   50    0 
+SubEthan  988137791 10  7 f   -     -     -        49671    0    0 
+SubEthan  988137842 10  7 f   -     -     -        49671    0    0 
+SubEthan  988137879 10  5 c   c     b     -        49671   40   85 
+SubEthan  988137995 10  4 f   -     -     -        49716    0    0 
+SubEthan  988138031 10  3 f   -     -     -        49716    0    0 
+SubEthan  988138075 10  2 Bc  kf    -     -        49716   20    0 
+SubEthan  988138123 10  1 Bf  -     -     -        49696    5    0 
+SubEthan  988138185 10 10 f   -     -     -        49691    0    0 
+SubEthan  988138246 10  9 c   f     -     -        49691   30    0 
+SubEthan  988138350 10  8 c   f     -     -        49661   10    0 
+SubEthan  988138422  9  6 f   -     -     -        49651    0    0 
+SubEthan  988138460  9  5 r   b     -     -        49651   30   85 
+SubEthan  988138490  9  4 f   -     -     -        49706    0    0 
+SubEthan  988138527  9  3 f   -     -     -        49706    0    0 
+SubEthan  988138568  9  2 Bf  -     -     -        49706   10    0 
+SubEthan  988138616  9  1 Bc  k     bf    -        49696   30    0 
+SubEthan  988138662  9  9 f   -     -     -        49666    0    0 
+SubEthan  988138712  9  8 f   -     -     -        49666    0    0 
+SubEthan  988138760  9  7 f   -     -     -        49666    0    0 
+SubEthan  988138797  9  6 r   r     b     -        49666   60  165 
+SubEthan  988138846 10  6 f   -     -     -        49771    0    0 
+SubEthan  988138876  9  5 Q   -     -     -        49771    0    0 
+SubEthan  988139010  8  6 f   -     -     -        49771    0    0 
+SubEthan  988139058  8  5 f   -     -     -        49771    0    0 
+SubEthan  988139093  8  4 c   kc    kf    -        49771   20    0 
+SubEthan  988139143  9  4 f   -     -     -        49751    0    0 
+SubEthan  988139168  9  3 f   -     -     -        49751    0    0 
+SubEthan  988139197  8  2 Bk  c     c     kf       49751   40    0 
+SubEthan  988139250  8  1 Bc  k     k     kf       49711   10    0 
+SubEthan  988139292  8  8 c   k     b     r        49701   90  290 Kd 2d
+SubEthan  988139348  8  7 f   -     -     -        49901    0    0 
+SubEthan  988139416  8  6 f   -     -     -        49901    0    0 
+SubEthan  988139455  9  6 f   -     -     -        49901    0    0 
+SubEthan  988139509 10  5 f   -     -     -        49901    0    0 
+SubEthan  988139580 10  4 f   -     -     -        49901    0    0 
+SubEthan  988139651 10  3 f   -     -     -        49901    0    0 
+SubEthan  988139718 10  2 Bk  b     b     bc       49901   80    0 Ad 5s
+SubEthan  988139767 10  1 Bf  -     -     -        49821    5    0 
+SubEthan  988139842 10 10 c   c     b     b        49816   70  190 9c Tc
+SubEthan  988139908 10  9 f   -     -     -        49936    0    0 
+SubEthan  988140004 10  8 f   -     -     -        49936    0    0 
+SubEthan  988140076 10  7 r   br    br    b        49936  130  275 Jc Kc
+SubEthan  988140122 10  6 c   bc    k     kf       50081   30    0 
+SubEthan  988140220 10  5 r   br    b     b        50051   90  235 Js As
+SubEthan  988140301  9  4 f   -     -     -        50196    0    0 
+SubEthan  988140357 10  3 f   -     -     -        50196    0    0 
+SubEthan  988140400  9  2 Br  b     b     b        50196   70  235 As Qs
+SubEthan  988140456  9  1 BfQ -     -     -        50361    5    0 
+SubEthan  988140794 10  8 KQ  -     -     -        50356    0    0 
+SubEthan  988142762 10 10 f   -     -     -        50356    0    0 
+SubEthan  988142843  8  8 f   -     -     -        50356    0    0 
+SubEthan  988142875  8  8 f   -     -     -        50356    0    0 
+SubEthan  988142935  7  6 r   b     rc    f        50356   90    0 
+SubEthan  988143018  8  5 f   -     -     -        50266    0    0 
+SubEthan  988143069  8  4 f   -     -     -        50266    0    0 
+SubEthan  988143123  8  3 r   b     b     kf       50266   50    0 
+SubEthan  988143183  9  2 Bc  kf    -     -        50216   30    0 
+SubEthan  988143280  9  1 Brr br    b     b        50186  120    0 Ac Qc
+SubEthan  988143372  9  9 r   b     r     f        50066   70    0 
+SubEthan  988143418  9  8 c   f     -     -        49996   10    0 
+SubEthan  988143465  9  7 f   -     -     -        49986    0    0 
+SubEthan  988143517  8  5 c   b     b     b        49986   60  140 
+SubEthan  988143595  7  4 f   -     -     -        50066    0    0 
+SubEthan  988143638  7  4 rc  c     f     -        50066   40    0 
+SubEthan  988143692  6  2 Bk  b     bf    -        50026   40    0 
+SubEthan  988143788  7  1 Bf  -     -     -        49986    5    0 
+SubEthan  988143847  7  7 f   -     -     -        49981    0    0 
+SubEthan  988143893  7  6 f   -     -     -        49981    0    0 
+SubEthan  988143949  7  5 f   -     -     -        49981    0    0 
+SubEthan  988143985  7  4 f   -     -     -        49981    0    0 
+SubEthan  988144043  7  3 KQ  -     -     -        49981    0    0 
+SubEthan  988211199  5  3 r   b     bc    kf       50526   70    0 
+SubEthan  988211241  5  2 Bf  -     -     -        50456   10    0 
+SubEthan  988211273  5  1 Bf  -     -     -        50446    5    0 
+SubEthan  988211306  5  4 f   -     -     Q        50441    0    0 
+SubEthan  988221310  7  7 c   f     -     -        50351   10    0 
+SubEthan  988221388  8  6 f   -     -     -        50341    0    0 
+SubEthan  988221428  9  5 f   -     -     -        50341    0    0 
+SubEthan  988221484 10  4 fQ  -     -     -        50341    0    0 
+SubEthan  988299464 10  8 cc  f     -     -        42618   20    0 
+SubEthan  988299586 10  7 f   -     -     -        42598    0    0 
+SubEthan  988299654 10  6 rr  bc    kc    kf       42598   80    0 
+SubEthan  988299726 10  5 f   -     -     -        42518    0    0 
+SubEthan  988299784  9  4 r   k     f     -        42518   20    0 
+SubEthan  988299839 10  3 f   -     -     -        42498    0    0 
+SubEthan  988299901 10  2 Bk  kcc   kf    -        42498   30    0 
+SubEthan  988299969 10  1 Bc  kc    kf    -        42468   20    0 
+SubEthan  988300064  9  9 f   -     -     -        42448    0    0 
+SubEthan  988300134  9  7 c   kf    -     -        42448   10    0 
+SubEthan  988300196  8  5 r   bc    cc    f        42438   80    0 
+SubEthan  988300301  7  4 f   -     -     -        42358    0    0 
+SubEthan  988300361  9  3 f   -     -     -        42358    0    0 
+SubEthan  988300419  9  2 Bf  -     -     -        42358   10    0 
+SubEthan  988300491  9  1 Bc  k     k     b        42348   30   70 
+SubEthan  988300528  9  9 r   b     c     f        42388   60    0 
+SubEthan  988300578  9  8 f   -     -     -        42328    0    0 
+SubEthan  988300614  9  7 c   f     -     -        42328   20    0 
+SubEthan  988300700  9  7 f   -     -     -        42308    0    0 
+SubEthan  988300770  7  4 f   -     -     -        42308    0    0 
+SubEthan  988300818  7  3 f   -     -     -        42308    0    0 
+SubEthan  988300899  7  2 Br  b     -     -        42308   30   75 
+SubEthan  988300932  7  1 Bc  kc    kc    kf       42353   50    0 
+SubEthan  988300970  7  7 f   -     -     -        42303    0    0 
+SubEthan  988301008  7  6 c   c     b     k        42303   40    0 9d Th
+SubEthan  988301065  7  5 f   -     -     -        42263    0    0 
+SubEthan  988301122  6  4 f   -     -     -        42263    0    0 
+SubEthan  988301167  6  3 f   -     -     -        42263    0    0 
+SubEthan  988301207  7  2 Bf  -     -     -        42263   10    0 
+SubEthan  988301283  6  1 Bf  -     -     -        42253    5    0 
+SubEthan  988301336  7  7 f   -     -     -        42248    0    0 
+SubEthan  988301363  7  6 f   -     -     -        42248    0    0 
+SubEthan  988301403  7  5 f   -     -     -        42248    0    0 
+SubEthan  988301470  6  3 f   -     -     -        42248    0    0 
+SubEthan  988301514  6  3 c   b     b     b        42248   60    0 Qc Th
+SubEthan  988301582  6  2 Bk  k     k     k        42188   10    0 4d Th
+SubEthan  988301620  6  1 Bc  k     kc    kf       42178   40    0 
+SubEthan  988301669  6  6 f   -     -     -        42138    0    0 
+SubEthan  988301706  7  6 c   b     k     c        42138   40  140 Js Qs
+SubEthan  988301777  7  5 f   -     -     -        42238    0    0 
+SubEthan  988301833  6  3 f   -     -     -        42238    0    0 
+SubEthan  988301881  6  2 Br  b     b     -        42238   50  115 
+SubEthan  988301910  6  1 Bc  kf    -     -        42303   10    0 
+SubEthan  988301940  6  6 f   -     -     -        42293    0    0 
+SubEthan  988301967  6  5 f   -     -     -        42293    0    0 
+SubEthan  988302001  6  4 r   b     b     br       42293  110  295 Ac Ah
+SubEthan  988302049  6  3 f   -     -     -        42478    0    0 
+SubEthan  988302094  7  2 Bk  kc    b     b        42478   60  175 
+SubEthan  988302153  8  1 Bc  kf    -     -        42593   10    0 
+SubEthan  988302187  8  8 f   -     -     -        42583    0    0 
+SubEthan  988302243  8  7 f   Q     -     -        42583    0    0 
+SubEthan  988385110  8  7 c   r     b     bc       31298  100    0 Jc Qc
+SubEthan  988385183  8  6 r   k     k     b        31198   40   75 
+SubEthan  988385231  8  5 f   -     -     -        31233    0    0 
+SubEthan  988385287  8  4 f   -     -     -        31233    0    0 
+SubEthan  988385344  8  3 f   -     -     -        31233    0    0 
+SubEthan  988385382  8  2 Bk  kf    -     -        31233   10    0 
+SubEthan  988385402  6  1 Bf  -     -     -        31223    5    0 
+SubEthan  988385427  6  6 f   -     -     -        31218    0    0 
+SubEthan  988385456  6  5 r   r     r     rr       31218  160    0 Kc Kh
+SubEthan  988385512  6  4 f   -     -     -        31058    0    0 
+SubEthan  988385542  6  3 f   -     -     -        31058    0    0 
+SubEthan  988385589  6  2 Bk  k     f     -        31058   10    0 
+SubEthan  988385622  6  1 Bc  bc    b     k        31048   60  200 9s Js
+SubEthan  988385662  5  5 f   -     -     -        31188    0    0 
+SubEthan  988385697  5  4 f   -     -     -        31188    0    0 
+SubEthan  988385729  5  3 KQ  -     -     -        31188    0    0 
+SubEthan  988385825  5  5 f   -     -     -        31188    0    0 
+SubEthan  988385848  5  4 r   b     b     b        31188   70  145 
+SubEthan  988385872  5  3 f   -     -     -        31263    0    0 
+SubEthan  988385888  5  2 B   -     -     -        31263   10   15 
+SubEthan  988385894  5  1 Bc  kf    -     -        31268   10    0 
+SubEthan  988385915  5  5 r   k     b     k        31258   40    0 Qc Kd
+SubEthan  988385939  5  4 f   -     -     -        31218    0    0 
+SubEthan  988385979  5  3 f   -     -     -        31218    0    0 
+SubEthan  988385990  5  2 Bk  kf    -     -        31218   10    0 
+SubEthan  988386010  5  1 Bf  -     -     -        31208    5    0 
+SubEthan  988386020  5  5 f   -     -     -        31203    0    0 
+SubEthan  988386037  5  4 c   k     k     k        31203   10    0 8d 9s
+SubEthan  988386055  5  3 f   -     -     -        31193    0    0 
+SubEthan  988386084  5  2 Bc  kf    -     -        31193   20    0 
+SubEthan  988386118  5  1 Bc  kf    -     -        31173   10    0 
+SubEthan  988386186  5  5 f   -     -     -        31163    0    0 
+SubEthan  988386209  4  3 r   b     -     -        31163   30   50 
+SubEthan  988386220  4  3 c   b     f     -        31183   20    0 
+SubEthan  988386236  4  2 Bc  f     -     -        31163   20    0 
+SubEthan  988386264  4  1 Bf  -     -     -        31143    5    0 
+SubEthan  988386272  4  4 r   b     b     k        31138   50    0 Qc As
+SubEthan  988386303  4  3 f   -     -     -        31088    0    0 
+SubEthan  988386311  4  2 Bf  -     -     -        31088   10    0 
+SubEthan  988386343  4  1 Bcc k     kc    kf       31078   40    0 
+SubEthan  988386382  4  4 f   -     -     -        31038    0    0 
+SubEthan  988386408  4  3 f   -     -     -        31038    0    0 
+SubEthan  988386423  4  2 Br  b     b     bc       31038   90    0 Ah Qh
+SubEthan  988386460  4  1 Bf  -     -     -        30948    5    0 
+SubEthan  988386491  4  4 f   -     -     -        30943    0    0 
+SubEthan  988386517  4  3 r   b     b     bc       30943   90    0 Kc Kd
+SubEthan  988386551  5  2 Br  kc    kf    -        30853   40    0 
+SubEthan  988386607  5  1 Bf  -     -     -        30813    5    0 
+SubEthan  988386625  5  5 f   -     -     -        30808    0    0 
+SubEthan  988386650  5  4 f   -     -     -        30808    0    0 
+SubEthan  988386685  5  4 f   -     -     -        30808    0    0 
+SubEthan  988386713  4  2 Bc  kf    -     -        30808   20    0 
+SubEthan  988386728  4  1 Bf  -     -     -        30788    5    0 
+SubEthan  988386734  4  4 c   b     k     k        30783   20   60 Ac 5d
+SubEthan  988386756  4  3 r   b     b     k        30823   50  150 Kh Jd
+SubEthan  988386780  4  2 Brc kc    k     k        30923   50  105 Ac Qd
+SubEthan  988386807  4  1 Bf  -     -     -        30978    5    0 
+SubEthan  988386815  4  4 f   -     -     -        30973    0    0 
+SubEthan  988386837  4  3 r   b     b     k        30973   50    0 As Qh
+SubEthan  988386860  4  2 Bk  b     b     b        30923   60  125 4s Qs
+SubEthan  988386883  4  1 Br  b     kc    kc       30988   70    0 Ts Ah
+SubEthan  988386911  4  4 f   -     -     -        30918    0    0 
+SubEthan  988386927  4  3 f   -     -     -        30918    0    0 
+SubEthan  988386945  4  2 Bk  k     k     k        30918   10   20 7c 4c
+SubEthan  988386960  4  1 Bc  kf    -     -        30928   10    0 
+SubEthan  988386972  4  4 f   -     -     -        30918    0    0 
+SubEthan  988386988  4  3 f   -     -     -        30918    0    0 
+SubEthan  988387004  4  2 Bc  kf    -     -        30918   20    0 
+SubEthan  988387030  4  1 Bf  -     -     -        30898    5    0 
+SubEthan  988387050  4  4 c   r     k     b        30893   60    0 4d Ah
+SubEthan  988387077  4  3 f   -     -     -        30833    0    0 
+SubEthan  988387097  4  2 Bk  b     b     -        30833   40   80 
+SubEthan  988387108  4  1 Bf  -     -     -        30873    5    0 
+SubEthan  988387122  4  4 Q   -     -     -        30868    0    0 
+SubEthan  988391281  7  5 f   -     -     -        30868    0    0 
+SubEthan  988391304  7  4 f   -     -     -        30868    0    0 
+SubEthan  988391359  7  3 f   -     -     -        30868    0    0 
+SubEthan  988391405  6  2 Br  r     b     b        30868   80  260 Qc Qs
+SubEthan  988391448  6  1 Bc  k     kf    -        31048   10    0 
+SubEthan  988391505  6  6 f   -     -     -        31038    0    0 
+SubEthan  988391546  6  4 f   -     -     -        31038    0    0 
+SubEthan  988391597  6  3 r   b     b     k        31038   50  145 As Qs
+SubEthan  988391618  6  2 Bk  kf    -     -        31133   10    0 
+SubEthan  988391643  5  1 Bf  -     -     -        31123    5    0 
+SubEthan  988391672  5  5 f   -     -     -        31118    0    0 
+SubEthan  988391707  5  4 r   b     b     b        31118   70  145 
+SubEthan  988391747  7  3 f   -     -     -        31193    0    0 
+SubEthan  988391793  7  2 Bf  -     -     -        31193   10    0 
+SubEthan  988391827  7  1 Bf  -     -     -        31183    5    0 
+SubEthan  988391871  7  7 f   -     -     -        31178    0    0 
+SubEthan  988391914  7  6 f   -     -     -        31178    0    0 
+SubEthan  988391950  7  5 f   -     -     -        31178    0    0 
+SubEthan  988391995  8  5 f   -     Q     -        31178    0    0 
+SubEthan  988481269  9  7 c   c     f     -         1000   20    0 
+SubEthan  988481355 10  7 f   -     -     -          980    0    0 
+SubEthan  988481418 10  6 f   -     -     -          980    0    0 
+SubEthan  988481504 10  5 f   -     -     -          980    0    0 
+SubEthan  988481549 10  5 KQ  -     -     -          980    0    0 
+SubEthan  988665186 10  7 r   r     c     c          980   80  180 Jd Jc
+SubEthan  988665238 10  6 f   -     -     -         1080    0    0 
+SubEthan  988665400 10  6 c   bc    bc    kf        1080   70    0 
+SubEthan  988665530 10  4 cc  c     k     k         1010   30    0 8d 8h
+SubEthan  988665635 10  3 f   -     -     -          980    0    0 
+SubEthan  988665675 10  2 Bc  br    kcc   krr        980  200  423 8s Jh
+SubEthan  988665801 10  1 Bc  b     k     k         1203   20   80 Kc 8h
+SubEthan  988665854 10 10 f   -     -     -         1263    0    0 
+SubEthan  988665951 10  9 c   br    b     b         1263   80  205 5h 4h
+SubEthan  988666017 10  8 cc  f     -     -         1388   20    0 
+SubEthan  988666062  9  3 Q   -     -     -         1368    0    0 
+SubEthan  988667164 10  4 f   -     -     -         1368    0    0 
+SubEthan  988667258 10  3 f   -     -     -         1368    0    0 
+SubEthan  988667364 10  2 Bk  k     k     k         1368   10   45 Ah 7c
+SubEthan  988667426 10  1 Bc  kc    b     k         1403   50    0 Jc Qs
+SubEthan  988667472 10 10 c   f     -     -         1353   10    0 
+SubEthan  988667547 10  9 f   -     -     -         1343    0    0 
+SubEthan  988667599 10  8 ccc kcc   f     -         1343   80    0 
+SubEthan  988667703 10  7 f   -     -     -         1263    0    0 
+SubEthan  988667789 10  6 f   -     -     -         1263    0    0 
+SubEthan  988667856 10  5 f   -     -     -         1263    0    0 
+SubEthan  988667984 10  4 f   -     -     -         1263    0    0 
+SubEthan  988668060 10  3 r   b     bc    kc        1263   90    0 As Qh
+SubEthan  988668107 10  2 Bc  kf    -     -         1173   20    0 
+SubEthan  988668198 10  1 Bf  -     -     -         1153    5    0 
+SubEthan  988668376 10 10 f   -     -     -         1148    0    0 
+SubEthan  988668414 10  9 f   -     -     -         1148    0    0 
+SubEthan  988668449 10  8 rc  rc    f     -         1148   80    0 
+SubEthan  988668530 10  7 f   -     -     -         1068    0    0 
+SubEthan  988668585 10  4 Q   -     -     -         1068    0    0 
+SubEthan  988678452 10  3 f   -     -     -         1068    0    0 
+SubEthan  988678501 10  2 Bk  kr    b     b         1068   70  145 
+SubEthan  988678547 10  1 Bc  kf    -     -         1143   10    0 
+SubEthan  988678588 10 10 f   -     -     -         1133    0    0 
+SubEthan  988678682 10  9 f   -     -     -         1133    0    0 
+SubEthan  988678725 10  8 f   -     -     -         1133    0    0 
+SubEthan  988678772 10  7 f   -     -     -         1133    0    0 
+SubEthan  988678823 10  6 rc  k     c     f         1133   60    0 
+SubEthan  988678865 10  5 f   -     -     -         1073    0    0 
+SubEthan  988678916 10  4 f   -     -     -         1073    0    0 
+SubEthan  988678946 10  3 f   -     -     -         1073    0    0 
+SubEthan  988678995 10  2 Bk  kf    -     -         1073   10    0 
+SubEthan  988679047 10  1 Bc  kc    kc    kf        1063   40    0 
+SubEthan  988679096 10 10 c   bf    -     -         1023   20    0 
+SubEthan  988679133 10  9 f   -     -     -         1003    0    0 
+SubEthan  988679196 10  8 f   -     -     -         1003    0    0 
+SubEthan  988679228 10  7 f   -     -     -         1003    0    0 
+SubEthan  988679269 10  6 f   -     -     -         1003    0    0 
+SubEthan  988679328 10  5 f   -     -     -         1003    0    0 
+SubEthan  988679349 10  4 f   -     -     -         1003    0    0 
+SubEthan  988679406 10  3 r   r     b     b         1003   80    0 Ks Th
+SubEthan  988679486 10  2 Bk  kc    kc    kf         923   40    0 
+SubEthan  988679545 10  1 Bf  -     -     -          883    5    0 
+SubEthan  988679582 10 10 c   b     r     b          878   80  175 6s 7h
+SubEthan  988679635 10  9 r   c     k     k          973   50    0 Ad Qd
+SubEthan  988679727 10  8 c   kf    -     -          923   10    0 
+SubEthan  988679872 10  7 f   -     -     -          913    0    0 
+SubEthan  988679938 10  6 f   -     -     -          913    0    0 
+SubEthan  988679992 10  5 f   -     -     -          913    0    0 
+SubEthan  988680080 10  4 fQ  -     -     -          913    0    0 
+SubEthan  988685283 10  8 f   -     -     -          913    0    0 
+SubEthan  988685313 10  7 f   -     -     -          913    0    0 
+SubEthan  988685378  9  5 f   -     -     -          913    0    0 
+SubEthan  988685451  8  4 c   r     b     b          913   70  155 8d 8c
+SubEthan  988685502 10  4 f   -     -     -          998    0    0 
+SubEthan  988685519 10  3 f   -     -     -          998    0    0 
+SubEthan  988685571 10  2 Br  b     b     b          998   70  195 
+SubEthan  988685627 10  1 Bf  -     -     -         1123    5    0 
+SubEthan  988685670 10 10 c   f     -     -         1118   10    0 
+SubEthan  988685743 10  9 f   -     -     -         1108    0    0 
+SubEthan  988685823  8  6 f   -     -     -         1108    0    0 
+SubEthan  988685860 10  7 f   -     -     -         1108    0    0 
+SubEthan  988685941  9  6 f   -     -     -         1108    0    0 
+SubEthan  988686025  9  4 f   -     -     -         1108    0    0 
+SubEthan  988686081 10  5 f   -     -     -         1108    0    0 
+SubEthan  988686157  7  3 f   -     -     -         1108    0    0 
+SubEthan  988686273  8  2 Bk  k     k     kf        1108   10    0 
+SubEthan  988686406  8  1 Bf  Q     -     -         1098    5    0 

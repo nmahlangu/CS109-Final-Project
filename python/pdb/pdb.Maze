@@ -1,0 +1,436 @@
+Maze      987402295  6  3 cc  k     b     -          340   40   75 
+Maze      987402317  6  2 Bk  k     k     k          375   10   20 Ts 7s
+Maze      987402343  6  1 Bc  k     k     b          385   30   40 
+Maze      987402371  6  6 c   k     k     k          395   10    0 5h 8h
+Maze      987402398  6  5 cc  b     b     b          385   70  190 4c 9h
+Maze      987402439  6  4 c   c     c     c          505   60    0 5s 4h
+Maze      987402478  5  2 Bk  kc    k     k          445   20   30 6d 7h
+Maze      987402520  5  1 Bc  kc    kc    kf         455   50    0 
+Maze      987402584  6  6 rc  k     b     b          405   80  175 Kd Ks
+Maze      987402617  5  4 c   c     k     k          500   20    0 4h 4d
+Maze      987402658  5  3 c   k     k     b          480   30   50 
+Maze      987402691  6  2 Bc  kc    kcc   kc         500   90    0 5s 6s
+Maze      987402767  6  1 Bc  k     kf    -          410   10    0 
+Maze      987402827  6  6 c   c     k     k          400   20    0 4s 6s
+Maze      987402864  6  5 cc  kc    b     -          380   50  110 
+Maze      987402907  6  4 c   k     r     b          440   70  130 
+Maze      987402953  6  3 c   k     k     c          500   30   35 Js 7s
+Maze      987403002  6  2 Bk  kc    k     f          505   20    0 
+Maze      987403080  5  1 Bc  k     k     k          485   10   20 7d 5d
+Maze      987403124  5  5 c   c     c     k          495   50    0 4d 3s
+Maze      987403155  5  4 c   rr    b     b          445  100    0 6s Jd
+Maze      987403202  5  3 c   c     k     k          345   20    0 4d Qs
+Maze      987403258  6  2 Bk  kc    kf    -          325   20    0 
+Maze      987403350  7  1 Bc  kc    kf    -          305   30    0 
+Maze      987403424  7  7 c   k     c     f          275   30    0 
+Maze      987403490  8  7 c   c     k     k          245   20    0 Kd 3h
+Maze      987403553  8  6 cc  c     c     c          225   90    0 3d Qs
+Maze      987403617  7  2 Q   -     -     -          135    0    0 
+Maze      987403956  6  2 Bc  cc    kc    kf         135   60    0 
+Maze      987404026  6  1 Bf  -     -     -           75    5    0 
+Maze      987404070  6  6 c   c     c     c           70   60    0 9s As
+Maze      987404126  6  5 cA  -     -     -           10   10    0 Ad Qc
+Maze      987753032  9  8 crc br    kc    brc       1000  170    0 9d 9s
+Maze      987753134  8  6 c   k     b     -          830   30   60 
+Maze      987753199  8  5 c   c     c     c          860   60    0 Kd 4s
+Maze      987753254  8  4 cc  b     r     k          800   70    0 Jh Js
+Maze      987753316  8  3 c   k     kf    -          730   10    0 
+Maze      987753349  8  2 Bk  kc    kc    k          720   40    0 6s Js
+Maze      987753395  8  1 Bf  -     -     -          680    5    0 
+Maze      987753432  8  8 c   k     c     k          675   30   60 7d Qd
+Maze      987753476  8  7 f   -     -     -          705    0    0 
+Maze      987753535  8  6 c   f     -     -          705   10    0 
+Maze      987753588  8  5 c   kc    kc    c          695   60    0 2c Jh
+Maze      987753658  8  4 cc  k     kc    k          635   40  165 Jd Qh
+Maze      987753704  8  3 c   kcc   kc    c          760  100    0 Kd Qs
+Maze      987753777  8  2 Bk  b     b     b          660   60  140 Qs Ac
+Maze      987753815  8  1 Bc  kcc   kc    kc         740  100    0 Jh 6s
+Maze      987753926  9  9 f   -     -     -          640    0    0 
+Maze      987754041  8  7 c   c     c     k          640   40    0 Jd 3c
+Maze      987754098  8  6 cc  c     cc    f          600  100    0 
+Maze      987754193  8  5 cQ  -     -     -          500   10    0 
+Maze      987755128  6  2 Bk  k     b     k          490   30   60 9h 7d
+Maze      987755168  6  1 Bc  kc    kc    b          520   60  130 Qd Ad
+Maze      987755212  6  6 c   k     c     c          590   50    0 Js 9d
+Maze      987755266  6  5 c   k     c     f          540   30    0 
+Maze      987755314  6  4 f   -     -     -          510    0    0 
+Maze      987755355  6  3 c   k     k     f          510   10    0 
+Maze      987755434  6  2 Bk  kc    kr    kccc       500  140    0 7d 5c
+Maze      987755515  6  1 Br  k     k     b          360   50  120 
+Maze      987755564  7  7 rr  c     k     c          430   70    0 Ah Ac
+Maze      987755617  7  6 c   c     k     k          360   20   60 Ks 8c
+Maze      987755669  7  5 cc  c     k     f          400   30    0 
+Maze      987755742  7  4 cc  kc    kc    kf         370   50    0 
+Maze      987755869  8  4 f   -     -     -          320    0    0 
+Maze      987755947  7  3 f   -     -     -          320    0    0 
+Maze      987755972  8  2 Bk  kc    kf    -          320   20    0 
+Maze      987756020  8  1 Bc  k     kf    -          300   10    0 
+Maze      987756057  8  8 c   c     c     k          290   60  205 2c 3d
+Maze      987756105  9  8 c   c     f     -          435   20    0 
+Maze      987756144  9  7 c   k     k     k          415   10    0 Qs Th
+Maze      987756172  9  6 cc  kc    cc    kf         405   70    0 
+Maze      987756238  9  5 cc  c     f     -          335   40    0 
+Maze      987756305  8  4 c   c     f     -          295   20    0 
+Maze      987756352  8  3 c   kc    kc    kf         275   40    0 
+Maze      987756409  8  2 Bk  kc    kc    kf         235   40    0 
+Maze      987756455  8  1 Bc  kc    kc    kc         195   60    0 Kc 5d
+Maze      987756510  8  8 c   c     k     c          135   50    0 As 5s
+Maze      987756556  8  7 c   k     k     c           85   30    0 3h Qc
+Maze      987756584  7  5 c   kc    kc    kcA         55   55  150 Ah Ad
+Maze      987756660  6  3 c   k     k     k          150   10   40 Kh Js
+Maze      987756723  6  3 fQ  -     -     -          180    0    0 
+Maze      987757228  6  2 Bk  k     b     -          180   30   50 
+Maze      987757284  6  1 Bc  k     k     k          200   10   30 9c 6d
+Maze      987757311  6  6 c   c     c     f          220   50    0 
+Maze      987757343  6  5 c   k     k     f          170   20    0 
+Maze      987757371  6  4 c   kc    cc    k          150   80    0 8d Ks
+Maze      987757413  6  3 c   k     k     k           70   10    0 6d Kh
+Maze      987757445  6  2 Bk  k     k     k           60   10    0 Kc 5c
+Maze      987757482  6  1 Bc  kc    kc    kf          50   40    0 
+Maze      987757515  6  6 f   -     -     -           10    0    0 
+Maze      987757523  6  5 cA  -     -     -           10   10   50 8s Jh
+Maze      987757550  6  4 cc  kc    kcA   -           50   50  145 Kh Ks
+Maze      987757581  6  3 c   k     k     k          145   10   25 Ah 6h
+Maze      987757604  6  2 Bk  kc    kc    kc         160   60    0 Th 9d
+Maze      987757636  6  1 Bc  k     k     k          100   10    0 8h 7d
+Maze      987757666  6  6 c   k     c     c           90   50    0 4s As
+Maze      987757699  6  5 f   -     -     -           40    0    0 
+Maze      987757732  6  4 c   k     k     k           40   10    0 7c 2h
+Maze      987757753  6  3 c   kc    kcA   -           30   30    0 Kh 5c
+Maze      987758077  5  5 c   k     k     f         1000   10    0 
+Maze      987758099  5  4 f   -     -     -          990    0    0 
+Maze      987758117  5  3 c   cc    kc    kf         990   80    0 
+Maze      987758163  5  2 Bk  k     k     k          910   10   30 Jc 8d
+Maze      987758197  6  1 Bc  kc    kc    kc         930   70    0 3h 5h
+Maze      987758318  4  4 f   -     -     -          860    0    0 
+Maze      987758324  4  3 cc  c     c     f          860   50    0 
+Maze      987758348  4  2 Bk  kc    kc    kc         810   60    0 Ad 2d
+Maze      987758374  4  1 Bc  k     kc    k          750   30    0 3s 5s
+Maze      987758399  4  4 c   cc    f     -          720   40    0 
+Maze      987758537  4  3 f   -     -     -          680    0    0 
+Maze      987758574  4  2 Bc  kc    kc    k          680   50    0 Ts Kh
+Maze      987758610  4  1 Bc  kc    kc    k          630   50    0 7h 6h
+Maze      987758642  5  5 c   k     c     b          580   50  140 7h 8c
+Maze      987758693  5  4 c   c     c     c          670   60    0 Js Kh
+Maze      987758718  5  3 c   c     cf    -          610   40    0 
+Maze      987758772  6  3 c   kc    k     br         570   80  170 
+Maze      987758833  6  2 B   -     -     -          660   10   15 
+Maze      987758841  6  1 Bc  kc    kc    kc         665   60    0 Ac 2h
+Maze      987758877  4  4 c   c     f     -          605   20    0 
+Maze      987758918  4  3 c   c     k     k          585   20   50 Tc Jd
+Maze      987758960  4  2 Bc  kc    kc    brc        615  130  275 9h 9s
+Maze      987758994  4  1 Bc  kcc   kcc   kf         760  100    0 
+Maze      987759074  4  4 c   k     c     f          660   30    0 
+Maze      987759115  4  3 cc  c     c     k          630   50   65 Jh 9c
+Maze      987759142  4  2 Bk  c     c     c          645   60    0 Qd 7d
+Maze      987759159  4  1 Bc  kc    kf    -          585   20    0 
+Maze      987759185  4  4 c   k     c     f          565   30    0 
+Maze      987759204  4  3 c   k     c     c          535   50    0 7s Ad
+Maze      987759220  4  2 Bc  c     k     c          485   50    0 6c Qd
+Maze      987759241  4  1 Bc  k     k     k          435   10    0 Td Ad
+Maze      987759263  4  4 cc  k     k     c          425   40  105 9d 3d
+Maze      987759289  4  3 c   kc    b     b          490   60  185 8c 7s
+Maze      987759328  4  2 Bc  kc    k     k          615   30   90 3h Ks
+Maze      987759365  5  1 Bf  -     -     -          675    5    0 
+Maze      987759399  5  5 c   f     -     -          670   20    0 
+Maze      987759439  5  4 c   c     c     f          650   40    0 
+Maze      987759478  5  3 c   kc    k     kf         610   20    0 
+Maze      987759518  5  2 Bk  b     -     -          590   20   40 
+Maze      987759537  7  1 Bc  b     -     -          610   20   60 
+Maze      987759553  7  7 c   k     c     f          650   30    0 
+Maze      987759589  7  6 c   k     c     c          620   50    0 2h As
+Maze      987759671  6  4 c   f     -     -          570   10    0 
+Maze      987759691  5  3 cc  br    c     c          560   90    0 Ah 9h
+Maze      987759738  7  3 c   c     k     kf         470   20    0 
+Maze      987759803  7  2 Bk  kc    k     kc         450   40    0 3c 7c
+Maze      987759852  7  1 Bc  kc    kc    kc         410   70    0 8h 9s
+Maze      987759920  8  8 c   c     k     k          340   20    0 4d 3s
+Maze      987760006  7  6 c   k     k     k          320   10    0 Js Th
+Maze      987760035  7  5 f   -     -     -          310    0    0 
+Maze      987760073  7  4 c   c     cc    f          310  100    0 
+Maze      987760136  7  3 c   kcc   kf    -          210   40    0 
+Maze      987760180  7  2 Bk  k     c     c          170   50    0 Jd 4h
+Maze      987760215  7  1 BQ  -     -     -          120    5    0 
+Maze      987831577 10  5 f   -     -     -         1000    0    0 
+Maze      987831638 10  4 c   k     kc    k         1000   30    0 8s 2c
+Maze      987831732 10  3 cc  f     -     -          970   20    0 
+Maze      987831829  9  2 Bc  kf    -     -          950   20    0 
+Maze      987831926  8  1 Bc  k     k     k          930   10    0 Js 7c
+Maze      987831964  7  7 c   k     c     k          920   30    0 7c As
+Maze      987832030  7  6 c   c     c     f          890   40    0 
+Maze      987832071  8  5 c   kf    -     -          850   10    0 
+Maze      987832122  8  4 c   c     kc    k          840   60    0 2d 2s
+Maze      987832168  9  3 c   kc    kc    kc         780   60    0 7s Td
+Maze      987832244 10  2 Bk  c     c     k          720   40    0 Tc 8c
+Maze      987832289 10  1 Bc  kf    -     -          680   10    0 
+Maze      987832341  9  9 c   k     c     c          670   50    0 2h 2c
+Maze      987832394 10  9 cc  k     c     f          620   60    0 
+Maze      987832467  9  7 c   cc    kc    kf         560   50    0 
+Maze      987832527 10  7 c   kc    c     f          510   40    0 
+Maze      987832627 10  6 c   c     c     f          470   40    0 
+Maze      987832672 10  5 c   kc    kc    kc         430   60  220 9d Td
+Maze      987832744 10  5 c   k     c     kf         590   30    0 
+Maze      987832803 10  3 f   -     -     -          560    0    0 
+Maze      987832817  9  2 Bk  k     k     c          560   30    0 4h 2c
+Maze      987832876 10  1 Bc  kc    kc    kc         530   60    0 7c Tc
+Maze      987832947 10  3 Q   -     -     -          470    0    0 
+Maze      987884188  9  9 c   c     c     f          470   40    0 
+Maze      987884245  9  8 c   c     k     b          430   40  120 
+Maze      987884314 10  7 c   cc    c     c          510  100    0 Kh Td
+Maze      987884372 10  6 c   kf    -     -          410   10    0 
+Maze      987884440 10  6 cc  k     c     c          400   60   80 Kh 9d
+Maze      987884502 10  4 c   cc    c     f          420   50    0 
+Maze      987884591 10  3 c   kc    k     k          370   20   90 Kd Qh
+Maze      987884708 10  2 Bc  k     k     br         440   80  220 Td Qd
+Maze      987884840 10  1 Bcc kf    -     -          580   40    0 
+Maze      987884942 10 10 c   c     c     c          540   80    0 3s 3h
+Maze      987884990 10  9 f   -     -     -          460    0    0 
+Maze      987885052 10  8 c   c     c     c          460   60   87 Kh 5h
+Maze      987885109 10  7 cc  f     -     -          487   20    0 
+Maze      987885192 10  6 cc  kf    -     -          467   20    0 
+Maze      987885296 10  5 c   k     f     Q          447   10    0 
+Maze      987980945  4  4 c   k     k     b          167   30   80 Qs Qd
+Maze      987980964  4  3 c   k     k     k          217   10   25 7c 2c
+Maze      987980982  4  2 Bc  b     brc   c          232  130    0 Qc Qh
+Maze      987981012  4  1 Bc  k     k     k          102   10    0 6s Jh
+Maze      987981035  4  4 cc  c     c     k           92   50  155 5d 8h
+Maze      987981053  4  3 c   k     k     c          197   30    0 2h Kh
+Maze      987981080  4  2 Bc  c     c     c          167   80    0 2h 3h
+Maze      987981102  4  1 Bc  kcc   kf    -           87   40    0 
+Maze      987981138  4  4 cc  k     k     c           47   40    0 2s 5h
+Maze      987981160  4  3 cA  -     -     -            7    7   19 Kc 5c
+Maze      987981167  4  2 Bk  kcA   -     -           19   19    0 8c 6d
+Maze      987986510 10  8 cc  c     cc    f         1000  110    0 
+Maze      987986604  9  6 cc  br    rr    rr         890  220    0 Qs 4d
+Maze      987986687 10  5 c   k     kc    kf         670   30    0 
+Maze      987986770 10  4 c   kf    -     -          640   10    0 
+Maze      987986850 10  3 Q   -     -     -          630    0    0 
+Maze      988011167  5  5 c   c     c     c          630   80    0 4c Ac
+Maze      988011211  5  4 c   c     c     c          550   60    0 5d 6h
+Maze      988011245  5  3 c   k     f     -          490   10    0 
+Maze      988011293  5  2 Bk  k     k     k          480   10   30 5d Kh
+Maze      988011340  5  1 Bc  k     k     kc         500   30    0 4h Qc
+Maze      988011369  5  5 c   k     c     k          470   30  100 3d 6s
+Maze      988011406  6  4 c   c     c     k          540   40   95 8h Kh
+Maze      988011445  9  6 cc  r     c     k          595   70    0 9d 9c
+Maze      988011524  9  5 c   kc    kcc   kc         525   80    0 4c Qc
+Maze      988011576 10  5 cc  c     c     c          445   70  210 6h 4h
+Maze      988011625 10  5 c   c     kcc   kf         585   80    0 
+Maze      988011687 10  3 c   k     c     k          505   30   90 Kc Ah
+Maze      988011742 10  2 Bk  f     -     -          565   10    0 
+Maze      988011798 10  1 Bc  kc    kc    kf         555   50    0 
+Maze      988011852 10 10 c   cc    bcc   c          505  170    0 Tc Qs
+Maze      988011946 10  8 Q   -     -     -          335    0    0 
+Maze      988183629  6  6 c   k     k     k          335   10   35 Qd Jh
+Maze      988183653  7  5 cc  cc    c     cc         360  110    0 As Ad
+Maze      988183700  7  4 c   k     b     b          250   50  100 
+Maze      988183737  8  3 c   kf    -     -          300   10    0 
+Maze      988183780  8  2 Bc  kc    kcc   kc         290  130    0 Ad 4h
+Maze      988183835  8  1 BQ  -     -     -          160    5    0 
+Maze      988341090  8  3 cc  kc    kf    -          155   30    0 
+Maze      988341151  9  2 Bk  k     kc    kf         125   30    0 
+Maze      988341226  9  1 Bc  kc    b     bcA         95   95  350 8c 9c
+Maze      988341296  9  9 cc  f     -     -          350   20    0 
+Maze      988341388  8  7 c   c     k     bc         330   60    0 Ad 4s
+Maze      988341459  8  6 c   b     -     -          270   20   40 
+Maze      988341495  8  5 rr  br    b     br         290  150    0 9c Ad
+Maze      988341629  8  4 rr  b     b     kc         140   90    0 8d Tc
+Maze      988341739  6  2 Bc  k     kf    -           50   20    0 
+Maze      988341820  5  1 Bc  kcA   -     -           30   30    0 Kh 3c
+Maze      988341969  6  5 c   k     k     c         1000   30    0 8c Js
+Maze      988342041  7  4 f   -     -     -          970    0    0 
+Maze      988342149  8  3 cc  kc    kc    kf         970   50    0 
+Maze      988342302 10  2 Bc  kc    kc    br         920  170    0 9s 7d
+Maze      988342468 10  1 Bf  -     -     -          750    5    0 
+Maze      988342550 10 10 f   -     -     -          745    0    0 
+Maze      988342774 10  9 c   k     c     cf         745   50    0 
+Maze      988342937  9  8 cc  k     k     kf         695   20    0 
+Maze      988343027  9  6 c   cc    c     f          675   50    0 
+Maze      988343117 10  7 c   k     kf    -          625   10    0 
+Maze      988343221 10  5 c   k     kf    -          615   10    0 
+Maze      988343369 10  4 f   -     -     -          605    0    0 
+Maze      988343429 10  3 c   kf    -     -          605   10    0 
+Maze      988343517 10  2 Bk  kc    kf    -          595   20    0 
+Maze      988343661 10  1 Bc  kc    kc    kf         575   60    0 
+Maze      988343721 10 10 f   -     -     -          515    0    0 
+Maze      988343760 10  9 c   k     k     k          515   10    0 3d 4h
+Maze      988343845 10  8 f   -     -     -          505    0    0 
+Maze      988343901 10  7 c   kc    k     k          505   20  110 Qh Td
+Maze      988343971 10  6 c   c     f     -          595   20    0 
+Maze      988344032 10  5 cc  k     kc    f          575   40    0 
+Maze      988344188 10  4 ccc kc    kf    -          535   50    0 
+Maze      988344302 10  3 Q   -     -     -          485    0    0 
+Maze      988361399  4  4 c   k     k     k          485   10   40 Jh Qc
+Maze      988361431  4  3 c   kc    bc    kc         515   80    0 2s Td
+Maze      988361489  4  2 Bk  k     k     c          435   30   60 9s Kd
+Maze      988361514  4  1 Bf  -     -     -          465    5    0 
+Maze      988361542  4  4 c   k     f     -          460   10    0 
+Maze      988361562  4  3 c   c     c     c          450   70  240 3s Jd
+Maze      988361602  4  2 B   -     -     -          620   10   15 
+Maze      988361610  4  1 Bc  k     kf    -          625   10    0 
+Maze      988361652  4  4 c   k     k     k          615   10    0 6c Th
+Maze      988361681  4  3 cc  c     c     f          605   50    0 
+Maze      988361709  4  2 Bc  k     c     f          555   40    0 
+Maze      988361757  4  1 Bf  -     -     -          515    5    0 
+Maze      988361784  4  4 c   k     c     c          510   50  115 Js Qc
+Maze      988361818  4  3 c   k     k     k          575   10    0 2h 8d
+Maze      988361842  4  2 Bk  k     k     c          565   30   60 Qh 2d
+Maze      988361867  4  1 Bcc kc    kc    k          595   50    0 4s 2d
+Maze      988361915  4  4 c   k     c     k          545   30   80 Js 2h
+Maze      988361955  4  3 cc  kf    -     -          595   20    0 
+Maze      988362004  4  2 Bk  k     c     c          575   50  110 Jc Td
+Maze      988362036  4  1 Bc  k     k     k          635   10   20 9h Js
+Maze      988362056  4  4 c   k     k     b          645   30   75 9h As
+Maze      988362106  4  3 c   f     -     -          690   10    0 
+Maze      988362171  4  2 Bk  b     b     b          680   60  120 
+Maze      988362202  4  1 Bc  kc    kc    kf         740   40    0 
+Maze      988362258  5  4 c   k     k     b          700   30   80 6h 8s
+Maze      988362295  5  3 c   k     c     k          750   30    0 Qh 8d
+Maze      988362348  5  2 Bc  kc    kc    b          720   70  215 2h Kd
+Maze      988362413  5  1 Bc  kc    kc    kc         865   70  230 7s Jh
+Maze      988362452  5  5 cc  c     c     f         1025   50    0 
+Maze      988362492  5  4 c   c     f     -          975   20    0 
+Maze      988362522  5  3 f   -     -     -          955    0    0 
+Maze      988362546  5  2 Bc  kc    kc    kf         955   50    0 
+Maze      988362624  5  1 Bc  kc    kc    kc         905   70    0 7d Qd
+Maze      988362666  5  4 Q   -     -     -          835    0    0 
+Maze      988362837  5  5 c   f     -     -          835   10    0 
+Maze      988362868  5  4 c   kc    k     k          825   20    0 Qd Jh
+Maze      988362915  5  3 cc  k     kc    kc         805   60    0 4s Ts
+Maze      988362952  5  2 Bc  cc    c     c          745   80  260 2s Qc
+Maze      988362991  5  1 Bc  k     kc    kf         925   30    0 
+Maze      988363028  5  5 cc  c     c     f          895   50    0 
+Maze      988363077  5  4 c   c     c     f          845   40    0 
+Maze      988363122  5  3 f   -     -     -          805    0    0 
+Maze      988363157  5  2 Bk  kc    kc    kf         805   40    0 
+Maze      988363201  5  1 Bc  kc    kf    -          765   30    0 
+Maze      988363241  5  5 c   k     k     c          735   40    0 4d 4c
+Maze      988363283  5  4 cc  f     -     -          695   40    0 
+Maze      988363331  5  3 c   c     c     c          655   70    0 8c Kd
+Maze      988363358  5  2 Bf  -     -     -          585   10    0 
+Maze      988363384  5  1 Bc  kc    kf    -          575   20    0 
+Maze      988363405  5  5 c   k     k     k          555   10    0 5d Jc
+Maze      988363438  5  4 c   c     c     c          545   60    0 6h 6c
+Maze      988363474  5  3 c   c     c     c          485   60    0 Ac Ah
+Maze      988363506  4  2 Bc  k     kc    kc         425   60  145 Kh As
+Maze      988363537  4  1 Bc  k     kc    kc         510   50  110 2s Kc
+Maze      988363565  4  4 c   c     c     c          570   70    0 3s Ts
+Maze      988363597  4  3 c   c     c     f          500   40    0 
+Maze      988363633  4  2 Bc  kf    -     -          460   20    0 
+Maze      988363657  4  1 Bc  kf    -     -          440   10    0 
+Maze      988363704  4  4 f   -     -     -          430    0    0 
+Maze      988363730  4  3 cc  kr    b     b          430   80  180 
+Maze      988363775  4  2 Bc  kf    -     -          530   20    0 
+Maze      988363797  5  1 Bc  kc    kc    kc         510   80  300 Td 2h
+Maze      988363849  5  5 c   k     c     f          730   30    0 
+Maze      988363892  5  4 c   c     k     f          700   20    0 
+Maze      988363942  5  3 c   c     c     c          680   60    0 7c 9c
+Maze      988363977  5  2 Bk  kc    kf    -          620   30    0 
+Maze      988364034  5  1 Bc  kc    kc    kc         590   60   90 6c Qd
+Maze      988364084  5  5 c   c     c     f          620   40    0 
+Maze      988364130  5  4 c   c     c     c          580   60    0 4s 3d
+Maze      988364170  5  3 c   kc    kc    k          520   40  140 Js 7s
+Maze      988364227  5  2 Bc  c     c     c          620   70    0 2s 4s
+Maze      988364265  5  1 Bc  k     kc    br         550   90  190 5s Ad
+Maze      988364300  5  5 c   c     c     c          650   60   70 5d 4s
+Maze      988364338  5  4 c   kf    -     -          660   10    0 
+Maze      988364388  5  3 c   kc    kc    k          650   40    0 6s 5s
+Maze      988364450  5  2 Bk  k     k     kc         610   30    0 3s Jc
+Maze      988364477  5  1 Bc  kf    -     -          580   20    0 
+Maze      988364519  5  5 c   c     cc    f          560  130    0 
+Maze      988364601  6  4 c   c     f     -          430   20    0 
+Maze      988364657  6  3 c   cc    kc    kf         410   50    0 
+Maze      988364747  5  1 Bc  kf    -     -          360   20    0 
+Maze      988364772  5  1 Bc  kc    kc    kc         340   60   67 6s Jd
+Maze      988364829  5  5 c   c     f     -          347   30    0 
+Maze      988364876  5  4 cc  c     c     c          317   70    0 Ts Ac
+Maze      988364907  5  3 cc  kf    -     -          247   30    0 
+Maze      988364962  6  3 f   -     -     -          217    0    0 
+Maze      988365011  6  2 Bk  kc    kc    kc         217   60    0 6c 9h
+Maze      988365041  6  1 Bc  kc    kf    -          157   40    0 
+Maze      988365082  6  6 f   -     -     -          117    0    0 
+Maze      988365116  6  5 cc  c     c     k          117   70  285 Qs 2h
+Maze      988365173  6  4 cc  rr    b     b          332  100  340 3d 4d
+Maze      988365231  6  3 cc  kc    kc    kf         572   50    0 
+Maze      988365284  5  2 Bk  kf    -     -          522   10    0 
+Maze      988365313  4  1 Bc  kf    -     -          512   10    0 
+Maze      988365360  4  4 c   c     c     k          502   40    0 3s 3d
+Maze      988365408  4  3 f   -     -     -          462    0    0 
+Maze      988365477  4  2 Bk  kc    k     kf         462   20    0 
+Maze      988365515  4  1 Bc  k     kc    kf         442   30    0 
+Maze      988365567  5  5 cc  rc    rr    b          412  160  485 7s Qh
+Maze      988365625  3  3 cc  c     cc    c          737  120    0 Qh Qc
+Maze      988365671  3  2 Bc  brc   brc   br         617  200  420 Ts Qh
+Maze      988365723  3  1 Bcc kc    kc    k          837   50  100 Ac Kc
+Maze      988365761  3  3 c   k     k     f          887   10    0 
+Maze      988365808  3  2 Bf  -     -     -          877   10    0 
+Maze      988365837  3  1 Bc  kc    kc    kf         867   40    0 
+Maze      988365874  3  3 c   c     k     f          827   20    0 
+Maze      988365899  3  2 Bk  kc    kc    k          807   40    0 4d 9d
+Maze      988365927  3  1 Bcc kf    -     -          767   20    0 
+Maze      988365947  3  3 c   c     c     k          747   40  120 6c 8h
+Maze      988365986  3  2 Bc  k     f     -          827   20    0 
+Maze      988366004  3  1 Bc  kf    -     -          807   20    0 
+Maze      988366021  3  3 c   k     k     b          787   30   45 
+Maze      988366044  3  2 Bc  kc    kf    -          802   30    0 
+Maze      988366066  3  1 Bcc brc   b     b          772  100  180 
+Maze      988366115  3  3 c   c     c     c          852   60    0 Ad 2h
+Maze      988366147  3  2 Bk  k     c     c          792   50  100 6d 3s
+Maze      988366173  3  1 Bc  k     k     k          842   10   20 Qs 9d
+Maze      988366194  3  3 cc  k     k     k          852   20    0 Ts 9d
+Maze      988366228  3  2 Bf  -     -     -          832   10    0 
+Maze      988366266  3  1 Bc  kc    kcc   kf         822   90    0 
+Maze      988366308  3  3 cc  c     c     f          732   50    0 
+Maze      988366334  3  2 Bk  f     -     -          682   10    0 
+Maze      988366367  3  1 Bc  kf    -     -          672   10    0 
+Maze      988366386  3  3 c   f     -     -          662   10    0 
+Maze      988366414  3  2 Bk  k     b     br         652   90  190 5d 5c
+Maze      988366456  3  1 Bc  kc    kc    b          752   60  140 
+Maze      988366493  3  3 cc  k     f     -          832   20    0 
+Maze      988366521  3  2 Bk  k     k     cc         812   70    0 Ks Jc
+Maze      988366553  3  1 Bcc kc    kc    k          742   50  150 Ks Kc
+Maze      988366595  3  3 c   k     f     -          842   10    0 
+Maze      988366620  3  2 Bk  k     k     c          832   30    0 Kd 4d
+Maze      988366662  3  1 Bc  k     kc    b          802   60  130 4s 4d
+Maze      988366689  3  3 c   c     c     f          872   40    0 
+Maze      988366737  3  2 Bc  kf    -     -          832   20    0 
+Maze      988366756  3  1 Bc  k     k     k          812   10   10 Js 8d
+Maze      988366782  3  3 c   k     k     k          812   10   15 Td 6c
+Maze      988366813  3  2 Bk  k     k     f          817   10    0 
+Maze      988366851  3  1 Bcc kc    k     k          807   30   30 3d Jd
+Maze      988366879  3  3 cc  c     c     f          807   50    0 
+Maze      988366911  4  3 ccc f     -     -          757   40    0 
+Maze      988366962  4  2 Bc  f     -     -          717   20    0 
+Maze      988366984  5  1 Bc  kc    kf    -          697   40    0 
+Maze      988367039  5  5 f   -     -     -          657    0    0 
+Maze      988367079  5  4 c   kc    kc    k          657   40    0 2s Qc
+Maze      988367111  4  2 Bcc kc    k     bc         617   90    0 4d Ac
+Maze      988367153  4  1 Bcc kc    k     k          527   30    0 3c Tc
+Maze      988367179  4  4 cc  Q     -     -          497   20    0 
+Maze      988519465 10  2 Bk  k     k     k          477   10    0 Jd 6c
+Maze      988519513 10  1 Bc  kf    -     -          467   10    0 
+Maze      988519566 10 10 c   c     k     c          457   40    0 Kc Jc
+Maze      988519602 10  9 c   c     f     -          417   30    0 
+Maze      988519691 10  8 c   r     b     rr         387  150    0 5h 6h
+Maze      988519759 10  7 rc  c     c     f          237   70    0 
+Maze      988519809 10  6 c   cc    f     Q          167   60    0 
+Maze      988531524  8  5 c   c     c     c          107   70    0 Qc Qs
+Maze      988531592  9  5 cc  kc    kcA   -           37   37    0 Ad 7h
+Maze      988531743  9  2 c   k     kc    kf        1000   30    0 
+Maze      988531869  8  2 Bk  k     k     k          970   10    0 Ts 6c
+Maze      988531961  7  1 Bc  kc    kc    kf         960   40    0 
+Maze      988532029  7  7 c   c     cf    -          920   60    0 
+Maze      988532086  7  6 c   k     k     c          860   30   75 Jh 2s
+Maze      988532127  7  5 c   k     k     kc         905   30   33 Qh 2h
+Maze      988532212  7  4 cc  kc    kc    kf         908   50    0 
+Maze      988532276  7  3 cc  kc    kc    kc         858   90    0 Ah 2d
+Maze      988532337  7  2 Bk  k     k     kc         768   30   75 Qs 2c
+Maze      988532407  8  1 Bc  kc    kc    b          813   60  190 7c 8h
+Maze      988532474  8  8 c   c     c     f          943   40    0 
+Maze      988532545  8  7 c   c     c     f          903   40    0 
+Maze      988532642  8  6 f   -     -     -          863    0    0 
+Maze      988532676  8  5 c   c     c     f          863   40    0 
+Maze      988532743  8  4 f   -     -     -          823    0    0 
+Maze      988532807  9  4 c   kc    kc    kf         823   60    0 
+Maze      988532906  8  3 cc  kc    kcc   kc         763  130    0 4h 8h
+Maze      988532967  8  2 BQ  -     -     -          633   10    0 

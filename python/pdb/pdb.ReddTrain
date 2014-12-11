@@ -1,0 +1,53 @@
+ReddTrain 987883907 10  5 f   -     -     -         7919    0    0 
+ReddTrain 987884026 10  4 c   kfQ   -     -         7919   10    0 
+ReddTrain 987884502 10  9 f   -     -     -         7909    0    0 
+ReddTrain 987884591 10  8 f   -     -     -         7909    0    0 
+ReddTrain 987884708 10  7 f   -     -     -         7909    0    0 
+ReddTrain 987884840 10  6 ccc kf    -     -         7909   40    0 
+ReddTrain 987884942 10  5 f   -     -     -         7869    0    0 
+ReddTrain 987884990 10  4 f   -     -     -         7869    0    0 
+ReddTrain 987885052 10  3 c   f     -     -         7869   10    0 
+ReddTrain 987885109 10  2 Bc  ccc   kc    kf        7859   80    0 
+ReddTrain 987885192 10  1 Bf  -     -     -         7779    5    0 
+ReddTrain 987885296 10 10 f   -     -     -         7774    0    0 
+ReddTrain 987885354 10  9 f   -     -     -         7774    0    0 
+ReddTrain 987885449 10  8 r   k     r     k         7774   60  195 Kd Qc
+ReddTrain 987885542  9  6 f   -     -     -         7909    0    0 
+ReddTrain 987885614 10  7 rc  kc    kr    b         7909  100  245 8c Td
+ReddTrain 987885692  6  3 f   -     -     -         8054    0    0 
+ReddTrain 987885726  6  2 Bk  b     b     k         8054   40  120 Ah Jd
+ReddTrain 987885774  6  1 Bc  k     k     b         8134   30   80 5d 8d
+ReddTrain 987885824  5  3 Q   -     -     -         8184    0    0 
+ReddTrain 987889794  6  4 f   -     -     -         8184    0    0 
+ReddTrain 987889886  6  3 c   r     k     k         8184   30    0 Ad 7d
+ReddTrain 987889967  6  2 Bk  b     b     k         8154   40  130 8s Tc
+ReddTrain 987890029  6  1 Bf  -     -     -         8244    5    0 
+ReddTrain 987890055  6  6 c   c     f     -         8239   30    0 
+ReddTrain 987890108  6  5 c   c     r     -         8209   70  175 
+ReddTrain 987890153  6  4 c   k     k     f         8314   10    0 
+ReddTrain 987890217  6  3 r   r     k     c         8304   80    0 Ac Kd
+ReddTrain 987890273  6  2 Bk  kf    -     -         8224   10    0 
+ReddTrain 987890310  8  1 BQ  -     -     -         8214    5    0 
+ReddTrain 987958116 10  3 f   -     -     -         8209    0    0 
+ReddTrain 987958187 10  2 Bk  k     k     kc        8209   30    0 As 7s
+ReddTrain 987958237 10  1 Br  bc    kc    kf        8179   60    0 
+ReddTrain 987958317 10 10 c   k     k     c         8119   30  120 Jh 8h
+ReddTrain 987958434 10  9 f   -     -     -         8209    0    0 
+ReddTrain 987958491 10  8 rc  bc    brc   bc        8209  170  365 Kc Qd
+ReddTrain 987958529 10  7 f   -     -     -         8404    0    0 
+ReddTrain 987958614 10  6 f   -     -     -         8404    0    0 
+ReddTrain 987958644 10  5 rc  br    k     b         8404   80  220 
+ReddTrain 987958693 10  4 f   -     -     -         8544    0    0 
+ReddTrain 987958732 10  3 f   -     -     -         8544    0    0 
+ReddTrain 987958800 10  2 Bk  k     kf    -         8544   10    0 
+ReddTrain 987958868 10  1 Bf  -     -     -         8534    5    0 
+ReddTrain 987958952 10 10 r   cc    c     c         8529  100    0 Tc Th
+ReddTrain 987959005 10  9 c   f     -     -         8429   10    0 
+ReddTrain 987959074 10  8 f   -     -     -         8419    0    0 
+ReddTrain 987959126 10  7 r   b     k     c         8419   50    0 Jd Kc
+ReddTrain 987959165 10  6 f   -     -     -         8369    0    0 
+ReddTrain 987959196 10  5 f   -     -     -         8369    0    0 
+ReddTrain 987959299 10  4 f   -     -     -         8369    0    0 
+ReddTrain 987959350 10  3 r   b     b     k         8369   50    0 Jc Kc
+ReddTrain 987959390 10  2 Bc  kc    k     k         8319   30   48 Jd Ah
+ReddTrain 987959428 10  1 BQ  -     -     -         8337    5    0 

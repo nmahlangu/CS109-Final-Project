@@ -1,0 +1,94 @@
+ParFore   987399683  4  3 f   -     -     -         1000    0    0 
+ParFore   987399708  4  2 Bc  kc    kr    -         1000   70  155 
+ParFore   987399745  4  1 Bcf -     -     -         1085   10    0 
+ParFore   987399770  4  4 r   rc    c     f         1075   70    0 
+ParFore   987399816  5  3 Q   -     -     -         1005    0    0 
+ParFore   987402584  6  5 f   -     -     -         1005    0    0 
+ParFore   987402617  5  3 f   -     -     -         1005    0    0 
+ParFore   987402658  5  2 Bk  k     k     kf        1005   10    0 
+ParFore   987402691  6  1 Bc  kf    -     -          995   20    0 
+ParFore   987402767  6  6 c   k     b     -          975   30   60 
+ParFore   987402827  6  5 c   f     -     -         1005   10    0 
+ParFore   987402864  6  4 f   -     -     -          995    0    0 
+ParFore   987402907  6  3 f   -     -     -          995    0    0 
+ParFore   987402953  6  2 Bk  k     k     f          995   10    0 
+ParFore   987403002  6  1 Bc  kc    k     b          985   40   90 
+ParFore   987403080  5  5 f   -     -     -         1035    0    0 
+ParFore   987403124  5  4 f   -     -     -         1035    0    0 
+ParFore   987403155  5  3 r   brc   kc    kc        1035  100  240 Kd Ad
+ParFore   987403202  5  2 Bk  c     k     k         1175   20    0 9c 6d
+ParFore   987403258  6  1 Bc  kc    kc    kf        1155   40    0 
+ParFore   987403350  7  7 f   -     -     -         1115    0    0 
+ParFore   987403424  7  6 f   -     -     -         1115    0    0 
+ParFore   987403490  8  6 f   -     -     -         1115    0    0 
+ParFore   987403553  8  5 rc  c     f     -         1115   50    0 
+ParFore   987403617  7  4 c   k     k     kf        1065   10    0 
+ParFore   987403665  6  3 f   -     -     -         1055    0    0 
+ParFore   987403705  6  2 Bc  kc    kc    kcf       1055   90    0 
+ParFore   987403768  6  1 Bc  kf    -     -          965   20    0 
+ParFore   987403812  6  5 Q   -     -     -          945    0    0 
+ParFore   987476325  7  3 f   -     -     -          770    0    0 
+ParFore   987476381  7  3 f   -     -     -          770    0    0 
+ParFore   987476418  7  2 Bf  -     -     -          770   10    0 
+ParFore   987476458  8  1 Bc  kc    kc    k          760   40    0 Kd Qd
+ParFore   987476554  8  8 f   -     -     -          720    0    0 
+ParFore   987476674  7  6 f   -     -     -          720    0    0 
+ParFore   987476712  7  5 c   kc    kc    kc         720   60    0 Th Qh
+ParFore   987476801  7  4 c   c     c     f          660   40    0 
+ParFore   987476858  7  3 Q   -     -     -          620    0    0 
+ParFore   987478136  9  4 f   -     -     -          620    0    0 
+ParFore   987478176  9  3 f   -     -     -          620    0    0 
+ParFore   987478234  9  2 Bk  kf    -     -          620   10    0 
+ParFore   987478333  9  1 Bc  kf    -     -          610   10    0 
+ParFore   987478395 10 10 f   -     -     -          600    0    0 
+ParFore   987478465 10  9 f   -     -     -          600    0    0 
+ParFore   987478499 10  8 r   br    b     b          600   90    0 Ad Qd
+ParFore   987478594 10  7 c   f     -     -          510   10    0 
+ParFore   987478687 10  6 c   c     c     b          500   60  205 
+ParFore   987478783  9  5 f   -     -     -          645    0    0 
+ParFore   987478834  9  4 cc  kc    kc    kc         645   70    0 5h 5s
+ParFore   987478904  8  3 c   f     -     -          575   10    0 
+ParFore   987478932  8  2 Bk  kc    kc    b          565   60    0 6c 9c
+ParFore   987479008  8  1 Bf  -     -     -          505    5    0 
+ParFore   987479064  8  8 f   -     -     -          500    0    0 
+ParFore   987479093  8  7 f   -     -     -          500    0    0 
+ParFore   987479124  8  6 f   -     -     -          500    0    0 
+ParFore   987479177  9  5 f   -     -     -          500    0    0 
+ParFore   987479215  9  4 c   c     r     b          500   80  185 Ah 9s
+ParFore   987479282  9  3 c   kc    kc    kf         605   40    0 
+ParFore   987479371  8  2 Bk  k     kc    k          565   30  105 Js 7s
+ParFore   987479446  9  1 Bc  kc    kc    k          640   50  160 Ac Jc
+ParFore   987479506  8  8 c   k     f     -          750   10    0 
+ParFore   987479545  8  7 c   f     -     -          740   20    0 
+ParFore   987479566  8  6 f   -     -     -          720    0    0 
+ParFore   987479592  8  5 c   k     f     -          720   10    0 
+ParFore   987479629  8  4 c   k     k     k          710   10   25 9c Jd
+ParFore   987479666  8  3 f   -     -     -          725    0    0 
+ParFore   987479684  8  2 Bc  kc    k     k          725   30   65 Ad 9c
+ParFore   987479737  9  1 Bc  kf    -     -          760   10    0 
+ParFore   987479800 10 10 f   -     -     -          750    0    0 
+ParFore   987479871  9  8 f   -     -     -          750    0    0 
+ParFore   987479913  9  8 f   -     -     -          750    0    0 
+ParFore   987479944 10  7 KQ  -     -     -          750    0    0 
+ParFore   988254658 10  6 cc  kf    -     -         1270   20    0 
+ParFore   988254716 10  5 ccc cf    -     -         1250   50    0 
+ParFore   988254843 10  4 f   -     -     -         1200    0    0 
+ParFore   988254920 10  3 c   kc    kf    -         1200   20    0 
+ParFore   988255021 10  2 Bk  c     k     f         1180   20    0 
+ParFore   988255062  9  1 Bcc kc    kc    k         1160   50    0 4h Ah
+ParFore   988255148  8  8 c   f     -     -         1110   20    0 
+ParFore   988255190  8  7 c   k     r     rc        1090  130    0 6d 5h
+ParFore   988255249  9  7 r   r     b     b          960   90  255 Kd Jd
+ParFore   988255317  9  6 f   -     -     -         1125    0    0 
+ParFore   988255347  9  5 c   f     -     -         1125   10    0 
+ParFore   988255408  9  4 c   c     f     -         1115   20    0 
+ParFore   988255487  9  3 f   -     -     -         1095    0    0 
+ParFore   988255544  9  2 Bk  k     kc    k         1095   30    0 8c 6c
+ParFore   988255624  9  1 Bf  -     -     -         1065    5    0 
+ParFore   988255703  9  9 f   -     -     -         1060    0    0 
+ParFore   988255767  9  8 c   k     c     f         1060   30    0 
+ParFore   988255830  9  6 f   -     -     -         1030    0    0 
+ParFore   988255916  8  5 r   f     -     -         1030   20    0 
+ParFore   988255980  8  4 f   -     -     -         1010    0    0 
+ParFore   988256017  7  2 Bk  kc    k     f         1010   20    0 
+ParFore   988256064  8  1 Bf  Q     -     -          990    5    0 

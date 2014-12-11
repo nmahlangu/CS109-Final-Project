@@ -1,0 +1,134 @@
+SigloIV   987353845  8  7 f   -     -     -         1000    0    0 
+SigloIV   987353878  8  6 f   -     -     -         1000    0    0 
+SigloIV   987353913  7  5 f   -     -     -         1000    0    0 
+SigloIV   987353945  7  4 c   k     f     -         1000   20    0 
+SigloIV   987354044  7  3 c   k     k     f          980   10    0 
+SigloIV   987354102  9  2 Bk  kf    -     -          970   10    0 
+SigloIV   987354181  9  1 Bc  kc    kf    -          960   30    0 
+SigloIV   987354250  9  9 c   c     c     f          930   40    0 
+SigloIV   987354310  8  7 f   -     -     -          890    0    0 
+SigloIV   987354372  9  7 c   ccc   cc    k          890  100  405 Ad Js
+SigloIV   987354431  9  7 f   -     -     -         1195    0    0 
+SigloIV   987354505  7  4 f   -     -     -         1195    0    0 
+SigloIV   987354547  7  3 cc  kc    k     kf        1195   30    0 
+SigloIV   987354584  7  2 Bk  b     b     -         1165   40  100 
+SigloIV   987354619  7  1 Bf  -     -     -         1225    5    0 
+SigloIV   987354641  7  7 f   -     -     -         1220    0    0 
+SigloIV   987354672  7  6 f   -     -     -         1220    0    0 
+SigloIV   987354684  7  5 cc  f     -     -         1220   20    0 
+SigloIV   987354741  8  4 f   -     -     -         1200    0    0 
+SigloIV   987354761  7  2 f   -     -     -         1200    0    0 
+SigloIV   987354788  7  2 Bf  -     -     -         1200   10    0 
+SigloIV   987354813  8  1 Bf  -     -     -         1190    5    0 
+SigloIV   987354860 10 10 f   -     -     -         1185    0    0 
+SigloIV   987354899 10  9 f   -     -     -         1185    0    0 
+SigloIV   987354962 10  8 f   -     -     -         1185    0    0 
+SigloIV   987355017  9  6 f   -     -     -         1185    0    0 
+SigloIV   987355082 10  6 cc  b     k     b         1185   50  175 Js Ah
+SigloIV   987355132  9  5 f   -     -     -         1310    0    0 
+SigloIV   987355243 10  4 f   -     -     -         1310    0    0 
+SigloIV   987355315  9  3 cc  kf    -     -         1310   40    0 
+SigloIV   987355378  8  2 Bf  -     -     -         1270   10    0 
+SigloIV   987355415  9  1 Bf  -     -     -         1260    5    0 
+SigloIV   987355458 10  9 cc  c     c     c         1255   90    0 Qd Qs
+SigloIV   987355552  8  8 ccc f     -     -         1165   40    0 
+SigloIV   987355648  8  7 ccc f     -     -         1125   40    0 
+SigloIV   987355745  8  5 f   -     -     -         1085    0    0 
+SigloIV   987355829  8  5 f   -     -     -         1085    0    0 
+SigloIV   987355902  7  4 f   -     -     -         1085    0    0 
+SigloIV   987355976  8  3 f   -     -     -         1085    0    0 
+SigloIV   987356002  8  2 BQ  -     -     -         1085   10    0 
+SigloIV   987362952  9  7 c   c     f     -         1075   20    0 
+SigloIV   987362992  9  6 f   -     -     -         1055    0    0 
+SigloIV   987363045  9  5 cc  kc    kf    -         1055   30    0 
+SigloIV   987363107  9  4 cc  c     f     -         1025   40    0 
+SigloIV   987363167  9  3 cc  bc    kc    kf         985   60    0 
+SigloIV   987363215  9  2 Bf  -     -     -          925   10    0 
+SigloIV   987363242  9  1 Bf  -     -     -          915    5    0 
+SigloIV   987363297  9  9 c   f     -     -          910   20    0 
+SigloIV   987363350  8  7 c   k     f     -          890   20    0 
+SigloIV   987363405  8  6 f   -     -     -          870    0    0 
+SigloIV   987363478  9  5 rc  k     kc    k          870   50  195 Qd Qh
+SigloIV   987363527  9  4 f   -     -     -         1015    0    0 
+SigloIV   987363573  9  3 cc  c     k     kf        1015   30    0 
+SigloIV   987363644 10  2 Bk  kf    -     -          985   10    0 
+SigloIV   987363721 10  1 Bf  -     -     -          975    5    0 
+SigloIV   987363743  9  9 c   k     f     -          970   10    0 
+SigloIV   987363797  9  8 c   c     f     -          960   20    0 
+SigloIV   987363872  9  6 r   kc    k     kc         940   50  140 Jc Js
+SigloIV   987363924  9  5 f   -     -     -         1030    0    0 
+SigloIV   987363982  9  4 f   -     -     -         1030    0    0 
+SigloIV   987364024  9  3 c   k     b     b         1030   50  140 
+SigloIV   987364079  9  2 Bk  kf    -     -         1120   10    0 
+SigloIV   987364112  9  1 Bc  kf    -     -         1110   20    0 
+SigloIV   987364149  9  9 c   f     -     -         1090   10    0 
+SigloIV   987364178  9  8 f   -     -     -         1080    0    0 
+SigloIV   987364217  9  7 c   f     -     -         1080   10    0 
+SigloIV   987364262  9  6 c   f     -     -         1070   10    0 
+SigloIV   987364314  9  5 f   -     -     -         1060    0    0 
+SigloIV   987364368  9  5 c   b     k     b         1060   40  110 
+SigloIV   987364427  8  4 f   -     -     -         1130    0    0 
+SigloIV   987364463  8  3 f   -     -     -         1130    0    0 
+SigloIV   987364513  9  2 Bc  f     -     -         1130   20    0 
+SigloIV   987364527 10  1 Bf  -     -     -         1110    5    0 
+SigloIV   987364559 10 10 c   c     f     -         1105   30    0 
+SigloIV   987364617 10  9 f   -     -     -         1075    0    0 
+SigloIV   987364660 10  8 cc  kf    -     -         1075   20    0 
+SigloIV   987364749  8  7 f   -     -     -         1055    0    0 
+SigloIV   987364846  8  6 f   -     -     -         1055    0    0 
+SigloIV   987364927  7  5 f   -     -     -         1055    0    0 
+SigloIV   987364981  7  4 cc  c     c     c         1055  100  280 Qs 4s
+SigloIV   987365025  8  3 f   -     -     -         1235    0    0 
+SigloIV   987365064  7  2 Bk  k     k     c         1235   30   70 6d Kd
+SigloIV   987365104  7  1 Bc  kf    -     -         1275   20    0 
+SigloIV   987365163  7  7 f   -     -     -         1255    0    0 
+SigloIV   987365211  7  6 f   Q     -     -         1255    0    0 
+SigloIV   987828543  8  7 c   f     -     -         1305   10    0 
+SigloIV   987828591  9  6 f   -     -     -         1295    0    0 
+SigloIV   987828618 10  5 cc  f     -     -         1295   20    0 
+SigloIV   987828668 10  4 f   -     -     -         1275    0    0 
+SigloIV   987828724 10  3 c   k     kf    -         1275   10    0 
+SigloIV   987828770 10  2 Bc  k     kf    -         1265   20    0 
+SigloIV   987828857 10  1 Bc  kc    kc    k         1245   60    0 Td Jc
+SigloIV   987828901 10 10 f   -     -     -         1185    0    0 
+SigloIV   987828966 10  9 f   -     -     -         1185    0    0 
+SigloIV   987829043 10  8 f   -     -     -         1185    0    0 
+SigloIV   987829086 10  7 f   -     -     -         1185    0    0 
+SigloIV   987829208 10  6 c   k     bc    rc        1185  120  435 8s 7s
+SigloIV   987829294 10  5 cc  f     -     -         1500   20    0 
+SigloIV   987829407 10  4 f   -     -     -         1480    0    0 
+SigloIV   987829460  9  3 f   -     -     -         1480    0    0 
+SigloIV   987829536 10  2 Bf  -     -     -         1480   10    0 
+SigloIV   987829616 10  1 Bf  -     -     -         1470    5    0 
+SigloIV   987829655 10 10 cc  f     -     -         1465   30    0 
+SigloIV   987829768  9  9 c   k     c     c         1435   50   60 Jc 5c
+SigloIV   987829806  9  8 c   k     f     -         1445   10    0 
+SigloIV   987829887  9  7 f   Q     -     -         1435    0    0 
+SigloIV   987876298  7  6 f   -     -     -         1435    0    0 
+SigloIV   987876330  7  5 f   -     -     -         1435    0    0 
+SigloIV   987876420  7  4 cc  kf    -     -         1435   20    0 
+SigloIV   987876461  6  3 f   -     -     -         1415    0    0 
+SigloIV   987876489  6  2 Bf  -     -     -         1415   10    0 
+SigloIV   987876496  6  1 Bc  b     k     b         1405   40  120 Ks Ts
+SigloIV   987876523  6  6 c   f     -     -         1485   20    0 
+SigloIV   987876546  7  6 c   r     b     b         1465   80  185 4c 8c
+SigloIV   987876572  7  5 c   k     kf    -         1570   10    0 
+SigloIV   987876630  6  3 f   -     -     -         1560    0    0 
+SigloIV   987876652  6  2 Bc  bc    k     kc        1560   60    0 6c 6d
+SigloIV   987876677  6  1 Bf  -     -     -         1500    5    0 
+SigloIV   987876690  6  6 f   -     -     -         1495    0    0 
+SigloIV   987876707  6  5 c   kc    k     k         1495   20   55 Ad 2d
+SigloIV   987876734  6  4 f   -     -     -         1530    0    0 
+SigloIV   987876759  6  3 f   -     -     -         1530    0    0 
+SigloIV   987876778  5  1 Bc  kf    -     -         1530   20    0 
+SigloIV   987876790  4  1 Bf  -     -     -         1510    5    0 
+SigloIV   987876795  4  4 f   -     -     -         1505    0    0 
+SigloIV   987876813  4  3 cc  cc    k     k         1505   40    0 Jh Tc
+SigloIV   987876849  4  2 B   -     -     -         1465   10   15 
+SigloIV   987876861  4  1 Br  b     kf    -         1470   30    0 
+SigloIV   987876878  4  4 f   -     -     -         1440    0    0 
+SigloIV   987876896  5  3 r   b     -     -         1440   30   75 
+SigloIV   987876912  5  2 Bf  -     -     -         1485   10    0 
+SigloIV   987876921  5  1 Bf  -     -     -         1475    5    0 
+SigloIV   987876940  5  5 c   f     -     -         1470   10    0 
+SigloIV   987876972  5  3 Q   -     -     -         1460    0    0 

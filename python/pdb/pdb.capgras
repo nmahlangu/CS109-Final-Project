@@ -1,0 +1,247 @@
+capgras   986103254 10  4 f   -     -     -         1337    0    0 
+capgras   986103291 10  3 f   -     -     -         1337    0    0 
+capgras   986103375 10  2 Bf  -     -     -         1337   10    0 
+capgras   986103401 10  1 Bc  bc    kf    -         1327   30    0 
+capgras   986103460 10 10 f   -     -     -         1297    0    0 
+capgras   986103500 10  9 c   f     -     -         1297   20    0 
+capgras   986103537 10  8 c   b     bc    k         1277   70  185 Ad 4h
+capgras   986103607 10  7 f   -     -     -         1392    0    0 
+capgras   986103626 10  6 cc  cf    -     -         1392   30    0 
+capgras   986103702 10  6 f   -     -     -         1362    0    0 
+capgras   986103783  9  4 f   -     -     -         1362    0    0 
+capgras   986103848  9  2 Bf  -     -     -         1362   10    0 
+capgras   986103907 10  1 Bc  kc    kf    -         1352   20    0 
+capgras   986103988 10 10 c   c     b     k         1332   50  165 5d 7d
+capgras   986104064 10  9 c   bc    k     k         1447   30   95 Ks Qd
+capgras   986104135 10  8 f   -     -     -         1512    0    0 
+capgras   986104198 10  7 f   -     -     -         1512    0    0 
+capgras   986104290  9  6 f   -     -     -         1512    0    0 
+capgras   986104328 10  5 cc  kc    kc    kr        1512   90  240 Td Kh
+capgras   986104432  9  4 cc  kc    kf    -         1662   30    0 
+capgras   986104517  9  3 cc  kf    -     -         1632   20    0 
+capgras   986104541  9  2 Bk  kr    bc    kc        1612  100    0 Jh Jc
+capgras   986104633  9  1 Bf  -     -     -         1512    5    0 
+capgras   986104674  9  9 c   f     -     -         1507   10    0 
+capgras   986104774  8  6 cc  f     -     -         1497   30    0 
+capgras   986104839  9  6 f   -     -     -         1467    0    0 
+capgras   986104896  9  5 f   -     -     -         1467    0    0 
+capgras   986104919  9  4 f   -     -     -         1467    0    0 
+capgras   986104974  9  3 rr  bc    kc    kf        1467   80    0 
+capgras   986105018  9  2 Bk  b     bc    k         1387   60  135 6h Ah
+capgras   986105050  9  1 Bf  -     -     -         1462    5    0 
+capgras   986105113  9  9 f   -     -     -         1457    0    0 
+capgras   986105186  9  9 c   c     c     f         1457   40    0 
+capgras   986105262  8  6 Q   -     -     -         1417    0    0 
+capgras   986150743  9  6 cc  f     -     -         1417   20    0 
+capgras   986150813  9  5 c   kf    -     -         1397   10    0 
+capgras   986150879  9  4 c   c     c     k         1387   40   95 Qh 5h
+capgras   986150930  9  3 f   -     -     -         1442    0    0 
+capgras   986150978 10  2 Bk  kf    -     -         1442   10    0 
+capgras   986151062 10  1 Bc  kf    -     -         1432   30    0 
+capgras   986151123 10 10 cc  cc    c     k         1402  100    0 Ac 4c
+capgras   986151225 10  8 Q   -     -     -         1302    0    0 
+capgras   986271200  3  2 Bf  -     -     -         1152   10    0 
+capgras   986271221  3  1 Bf  -     -     -         1142    5    0 
+capgras   986271245  3  3 f   -     -     -         1137    0    0 
+capgras   986271272  4  2 Bc  kr    kc    br        1137  120    0 Td 9c
+capgras   986271330  5  1 Bf  -     -     -         1017    5    0 
+capgras   986271374  5  5 f   -     -     -         1012    0    0 
+capgras   986271402  5  4 cc  r     b     bc        1012  100  120 7d 8s
+capgras   986271444  7  5 f   -     -     -         1032    0    0 
+capgras   986271497  8  5 c   kf    -     -         1032   10    0 
+capgras   986271580  7  3 Q   -     -     -         1022    0    0 
+capgras   987823214  2  2 Br  bc    f     -         1302   40    0 
+capgras   987823250  2  1 Bf  -     -     -         1262    5    0 
+capgras   987823255  3  2 Bc  kr    b     -         1257   60  120 
+capgras   987823293  3  1 Bf  -     -     -         1317    5    0 
+capgras   987823330  3  3 f   -     -     -         1312    0    0 
+capgras   987823357  3  2 Bf  -     -     -         1312   10    0 
+capgras   987823372  3  1 Bc  k     kf    -         1302   10    0 
+capgras   987823405  4  4 cc  c     f     -         1292   30    0 
+capgras   987823438  5  4 cc  c     f     -         1262   50    0 
+capgras   987823490  6  4 f   -     -     -         1212    0    0 
+capgras   987823531  6  3 f   -     -     -         1212    0    0 
+capgras   987823591  6  2 Bk  kf    -     -         1212   10    0 
+capgras   987823629  7  1 Bf  -     -     -         1202    5    0 
+capgras   987823662  6  6 c   r     b     -         1197   50  110 
+capgras   987823705  6  5 f   -     -     -         1257    0    0 
+capgras   987823748  8  4 c   bf    -     -         1257   20    0 
+capgras   987823773  8  3 c   k     c     f         1237   30    0 
+capgras   987823806  8  2 Bk  kc    kf    -         1207   20    0 
+capgras   987823861  8  1 Bf  -     -     -         1187    5    0 
+capgras   987823915  7  7 c   b     b     k         1182   40    0 9h 7h
+capgras   987823966  7  6 f   -     -     -         1142    0    0 
+capgras   987823989  7  5 f   -     -     -         1142    0    0 
+capgras   987824023  7  4 r   b     b     -         1142   50   95 
+capgras   987824041  7  3 f   -     -     -         1187    0    0 
+capgras   987824057  7  2 Bk  k     k     k         1187   10   10 4d Qd
+capgras   987824086  7  1 Bf  -     -     -         1187    5    0 
+capgras   987824116  7  7 f   -     -     -         1182    0    0 
+capgras   987824198  8  6 cc  c     f     -         1182   40    0 
+capgras   987824290  8  5 c   c     b     b         1142   60  185 8c Ad
+capgras   987824352  8  4 f   -     -     -         1267    0    0 
+capgras   987824391  8  3 f   -     -     -         1267    0    0 
+capgras   987824443  8  2 Bk  bc    c     c         1267   70  230 9h 7c
+capgras   987824491  8  1 Bcc kf    -     -         1427   20    0 
+capgras   987824520  8  8 c   c     c     f         1407   40    0 
+capgras   987824566  7  6 rc  rc    k     c         1367   80  410 Qd Qc
+capgras   987824655  7  5 f   -     -     -         1697    0    0 
+capgras   987824712  8  5 f   -     -     -         1697    0    0 
+capgras   987824760  6  2 B   -     -     -         1697   10   15 
+capgras   987824768  4  1 Bc  kf    -     -         1702   10    0 
+capgras   987824796  6  5 f   -     -     -         1692    0    0 
+capgras   987824842  6  4 c   k     k     f         1692   20    0 
+capgras   987824882  6  3 cc  f     -     -         1672   20    0 
+capgras   987824920  5  2 Br  rc    c     c         1652   90    0 Ah Ad
+capgras   987824958  5  1 Bc  k     k     k         1562   10    0 Js 6s
+capgras   987825006  6  6 c   b     c     f         1552   40    0 
+capgras   987825064  6  5 c   c     bc    c         1512   80  215 9d 9s
+capgras   987825108  6  4 f   -     -     -         1647    0    0 
+capgras   987825132  6  3 c   bc    b     b         1647   70  245 Ks 7s
+capgras   987825208  6  2 Bk  cc    kc    k         1822   50  180 Jh Qs
+capgras   987825268  6  1 Bc  k     kf    -         1952   10    0 
+capgras   987825308  5  5 f   -     -     -         1942    0    0 
+capgras   987825375  6  5 f   -     -     -         1942    0    0 
+capgras   987825428  7  5 f   -     -     -         1942    0    0 
+capgras   987825505  8  5 cc  kcc   kf    -         1942   60    0 
+capgras   987825587  8  4 cc  kc    kc    kf        1882   55    0 
+capgras   987825644  7  3 cc  cc    kc    kf        1827   70    0 
+capgras   987825724  7  2 Bf  -     -     -         1757   10    0 
+capgras   987825786  9  1 Bf  -     -     -         1747    5    0 
+capgras   987825819  9  9 c   f     -     -         1742   10    0 
+capgras   987825865  8  7 c   c     c     r         1732   90  265 9s Td
+capgras   987825951  8  6 c   bc    kf    -         1907   30    0 
+capgras   987826029  7  5 c   c     f     -         1877   20    0 
+capgras   987826082  7  4 f   -     -     -         1857    0    0 
+capgras   987826125  7  3 f   -     -     -         1857    0    0 
+capgras   987826171  7  2 Bf  -     -     -         1857   10    0 
+capgras   987826257  7  1 Bf  -     -     -         1847    5    0 
+capgras   987826308  7  7 c   f     -     -         1842   10    0 
+capgras   987826366  7  6 f   -     -     -         1832    0    0 
+capgras   987826443  8  5 c   f     -     -         1832   10    0 
+capgras   987826509  8  4 f   -     -     -         1822    0    0 
+capgras   987826572  7  3 f   -     -     -         1822    0    0 
+capgras   987826613  7  2 Bk  kc    kc    kr        1822   80  160 
+capgras   987826693  7  1 Bc  kc    kc    k         1902   40    0 Td 8s
+capgras   987826752  9  9 f   -     -     -         1862    0    0 
+capgras   987826827  9  8 c   c     c     f         1862   40    0 
+capgras   987826890 10  8 c   b     bc    c         1822   80  260 9c Td
+capgras   987827023 10  7 fQ  -     -     -         2002    0    0 
+capgras   987897094 10  8 f   -     -     -         2002    0    0 
+capgras   987897155 10  7 f   -     -     -         2002    0    0 
+capgras   987897226 10  6 f   -     -     -         2002    0    0 
+capgras   987897261 10  5 f   -     -     -         2002    0    0 
+capgras   987897306 10  4 f   -     -     -         2002    0    0 
+capgras   987897369 10  3 f   -     -     -         2002    0    0 
+capgras   987897413 10  2 Br  bc    c     b         2002   90  380 Ac Kc
+capgras   987897498 10  1 Bf  -     -     -         2292    5    0 
+capgras   987897572 10 10 f   -     -     -         2287    0    0 
+capgras   987897640 10  9 f   -     -     -         2287    0    0 
+capgras   987897684 10  8 cc  k     c     b         2287   70  315 Kd Qs
+capgras   987897748 10  7 cc  bcc   cc    c         2532  150    0 Jd Kc
+capgras   987897892 10  6 f   -     -     -         2382    0    0 
+capgras   987897961 10  5 f   -     -     -         2382    0    0 
+capgras   987897997 10  4 cc  k     kf    -         2382   30    0 
+capgras   987898072 10  3 f   -     -     -         2352    0    0 
+capgras   987898187 10  2 Bf  -     -     -         2352   10    0 
+capgras   987898266 10  1 Br  b     b     b         2342   70    0 As Ks
+capgras   987898350  8  8 f   -     -     -         2272    0    0 
+capgras   987898390  8  8 f   -     -     -         2272    0    0 
+capgras   987898459  8  7 f   -     -     -         2272    0    0 
+capgras   987898522  9  6 f   -     -     -         2272    0    0 
+capgras   987898567 10  5 f   -     -     -         2272    0    0 
+capgras   987898652  9  3 c   cf    -     -         2272   20    0 
+capgras   987898757  9  2 Bf  -     -     -         2252   10    0 
+capgras   987898848 10  1 Bf  -     -     -         2242    5    0 
+capgras   987898898 10 10 r   c     c     f         2237   50    0 
+capgras   987898999 10 10 c   fQ    -     -         2187   10    0 
+capgras   987949453  9  8 f   -     -     -         2177    0    0 
+capgras   987949480 10  8 f   -     -     -         2177    0    0 
+capgras   987949554 10  7 c   c     k     c         2177   40    0 Jh Qh
+capgras   987949608 10  6 cc  c     k     k         2137   30    0 As 7h
+capgras   987949670 10  5 f   -     -     -         2107    0    0 
+capgras   987949736 10  4 cc  b     k     b         2107   50  180 
+capgras   987949799 10  3 f   -     -     -         2237    0    0 
+capgras   987949835 10  2 Bf  -     -     -         2237   10    0 
+capgras   987949974 10  1 Bc  kr    b     b         2227   70  310 7d 6d
+capgras   987950056  9  9 c   f     -     -         2467   10    0 
+capgras   987950150 10  9 r   b     b     k         2457   50  220 As Ts
+capgras   987950260 10  8 f   -     -     -         2627    0    0 
+capgras   987950283  9  6 f   -     -     -         2627    0    0 
+capgras   987950335  9  5 f   -     -     -         2627    0    0 
+capgras   987950402  8  4 f   -     -     -         2627    0    0 
+capgras   987950432  8  3 f   -     -     -         2627    0    0 
+capgras   987950487  8  2 Bk  k     kf    -         2627   10    0 
+capgras   987950524  9  1 Bc  k     kf    -         2617   10    0 
+capgras   987950575  9  9 c   k     k     k         2607   10    0 8s Jd
+capgras   987950663  9  8 r   b     b     b         2597   70  215 Jc Ad
+capgras   987950718  9  7 f   -     -     -         2742    0    0 
+capgras   987950756  9  6 c   f     -     -         2742   10    0 
+capgras   987950808  9  5 f   -     -     -         2732    0    0 
+capgras   987950867  9  4 c   k     k     b         2732   30   80 Kh 2h
+capgras   987950942  8  3 f   -     -     -         2782    0    0 
+capgras   987950993  7  2 Bk  kr    bc    k         2782   70   90 8s 8h
+capgras   987951047  7  1 Bc  k     kf    -         2802   10    0 
+capgras   987951092  7  7 f   -     -     -         2792    0    0 
+capgras   987951128  7  6 f   -     -     -         2792    0    0 
+capgras   987951154  7  5 c   k     b     kc        2792   50    0 8h 8c
+capgras   987951217  7  4 c   k     b     k         2742   30    0 5h Jh
+capgras   987951257  8  3 fQ  -     -     -         2712    0    0 
+capgras   987995403  9  4 r   c     k     k         2712   40    0 Ad Kd
+capgras   987995496  8  3 f   -     -     -         2672    0    0 
+capgras   987995524  8  2 Bc  b     k     k         2672   30   80 9s 8h
+capgras   987995563  8  1 Bc  kc    kf    -         2722   30    0 
+capgras   987995606  8  8 r   c     c     c         2692   70    0 Kd Qc
+capgras   987995674  8  7 c   c     f     -         2622   20    0 
+capgras   987995719  9  6 f   -     -     -         2602    0    0 
+capgras   987995765  9  5 cc  c     c     f         2602   90    0 
+capgras   987995824  8  4 c   kc    kf    -         2512   20    0 
+capgras   987995884  8  3 c   c     bc    c         2492   80    0 Qs Qh
+capgras   987995952  8  2 Bk  f     -     -         2412   10    0 
+capgras   987995986  8  1 Bc  kf    -     -         2402   10    0 
+capgras   987996037  8  8 f   -     -     -         2392    0    0 
+capgras   987996051  8  7 f   -     -     -         2392    0    0 
+capgras   987996079  8  6 c   c     b     k         2392   50    0 7s 7h
+capgras   987996129  8  5 c   b     c     c         2342   60    0 Qs Ts
+capgras   987996171 10  4 c   b     k     k         2282   20    0 9c 6c
+capgras   987996244 10  3 f   -     -     -         2262    0    0 
+capgras   987996308 10  2 Bf  -     -     -         2262   10    0 
+capgras   987996339 10  1 Bc  kc    kc    kf        2252   50    0 
+capgras   987996422 10 10 f   -     -     -         2202    0    0 
+capgras   987996513 10  9 cc  k     k     k         2202   20   28 9c Qc
+capgras   987996559 10  8 cc  kf    -     -         2210   20    0 
+capgras   987996620 10  7 ccc kc    kc    k         2190   70    0 6c 4c
+capgras   987996719 10  6 f   -     -     -         2120    0    0 
+capgras   987996824  9  5 f   -     -     -         2120    0    0 
+capgras   987996901 10  4 f   -     -     -         2120    0    0 
+capgras   987996997 10  3 c   b     b     b         2120   60    0 8c 9h
+capgras   987997053 10  2 Bk  k     k     k         2060   10    0 Qs Js
+capgras   987997109  9  1 Bf  -     -     -         2050    5    0 
+capgras   987997155 10 10 f   -     -     -         2045    0    0 
+capgras   987997232  9  8 c   c     c     k         2045   40    0 As 6d
+capgras   987997283  9  7 f   -     -     -         2005    0    0 
+capgras   987997330  9  6 c   kc    kc    kr        2005   90  285 8h 8c
+capgras   987997398 10  5 c   kf    -     -         2200   10    0 
+capgras   987997504 10  4 f   -     -     -         2190    0    0 
+capgras   987997570 10  3 f   -     -     -         2190    0    0 
+capgras   987997599 10  2 Bk  f     -     -         2190   10    0 
+capgras   987997666 10  1 Bc  kc    k     kf        2180   20    0 
+capgras   987997768 10 10 cc  cc    c     c         2160  100    0 3c Tc
+capgras   987997853 10 10 c   c     c     c         2060   80    0 Jc Js
+capgras   987997943 10  8 f   -     -     -         1980    0    0 
+capgras   987997976 10  7 c   b     b     k         1980   50  175 7c 8c
+capgras   987998041 10  6 f   -     -     -         2105    0    0 
+capgras   987998078 10  6 c   f     -     -         2105   10    0 
+capgras   987998105  9  4 c   c     kc    kf        2095   50    0 
+capgras   987998173  9  3 c   kf    -     -         2045   10    0 
+capgras   987998225  8  2 Bk  kf    -     -         2035   10    0 
+capgras   987998257  7  1 Bc  b     b     b         2025   60  110 
+capgras   987998291  7  7 c   c     f     -         2075   20    0 
+capgras   987998312  7  6 f   -     -     -         2055    0    0 
+capgras   987998331  7  5 f   -     -     -         2055    0    0 
+capgras   987998341  7  4 f   -     -     -         2055    0    0 
+capgras   987998386  7  3 f   -     -     -         2055    0    0 
+capgras   987998394  8  2 Bc  kc    kc    kc        2055   70    0 Kd Jc
+capgras   987998443  8  1 Bc  kf    -     -         1985   10    0 
+capgras   987998469  9  9 f   -     -     -         1975    0    0 
+capgras   987998541  8  8 fQ  -     -     -         1975    0    0 

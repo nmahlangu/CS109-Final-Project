@@ -1,0 +1,45 @@
+ATMcard   987119255  4  2 Bc  kf    -     -         1160   20    0 
+ATMcard   987119286  4  1 Bf  -     -     -         1140    5    0 
+ATMcard   987119314  4  4 r   b     k     b         1135   50  120 
+ATMcard   987119370  3  2 r   b     b     b         1205   70  170 
+ATMcard   987119394  3  2 Bk  k     k     bc        1305   50   55 5h 9s
+ATMcard   987119420  3  1 Bf  -     -     -         1310    5    0 
+ATMcard   987119444  3  3 r   b     b     -         1305   50  100 
+ATMcard   987119475  3  2 Bk  k     k     kf        1355   10    0 
+ATMcard   987119500  3  1 Br  b     b     -         1345   50   80 
+ATMcard   987119521  3  3 f   -     -     -         1375    0    0 
+ATMcard   987119552  3  2 Bk  k     k     k         1375   10   30 Th 8s
+ATMcard   987119597  3  1 Br  k     b     k         1395   40   80 7s Ad
+ATMcard   987119626  3  3 f   -     -     -         1435    0    0 
+ATMcard   987119650  3  2 Bk  kf    -     -         1435   10    0 
+ATMcard   987119672  3  1 Bf  -     -     -         1425    5    0 
+ATMcard   987119700  3  3 f   -     -     -         1420    0    0 
+ATMcard   987119713  3  2 Bk  k     f     -         1420   10    0 
+ATMcard   987119730  3  1 Br  k     b     -         1410   40   80 
+ATMcard   987119748  3  3 f   -     -     -         1450    0    0 
+ATMcard   987119757  3  2 Bf  -     -     -         1450   10    0 
+ATMcard   987119774  3  1 Br  br    kc    kf        1440   70    0 
+ATMcard   987119792  3  3 r   r     b     b         1370   80  180 9h Ts
+ATMcard   987119818  5  2 Bf  -     -     -         1470   10    0 
+ATMcard   987119844  5  1 Bf  -     -     -         1460    5    0 
+ATMcard   987119869  5  5 f   -     -     -         1455    0    0 
+ATMcard   987119905  5  4 f   -     -     -         1455    0    0 
+ATMcard   987119940  6  3 f   -     -     -         1455    0    0 
+ATMcard   987119966  6  2 Bk  k     kf    -         1455   10    0 
+ATMcard   987119993  6  1 Bf  -     -     -         1445    5    0 
+ATMcard   987120033  6  6 r   rc    c     rr        1440  150  455 5h Kh
+ATMcard   987120088  6  5 r   b     -     -         1745   30   55 
+ATMcard   987120112  6  4 f   -     -     -         1770    0    0 
+ATMcard   987120144  6  3 cc  kc    kc    b         1770   70  165 8h Ad
+ATMcard   987120189  6  2 Bk  k     bc    kf        1865   50    0 
+ATMcard   987120227  6  1 Br  b     kf    -         1815   30    0 
+ATMcard   987120265  6  6 f   -     -     -         1785    0    0 
+ATMcard   987120300  6  5 f   -     -     -         1785    0    0 
+ATMcard   987120322  6  4 f   -     -     -         1785    0    0 
+ATMcard   987120356  6  3 c   bc    k     k         1785   30  105 Jd Td
+ATMcard   987120390  6  2 Br  b     k     k         1860   30  150 7h 7c
+ATMcard   987120426  6  1 Bc  k     kf    -         1980   10    0 
+ATMcard   987120469  6  6 r   rc    c     r         1970  110  285 Th Qc
+ATMcard   987120515  6  5 c   b     -     -         2145   20   50 
+ATMcard   987120552  6  4 f   -     -     -         2175    0    0 
+ATMcard   987120580  6  3 f   Q     -     -         2175    0    0 

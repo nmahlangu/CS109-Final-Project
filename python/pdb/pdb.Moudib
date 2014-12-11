@@ -1,0 +1,69 @@
+Moudib    986958134  6  4 f   -     -     -         1000    0    0 
+Moudib    986958158  8  3 f   -     -     -         1000    0    0 
+Moudib    986958207  8  2 Bf  -     -     -         1000   10    0 
+Moudib    986958271  8  1 Bf  -     -     -          990    5    0 
+Moudib    986958329  8  8 f   -     -     -          985    0    0 
+Moudib    986958375  7  6 f   -     -     -          985    0    0 
+Moudib    986958422  8  6 f   -     -     -          985    0    0 
+Moudib    986958448  8  5 f   -     -     -          985    0    0 
+Moudib    986958467  7  3 f   -     -     -          985    0    0 
+Moudib    986958511  7  2 Brc rc    c     c          985  110  260 Tc Ts
+Moudib    986958553  6  1 Br  -     -     -         1135   20   30 
+Moudib    986958567  6  6 c   c     c     c         1145   70  195 Ts Jc
+Moudib    986958612  6  5 f   -     -     -         1270    0    0 
+Moudib    986958662  6  4 rc  r     k     c         1270   70  212 7d 7s
+Moudib    986958701  5  3 f   -     -     -         1412    0    0 
+Moudib    986958750  5  2 Bf  -     -     -         1412   10    0 
+Moudib    986958815  6  1 Bc  k     kf    -         1402   20    0 
+Moudib    986958894  6  6 c   f     -     -         1382   20    0 
+Moudib    986958922  6  5 c   kf    -     -         1362   10    0 
+Moudib    986958991  6  4 c   c     c     b         1352   70  185 
+Moudib    986959022  6  3 f   -     -     -         1467    0    0 
+Moudib    986959060  7  2 Bcc kf    -     -         1467   40    0 
+Moudib    986959133  7  1 Bf  -     -     -         1427    5    0 
+Moudib    986959210  7  7 f   -     -     -         1422    0    0 
+Moudib    986959257  6  5 f   -     -     -         1422    0    0 
+Moudib    986959303  6  4 rc  kf    -     -         1422   30    0 
+Moudib    986959354  6  3 f   -     -     -         1392    0    0 
+Moudib    986959400  6  2 Bk  k     r     -         1392   50   90 
+Moudib    986959437  6  1 Bf  -     -     -         1432    5    0 
+Moudib    986959512  6  6 f   -     -     -         1427    0    0 
+Moudib    986959536  6  5 f   -     -     -         1427    0    0 
+Moudib    986959570  6  4 f   -     -     -         1427    0    0 
+Moudib    986959613  6  3 r   b     -     -         1427   30   65 
+Moudib    986959639  7  3 cc  ccc   r     rr        1462  180  470 Tc Jh
+Moudib    986959718  7  2 Bk  k     k     k         1752   10    0 Qc 3s
+Moudib    986959747  7  1 Bc  b     b     -         1742   40   70 
+Moudib    986959771  8  8 c   f     -     -         1772   10    0 
+Moudib    986959810  8  7 c   f     -     -         1762   10    0 
+Moudib    986959866  8  6 f   -     -     -         1752    0    0 
+Moudib    986959928  8  5 f   -     -     -         1752    0    0 
+Moudib    986959968  8  4 f   -     -     -         1752    0    0 
+Moudib    986959982  9  3 f   -     -     -         1752    0    0 
+Moudib    986960025  9  2 Bk  kc    k     k         1752   20    0 Qh Ts
+Moudib    986960085  9  1 Bc  k     kf    -         1732   10    0 
+Moudib    986960132  9  9 c   c     f     -         1722   30    0 
+Moudib    986960171  9  8 f   -     -     -         1692    0    0 
+Moudib    986960207  9  7 f   -     -     -         1692    0    0 
+Moudib    986960252 10  7 rc  c     c     c         1692   90  255 4d 4s
+Moudib    986960313  9  5 f   -     -     -         1857    0    0 
+Moudib    986960361  9  4 cr  bc    kc    krc       1857  140    0 Qd Tc
+Moudib    986960481  9  3 f   -     -     -         1717    0    0 
+Moudib    986960511  8  2 Bc  kf    -     -         1717   20    0 
+Moudib    986960591  8  1 Bcc kf    -     -         1697   40    0 
+Moudib    986960703  7  7 r   c     br    b         1657  110  245 Ac Qc
+Moudib    986960756  7  6 f   -     -     -         1792    0    0 
+Moudib    986960782  7  5 r   cc    c     c         1792   80  260 Ac Ks
+Moudib    986960842  7  4 f   -     -     -         1972    0    0 
+Moudib    986960911  7  3 rc  kc    k     k         1972   60    0 4c Ac
+Moudib    986960961  6  2 Bc  kf    -     -         1912   20    0 
+Moudib    986961019  7  1 Bf  -     -     -         1892    5    0 
+Moudib    986961060  7  7 f   -     -     -         1887    0    0 
+Moudib    986961105  7  6 f   -     -     -         1887    0    0 
+Moudib    986961177  7  5 f   -     -     -         1887    0    0 
+Moudib    986961222  7  4 f   -     -     -         1887    0    0 
+Moudib    986961263  6  3 f   -     -     -         1887    0    0 
+Moudib    986961289  6  2 Bc  kf    -     -         1887   20    0 
+Moudib    986961313  6  1 Bf  -     -     -         1867    5    0 
+Moudib    986961375  6  6 f   -     -     -         1862    0    0 
+Moudib    986961413  5  4 Q   -     -     -         1862    0    0 

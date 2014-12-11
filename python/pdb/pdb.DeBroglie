@@ -1,0 +1,182 @@
+DeBroglie 987022292  3  2 B   -     -     -          710   10   15 
+DeBroglie 987022303  3  1 Bf  -     -     -          715    5    0 
+DeBroglie 987022312  3  3 f   -     -     -          710    0    0 
+DeBroglie 987022334  3  2 Bk  kc    kc    kc         710   60  125 8h Jd
+DeBroglie 987022357  3  1 Bc  kc    kc    kc         775   70  190 9h 3h
+DeBroglie 987022390  3  3 cc  f     -     -          895   20    0 
+DeBroglie 987022412  3  2 Bf  -     -     -          875   10    0 
+DeBroglie 987022433  3  1 Bcc k     k     k          865   20   40 Qs Jh
+DeBroglie 987022455  3  3 f   -     -     -          885    0    0 
+DeBroglie 987022471  3  2 Bc  k     k     k          885   20    0 Kc Ah
+DeBroglie 987022490  3  1 Bcc k     kf    -          865   20    0 
+DeBroglie 987022514  3  3 f   -     -     -          845    0    0 
+DeBroglie 987022520  3  2 B   -     -     -          845   10   15 
+DeBroglie 987022524  3  1 Bc  k     k     kf         850   10    0 
+DeBroglie 987022550  3  3 c   k     k     c          840   30   65 7s As
+DeBroglie 987022570  3  2 Bf  -     -     -          875   10    0 
+DeBroglie 987022594  3  1 Bf  -     -     -          865    5    0 
+DeBroglie 987022610  3  3 cc  r     r     c          860  100    0 6h Jh
+DeBroglie 987022634  3  2 B   -     -     -          760   10   15 
+DeBroglie 987022641  3  1 Bf  -     -     -          765    5    0 
+DeBroglie 987022646  3  3 f   -     -     -          760    0    0 
+DeBroglie 987022655  3  2 Bf  -     -     -          760   10    0 
+DeBroglie 987022672  3  1 Bc  b     -     -          750   20   30 
+DeBroglie 987022686  3  3 r   rc    c     c          760   90    0 Kh Kd
+DeBroglie 987022704  3  2 B   -     -     -          670   10   15 
+DeBroglie 987022712  3  1 Bf  -     -     -          675    5    0 
+DeBroglie 987022726  3  3 f   -     -     -          670    0    0 
+DeBroglie 987022754  3  2 Bf  -     -     -          670   10    0 
+DeBroglie 987022769  3  1 Bc  k     k     kf         660   10    0 
+DeBroglie 987022793  3  3 f   -     -     -          650    0    0 
+DeBroglie 987022808  3  2 Bf  -     -     -          650   10    0 
+DeBroglie 987022817  3  1 Bc  b     -     -          640   20   30 
+DeBroglie 987022825  3  3 c   c     c     c          650   60  180 9c 8d
+DeBroglie 987022852  3  2 Bk  b     b     -          770   40   65 
+DeBroglie 987022870  3  1 Bf  -     -     -          795    5    0 
+DeBroglie 987022874  3  3 f   -     -     -          790    0    0 
+DeBroglie 987022878  3  2 Bc  c     cc    c          790   90    0 7d 8c
+DeBroglie 987022899  3  1 Bf  -     -     -          700    5    0 
+DeBroglie 987022907  3  3 r   b     bc    c          695   90  210 Td Th
+DeBroglie 987022936  3  2 B   -     -     -          815   10   15 
+DeBroglie 987022943  3  1 Bf  -     -     -          820    5    0 
+DeBroglie 987022948  3  3 cc  c     c     r          815   90  185 3c 8c
+DeBroglie 987022963  3  2 Brc kc    kc    kc         910   90    0 2h Qs
+DeBroglie 987022994  4  1 Bf  -     -     -          820    5    0 
+DeBroglie 987023022  4  4 c   b     b     -          815   50  110 
+DeBroglie 987023037  4  3 f   -     -     -          875    0    0 
+DeBroglie 987023069  4  2 Bf  -     -     -          875   10    0 
+DeBroglie 987023093  4  1 Bf  -     -     -          865    5    0 
+DeBroglie 987023114  4  4 cc  c     c     c          860   70    0 5s Kh
+DeBroglie 987023153  4  3 f   -     -     -          790    0    0 
+DeBroglie 987023178  5  2 Bf  -     -     -          790   10    0 
+DeBroglie 987023210  5  1 Bc  kc    kf    -          780   30    0 
+DeBroglie 987023260  5  5 r   rc    c     c          750   90    0 Kd Ks
+DeBroglie 987023287  5  4 f   -     -     -          660    0    0 
+DeBroglie 987023333  5  3 cc  c     k     k          660   30  100 Kh 9c
+DeBroglie 987023357  5  2 Bc  k     b     bc         730   80    0 Jh Ac
+DeBroglie 987023391  5  1 Bf  -     -     -          650    5    0 
+DeBroglie 987023424  6  6 c   k     k     k          645   10    0 4d 8d
+DeBroglie 987023469  5  5 f   -     -     -          635    0    0 
+DeBroglie 987023502  5  4 c   c     c     f          635   40    0 
+DeBroglie 987023531  5  3 cc  k     kc    k          595   50  140 5h 6d
+DeBroglie 987023567  4  2 Bk  k     kf    -          685   10    0 
+DeBroglie 987023592  4  1 Bf  -     -     -          675    5    0 
+DeBroglie 987023598  4  4 c   c     c     c          670   70    0 9c Jc
+DeBroglie 987023611  4  3 c   c     c     c          600   60  180 6c Js
+DeBroglie 987023636  4  2 Bk  k     b     b          720   50    0 Ac Qd
+DeBroglie 987023661  4  1 Bcc br    b     b          670   90  180 8h 3h
+DeBroglie 987023696  4  4 c   f     -     -          760   10    0 
+DeBroglie 987023740  4  3 c   b     -     -          750   20   40 
+DeBroglie 987023762  4  2 Bf  -     -     -          770   10    0 
+DeBroglie 987023788  5  1 Bc  kc    bc    k          760   80    0 As Qc
+DeBroglie 987023821  5  5 f   -     -     -          680    0    0 
+DeBroglie 987023830  6  5 c   b     b     b          680   60    0 As Qc
+DeBroglie 987023863  6  4 r   b     k     k          620   30   90 As 7s
+DeBroglie 987023899  6  3 f   -     -     -          680    0    0 
+DeBroglie 987023930  6  2 Bk  kf    -     -          680   10    0 
+DeBroglie 987023971  5  1 Br  bc    k     kc         670   80    0 Ts Td
+DeBroglie 987024014  4  4 cc  r     b     b          590   80  160 2c Ad
+DeBroglie 987024048  3  3 c   f     -     -          670   10    0 
+DeBroglie 987024062  3  2 Brc brc   br    b          660  160    0 Tc Th
+DeBroglie 987024103  4  1 BQ  -     -     -          500    5    0 
+DeBroglie 987040717  7  7 f   -     -     -          495    0    0 
+DeBroglie 987040748  7  6 c   k     r     b          495   70  142 8h Jh
+DeBroglie 987040778  6  4 r   -     -     -          567   20   30 
+DeBroglie 987040791  7  4 f   -     -     -          577    0    0 
+DeBroglie 987040821  7  3 f   -     -     -          577    0    0 
+DeBroglie 987040860  7  2 Bf  -     -     -          577   10    0 
+DeBroglie 987040916  6  1 Bc  b     -     -          567   20   30 
+DeBroglie 987040931  6  6 r   cc    c     f          577   90    0 
+DeBroglie 987040964  6  5 f   -     -     -          487    0    0 
+DeBroglie 987041004  6  4 f   -     -     -          487    0    0 
+DeBroglie 987041015  6  3 f   -     -     -          487    0    0 
+DeBroglie 987041052  6  2 Bk  f     -     -          487   10    0 
+DeBroglie 987041070  5  1 Bc  b     -     -          477   20   30 
+DeBroglie 987041080  5  5 c   c     c     c          487   60   62 5s Qs
+DeBroglie 987041092  5  4 f   -     -     -          489    0    0 
+DeBroglie 987041126  5  3 f   -     -     -          489    0    0 
+DeBroglie 987041159  5  2 Bc  b     -     -          489   30   70 
+DeBroglie 987041174  5  1 Bc  kf    -     -          529   20    0 
+DeBroglie 987041227  5  5 f   -     -     -          509    0    0 
+DeBroglie 987041232  5  4 f   -     -     -          509    0    0 
+DeBroglie 987041284  6  3 c   b     b     b          509   60  115 
+DeBroglie 987041316  5  2 Bcc kc    kc    k          564   70    0 8c Kh
+DeBroglie 987041353  5  1 Bf  -     -     -          494    5    0 
+DeBroglie 987041385  5  5 c   c     c     k          489   50  125 3d Qd
+DeBroglie 987041410  6  5 c   c     c     c          564   60    0 Ac 8h
+DeBroglie 987041462  5  3 cc  kc    kf    -          504   30    0 
+DeBroglie 987041507  4  2 Bf  -     -     -          474   10    0 
+DeBroglie 987041520  4  1 Bcc b     brc   brc        464  190    0 4h 5s
+DeBroglie 987041556  4  4 r   b     b     -          274   50   95 
+DeBroglie 987041575  4  3 rr  b     b     b          319   90    0 9s Ts
+DeBroglie 987041604  4  2 Bk  c     c     r          229   80    0 7c 8s
+DeBroglie 987041630  4  1 Bf  -     -     -          149    5    0 
+DeBroglie 987041648  4  4 c   c     k     f          144   20    0 
+DeBroglie 987041663  4  3 cc  b     b     b          124   70  195 6d 7s
+DeBroglie 987041692  5  2 Bc  k     k     KQ         249   20    0 
+DeBroglie 987130995  3  2 Bcc cc    ccc   rcA        229  229  687 7h 8s
+DeBroglie 987131070  3  1 Bcc kc    kcc   kcc        687  210  620 Ah Jh
+DeBroglie 987131144  3  3 f   -     -     -         1097    0    0 
+DeBroglie 987131163  4  3 rc  rc    rc    ccc       1097  230    0 7h 7d
+DeBroglie 987131224  4  2 Br  rc    rc    rc         867  240  720 9c 9h
+DeBroglie 987131273  4  1 Bcc kf    -     -         1347   30    0 
+DeBroglie 987131357  4  4 f   -     -     -         1317    0    0 
+DeBroglie 987131401  5  4 f   -     -     -         1317    0    0 
+DeBroglie 987131459  6  4 c   fK    -     -         1317   10    0 
+DeBroglie 987131917  5  4 f   -     -     -         1307    0    0 
+DeBroglie 987131971  5  3 f   -     -     -         1307    0    0 
+DeBroglie 987131995  5  2 Bf  -     -     -         1307   10    0 
+DeBroglie 987132039  3  1 Bc  b     b     b         1297   60    0 Jc 5c
+DeBroglie 987132062  5  5 c   c     r     -         1237   70  150 
+DeBroglie 987132087  5  4 r   -     -     -         1317   20   35 
+DeBroglie 987132101  6  3 cc  k     kc    k         1332   40    0 3s 4s
+DeBroglie 987132135  7  2 Bf  -     -     -         1292   10    0 
+DeBroglie 987132154  7  1 BKQ -     -     -         1282    5    0 
+DeBroglie 987132467  7  3 f   -     -     -         1277    0    0 
+DeBroglie 987132524  4  1 Bf  -     -     -         1277   10    0 
+DeBroglie 987132545  4  1 Brc kc    kc    kc        1267   90    0 Td Qd
+DeBroglie 987132579  4  4 r   rc    c     r         1177  120  275 As Kc
+DeBroglie 987132609  4  3 ccc b     b     b         1332   90  255 Js 6s
+DeBroglie 987132654  4  2 Bf  -     -     -         1497   10    0 
+DeBroglie 987132691  4  1 Bcc k     k     k         1487   20   60 Js Ah
+DeBroglie 987132731  3  3 f   -     -     -         1527    0    0 
+DeBroglie 987132748  3  3 c   k     c     c         1527   50    0 5s 3s
+DeBroglie 987132770  3  2 Bc  b     b     -         1477   50   80 
+DeBroglie 987132789  3  1 Bf  -     -     -         1507    5    0 
+DeBroglie 987132806  4  3 f   -     -     -         1502    0    0 
+DeBroglie 987132831  4  2 Br  b     -     -         1502   40   70 
+DeBroglie 987132847  4  1 Bf  -     -     -         1532    5    0 
+DeBroglie 987132875  4  4 c   f     -     -         1527   20    0 
+DeBroglie 987132895  5  3 f   -     -     -         1507    0    0 
+DeBroglie 987132925  5  2 Bk  k     rr    b         1507  110  330 7c 4c
+DeBroglie 987132957  6  1 Br  b     bc    kc        1727  100    0 Ac 6c
+DeBroglie 987132984  6  6 c   f     -     -         1627   10    0 
+DeBroglie 987133015  6  5 c   f     -     -         1617   20    0 
+DeBroglie 987133051  5  3 f   -     -     -         1597    0    0 
+DeBroglie 987133085  6  2 Bf  -     -     -         1597   10    0 
+DeBroglie 987133126  6  1 Bf  -     -     -         1587    5    0 
+DeBroglie 987133164  6  6 f   -     -     -         1582    0    0 
+DeBroglie 987133201  6  5 f   -     -     -         1582    0    0 
+DeBroglie 987133229  6  4 f   -     -     -         1582    0    0 
+DeBroglie 987133273  7  3 r   b     b     b         1582   70  140 
+DeBroglie 987133313  6  2 Bk  kf    -     -         1652   10    0 
+DeBroglie 987133357  6  1 Bf  -     -     -         1642    5    0 
+DeBroglie 987133378  6  6 r   r     b     b         1637   80    0 Tc Ac
+DeBroglie 987133434  6  5 f   -     -     -         1557    0    0 
+DeBroglie 987133505  6  4 c   c     c     c         1557   60    0 5c 5d
+DeBroglie 987133566  6  3 rc  cc    cc    cc        1497  230    0 9h 9d
+DeBroglie 987133631  6  2 Bk  kc    kc    k         1267   40    0 Qd 4c
+DeBroglie 987133694  4  1 Bf  -     -     -         1227    5    0 
+DeBroglie 987133725  4  4 KQ  -     -     -         1222    0    0 
+DeBroglie 987353795  7  5 f   -     -     -         1232    0    0 
+DeBroglie 987353845  8  4 c   k     c     k         1232   30    0 8h As
+DeBroglie 987353878  8  3 f   -     -     -         1202    0    0 
+DeBroglie 987353913  7  2 Br  b     b     b         1202   70    0 Ad 5c
+DeBroglie 987353945  7  1 Bf  -     -     -         1132    5    0 
+DeBroglie 987354044  7  7 c   k     k     f         1127   10    0 
+DeBroglie 987354102  9  8 f   -     -     -         1117    0    0 
+DeBroglie 987354181  9  7 f   -     -     -         1117    0    0 
+DeBroglie 987354250  9  6 f   -     -     -         1117    0    0 
+DeBroglie 987354310  8  4 c   k     k     f         1117   10    0 
+DeBroglie 987354372  9  4 f   -     -     -         1107    0    0 
+DeBroglie 987354431  9  4 KQ  -     -     -         1107    0    0 

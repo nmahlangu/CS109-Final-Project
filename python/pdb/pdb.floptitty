@@ -1,0 +1,65 @@
+floptitty 987990327  5  4 f   -     -     -         1070    0    0 
+floptitty 987990375  5  3 f   -     -     -         1070    0    0 
+floptitty 987990380  5  2 Bk  k     k     k         1070   10   20 Tc 8s
+floptitty 987990414  5  1 Bf  -     -     -         1080    5    0 
+floptitty 987990444  5  5 f   -     -     -         1075    0    0 
+floptitty 987990462  5  4 f   -     -     -          995    0    0 
+floptitty 987990489  5  3 c   k     k     k          995   10   30 Kc Th
+floptitty 987990530  5  2 Bc  Q     -     -          995   20    0 
+floptitty 988321351  3  2 Bk  k     b     bc         975   70    0 Qc 5d
+floptitty 988321397  3  1 Bc  b     -     -          905   20   40 
+floptitty 988321416  3  3 c   f     -     -          925   10    0 
+floptitty 988321446  3  2 Bk  k     k     c          915   30    0 Kd Ad
+floptitty 988321467  3  1 Bc  b     brc   bc         885  140    0 Kh 5h
+floptitty 988321491  3  3 f   -     -     -          745    0    0 
+floptitty 988321508  3  2 Bk  c     f     -          745   20    0 
+floptitty 988321520  3  1 Bcc kc    kc    kc         725   70  160 8h Qd
+floptitty 988321546  3  3 c   k     k     b          815   30   50 
+floptitty 988321569  3  2 Bk  f     -     -          835   10    0 
+floptitty 988321580  4  1 Bf  -     -     -          825    5    0 
+floptitty 988321585  4  4 f   -     -     -          820    0    0 
+floptitty 988321597  4  3 c   k     f     -          820   10    0 
+floptitty 988321615  4  2 Bk  cc    k     b          810   50  110 
+floptitty 988321641  5  1 Bf  Q     -     -          870    5    0 
+floptitty 988400236 10 10 c   f     -     -          865   20    0 
+floptitty 988400327  9  8 f   -     -     -          845    0    0 
+floptitty 988400357  9  7 f   -     -     -          845    0    0 
+floptitty 988400393  9  6 f   -     -     -          845    0    0 
+floptitty 988400411  9  5 cc  kc    c     c          845   70    0 5d Ad
+floptitty 988400471  7  3 f   -     -     -          775    0    0 
+floptitty 988400519  8  2 Bk  k     k     kf         775   10    0 
+floptitty 988400546  8  1 Bf  Q     -     -          765    5    0 
+floptitty 988582089 10  9 c   k     f     -          760   10    0 
+floptitty 988582142 10  8 c   c     k     b          750   50  225 Qd Ac
+floptitty 988582197 10  7 c   b     b     k          925   40  150 8h Qh
+floptitty 988582268 10  6 f   -     -     -         1035    0    0 
+floptitty 988582331 10  5 f   -     -     -         1035    0    0 
+floptitty 988582365 10  4 c   k     kc    k         1035   30    0 Kh 3h
+floptitty 988582402 10  3 c   b     c     k         1005   40    0 Td Jd
+floptitty 988582452 10  2 Bc  kc    kf    -          965   30    0 
+floptitty 988582504 10  1 Bc  k     kf    -          935   10    0 
+floptitty 988582548 10 10 c   k     k     b          925   30   75 
+floptitty 988582602 10  9 c   c     b     b          970   60  280 3s Qs
+floptitty 988582664 10  8 c   f     -     -         1190   20    0 
+floptitty 988582698 10  7 c   c     bc    f         1170   60    0 
+floptitty 988582741 10  6 c   b     brc   k         1110  100  340 Kc Ac
+floptitty 988582798 10  5 f   -     -     -         1350    0    0 
+floptitty 988582839 10  4 f   -     -     -         1350    0    0 
+floptitty 988582897 10  3 c   c     f     -         1350   20    0 
+floptitty 988582952 10  2 Bk  kf    -     -         1330   10    0 
+floptitty 988583007 10  1 Bc  b     b     b         1320   60  160 
+floptitty 988583055 10 10 f   -     -     -         1420    0    0 
+floptitty 988583122 10  9 f   -     -     -         1420    0    0 
+floptitty 988583163 10  8 c   c     f     -         1420   20    0 
+floptitty 988583211 10  7 c   k     k     b         1400   30   90 7d 7c
+floptitty 988583260 10  6 f   -     -     -         1460    0    0 
+floptitty 988583334 10  5 c   kc    c     k         1460   50    0 8h 7h
+floptitty 988583415 10  4 c   c     c     c         1410   60  160 Qh Ah
+floptitty 988583468 10  3 f   -     -     -         1510    0    0 
+floptitty 988583571 10  2 Bf  -     -     -         1510   10    0 
+floptitty 988583608 10  1 Bcc kf    -     -         1500   30    0 
+floptitty 988583661 10 10 f   -     -     -         1470    0    0 
+floptitty 988583708 10  9 c   f     -     -         1470   10    0 
+floptitty 988583776 10  8 f   -     -     -         1460    0    0 
+floptitty 988583843 10  7 f   -     -     -         1460    0    0 
+floptitty 988583919 10  6 c   cfQ   -     -         1460   30    0 

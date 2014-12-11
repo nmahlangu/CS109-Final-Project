@@ -1,0 +1,262 @@
+Advisor_T 986143129  5  4 r   b     b     k         1180   50  105 Qh Qc
+Advisor_T 986143153  5  3 rc  kf    -     -         1235   30    0 
+Advisor_T 986143170  5  2 Bk  kf    -     -         1205   10    0 
+Advisor_T 986143181  5  1 Br  b     kf    -         1195   40    0 
+Advisor_T 986143211  5  5 f   -     -     -         1155    0    0 
+Advisor_T 986143224  5  4 f   -     -     -         1155    0    0 
+Advisor_T 986143235  5  3 f   -     -     -         1155    0    0 
+Advisor_T 986143251  5  2 Bc  bc    kf    -         1155   40    0 
+Advisor_T 986143273  5  1 Bf  -     -     -         1115    5    0 
+Advisor_T 986143301  5  5 r   b     -     -         1110   30   60 
+Advisor_T 986143316  5  4 r   b     -     -         1140   30   55 
+Advisor_T 986143328  5  3 f   -     -     -         1165    0    0 
+Advisor_T 986143333  5  2 Bc  kf    -     -         1165   20    0 
+Advisor_T 986143360  5  1 Bf  -     -     -         1145    5    0 
+Advisor_T 986143394  5  5 f   -     -     -         1140    0    0 
+Advisor_T 986143411  5  4 f   -     -     -         1140    0    0 
+Advisor_T 986143452  6  3 f   -     -     -         1140    0    0 
+Advisor_T 986143482  6  2 Bc  kf    -     -         1140   20    0 
+Advisor_T 986143549  6  1 Bf  -     -     -         1120    5    0 
+Advisor_T 986143590  6  6 f   -     -     -         1115    0    0 
+Advisor_T 986143663  6  5 f   -     -     -         1115    0    0 
+Advisor_T 986143705  6  4 c   k     f     -         1115   10    0 
+Advisor_T 986143731  6  3 f   -     -     -         1105    0    0 
+Advisor_T 986143771  6  2 Bk  kf    -     -         1105   10    0 
+Advisor_T 986143797  6  1 Bf  -     -     -         1095    5    0 
+Advisor_T 986143827  5  5 f   -     -     -         1090    0    0 
+Advisor_T 986143842  5  5 c   bf    -     -         1090   20    0 
+Advisor_T 986143878  5  4 f   -     -     -         1070    0    0 
+Advisor_T 986143902  5  3 r   b     b     k         1070   50  170 9d Ad
+Advisor_T 986143935  5  2 Brc bc    k     k         1190   70  105 Ac Qd
+Advisor_T 986143974  6  1 Bf  -     -     -         1225    5    0 
+Advisor_T 986144019  6  6 f   -     -     -         1220    0    0 
+Advisor_T 986144059  6  5 f   -     -     -         1220    0    0 
+Advisor_T 986144079  6  4 f   -     -     -         1220    0    0 
+Advisor_T 986144096  7  4 f   -     -     -         1220    0    0 
+Advisor_T 986144143  7  3 f   -     -     -         1220    0    0 
+Advisor_T 986144198  8  2 Bk  bc    brc   kc        1220  130  270 Ac 2c
+Advisor_T 986144234  9  1 Bf  -     -     -         1360    5    0 
+Advisor_T 986144316  9  9 c   b     k     b         1355   40  100 Th Qd
+Advisor_T 986144389  7  7 f   -     -     -         1415    0    0 
+Advisor_T 986144436  7  6 f   -     -     -         1415    0    0 
+Advisor_T 986144480  7  5 f   -     -     -         1415    0    0 
+Advisor_T 986144521  8  4 f   -     -     -         1415    0    0 
+Advisor_T 986144546  8  3 fQ  -     -     -         1415    0    0 
+Advisor_T 986152622 10  4 f   -     -     -         1415    0    0 
+Advisor_T 986152709  9  2 Bf  -     -     -         1415   10    0 
+Advisor_T 986152789 10  1 Bf  -     -     -         1405    5    0 
+Advisor_T 986152856 10 10 f   -     -     -         1400    0    0 
+Advisor_T 986152951 10  9 c   b     k     k         1400   20    0 Kh Tc
+Advisor_T 986153025 10  8 f   -     -     -         1380    0    0 
+Advisor_T 986153141 10  7 f   -     -     -         1380    0    0 
+Advisor_T 986153203 10  6 f   -     -     -         1380    0    0 
+Advisor_T 986153259 10  5 f   -     -     -         1380    0    0 
+Advisor_T 986153300  9  3 rc  k     b     k         1380   50    0 Ks Jc
+Advisor_T 986153368  9  2 Bf  -     -     -         1330   10    0 
+Advisor_T 986153485 10  1 Brc k     b     b         1320   80  290 Ac Jh
+Advisor_T 986153566 10 10 f   -     -     -         1530    0    0 
+Advisor_T 986153664 10  9 f   -     -     -         1530    0    0 
+Advisor_T 986153785  8  8 f   -     -     -         1530    0    0 
+Advisor_T 986153886  9  7 f   -     -     -         1530    0    0 
+Advisor_T 986153988 10  6 f   -     -     -         1530    0    0 
+Advisor_T 986154068 10  5 cc  b     c     rc        1530  120  470 Jc Th
+Advisor_T 986154170 10  4 f   -     -     -         1880    0    0 
+Advisor_T 986154248 10  3 f   -     -     -         1880    0    0 
+Advisor_T 986154344 10  2 Bf  -     -     -         1880   10    0 
+Advisor_T 986154378  9  1 Bf  -     -     -         1870    5    0 
+Advisor_T 986154482 10 10 f   -     -     -         1865    0    0 
+Advisor_T 986154553  9  8 f   -     -     -         1865    0    0 
+Advisor_T 986154625 10  8 f   -     -     -         1865    0    0 
+Advisor_T 986154700 10  7 f   -     -     -         1865    0    0 
+Advisor_T 986154790 10  6 rr  b     b     b         1865   90  440 Ah Ad
+Advisor_T 986154903 10  5 f   -     -     -         2215    0    0 
+Advisor_T 986155001 10  4 f   -     -     -         2215    0    0 
+Advisor_T 986155067 10  3 c   brc   bc    kc        2215  110  395 Th Jd
+Advisor_T 986155142 10  2 Bc  krc   bc    kc        2500  110  385 Ad 2d
+Advisor_T 986155201 10  1 Bf  -     -     -         2775    5    0 
+Advisor_T 986155255  9  9 f   -     -     -         2770    0    0 
+Advisor_T 986155322  8  7 f   -     -     -         2770    0    0 
+Advisor_T 986155367  9  6 c   r     r     c         2770   90    0 Td Ad
+Advisor_T 986155434 10  6 f   -     -     -         2680    0    0 
+Advisor_T 986155498  9  5 f   Q     -     -         2680    0    0 
+Advisor_T 986189810  9  6 f   -     -     -         2852    0    0 
+Advisor_T 986189866  9  5 f   -     -     -         2852    0    0 
+Advisor_T 986189924  9  4 f   -     -     -         2852    0    0 
+Advisor_T 986189972  9  3 f   -     -     -         2852    0    0 
+Advisor_T 986189996  9  3 f   -     -     -         2852    0    0 
+Advisor_T 986190054 10  2 Bk  kf    -     -         2852   10    0 
+Advisor_T 986190118 10  1 Bc  kf    -     -         2842   10    0 
+Advisor_T 986190174 10 10 r   r     k     c         2832   60    0 Ts Ks
+Advisor_T 986190210 10  9 f   -     -     -         2772    0    0 
+Advisor_T 986190250 10  8 f   -     -     -         2772    0    0 
+Advisor_T 986190287 10  7 f   -     -     -         2772    0    0 
+Advisor_T 986190334 10  6 f   -     -     -         2772    0    0 
+Advisor_T 986190380 10  5 f   -     -     -         2772    0    0 
+Advisor_T 986190421 10  4 f   -     -     -         2772    0    0 
+Advisor_T 986190461 10  3 f   -     -     -         2772    0    0 
+Advisor_T 986190533 10  2 Bk  kc    kc    kc        2772   60  108 2d 6s
+Advisor_T 986190591 10  1 Bc  k     b     b         2820   60  150 
+Advisor_T 986190649 10  5 Q   -     -     -         2910    0    0 
+Advisor_T 986230519  2  2 r   -     -     -         2910   20   30 
+Advisor_T 986230529  2  2 B   -     -     -         2920   10   15 
+Advisor_T 986230531  2  1 Brc k     bc    kf        2925   70    0 
+Advisor_T 986230557  3  2 Bc  b     b     k         2855   50  105 8h Kc
+Advisor_T 986230574  3  1 Br  -     -     -         2910   20   30 
+Advisor_T 986230584  3  3 r   bc    c     f         2920   60    0 
+Advisor_T 986230614  3  2 Bk  b     -     -         2860   20   40 
+Advisor_T 986230649  3  1 Bf  -     -     -         2880    5    0 
+Advisor_T 986230654  3  3 r   b     br    b         2875  110  120 9s Qs
+Advisor_T 986230681  4  2 Bf  -     -     -         2885   10    0 
+Advisor_T 986230698  4  1 Bc  b     b     k         2875   50  150 Kh 6h
+Advisor_T 986230726  4  4 r   -     -     -         2975   20   35 
+Advisor_T 986230734  4  3 r   b     b     b         2990   70  180 Jh Ah
+Advisor_T 986230758  4  2 B   -     -     -         3100   10   15 
+Advisor_T 986230763  4  1 Bf  -     -     -         3105    5    0 
+Advisor_T 986230769  4  4 f   -     -     -         3100    0    0 
+Advisor_T 986230776  4  3 f   -     -     -         3100    0    0 
+Advisor_T 986230780  4  2 Bf  -     -     -         3100   10    0 
+Advisor_T 986230790  4  1 Bc  b     kc    br        3090  100  240 2d Qd
+Advisor_T 986230821  5  5 f   -     -     -         3230    0    0 
+Advisor_T 986230870  6  5 rc  kf    -     -         3230   30    0 
+Advisor_T 986230895  6  4 f   -     -     -         3200    0    0 
+Advisor_T 986230929  7  4 f   -     -     -         3200    0    0 
+Advisor_T 986230953  7  3 r   b     b     c         3200   70    0 8d Ah
+Advisor_T 986230989  6  2 Bf  -     -     -         3130   10    0 
+Advisor_T 986231004  6  1 Bc  kf    -     -         3120   10    0 
+Advisor_T 986231046  6  6 c   c     f     -         3110   20    0 
+Advisor_T 986231072  6  5 f   -     -     -         3090    0    0 
+Advisor_T 986231088  6  4 f   -     -     -         3090    0    0 
+Advisor_T 986231106  7  3 f   -     -     -         3090    0    0 
+Advisor_T 986231138  7  2 Bf  -     -     -         3090   10    0 
+Advisor_T 986231206  8  1 Bc  kf    Q     -         3080   10    0 
+Advisor_T 986342433  4  3 r   b     kf    -          935   30    0 
+Advisor_T 986342452  5  2 Bc  k     bf    -          905   40    0 
+Advisor_T 986342471  5  1 Bf  -     -     -          865    5    0 
+Advisor_T 986342491  5  5 r   -     -     -          860   20   35 
+Advisor_T 986342500  5  4 f   -     -     -          875    0    0 
+Advisor_T 986342527  5  3 rc  b     b     b          875   80  190 
+Advisor_T 986342555  5  2 Br  b     k     k          985   40  115 Ad Th
+Advisor_T 986342589  5  1 Bf  -     -     -         1060    5    0 
+Advisor_T 986342629  5  5 c   b     -     -         1055   20   45 
+Advisor_T 986342645  5  4 f   -     -     -         1080    0    0 
+Advisor_T 986342668  5  3 f   -     -     -         1080    0    0 
+Advisor_T 986342687  5  2 Bk  bf    -     -         1080   20    0 
+Advisor_T 986342706  5  1 Bc  kr    bf    -         1060   50    0 
+Advisor_T 986342780  4  4 f   -     -     -         1010    0    0 
+Advisor_T 986342812  4  4 r   r     b     -         1010   60  130 
+Advisor_T 986342839  4  3 f   -     -     -         1080    0    0 
+Advisor_T 986342850  4  2 B   -     -     -         1080   10   15 
+Advisor_T 986342854  4  1 Bf  -     -     -         1085    5    0 
+Advisor_T 986342861  4  4 f   -     -     -         1080    0    0 
+Advisor_T 986342892  4  3 r   r     f     -         1080   40    0 
+Advisor_T 986342906  4  2 Bc  kf    -     -         1040   20    0 
+Advisor_T 986342919  4  1 Br  -     -     -         1020   20   30 
+Advisor_T 986342928  4  4 f   -     -     -         1030    0    0 
+Advisor_T 986342947  4  3 f   -     -     -         1030    0    0 
+Advisor_T 986342970  4  2 Bc  f     -     -         1030   20    0 
+Advisor_T 986343004  4  1 Br  b     b     kf        1010   60    0 
+Advisor_T 986343030  4  4 r   b     -     -          950   30   55 
+Advisor_T 986343044  4  3 r   -     -     -          975   20   35 
+Advisor_T 986343054  4  2 Bk  k     rc    c          990   90  190 7h Qh
+Advisor_T 986343080  4  1 Bf  -     -     -         1090    5    0 
+Advisor_T 986343102  4  4 r   b     rc    c         1085  120  275 5h 5d
+Advisor_T 986343131  4  3 f   -     -     -         1240    0    0 
+Advisor_T 986343150  4  2 B   -     -     -         1240   10   15 
+Advisor_T 986343153  4  1 Bc  kc    kf    -         1245   30    0 
+Advisor_T 986343175  4  4 f   -     -     -         1215    0    0 
+Advisor_T 986343182  4  3 r   -     -     -         1215   20   35 
+Advisor_T 986343186  4  2 Bk  b     b     -         1230   40   65 
+Advisor_T 986343205  4  1 Bf  -     -     -         1255    5    0 
+Advisor_T 986343212  4  4 f   -     -     -         1250    0    0 
+Advisor_T 986343218  4  3 r   -     -     -         1250   20   35 
+Advisor_T 986343222  4  2 Bc  f     -     -         1265   20    0 
+Advisor_T 986343242  4  1 Bc  k     b     -         1245   30   40 
+Advisor_T 986343261  3  3 rc  f     -     -         1255   30    0 
+Advisor_T 986343293  3  2 B   -     -     -         1225   10   15 
+Advisor_T 986343297  3  1 Bc  b     br    -         1230   90  170 
+Advisor_T 986343318  3  3 r   -     -     -         1310   20   35 
+Advisor_T 986343323  3  2 Br  k     b     -         1325   50   85 
+Advisor_T 986343341  3  1 Bf  -     -     -         1360    5    0 
+Advisor_T 986343359  3  3 r   -     -     -         1355   20   35 
+Advisor_T 986343363  3  2 B   -     -     -         1370   10   15 
+Advisor_T 986343365  3  1 Bf  -     -     -         1375    5    0 
+Advisor_T 986577072  7  7 f   -     -     -         1370    0    0 
+Advisor_T 986577152  6  4 f   -     -     -         1370    0    0 
+Advisor_T 986577191  6  4 f   -     -     -         1370    0    0 
+Advisor_T 986577202  6  3 f   -     -     -         1370    0    0 
+Advisor_T 986577238  6  2 Bc  f     -     -         1370   20    0 
+Advisor_T 986577285  6  1 Bc  b     kc    kf        1350   40    0 
+Advisor_T 986577320  6  6 f   -     -     -         1310    0    0 
+Advisor_T 986577339  6  5 f   -     -     -         1310    0    0 
+Advisor_T 986577389  6  4 f   -     -     -         1310    0    0 
+Advisor_T 986577448  6  3 f   -     -     -         1310    0    0 
+Advisor_T 986577517  6  2 Bk  kf    -     -         1310   10    0 
+Advisor_T 986577541  6  1 Bf  -     -     -         1300    5    0 
+Advisor_T 986577562  6  6 f   -     -     -         1295    0    0 
+Advisor_T 986577593  6  5 f   -     -     -         1295    0    0 
+Advisor_T 986577623  6  4 rc  r     c     c         1295  100  275 Ad Ks
+Advisor_T 986577656  6  3 f   -     -     -         1470    0    0 
+Advisor_T 986577895  3  1 BQ  -     -     -         1470   10    0 
+Advisor_T 987110936  2  2 Bk  b     c     c         2145   60  120 5s As
+Advisor_T 987110968  2  1 Br  b     b     -         2205   50   80 
+Advisor_T 987110988  2  2 Bk  k     f     -         2235   10    0 
+Advisor_T 987111005  2  1 Bf  -     -     -         2225    5    0 
+Advisor_T 987111008  2  2 Bk  c     c     k         2220   40    0 5s 7c
+Advisor_T 987111029  2  1 Bf  -     -     -         2180    5    0 
+Advisor_T 987111035  2  2 Bk  b     c     b         2175   60    0 5c 4c
+Advisor_T 987111064  3  1 Bc  bf    -     -         2115   30    0 
+Advisor_T 987111106  3  3 r   b     f     -         2085   30    0 
+Advisor_T 987111163  6  2 Bk  f     -     -         2055   10    0 
+Advisor_T 987111203  6  1 Bc  k     kf    -         2045   10    0 
+Advisor_T 987111258  6  6 c   r     b     c         2035   70    0 Kc 8d
+Advisor_T 987111315  6  5 c   c     c     r         1965   90  340 Ah 5h
+Advisor_T 987111365  6  4 r   cf    -     -         2215   30    0 
+Advisor_T 987111447  6  3 r   b     -     -         2185   30   95 
+Advisor_T 987111477  8  2 BKQ -     -     -         2250   10    0 
+Advisor_T 987111668  8  8 f   -     -     -         2240    0    0 
+Advisor_T 987111761 10  9 c   k     f     -         2240   10    0 
+Advisor_T 987111884 10  8 c   c     k     f         2230   20    0 
+Advisor_T 987111961 10  7 f   -     -     -         2210    0    0 
+Advisor_T 987112057 10  6 fQ  -     -     -         2210    0    0 
+Advisor_T 987124409  8  3 f   -     -     -         2210    0    0 
+Advisor_T 987124472  9  3 f   -     -     -         2210    0    0 
+Advisor_T 987124524  9  2 Bf  -     -     -         2210   10    0 
+Advisor_T 987124563  9  1 Bc  kc    kc    kf        2200   50    0 
+Advisor_T 987124634  9  9 c   r     c     c         2150   70  240 9s Jh
+Advisor_T 987124676  9  8 f   -     -     -         2320    0    0 
+Advisor_T 987124774  9  7 f   -     -     -         2320    0    0 
+Advisor_T 987124835  9  6 c   f     -     -         2320   10    0 
+Advisor_T 987124889  9  5 f   -     -     -         2310    0    0 
+Advisor_T 987124921  9  4 rc  cc    c     f         2310  110    0 
+Advisor_T 987124978  8  2 Bcc kc    k     kf        2200   50    0 
+Advisor_T 987125040  8  1 Bc  kf    -     -         2150   10    0 
+Advisor_T 987125097 10 10 f   -     -     -         2140    0    0 
+Advisor_T 987125161 10  9 f   -     -     -         2140    0    0 
+Advisor_T 987125215  9  7 f   -     -     -         2140    0    0 
+Advisor_T 987125284 10  8 f   -     -     -         2140    0    0 
+Advisor_T 987125392  9  5 f   -     -     -         2140    0    0 
+Advisor_T 987125444  8  4 f   -     -     -         2140    0    0 
+Advisor_T 987125523  6  3 f   -     -     -         2140    0    0 
+Advisor_T 987125543  6  2 Bk  k     k     kc        2140   30   65 Kc 9h
+Advisor_T 987125578  5  1 Bf  -     -     -         2175    5    0 
+Advisor_T 987125618  4  4 f   -     -     -         2170    0    0 
+Advisor_T 987125630  4  3 r   -     -     -         2170   20   35 
+Advisor_T 987125637  4  2 B   -     -     -         2185   10   15 
+Advisor_T 987125648  4  1 Bcc kf    -     -         2190   20    0 
+Advisor_T 987125667  4  4 f   -     -     -         2170    0    0 
+Advisor_T 987125686  4  3 f   -     -     -         2170    0    0 
+Advisor_T 987125703  4  2 Bf  -     -     -         2170   10    0 
+Advisor_T 987125717  4  1 Bf  -     -     -         2160    5    0 
+Advisor_T 987125734  4  4 c   b     -     -         2155   20   40 
+Advisor_T 987125761  4  3 f   -     -     -         2175    0    0 
+Advisor_T 987125781  4  2 B   -     -     -         2175   10   15 
+Advisor_T 987125790  4  1 Bf  -     -     -         2180    5    0 
+Advisor_T 987125832  4  4 f   -     -     -         2175    0    0 
+Advisor_T 987125869  4  3 r   b     -     -         2175   30   60 
+Advisor_T 987125885  4  2 Bc  f     -     -         2205   20    0 
+Advisor_T 987125898  4  1 Bf  -     -     -         2185    5    0 
+Advisor_T 987125937  4  4 f   -     -     -         2180    0    0 
+Advisor_T 987125956  4  3 r   -     -     -         2180   20   35 
+Advisor_T 987125968  4  2 Bk  b     -     -         2195   20   30 
+Advisor_T 987125983  4  1 Bc  b     -     -         2205   20   40 
+Advisor_T 987125999  3  3 Q   -     -     -         2225    0    0 

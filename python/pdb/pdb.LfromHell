@@ -1,0 +1,531 @@
+LfromHell 986137515 10  3 cc  c     k     kf        1000   30    0 
+LfromHell 986137601 10  2 Bk  f     -     -          970   10    0 
+LfromHell 986137680 10  1 Bc  b     kc    kc         960   70  270 Kc Td
+LfromHell 986137762 10 10 c   c     b     bc        1160   90  250 Ks 9d
+LfromHell 986137847  9  8 f   -     -     -         1320    0    0 
+LfromHell 986138067  9  7 f   -     -     -         1320    0    0 
+LfromHell 986138126 10  7 f   -     -     -         1320    0    0 
+LfromHell 986138192 10  6 cc  kf    -     -         1320   30    0 
+LfromHell 986138293 10  6 cc  f     -     -         1290   20    0 
+LfromHell 986138433  9  4 f   -     -     -         1270    0    0 
+LfromHell 986138472 10  3 f   -     -     -         1270    0    0 
+LfromHell 986138539  9  2 Bk  f     -     -         1270   10    0 
+LfromHell 986138607  9  1 Bf  -     -     -         1260    5    0 
+LfromHell 986138651  9  9 f   -     -     -         1255    0    0 
+LfromHell 986138745  8  7 f   -     -     -         1255    0    0 
+LfromHell 986138811  8  6 f   -     -     -         1255    0    0 
+LfromHell 986138899  9  5 f   -     -     -         1255    0    0 
+LfromHell 986138916 10  5 f   -     -     -         1255    0    0 
+LfromHell 986138972  7  1 Bc  k     kc    kf        1255   40    0 
+LfromHell 986139044  6  1 Bc  k     kf    -         1215   10    0 
+LfromHell 986139090  6  6 cc  k     k     f         1205   20    0 
+LfromHell 986139147  6  5 f   -     -     -         1185    0    0 
+LfromHell 986139169  5  3 f   -     -     -         1185    0    0 
+LfromHell 986139192  5  2 Bc  kf    -     -         1185   20    0 
+LfromHell 986139206  4  1 Bf  -     -     -         1165    5    0 
+LfromHell 986139236  4  4 f   -     -     -         1160    0    0 
+LfromHell 986139247  4  3 cc  c     c     f         1160   50    0 
+LfromHell 986139281  4  2 Bk  b     -     -         1110   20   35 
+LfromHell 986139306  3  1 Br  -     -     -         1125   20   30 
+LfromHell 986139318  3  3 f   -     -     -         1135    0    0 
+LfromHell 986139333  3  2 Bk  b     -     -         1135   20   30 
+LfromHell 986139347  3  1 BQ  -     -     -         1145    5    0 
+LfromHell 986146465  9  6 c   b     b     b         1140   60    0 9d Td
+LfromHell 986146551 10  5 f   -     -     -         1080    0    0 
+LfromHell 986146641  9  4 f   -     -     -         1080    0    0 
+LfromHell 986146696 10  3 f   -     -     -         1080    0    0 
+LfromHell 986146726 10  2 Bk  kf    -     -         1080   10    0 
+LfromHell 986146810 10  1 Bf  -     -     -         1070    5    0 
+LfromHell 986146851 10 10 f   -     -     -         1065    0    0 
+LfromHell 986146889 10  9 f   -     -     -         1065    0    0 
+LfromHell 986146946 10  8 f   -     -     -         1065    0    0 
+LfromHell 986147030 10  7 f   -     -     -         1065    0    0 
+LfromHell 986147080 10  6 f   -     -     -         1065    0    0 
+LfromHell 986147158 10  5 f   -     -     -         1065    0    0 
+LfromHell 986147245 10  4 f   -     -     -         1065    0    0 
+LfromHell 986147308 10  3 f   -     -     -         1065    0    0 
+LfromHell 986147373 10  2 Bk  k     k     k         1065   10    0 8c 3d
+LfromHell 986147419 10  1 Bf  -     -     -         1055    5    0 
+LfromHell 986147482 10 10 c   k     c     f         1050   30    0 
+LfromHell 986147546 10  9 rc  c     c     rc        1020  120  245 Ah 9d
+LfromHell 986147598 10  8 f   -     -     -         1145    0    0 
+LfromHell 986147727 10  7 f   -     -     -         1145    0    0 
+LfromHell 986147775 10  6 c   c     c     f         1145   60    0 
+LfromHell 986147825 10  5 f   -     -     -         1085    0    0 
+LfromHell 986147955 10  4 cc  kc    br    bc        1085  130    0 8c 5c
+LfromHell 986148019 10  3 Q   -     -     -          955    0    0 
+LfromHell 986148890 10  6 f   -     -     -          955    0    0 
+LfromHell 986148933 10  5 r   k     kc    k          955   40    0 Qh Jh
+LfromHell 986148993 10  4 c   f     -     -          915   20    0 
+LfromHell 986149091 10  3 f   -     -     -          895    0    0 
+LfromHell 986149220 10  2 Bf  -     -     -          895   10    0 
+LfromHell 986149277 10  1 Bf  -     -     -          885    5    0 
+LfromHell 986149379 10 10 f   -     -     -          880    0    0 
+LfromHell 986149474 10  9 c   k     f     -          880   10    0 
+LfromHell 986149543 10  8 f   -     -     -          870    0    0 
+LfromHell 986149629 10  7 c   k     k     f          870   10    0 
+LfromHell 986149727 10  6 c   f     -     -          860   10    0 
+LfromHell 986149829 10  5 f   -     -     -          850    0    0 
+LfromHell 986149883  9  3 fQ  -     -     -          850    0    0 
+LfromHell 986157865  8  5 f   -     -     -          850    0    0 
+LfromHell 986157919  9  5 c   kf    -     -          850   10    0 
+LfromHell 986158034  9  4 f   -     -     -          840    0    0 
+LfromHell 986158106  8  3 f   -     -     -          840    0    0 
+LfromHell 986158165  8  2 Bk  kf    -     -          840   10    0 
+LfromHell 986158289  8  1 Bc  kf    -     -          830   10    0 
+LfromHell 986158417  9  9 c   f     -     -          820   10    0 
+LfromHell 986158537 10  9 f   -     -     -          810    0    0 
+LfromHell 986158717 10  8 f   -     -     -          810    0    0 
+LfromHell 986158874  7  6 Q   -     -     -          810    0    0 
+LfromHell 986250109  7  2 Bc  c     r     b          810   90    0 Ks 7c
+LfromHell 986250145  7  1 Bf  -     -     -          720    5    0 
+LfromHell 986250159  7  7 f   -     -     -          715    0    0 
+LfromHell 986250188  7  6 c   rc    c     r          715  100  330 Ad 9h
+LfromHell 986250235  7  5 f   -     -     -          945    0    0 
+LfromHell 986250258  8  4 c   f     -     -          945   10    0 
+LfromHell 986250295  8  3 f   -     -     -          935    0    0 
+LfromHell 986250355  8  2 Bk  b     b     b          935   60  170 Qc 7h
+LfromHell 986250395  8  1 Bf  -     -     -         1045    5    0 
+LfromHell 986250429  8  8 c   f     -     -         1040   10    0 
+LfromHell 986250474  8  7 f   -     -     -         1030    0    0 
+LfromHell 986250516  7  5 KQ  -     -     -         1030    0    0 
+LfromHell 986452088  7  4 f   -     -     -         1030    0    0 
+LfromHell 986452136  7  3 f   -     -     -         1030    0    0 
+LfromHell 986452191  7  2 Bc  kcc   bc    kc        1030  110  335 8c Ac
+LfromHell 986452246  7  1 Br  b     b     b         1255   70  170 Ah 9s
+LfromHell 986452281  7  7 f   -     -     -         1355    0    0 
+LfromHell 986452312  7  6 r   b     -     -         1355   30   65 
+LfromHell 986452343  7  5 f   -     -     -         1390    0    0 
+LfromHell 986452378  7  4 r   r     c     c         1390   80  165 8s As
+LfromHell 986452412  7  3 fQ  -     -     -         1475    0    0 
+LfromHell 986615835 10  4 f   -     -     -         1475    0    0 
+LfromHell 986615891  9  3 f   -     -     -         1475    0    0 
+LfromHell 986615975  9  2 Bk  b     b     b         1475   60  165 Ac Kd
+LfromHell 986616017  9  1 Bf  -     -     -         1580    5    0 
+LfromHell 986616071  9  9 f   -     -     -         1575    0    0 
+LfromHell 986616124  9  8 f   -     -     -         1575    0    0 
+LfromHell 986616190  9  7 f   -     -     -         1575    0    0 
+LfromHell 986616247  9  6 r   k     f     -         1575   20    0 
+LfromHell 986616287  9  5 f   -     -     -         1555    0    0 
+LfromHell 986616334  8  4 f   -     -     -         1555    0    0 
+LfromHell 986616383  8  3 f   -     -     -         1555    0    0 
+LfromHell 986616417  8  2 Bk  kf    -     -         1555   10    0 
+LfromHell 986616488  8  1 Bc  kf    -     -         1545   10    0 
+LfromHell 986616568  8  8 rr  b     r     k         1535   90  320 Ac Ah
+LfromHell 986616660  8  7 f   -     -     -         1765    0    0 
+LfromHell 986616717  8  6 f   -     -     -         1765    0    0 
+LfromHell 986616809  8  5 f   -     -     -         1765    0    0 
+LfromHell 986616880  8  4 c   k     kf    -         1765   20    0 
+LfromHell 986616943  8  3 r   b     br    k         1745   90    0 9c 9d
+LfromHell 986617025  9  2 Bk  kf    -     -         1655   10    0 
+LfromHell 986617119  9  1 Br  k     kc    kf        1645   40    0 
+LfromHell 986617173  9  9 f   -     -     -         1605    0    0 
+LfromHell 986617215  9  8 f   -     -     -         1605    0    0 
+LfromHell 986617288  9  7 c   f     -     -         1605   10    0 
+LfromHell 986617338  9  6 f   -     -     -         1595    0    0 
+LfromHell 986617381  8  4 f   -     -     -         1595    0    0 
+LfromHell 986617413  8  3 f   -     -     -         1595    0    0 
+LfromHell 986617475  9  2 Bk  k     c     k         1595   30    0 4d 2d
+LfromHell 986617550  9  1 Bcc bc    bc    brc       1565  160  480 Ac Jc
+LfromHell 986617614  8  8 f   Q     -     -         1885    0    0 
+LfromHell 986618307  6  4 f   -     -     -         1885    0    0 
+LfromHell 986618362  5  2 c   b     b     bc        1885   80    0 Ts Jd
+LfromHell 986618414  6  2 Bk  f     -     -         1805   10    0 
+LfromHell 986618438  6  1 Bc  bc    kc    kc        1795   80  200 Qd Tc
+LfromHell 986618496  4  4 f   -     -     -         1915    0    0 
+LfromHell 986618532  5  4 f   -     -     -         1915    0    0 
+LfromHell 986618562  5  3 f   -     -     -         1915    0    0 
+LfromHell 986618589  5  2 Br  bc    kc    k         1915   70  145 5h 5c
+LfromHell 986618626  5  1 Bf  -     -     -         1990    5    0 
+LfromHell 986618646  5  5 f   -     -     -         1985    0    0 
+LfromHell 986618677  5  4 f   -     -     -         1985    0    0 
+LfromHell 986618708  5  3 fQ  -     -     -         1985    0    0 
+LfromHell 986746111 10  1 Bc  k     bc    kf        1985   50    0 
+LfromHell 986746158 10 10 r   c     f     -         1935   30    0 
+LfromHell 986746217 10  9 f   -     -     -         1905    0    0 
+LfromHell 986746291 10  8 f   -     -     -         1905    0    0 
+LfromHell 986746354 10  7 f   -     -     -         1905    0    0 
+LfromHell 986746440 10  6 f   -     -     -         1905    0    0 
+LfromHell 986746493 10  5 rc  c     f     -         1905   40    0 
+LfromHell 986746563 10  4 f   -     -     -         1865    0    0 
+LfromHell 986746664 10  3 f   -     -     -         1865    0    0 
+LfromHell 986746699 10  2 Bk  cc    kr    b         1865   90  300 8h 7s
+LfromHell 986746787 10  1 Bf  -     -     -         2075    5    0 
+LfromHell 986746846 10 10 f   -     -     -         2070    0    0 
+LfromHell 986746899 10  9 f   -     -     -         2070    0    0 
+LfromHell 986746990  9  8 f   -     -     -         2070    0    0 
+LfromHell 986747031  9  7 f   -     -     -         2070    0    0 
+LfromHell 986747100  9  6 f   -     -     -         2070    0    0 
+LfromHell 986747159  9  5 cc  f     -     -         2070   30    0 
+LfromHell 986747251  9  4 f   -     -     -         2040    0    0 
+LfromHell 986747311  9  3 f   -     -     -         2040    0    0 
+LfromHell 986747391  9  2 Bk  kr    b     b         2040   70  230 6s Jd
+LfromHell 986747468 10  1 Bc  bc    kc    kr        2200  100  350 9h 6h
+LfromHell 986747541 10 10 c   f     -     -         2450   20    0 
+LfromHell 986747622 10  9 c   b     b     c         2430   60    0 Tc Jh
+LfromHell 986747660 10  4 Q   -     -     -         2370    0    0 
+LfromHell 986751086  9  8 c   b     b     k         2370   40  140 9h Jd
+LfromHell 986751178  9  7 f   -     -     -         2470    0    0 
+LfromHell 986751219 10  6 f   -     -     -         2470    0    0 
+LfromHell 986751281 10  5 f   -     -     -         2470    0    0 
+LfromHell 986751368 10  4 f   -     -     -         2470    0    0 
+LfromHell 986751428 10  3 f   -     -     -         2470    0    0 
+LfromHell 986751521 10  2 Bk  k     kf    -         2470   10    0 
+LfromHell 986751557 10  1 Bf  -     -     -         2460    5    0 
+LfromHell 986751614 10 10 f   -     -     -         2455    0    0 
+LfromHell 986751657 10  9 f   -     -     -         2455    0    0 
+LfromHell 986751710 10  8 f   -     -     -         2455    0    0 
+LfromHell 986751762  9  6 f   -     -     -         2455    0    0 
+LfromHell 986751828  7  5 f   -     -     -         2455    0    0 
+LfromHell 986751866  6  4 f   -     -     -         2455    0    0 
+LfromHell 986751900  6  3 f   -     -     -         2455    0    0 
+LfromHell 986751929  6  2 Bf  -     -     -         2455   10    0 
+LfromHell 986751954  6  1 Bf  -     -     -         2445    5    0 
+LfromHell 986751991  6  6 f   -     -     -         2440    0    0 
+LfromHell 986752028  6  5 f   -     -     -         2440    0    0 
+LfromHell 986752063  6  4 r   k     r     b         2440   80    0 Ah Ac
+LfromHell 986752100  6  3 f   -     -     -         2360    0    0 
+LfromHell 986752163  6  2 Bf  -     -     -         2360   10    0 
+LfromHell 986752176  5  1 Bcc kc    k     b         2350   50   80 
+LfromHell 986752205  5  5 f   -     -     -         2380    0    0 
+LfromHell 986752225  5  4 c   f     -     -         2380   10    0 
+LfromHell 986752276  4  3 r   b     b     b         2370   70  125 
+LfromHell 986752320  2  2 B   -     -     -         2425   10   15 
+LfromHell 986752323  2  1 B   -     -     -         2430    5   15 
+LfromHell 986754123  3  3 c   k     b     -         2440   30   45 
+LfromHell 986754145  3  2 Br  b     kf    -         2455   30    0 
+LfromHell 986754161  3  1 Bf  -     -     -         2425    5    0 
+LfromHell 986754164  3  3 f   -     -     -         2420    0    0 
+LfromHell 986754187  3  2 B   -     -     -         2420   10   15 
+LfromHell 986754193  3  1 Bc  kf    -     -         2425   20    0 
+LfromHell 986754205  3  3 r   r     b     b         2405   80   85 6h As
+LfromHell 986754229  3  2 Bf  -     -     -         2410   10    0 
+LfromHell 986754251  3  1 Brc kf    -     -         2400   40    0 
+LfromHell 986754266  2  2 r   -     -     -         2360   20   30 
+LfromHell 986754270  2  2 B   -     -     -         2370   10   15 
+LfromHell 986754273  2  1 Brc k     b     b         2375   70    0 5d Kc
+LfromHell 986754296  2  2 B   -     -     -         2305   10   15 
+LfromHell 986754303  2  1 Br  bc    brc   kc        2310  140    0 Jh Th
+LfromHell 986754329  2  2 B   -     -     -         2170   10   15 
+LfromHell 986754337  2  1 Bf  -     -     -         2175    5    0 
+LfromHell 986754341  2  2 Brc c     k     b         2170   70  120 
+LfromHell 986754362  2  1 Bc  kc    kc    k         2220   40    0 4s 7s
+LfromHell 986754380  2  2 B   -     -     -         2180   10   15 
+LfromHell 986754393  3  1 Br  k     kc    k         2185   40   80 Jc Qc
+LfromHell 986754416  3  3 r   b     b     b         2225   70  160 Ad Qh
+LfromHell 986754473  3  2 Bk  k     b     -         2315   30   45 
+LfromHell 986754487  3  1 Brc kf    -     -         2330   40    0 
+LfromHell 986754523  2  2 f   -     -     -         2290    0    0 
+LfromHell 986754525  2  2 B   -     -     -         2290   10   15 
+LfromHell 986754529  2  1 Bf  -     -     -         2295    5    0 
+LfromHell 986754530  2  2 Bf  -     -     -         2290   10    0 
+LfromHell 986754532  2  1 Bf  -     -     -         2280    5    0 
+LfromHell 986754533  2  2 Bf  -     -     -         2275   10    0 
+LfromHell 986754537  2  1 Bf  -     -     -         2265    5    0 
+LfromHell 986754540  2  2 B   -     -     -         2260   10   15 
+LfromHell 986754543  2  1 Bf  -     -     -         2265    5    0 
+LfromHell 986754546  2  2 Bf  -     -     -         2260   10    0 
+LfromHell 986754551  2  1 Bf  -     -     -         2250    5    0 
+LfromHell 986754554  2  2 B   -     -     -         2245   10   15 
+LfromHell 986754557  2  1 Bf  -     -     -         2250    5    0 
+LfromHell 986754560  2  2 B   -     -     -         2245   10   15 
+LfromHell 986754565  2  1 Br  kf    -     -         2250   20    0 
+LfromHell 986754580  2  2 Bf  -     -     -         2230   10    0 
+LfromHell 986754587  2  1 Bf  -     -     -         2220    5    0 
+LfromHell 986754590  2  2 B   -     -     -         2215   10   15 
+LfromHell 986754592  2  1 Br  -     -     -         2220   20   30 
+LfromHell 986754596  2  2 Bc  c     b     -         2230   50   80 
+LfromHell 986754613  2  1 Bc  brc   k     k         2260   50  100 Ks Kd
+LfromHell 986754634  2  2 Bc  f     -     -         2310   20    0 
+LfromHell 986754649  2  1 Bf  -     -     -         2290    5    0 
+LfromHell 986754651  2  2 Bf  -     -     -         2285   10    0 
+LfromHell 986754655  2  1 Br  -     -     -         2275   20   30 
+LfromHell 986754658  2  2 B   -     -     -         2285   10   15 
+LfromHell 986754662  2  1 Bf  -     -     -         2290    5    0 
+LfromHell 986754664  2  2 Bf  -     -     -         2285   10    0 
+LfromHell 986754668  2  1 Bf  -     -     -         2275    5    0 
+LfromHell 986754670  2  2 B   -     -     -         2270   10   15 
+LfromHell 986754672  2  1 Bc  b     -     -         2275   20   30 
+LfromHell 986754690  2  2 B   -     -     -         2285   10   15 
+LfromHell 986754694  2  1 Brc kf    -     -         2290   30    0 
+LfromHell 986754702  2  2 B   -     -     -         2260   10   15 
+LfromHell 986754707  2  1 Br  -     -     -         2265   20   30 
+LfromHell 986754712  2  2 B   -     -     -         2275   10   15 
+LfromHell 986754714  2  1 Br  -     -     -         2280   20   30 
+LfromHell 986754718  2  2 Bf  -     -     -         2290   10    0 
+LfromHell 986754721  2  1 Bc  b     -     -         2280   20   30 
+LfromHell 986754729  2  2 B   -     -     -         2290   10   15 
+LfromHell 986754732  2  1 Brc b     b     b         2295   80  140 
+LfromHell 986754753  2  2 B   -     -     -         2355   10   15 
+LfromHell 986754755  2  1 Bf  -     -     -         2360    5    0 
+LfromHell 986754758  2  2 B   -     -     -         2355   10   15 
+LfromHell 986754759  2  1 Brc k     b     b         2360   70  140 8s 8d
+LfromHell 986754776  2  2 B   -     -     -         2430   10   15 
+LfromHell 986754781  2  1 Bf  -     -     -         2435    5    0 
+LfromHell 986754782  2  2 Bf  -     -     -         2430   10    0 
+LfromHell 986754787  2  1 Br  -     -     -         2420   20   30 
+LfromHell 986754791  2  2 Bk  k     bc    k         2430   50  100 3c Th
+LfromHell 986754815  2  1 Br  -     -     -         2480   20   30 
+LfromHell 986754825  2  2 B   -     -     -         2490   10   15 
+LfromHell 986754827  2  1 Brc kf    -     -         2495   30    0 
+LfromHell 986754837  2  2 Brc b     b     c         2465   90    0 5c Ac
+LfromHell 986754869  2  1 Bf  -     -     -         2375    5    0 
+LfromHell 986754875  2  2 B   -     -     -         2370   10   15 
+LfromHell 986754878  2  1 Bf  -     -     -         2375    5    0 
+LfromHell 986754882  2  2 B   -     -     -         2370   10   15 
+LfromHell 986754890  2  1 Br  -     -     -         2375   20   30 
+LfromHell 986754893  2  2 Br  -     -     -         2385   30   50 
+LfromHell 986754898  2  1 Brc kc    k     k         2405   40   40 5c As
+LfromHell 986754913  2  2 Bf  -     -     -         2405   10    0 
+LfromHell 986754922  2  1 Br  b     -     -         2395   30   50 
+LfromHell 986754931  2  2 Bc  b     c     k         2415   50    0 9d 6d
+LfromHell 986754957  2  1 Br  -     -     -         2365   20   30 
+LfromHell 986754964  2  2 Bf  -     -     -         2375   10    0 
+LfromHell 986754968  2  1 Bc  k     b     -         2365   30   40 
+LfromHell 986754982  2  2 Bf  -     -     -         2375   10    0 
+LfromHell 986754985  2  1 Br  -     -     -         2365   20   30 
+LfromHell 986754991  2  2 Bc  b     b     -         2375   50   80 
+LfromHell 986755011  2  1 Bf  -     -     -         2405    5    0 
+LfromHell 986755014  2  2 Bf  -     -     -         2400   10    0 
+LfromHell 986755018  2  1 Brc k     b     b         2390   70  140 As 7d
+LfromHell 986755036  2  2 B   -     -     -         2460   10   15 
+LfromHell 986755042  2  1 Bf  -     -     -         2465    5    0 
+LfromHell 986755045  2  2 Bc  c     c     rc        2460  110    0 Th 8h
+LfromHell 986755060  2  1 Bf  -     -     -         2350    5    0 
+LfromHell 986755069  2  2 B   -     -     -         2345   10   15 
+LfromHell 986755071  2  1 Bf  -     -     -         2350    5    0 
+LfromHell 986755073  2  2 Br  c     rc    k         2345  100  200 Ac 9h
+LfromHell 986755108  2  1 Bf  -     -     -         2445    5    0 
+LfromHell 986755117  2  2 B   -     -     -         2440   10   15 
+LfromHell 986755121  2  1 Bcc b     -     -         2445   30   50 
+LfromHell 986755140  2  2 BQ  -     -     -         2465   10    0 
+LfromHell 986797775  2  1 Bc  b     b     b         2455   60  120 8s 9d
+LfromHell 986797825  2  2 Bk  k     k     f         2515   10    0 
+LfromHell 986797839  2  1 Bc  k     kf    -         2505   10    0 
+LfromHell 986797861  2  2 B   -     -     -         2495   10   15 
+LfromHell 986797863  2  1 Bf  -     -     -         2500    5    0 
+LfromHell 986797867  2  2 B   -     -     -         2495   10   15 
+LfromHell 986797870  2  1 Br  -     -     -         2500   20   30 
+LfromHell 986797874  2  2 Bk  f     -     -         2510   10    0 
+LfromHell 986797882  2  1 Br  b     bc    kf        2500   70    0 
+LfromHell 986797898  2  2 Bk  c     f     -         2430   20    0 
+LfromHell 986797910  2  1 Bf  -     -     -         2410    5    0 
+LfromHell 986797912  2  2 B   -     -     -         2405   10   15 
+LfromHell 986797915  2  1 Bf  -     -     -         2410    5    0 
+LfromHell 986797916  2  2 B   -     -     -         2405   10   15 
+LfromHell 986797919  2  1 Bf  -     -     -         2410    5    0 
+LfromHell 986797921  2  2 Br  b     -     -         2405   30   50 
+LfromHell 986797930  2  1 Bf  -     -     -         2425    5    0 
+LfromHell 986797932  2  2 Bc  b     b     rc        2420  110  220 8c Qh
+LfromHell 986797951  2  1 Bf  -     -     -         2530    5    0 
+LfromHell 986797956  2  2 B   -     -     -         2525   10   15 
+LfromHell 986797959  2  1 Bf  -     -     -         2530    5    0 
+LfromHell 986797961  2  2 Bk  k     k     c         2525   30   60 Js 6c
+LfromHell 986797978  2  1 Bc  k     k     k         2555   10   20 2s Js
+LfromHell 986798007  2  2 Bk  k     bc    f         2565   50    0 
+LfromHell 986798041  2  1 Br  -     -     -         2515   20   30 
+LfromHell 986798046  2  2 B   -     -     -         2525   10   15 
+LfromHell 986798048  2  1 Brf -     -     -         2530   20    0 
+LfromHell 986798052  2  2 B   -     -     -         2510   10   15 
+LfromHell 986798054  2  1 Br  k     k     k         2515   20   40 9s Jd
+LfromHell 986798088  2  2 Brc c     c     c         2535   80    0 7s Ac
+LfromHell 986798104  2  1 Br  kf    -     -         2455   20    0 
+LfromHell 986798116  2  2 Bk  b     b     b         2435   60   60 8h 4h
+LfromHell 986798134  2  1 Bf  -     -     -         2435    5    0 
+LfromHell 986798140  2  2 Bk  c     c     c         2430   60  120 7s 9d
+LfromHell 986798166  2  1 Bf  -     -     -         2490    5    0 
+LfromHell 986798172  2  2 B   -     -     -         2485   10   15 
+LfromHell 986798174  2  1 Brc k     b     b         2490   70  140 Kh Ts
+LfromHell 986798189  2  2 Bk  k     f     -         2560   10    0 
+LfromHell 986798204  2  1 Bf  -     -     -         2550    5    0 
+LfromHell 986798208  2  2 Bf  -     -     -         2545   10    0 
+LfromHell 986798211  2  1 Bf  -     -     -         2535    5    0 
+LfromHell 986798213  2  2 Br  -     -     -         2530   20   30 
+LfromHell 986798218  2  1 Bf  -     -     -         2540    5    0 
+LfromHell 986798221  2  2 B   -     -     -         2535   10   15 
+LfromHell 986798223  2  1 Bf  -     -     -         2540    5    0 
+LfromHell 986798226  2  2 Bc  f     -     -         2535   20    0 
+LfromHell 986798242  2  1 Bf  -     -     -         2515    5    0 
+LfromHell 986798246  2  2 Bk  k     f     -         2510   10    0 
+LfromHell 986798258  2  1 Bf  -     -     -         2500    5    0 
+LfromHell 986798261  2  2 B   -     -     -         2495   10   15 
+LfromHell 986798263  2  1 Bf  -     -     -         2500    5    0 
+LfromHell 986798266  2  2 Br  b     -     -         2495   40   70 
+LfromHell 986798275  2  1 Bf  -     -     -         2525    5    0 
+LfromHell 986798279  2  2 B   -     -     -         2520   10   15 
+LfromHell 986798281  2  1 Bc  k     kf    -         2525   10    0 
+LfromHell 986798294  2  2 Bk  k     b     -         2515   30   40 
+LfromHell 986798307  2  1 Bf  -     -     -         2525    5    0 
+LfromHell 986798310  2  2 Bk  b     -     -         2520   20   30 
+LfromHell 986798320  2  1 Br  -     -     -         2530   20   30 
+LfromHell 986798324  2  2 Bf  -     -     -         2540   10    0 
+LfromHell 986798328  2  1 Bf  -     -     -         2530    5    0 
+LfromHell 986798332  2  2 B   -     -     -         2525   10   15 
+LfromHell 986798334  2  1 Bf  -     -     -         2530    5    0 
+LfromHell 986798338  2  2 Bk  k     r     rc        2525  110  220 Qd 4h
+LfromHell 986798358  2  1 Bc  k     k     k         2635   10    0 7d 8h
+LfromHell 986798389  2  2 Bk  b     -     -         2625   20   30 
+LfromHell 986798408  2  1 BQ  -     -     -         2635    5    0 
+LfromHell 987101644  3  3 c   k     k     c         2630   30    0 Ts Kd
+LfromHell 987101663  3  2 Bk  b     b     b         2600   60   63 8c 7s
+LfromHell 987101683  3  1 Bc  k     kf    -         2603   10    0 
+LfromHell 987101730  3  3 f   -     -     -         2593    0    0 
+LfromHell 987101750  3  2 B   -     -     -         2593   10   15 
+LfromHell 987101754  3  1 Bf  -     -     -         2598    5    0 
+LfromHell 987101772  3  3 f   -     -     -         2593    0    0 
+LfromHell 987101775  3  2 B   -     -     -         2593   10   15 
+LfromHell 987101780  3  1 Bf  -     -     -         2598    5    0 
+LfromHell 987101790  3  3 r   b     b     -         2593   50  100 
+LfromHell 987101809  3  2 Bk  c     c     k         2643   40    0 Kh 4d
+LfromHell 987101826  3  1 Bc  kf    -     -         2603   10    0 
+LfromHell 987101840  3  3 f   -     -     -         2593    0    0 
+LfromHell 987101855  3  2 Bc  k     f     -         2593   20    0 
+LfromHell 987101867  3  1 Bc  kf    -     -         2573   10    0 
+LfromHell 987101879  3  3 f   -     -     -         2563    0    0 
+LfromHell 987101892  3  2 Br  c     b     f         2563   60    0 
+LfromHell 987101912  3  1 Bc  b     -     -         2503   20   40 
+LfromHell 987101923  3  3 f   -     -     -         2523    0    0 
+LfromHell 987101932  3  2 Bf  -     -     -         2523   10    0 
+LfromHell 987101957  3  1 Bc  k     k     k         2513   10    0 7c 6c
+LfromHell 987101980  3  3 f   -     -     -         2503    0    0 
+LfromHell 987102000  3  2 Bk  -     -     -         2503   10   20 
+LfromHell 987102036  2  1 Bc  k     b     -         2513   30   40 
+LfromHell 987102052  2  2 B   -     -     -         2523   10   15 
+LfromHell 987102055  2  1 Br  b     b     kc        2528   70    0 8h 6h
+LfromHell 987102071  2  2 Bk  k     f     -         2458   10    0 
+LfromHell 987102083  2  1 Br  -     -     -         2448   20   30 
+LfromHell 987102087  2  2 Bk  k     k     f         2458   10    0 
+LfromHell 987102102  2  1 Bf  -     -     -         2448    5    0 
+LfromHell 987102104  2  2 B   -     -     -         2443   10   15 
+LfromHell 987102107  2  1 Br  b     bc    kr        2448  110  220 6d Ad
+LfromHell 987102137  2  2 Bf  -     -     -         2558   10    0 
+LfromHell 987102144  2  1 Bc  k     b     -         2548   30   40 
+LfromHell 987102159  2  2 Bk  b     -     -         2558   20   30 
+LfromHell 987102171  2  1 Bf  -     -     -         2568    5    0 
+LfromHell 987102173  2  2 Bk  k     f     -         2563   10    0 
+LfromHell 987102185  2  1 Bf  -     -     -         2553    5    0 
+LfromHell 987102188  2  2 Br  b     bc    f         2548   70    0 
+LfromHell 987102207  2  1 Br  b     -     -         2478   30   50 
+LfromHell 987102218  2  2 Br  b     b     b         2498   80  160 Ad 8d
+LfromHell 987102241  2  1 Br  b     -     -         2578   30   50 
+LfromHell 987102253  2  2 Bf  -     -     -         2598   10    0 
+LfromHell 987102257  2  1 Bf  -     -     -         2588    5    0 
+LfromHell 987102259  2  2 B   -     -     -         2583   10   15 
+LfromHell 987102262  2  1 BQ  -     -     -         2588    5    0 
+LfromHell 987360452  7  6 c   k     f     -         2583   10    0 
+LfromHell 987360498  6  5 f   -     -     -         2573    0    0 
+LfromHell 987360521  6  4 c   b     b     b         2573   60  170 5d 3d
+LfromHell 987360560  7  3 f   -     -     -         2683    0    0 
+LfromHell 987360595  7  2 Bk  b     b     -         2683   40   90 
+LfromHell 987360623  8  1 Bcc kc    kc    k         2733   50    0 Td Qd
+LfromHell 987360687  8  8 c   c     f     -         2683   40    0 
+LfromHell 987360741  8  7 c   k     k     b         2643   30    0 2s 2d
+LfromHell 987360800  8  6 f   -     -     -         2613    0    0 
+LfromHell 987360830  8  6 f   -     -     -         2613    0    0 
+LfromHell 987360874  7  4 f   -     -     -         2613    0    0 
+LfromHell 987360945  9  3 f   -     -     -         2613    0    0 
+LfromHell 987361001  9  2 Bk  kf    -     -         2613   10    0 
+LfromHell 987361029 10  1 Bf  -     -     -         2603    5    0 
+LfromHell 987361085 10 10 c   c     f     -         2598   60    0 
+LfromHell 987361186 10  9 f   -     -     -         2538    0    0 
+LfromHell 987361220 10  8 f   -     -     -         2538    0    0 
+LfromHell 987361265 10  7 cc  k     k     k         2538   20    0 Kc Qc
+LfromHell 987361332 10  6 f   -     -     -         2518    0    0 
+LfromHell 987361397 10  5 f   -     -     -         2518    0    0 
+LfromHell 987361443  9  4 c   kc    b     b         2518   60  120 
+LfromHell 987361495  9  2 Bf  -     -     -         2578   10    0 
+LfromHell 987361526  9  1 Bf  -     -     -         2568    5    0 
+LfromHell 987361583  9  9 f   -     -     -         2563    0    0 
+LfromHell 987361646  9  8 KQ  -     -     -         2563    0    0 
+LfromHell 987720269  9  7 c   k     b     b         2183   60  230 Jh Qh
+LfromHell 987720390  7  4 c   kc    f     -         2353   20    0 
+LfromHell 987720473  7  4 f   -     -     -         2333    0    0 
+LfromHell 987720620  7  3 f   -     -     -         2333    0    0 
+LfromHell 987720703  7  2 Br  rr    r     k         2333  100  320 Qh Qc
+LfromHell 987720793  7  1 Bf  -     -     -         2553    5    0 
+LfromHell 987720895  7  7 Q   -     -     -         2548    0    0 
+LfromHell 987747482 10  3 f   -     -     -         2548    0    0 
+LfromHell 987747515 10  2 Br  k     k     b         2548   40  100 
+LfromHell 987747600  9  1 Bc  bc    kf    -         2608   40    0 
+LfromHell 987747649  9  9 f   -     -     -         2568    0    0 
+LfromHell 987747691 10  9 f   -     -     -         2568    0    0 
+LfromHell 987747735 10  8 c   k     k     f         2568   10    0 
+LfromHell 987747788 10  5 Q   -     -     -         2558    0    0 
+LfromHell 988100370  3  2 Bk  k     k     b         2558   30   45 
+LfromHell 988100411  2  1 Bf  -     -     -         2573    5    0 
+LfromHell 988100415  2  2 Bf  -     -     -         2568   10    0 
+LfromHell 988100418  2  1 Bf  -     -     -         2558    5    0 
+LfromHell 988100420  2  2 Bf  -     -     -         2553   10    0 
+LfromHell 988100423  2  1 Bf  -     -     -         2543    5    0 
+LfromHell 988100426  2  2 B   -     -     -         2538   10   15 
+LfromHell 988100429  2  1 Bc  b     -     -         2543   20   30 
+LfromHell 988100439  2  2 B   -     -     -         2553   10   15 
+LfromHell 988127038  8  7 f   -     -     -         2558    0    0 
+LfromHell 988127070  8  6 r   k     k     f         2558   20    0 
+LfromHell 988127130  8  5 f   -     -     -         2538    0    0 
+LfromHell 988127190 10  5 f   -     -     -         2538    0    0 
+LfromHell 988127239 10  4 r   rr    bc    bc        2538  140    0 Ks Kh
+LfromHell 988127354 10  3 f   -     -     -         2398    0    0 
+LfromHell 988127389 10  2 Bc  f     -     -         2398   20    0 
+LfromHell 988127471 10  1 Bc  k     kf    -         2378   10    0 
+LfromHell 988127534 10 10 f   -     -     -         2368    0    0 
+LfromHell 988127595 10  9 f   -     -     -         2368    0    0 
+LfromHell 988127637 10  8 f   -     -     -         2368    0    0 
+LfromHell 988127696 10  7 f   -     -     -         2368    0    0 
+LfromHell 988127754 10  6 f   -     -     -         2368    0    0 
+LfromHell 988127824 10  5 f   -     -     -         2368    0    0 
+LfromHell 988127900 10  4 f   -     -     -         2368    0    0 
+LfromHell 988127968 10  3 f   -     -     -         2368    0    0 
+LfromHell 988128006 10  2 Bk  kf    -     -         2368   10    0 
+LfromHell 988128079 10  1 Bc  kf    -     -         2358   20    0 
+LfromHell 988128122 10 10 c   b     rc    c         2338  100    0 Kd Ts
+LfromHell 988128182 10  9 r   b     b     b         2238   70  205 
+LfromHell 988128265 10  8 f   -     -     -         2373    0    0 
+LfromHell 988128305 10  7 f   -     -     -         2373    0    0 
+LfromHell 988128359 10  6 c   f     -     -         2373   10    0 
+LfromHell 988128394 10  5 c   k     f     -         2363   10    0 
+LfromHell 988128427 10  4 f   -     -     -         2353    0    0 
+LfromHell 988128455 10  3 c   c     f     -         2353   20    0 
+LfromHell 988128505 10  2 Bk  kc    kc    kf        2333   40    0 
+LfromHell 988128588 10  1 BQ  -     -     -         2293    5    0 
+LfromHell 988531524  8  6 f   -     -     -         2288    0    0 
+LfromHell 988531592  9  6 cc  kf    -     -         2288   20    0 
+LfromHell 988531669  9  4 c   b     bc    kc        2268   80    0 Qc As
+LfromHell 988531743  9  3 f   -     -     -         2188    0    0 
+LfromHell 988531869  8  3 f   -     -     -         2188    0    0 
+LfromHell 988531961  7  2 Bk  b     b     bc        2188   80    0 3c 3d
+LfromHell 988532029  7  1 Bc  kc    br    b         2108  100  370 9h Ah
+LfromHell 988532086  7  7 f   -     -     -         2378    0    0 
+LfromHell 988532127  7  6 f   -     -     -         2378    0    0 
+LfromHell 988532212  7  5 f   -     -     -         2378    0    0 
+LfromHell 988532276  7  4 f   -     -     -         2378    0    0 
+LfromHell 988532337  7  3 f   -     -     -         2378    0    0 
+LfromHell 988532407  8  2 Bk  kc    kc    f         2378   40    0 
+LfromHell 988532474  8  1 Bf  -     -     -         2338    5    0 
+LfromHell 988532545  8  8 f   -     -     -         2333    0    0 
+LfromHell 988532642  8  7 f   -     -     -         2333    0    0 
+LfromHell 988532676  8  6 f   -     -     -         2333    0    0 
+LfromHell 988532743  8  5 f   -     -     -         2333    0    0 
+LfromHell 988532807  9  5 Q   -     -     -         2333    0    0 
+LfromHell 988677746  9  6 c   r     c     k         2333   50    0 6h Ah
+LfromHell 988677793  9  5 f   -     -     -         2283    0    0 
+LfromHell 988677812  9  4 f   -     -     -         2283    0    0 
+LfromHell 988677839  9  3 f   -     -     -         2283    0    0 
+LfromHell 988677855  9  2 Bk  k     kf    -         2283   10    0 
+LfromHell 988677901  9  1 Bf  -     -     -         2273    5    0 
+LfromHell 988677946  9  9 c   bc    c     f         2268   60    0 
+LfromHell 988677984  9  8 f   -     -     -         2208    0    0 
+LfromHell 988678013 10  8 f   -     -     -         2208    0    0 
+LfromHell 988678056 10  7 f   -     -     -         2208    0    0 
+LfromHell 988678122 10  6 f   -     -     -         2208    0    0 
+LfromHell 988678161 10  5 c   k     kc    k         2208   30  170 Jc Ts
+LfromHell 988678226 10  4 c   b     r     b         2348   80  185 Jh Kc
+LfromHell 988678268 10  3 f   -     -     -         2453    0    0 
+LfromHell 988678287 10  2 Bk  cc    rc    c         2453  110    0 Qc 9d
+LfromHell 988678353 10  1 Bc  kf    -     -         2343   10    0 
+LfromHell 988678393 10 10 f   -     -     -         2333    0    0 
+LfromHell 988678452 10  9 f   -     -     -         2333    0    0 
+LfromHell 988678501 10  8 f   -     -     -         2333    0    0 
+LfromHell 988678547 10  7 f   -     -     -         2333    0    0 
+LfromHell 988678588 10  6 cc  bc    b     b         2333   80  245 
+LfromHell 988678682 10  5 Q   -     -     -         2498    0    0 

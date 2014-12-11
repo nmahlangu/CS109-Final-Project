@@ -1,0 +1,490 @@
+CharmCity 986474649  5  5 rc  rc    rc    r         1835  170  335 
+CharmCity 986474740  2  2 rr  rr    rr    rr        2000  240  460 
+CharmCity 986474774  2  2 Brc rr    rc    r         2220  180  340 
+CharmCity 986474812  2  1 BQ  -     -     -         2380    5    0 
+CharmCity 986521318  9  5 cc  kcc   kcc   kc        2455  180  685 4s 4d
+CharmCity 986521418  9  4 f   -     -     -         2960    0    0 
+CharmCity 986521494 10  3 cc  kc    kc    kc        2960  250  783 8d 4d
+CharmCity 986521594 10  2 Bf  -     -     -         3493   10    0 
+CharmCity 986521678 10  1 Bf  Q     -     -         3483    5    0 
+CharmCity 986569044  3  3 rr  rr    rr    rr        1000  240  485 Ks Kd
+CharmCity 986569103  2  2 Brc rr    rr    rr        1245  240  480 As 8c
+CharmCity 986569150  2  1 Brr brc   brc   brc       1485  240  480 8d 2c
+CharmCity 986569203  2  2 Brc rr    rr    rr        1725  240  480 2d 5h
+CharmCity 986569246  2  1 Brr -     -     -         1965   40    0 7d 5h
+CharmCity 986569261  2  2 Brc rr    -     -         1925   80  150 
+CharmCity 986569292  3  1 Bc  b     -     -         1995   20   40 Tc 5c
+CharmCity 986569314  2  2 B   -     -     -         2015   10   15 
+CharmCity 986569320  2  1 Br  b     -     -         2020   30   50 
+CharmCity 986569333  2  2 B   -     -     -         2040   10   15 
+CharmCity 986569335  2  1 Br  bc    k     kf        2045   40    0 
+CharmCity 986569360  2  2 Bk  r     -     -         2005   30   50 
+CharmCity 986569370  2  1 Bc  k     kf    -         2025   10    0 
+CharmCity 986569390  2  2 Bk  b     -     -         2015   20   30 
+CharmCity 986569401  2  1 Br  -     -     -         2025   20   30 
+CharmCity 986569403  2  2 Bf  -     -     -         2035   10    0 
+CharmCity 986569409  2  1 Bf  -     -     -         2025    5    0 
+CharmCity 986569414  2  2 Bc  r     b     c         2020   80    0 Td Qc
+CharmCity 986569435  2  1 Bf  -     -     -         1940    5    0 
+CharmCity 986569441  2  2 Bk  f     -     -         1935   10    0 
+CharmCity 986569451  2  1 Bc  k     kc    kf        1925   30    0 
+CharmCity 986569470  2  2 Bc  k     k     k         1895   20    0 9c 8s
+CharmCity 986569487  2  1 Bf  -     -     -         1875    5    0 
+CharmCity 986569492  2  2 B   -     -     -         1870   10   15 
+CharmCity 986569494  2  1 Bf  -     -     -         1875    5    0 
+CharmCity 986569498  2  2 Bc  b     b     -         1870   50   80 
+CharmCity 986569513  2  1 Bf  -     -     -         1900    5    0 
+CharmCity 986569517  2  2 B   -     -     -         1895   10   15 
+CharmCity 986569519  2  1 Bcc kc    k     b         1900   50   80 
+CharmCity 986569548  2  2 Bk  c     c     b         1930   60  120 As Th
+CharmCity 986569567  2  1 Bcc kc    b     kc        1990   70    0 8s 9s
+CharmCity 986569597  2  2 B   -     -     -         1920   10   15 
+CharmCity 986569602  2  1 Bc  b     -     -         1925   20   30 
+CharmCity 986569610  2  2 Bf  -     -     -         1935   10    0 
+CharmCity 986569614  2  1 Bf  -     -     -         1925    5    0 
+CharmCity 986569616  2  2 B   -     -     -         1920   10   15 
+CharmCity 986569620  2  1 Br  b     -     -         1925   30   50 
+CharmCity 986569629  2  2 Bf  -     -     -         1945   10    0 
+CharmCity 986569633  2  1 Bc  kf    -     -         1935   10    0 
+CharmCity 986569647  2  2 Bk  c     b     k         1925   40    0 3s Ad
+CharmCity 986569668  2  1 Bf  -     -     -         1885    5    0 
+CharmCity 986569674  2  2 Bk  r     -     -         1880   30   50 
+CharmCity 986569689  2  1 Bf  -     -     -         1900    5    0 
+CharmCity 986569693  2  2 Bf  -     -     -         1895   10    0 
+CharmCity 986569697  2  1 Br  -     -     -         1885   20   30 
+CharmCity 986569700  2  2 Br  r     b     f         1895   60    0 
+CharmCity 986569724  2  1 Bc  k     kf    -         1835   10    0 
+CharmCity 986569739  2  2 Bc  b     b     b         1825   70  120 
+CharmCity 986569757  2  1 Br  -     -     -         1875   20   30 
+CharmCity 986569760  2  2 Bc  c     f     -         1885   30    0 
+CharmCity 986569774  2  1 Br  br    -     -         1855   50   90 
+CharmCity 986569784  2  2 B   -     -     -         1895   10   15 
+CharmCity 986569786  2  1 Bc  b     b     kc        1900   60    0 8h 9h
+CharmCity 986569809  2  2 Br  b     -     -         1840   30   50 
+CharmCity 986569822  3  1 Br  bc    kf    -         1860   40    0 
+CharmCity 986569856  3  3 Q   -     -     -         1820    0    0 
+CharmCity 986574031  7  3 cc  b     b     -         2680   50  130 
+CharmCity 986574070  7  2 Bk  bc    bc    kc        2760   90  103 6h Qc
+CharmCity 986574100  7  1 Bc  kf    -     -         2773   20    0 
+CharmCity 986574197  7  7 f   -     -     -         2753    0    0 
+CharmCity 986574259  7  6 f   -     -     -         2753    0    0 
+CharmCity 986574321  7  5 f   -     -     -         2753    0    0 
+CharmCity 986574356  7  4 c   c     f     -         2753   30    0 
+CharmCity 986574412  7  3 f   Q     -     -         2723    0    0 
+CharmCity 986610369  7  7 cc  c     cc    f         2723   70    0 
+CharmCity 986610480  7  6 c   c     b     k         2653   40    0 8h 7h
+CharmCity 986610596  7  5 f   -     -     -         2613    0    0 
+CharmCity 986610648  7  4 cc  c     f     -         2613   30    0 
+CharmCity 986610699  7  3 cc  k     k     k         2583   20    0 6s Ad
+CharmCity 986610753  8  2 Bk  c     c     c         2563   60    0 6s 6c
+CharmCity 986610795  8  1 Bcc kf    -     -         2503   40    0 
+CharmCity 986610930  8  8 f   -     -     -         2463    0    0 
+CharmCity 986610992  6  6 cc  f     -     -         2463   20    0 
+CharmCity 986611030  6  5 f   -     -     -         2443    0    0 
+CharmCity 986611093  7  5 c   bc    cf    -         2443   50    0 
+CharmCity 986611180  6  3 c   k     k     b         2393   30   50 
+CharmCity 986611232  8  2 Bk  kf    -     -         2413   10    0 
+CharmCity 986611278  8  1 Bc  b     b     b         2403   60  122 Ac 8h
+CharmCity 986611321  8  8 rc  r     c     c         2465  100    0 Qs Qc
+CharmCity 986611430  9  8 c   c     c     c         2365  100    0 9c Ks
+CharmCity 986611513  9  7 c   c     c     c         2265   60    0 6s Ac
+CharmCity 986611599 10  3 Q   -     -     -         2205    0    0 
+CharmCity 986651806  2  2 Brc brc   rr    rr        3090  240    0 2s 4h
+CharmCity 986651888  3  1 Bc  k     k     kc        2850   30    0 Kd 7d
+CharmCity 986651933  2  2 B   -     -     -         2820   10   15 
+CharmCity 986651939  2  1 Bf  -     -     -         2825    5    0 
+CharmCity 986651943  2  2 B   -     -     -         2820   10   15 
+CharmCity 986651946  2  1 Bf  -     -     -         2825    5    0 
+CharmCity 986651948  2  2 B   -     -     -         2820   10   15 
+CharmCity 986651951  2  1 Bcc kc    kf    -         2825   30    0 
+CharmCity 986651977  2  2 B   -     -     -         2795   10   15 
+CharmCity 986651980  2  1 Bf  -     -     -         2800    5    0 
+CharmCity 986651983  2  2 Bk  b     b     k         2795   40    0 3h Ks
+CharmCity 986652000  2  1 Bc  kc    bc    b         2755   80    0 4s Js
+CharmCity 986652029  2  2 Bk  f     -     -         2675   10    0 
+CharmCity 986652040  2  1 Bc  kf    -     -         2665   10    0 
+CharmCity 986652049  2  2 B   -     -     -         2655   10   15 
+CharmCity 986652052  2  1 Bf  -     -     -         2660    5    0 
+CharmCity 986652053  2  2 B   -     -     -         2655   10   15 
+CharmCity 986652054  2  1 Bf  -     -     -         2660    5    0 
+CharmCity 986652057  2  2 Bf  -     -     -         2655   10    0 
+CharmCity 986652064  2  1 Bcc kf    -     -         2645   20    0 
+CharmCity 986652084  2  2 Bk  k     k     f         2625   10    0 
+CharmCity 986652098  2  1 Bc  b     b     b         2615   60  120 2h 3h
+CharmCity 986652113  2  2 Br  b     b     -         2675   50   80 
+CharmCity 986652131  2  1 Bf  -     -     -         2705    5    0 
+CharmCity 986652134  2  2 Bf  -     -     -         2700   10    0 
+CharmCity 986652140  2  1 Bc  kf    -     -         2690   10    0 
+CharmCity 986652149  2  2 B   -     -     -         2680   10   15 
+CharmCity 986652151  2  1 Bf  -     -     -         2685    5    0 
+CharmCity 986652154  2  2 B   -     -     -         2680   10   15 
+CharmCity 986652156  2  1 Bf  -     -     -         2685    5    0 
+CharmCity 986652158  2  2 Bk  k     k     k         2680   10    0 2d 8h
+CharmCity 986652176  2  1 Bf  -     -     -         2670    5    0 
+CharmCity 986652181  2  2 Bf  -     -     -         2665   10    0 
+CharmCity 986652186  2  1 Bf  -     -     -         2655    5    0 
+CharmCity 986652188  2  2 Bc  c     rc    b         2650  110  220 As 6h
+CharmCity 986652211  2  1 Bf  -     -     -         2760    5    0 
+CharmCity 986652217  2  2 B   -     -     -         2755   10   15 
+CharmCity 986652219  2  1 Bc  b     -     -         2760   20   30 
+CharmCity 986652227  2  2 Bf  -     -     -         2770   10    0 
+CharmCity 986652233  2  1 Bf  -     -     -         2760    5    0 
+CharmCity 986652236  2  2 Bk  k     b     -         2755   30   40 
+CharmCity 986652252  2  1 Bcc kc    kc    k         2765   50    0 8d As
+CharmCity 986652276  2  2 B   -     -     -         2715   10   15 
+CharmCity 986652281  2  1 Bf  -     -     -         2720    5    0 
+CharmCity 986652284  2  2 Bk  b     b     -         2715   40   60 
+CharmCity 986652326  2  1 Bf  -     -     -         2735    5    0 
+CharmCity 986652329  2  2 Bc  c     c     k         2730   50  100 Ad 2h
+CharmCity 986652350  2  1 Bcc kf    -     -         2780   20    0 
+CharmCity 986652367  2  2 B   -     -     -         2760   10   15 
+CharmCity 986652369  2  1 Bf  -     -     -         2765    5    0 
+CharmCity 986652372  2  2 Bk  k     k     k         2760   10    0 6c 2c
+CharmCity 986652387  2  1 Bf  -     -     -         2750    5    0 
+CharmCity 986652393  2  2 Br  b     b     b         2745   70  140 Kh Kd
+CharmCity 986652407  2  1 Bf  -     -     -         2815    5    0 
+CharmCity 986652413  2  2 B   -     -     -         2810   10   15 
+CharmCity 986652415  2  1 Bf  -     -     -         2815    5    0 
+CharmCity 986652418  2  2 Bk  r     b     -         2810   50   80 
+CharmCity 986652432  3  1 Bc  kc    kc    k         2840   50  110 9c Tc
+CharmCity 986652455  2  2 c   r     -     -         2900   30   50 
+CharmCity 986652482  2  2 Bk  k     k     c         2920   30    0 6s Jh
+CharmCity 986652504  2  1 Bcc k     kf    -         2890   20    0 
+CharmCity 986652536  2  2 B   -     -     -         2870   10   15 
+CharmCity 986652539  2  1 Bf  -     -     -         2875    5    0 
+CharmCity 986652542  2  2 Bf  -     -     -         2870   10    0 
+CharmCity 986652546  2  1 Bf  -     -     -         2860    5    0 
+CharmCity 986652549  2  2 B   -     -     -         2855   10   15 
+CharmCity 986652551  2  1 Bf  -     -     -         2860    5    0 
+CharmCity 986652554  2  2 Bc  c     c     c         2855   70    0 Ac 4s
+CharmCity 986652576  2  1 Bc  k     k     b         2785   30    0 Kc 9d
+CharmCity 986652596  2  2 Bc  c     k     b         2755   50  100 Jd Th
+CharmCity 986652615  2  1 Br  -     -     -         2805   20   30 
+CharmCity 986652626  2  2 Bc  f     -     -         2815   20    0 
+CharmCity 986652639  2  1 Bc  k     k     bc        2795   50    0 Ac 5d
+CharmCity 986652666  2  2 Bk  k     b     -         2745   30   40 
+CharmCity 986652684  2  1 Bcc kf    -     -         2755   20    0 
+CharmCity 986652699  2  2 Bf  -     -     -         2735   10    0 
+CharmCity 986652704  2  1 Br  -     -     -         2725   20   30 
+CharmCity 986652711  2  2 Bc  c     c     r         2735   90  160 
+CharmCity 986652733  2  1 Br  bc    kc    kr        2805  100  200 Qc Qh
+CharmCity 986652758  2  2 Bc  k     b     -         2905   40   60 
+CharmCity 986652777  2  1 Bc  b     -     -         2925   20   30 
+CharmCity 986652787  2  2 B   -     -     -         2935   10   15 
+CharmCity 986652789  2  1 Bf  -     -     -         2940    5    0 
+CharmCity 986652792  2  2 Bc  f     -     -         2935   20    0 
+CharmCity 986652800  2  1 Bc  kc    k     k         2915   20    0 3d 3h
+CharmCity 986652824  2  2 B   -     -     -         2895   10   15 
+CharmCity 986652829  2  1 Bcc kc    k     kc        2900   50    0 9h Td
+CharmCity 986652859  2  2 B   -     -     -         2850   10   15 
+CharmCity 986652864  2  1 Bf  -     -     -         2855    5    0 
+CharmCity 986652867  2  2 Bk  k     k     k         2850   10    0 9h 7s
+CharmCity 986652898  3  1 Bf  -     -     -         2840    5    0 
+CharmCity 986652925  3  3 c   k     b     -         2835   30   45 
+CharmCity 986652958  3  2 B   -     -     -         2850   10   15 
+CharmCity 986652964  3  1 Bc  bc    b     b         2855   70  140 3c 9c
+CharmCity 986653007  3  3 c   c     c     r         2925   80  145 
+CharmCity 986653031  3  2 Bc  c     b     -         2990   50   80 
+CharmCity 986653057  3  1 Br  -     -     -         3020   20   30 
+CharmCity 986653064  3  3 cc  c     f     -         3030   30    0 
+CharmCity 986653113  3  2 Brc b     -     -         3000   40   75 
+CharmCity 986653140  3  1 Bc  kf    -     -         3035   20    0 
+CharmCity 986653158  3  3 f   -     -     -         3015    0    0 
+CharmCity 986653167  3  2 BQ  -     -     -         3015   10    0 
+CharmCity 986751710 10  6 f   -     -     -         4180    0    0 
+CharmCity 986751762  9  4 f   -     -     -         4360    0    0 
+CharmCity 986751828  7  2 f   -     -     -         4580    0    0 
+CharmCity 986751866  6  2 Bk  k     k     b         4735   30   40 
+CharmCity 986751900  6  1 Bc  kc    kf    -         4745   30    0 
+CharmCity 986751929  6  6 f   -     -     -         4715    0    0 
+CharmCity 986751954  6  5 c   b     b     b         4715   60    0 Qh Qc
+CharmCity 986751991  6  4 c   kc    kf    -         4655   20    0 
+CharmCity 986752028  6  3 f   -     -     -         4635    0    0 
+CharmCity 986752063  6  2 Bf  -     -     -         4635   10    0 
+CharmCity 986752100  6  1 Bc  br    b     -         4625   60  100 
+CharmCity 986752163  6  6 f   -     -     -         4655    0    0 
+CharmCity 986752176  5  4 f   -     -     -         4655    0    0 
+CharmCity 986752205  5  3 f   -     -     -         4650    0    0 
+CharmCity 986752225  5  2 Bk  bc    b     k         4650   50  120 Kh As
+CharmCity 986752276  4  1 Bf  Q     -     -         4455    5    0 
+CharmCity 986772320  4  4 rc  rr    rr    rr        8755  240  495 Jc Tc
+CharmCity 986772378  2  2 rr  rr    rr    r         9010  200  380 
+CharmCity 986772431  2  2 B   -     -     -         9190   10   15 
+CharmCity 986772470  2  2 Br  -     -     -         9195   30   50 
+CharmCity 986772478  2  1 Brr brc   br    -         9215  140  260 
+CharmCity 986772507  2  2 Brc r     -     -         9335   60  110 
+CharmCity 986772526  3  1 Brc b     -     -         9385   40   70 
+CharmCity 986772603  2  2 Brc rr    r     -         9415  120  220 
+CharmCity 986772633  2  1 Br  -     -     -         9515   20   30 
+CharmCity 986772638  2  2 Brc rr    rr    rr        9525  240  480 9d 6d
+CharmCity 986772690  2  1 B   -     -     -         9765    5    0 6d Jc
+CharmCity 986772691  2  2 B   -     -     -         9760   10   20 Ah As
+CharmCity 986772723  2  2 Brc rr    rr    b         9770  180  340 
+CharmCity 986772768  2  1 Brr brc   brc   b         9930  180  340 
+CharmCity 986772836  2  2 B   -     -     -        10090   10   15 
+CharmCity 986772842  2  1 Bcrc brc   brc   brc      10095  240  480 4c 6c
+CharmCity 986772887  2  2 Br  -     -     -        10335   20   30 
+CharmCity 986772898  2  1 Br  -     -     -        10345   20   30 
+CharmCity 986772905  2  2 B   -     -     -        10355   10   15 
+CharmCity 986772909  2  1 Brr -     -     -        10360   40   70 
+CharmCity 986772916  2  2 Brc rr    -     -        10390   80  150 
+CharmCity 986772947  2  1 Br  -     -     -        10460   20   30 
+CharmCity 986772952  2  2 Brc rr    rr    rr       10470  240  480 Ac 2s
+CharmCity 986772995  2  1 Br  br    b     -        10710   70   10 4s 7s
+CharmCity 986773021  2  2 Bc  rr    rr    -        10650  140  260 6c Kc
+CharmCity 986775295  3  3 KQ  -     -     -        10770    0    0 
+CharmCity 986944841  9  4 c   k     k     k         5855   10    0 Kh 8s
+CharmCity 986944887  9  3 f   -     -     -         5845    0    0 
+CharmCity 986944929  9  2 Bf  -     -     -         5845   10    0 
+CharmCity 986944985 10  1 Bc  kc    kc    krc       5835  110  370 As 7d
+CharmCity 986945055 10 10 f   -     -     -         6095    0    0 
+CharmCity 986945124 10  9 c   c     c     k         6095   40  135 Tc 8c
+CharmCity 986945193  9  8 c   k     k     f         6190   20    0 
+CharmCity 986945245  9  7 c   k     c     f         6170   30    0 
+CharmCity 986945314  9  6 cc  b     k     b         6140   50  165 Kc 9c
+CharmCity 986945368 10  5 cc  f     -     -         6255   20    0 
+CharmCity 986945450 10  4 c   k     c     r         6235   70  160 Jd 4d
+CharmCity 986945512 10  3 c   kf    -     -         6325   10    0 
+CharmCity 986945585  9  2 Bk  c     k     k         6315   20    0 Kc 7s
+CharmCity 986945632  9  1 Bc  kc    bc    kr        6295  100  240 7d 7h
+CharmCity 986945690 10 10 cc  fQ    -     -         6435   20    0 
+CharmCity 987024641  3  2 Bc  kf    -     -         4105   20    0 
+CharmCity 987024657  3  1 Brc kc    bc    k         4085   80  160 Qh As
+CharmCity 987024679  3  3 c   k     k     rc        4165   70  145 8s Ad
+CharmCity 987024700  3  2 Bk  bc    kc    krc       4240  110    0 5c Td
+CharmCity 987024726  3  1 Bc  k     k     k         4130   10   10 Qc Js
+CharmCity 987024744  3  3 f   -     -     -         4130    0    0 
+CharmCity 987024755  3  2 Bk  c     c     c         4130   60    0 8h 6h
+CharmCity 987024786  3  1 Bf  -     -     -         4070    5    0 
+CharmCity 987024792  3  3 f   -     -     -         4065    0    0 
+CharmCity 987024809  3  2 Bk  b     k     b         4065   40   85 6h 7d
+CharmCity 987024838  3  1 Bc  kf    -     -         4110   10    0 
+CharmCity 987024853  3  3 r   b     b     rr        4100  130    0 Kh Ks
+CharmCity 987024878  3  2 Bk  k     kc    kc        3970   50    0 8d 8c
+CharmCity 987024905  3  1 Bc  brc   kr    krc       3920  160  240 Jc Qd
+CharmCity 987024942  3  3 f   -     -     -         4000    0    0 
+CharmCity 987024959  4  2 Bk  b     b     b         4000   60  125 3s Ts
+CharmCity 987024982  4  1 Bc  kc    kf    -         4065   30    0 
+CharmCity 987025013  4  4 Q   -     -     -         4035    0    0 
+CharmCity 987303466  2  2 B   -     -     -         1000   10   15 
+CharmCity 987303488  2  1 Brr brc   krr   br        1005  220  420 
+CharmCity 987303534  2  2 Brc rr    rr    rr        1205  240  480 6s 4c
+CharmCity 987303571  2  1 Brr brc   brc   br        1445  220  420 
+CharmCity 987303607  2  2 Brc rr    rr    rr        1645  240  480 Qd Js
+CharmCity 987303650  2  1 Brr brc   br    -         1885  140  260 Td 8c
+CharmCity 987303696  2  2 Brc rr    rr    rr        2005  240  480 5c 6s
+CharmCity 987303740  2  1 Brr brc   brc   br        2245  220  420 
+CharmCity 987303784  2  2 Brc rr    rr    r         2445  200  380 
+CharmCity 987303831  2  1 Brr brc   br    -         2625  140  260 
+CharmCity 987303852  2  2 Brc rr    rr    rr        2745  240  480 4s 5s
+CharmCity 987303884  2  1 Bcc -     -     -         2985   20   20 Qs Ah
+CharmCity 987303896  2  2 Br  -     -     -         2985   30   10 8s 4h
+CharmCity 987303910  2  1 Brr -     -     -         2965   40   80 Jd 8h
+CharmCity 987303965  2  2 Brc rr    rr    -         3005  160  300 
+CharmCity 987303989  2  1 Brr brc   br    -         3145  140  260 
+CharmCity 987304020  2  2 Brc rr    rr    rr        3265  240  460 
+CharmCity 987304056  2  1 Brr brc   brc   brc       3485  240    0 2h 2s
+CharmCity 987304087  2  2 Brc rr    rr    rr        3245  240  480 9h Kd
+CharmCity 987304156  2  1 Brr brc   brc   brc       3485  240  480 Kd Qh
+CharmCity 987304204  2  2 Brc rr    rr    rr        3725  240  480 6h 8c
+CharmCity 987304285  2  1 Brr -     -     -         3965   40    0 5h 3c
+CharmCity 987304304  2  2 Brc rc    c     -         3925   80  160 As 3s
+CharmCity 987354860 10  2 Bf  -     -     -         3320   10    0 
+CharmCity 987354899 10  1 Bcc kc    kc    krc       3310  140    0 Td Ah
+CharmCity 987354962 10 10 f   -     -     -         3170    0    0 
+CharmCity 987355017  9  8 cc  f     -     -         3170   20    0 
+CharmCity 987355082 10  8 cc  c     k     c         3150   50    0 Qs 8h
+CharmCity 987355132  9  7 ccc cc    f     -         3100   80    0 
+CharmCity 987355243 10  6 cc  rc    c     c         3020   90    0 Ks Qs
+CharmCity 987355315  9  5 rc  brc   b     b         2930  120  495 Ac As
+CharmCity 987355378  8  3 cc  kc    kf    -         3305   30    0 
+CharmCity 987355415  9  2 Bc  kcc   kf    -         3275   60    0 
+CharmCity 987355458 10  1 Bcc kf    Q     -         3215   30    0 
+CharmCity 987441954  4  2 B   -     -     -        12069   10   15 
+CharmCity 987442145  3  1 BKQ -     -     -        12149    5    0 
+CharmCity 987629443  4  3 rr  b     -     -         1480   50  105 
+CharmCity 987629479  2  1 Brc brc   br    -         1535  140  260 
+CharmCity 987629511  2  1 Brc -     -     -         1655   25   50 Qc Jd
+CharmCity 987629528  2  2 Brc bc    r     -         1680  100  180 
+CharmCity 987629559  2  1 Brr b     b     b         1760   90  160 
+CharmCity 987629593  2  2 Bc  r     b     -         1830   60  100 
+CharmCity 987629615  2  1 Brc b     -     -         1870   40   70 
+CharmCity 987629635  2  2 Brc rr    rr    rr        1900  240  480 4h Td
+CharmCity 987629674  2  1 Bcrc b     -     -         2140   50   90 
+CharmCity 987629697  2  2 Brc c     r     -         2180   90  160 
+CharmCity 987629723  2  1 Brr brc   b     -         2250  100  180 
+CharmCity 987629744  2  2 Bc  c     r     -         2330   70  120 
+CharmCity 987629761  2  1 Br  -     -     -         2380   20   30 
+CharmCity 987629765  2  2 Bc  r     b     -         2390   60  100 
+CharmCity 987629785  2  1 Brr brc   brc   b         2430  180  340 
+CharmCity 987629829  2  2 Bc  rc    r     -         2590   90    0 As Th
+CharmCity 987629852  2  1 Brc b     -     -         2500   40   70 
+CharmCity 987629870  2  2 B   -     -     -         2530   10   15 
+CharmCity 987629871  2  1 Brr br    -     -         2535   70  130 
+CharmCity 987629894  2  2 Brc rc    b     -         2595   90   90 Jh 4c
+CharmCity 987629927  2  1 Brc br    -     -         2595   60  110 
+CharmCity 987629947  2  2 Bc  r     -     -         2645   40   75 8d Jc
+CharmCity 987629975  2  2 Brc rr    rr    b         2680  180  340 
+CharmCity 987630096  2  1 Brr brc   brc   b         2840  180  340 
+CharmCity 987630130  2  2 Brc rc    r     -         3000  110  200 
+CharmCity 987630147  2  1 B   -     -     -         3090    5   15 
+CharmCity 987694923  7  5 f   -     -     -         1395    0    0 
+CharmCity 987694941  7  4 c   br    b     b         1395   80  220 Kc Ac
+CharmCity 987694992  7  3 f   -     -     -         1535    0    0 
+CharmCity 987695051  6  1 Bc  kc    kc    k         1535   50    0 4h 4s
+CharmCity 987695086  6  1 Bc  b     b     b         1485   60  140 Kc 8c
+CharmCity 987695124  7  7 c   c     c     c         1565   60    0 3d 4d
+CharmCity 987695158  7  6 r   b     br    c         1505  120    0 Ah Kc
+CharmCity 987695227  9  6 c   k     f     -         1385   10    0 
+CharmCity 987695268  9  5 f   -     -     -         1375    0    0 
+CharmCity 987695307  9  4 f   -     -     -         1375    0    0 
+CharmCity 987695356  9  3 r   kc    kc    kc        1375   70    0 As Qh
+CharmCity 987695489  8  1 BQ  -     -     -         1305   10    0 
+CharmCity 987768092  5  2 Bc  b     b     b         3107   70  145 
+CharmCity 987768118  4  1 Bc  k     k     k         3182   10   30 5d 3h
+CharmCity 987768155  4  4 f   -     -     -         3202    0    0 
+CharmCity 987768174  4  3 f   -     -     -         3202    0    0 
+CharmCity 987768195  4  2 B   -     -     -         3202   10   15 
+CharmCity 987768202  4  1 Bc  k     kc    kf        3207   40    0 
+CharmCity 987768246  4  4 f   -     -     -         3167    0    0 
+CharmCity 987768269  4  3 c   c     c     c         3167   60    0 7h Jd
+CharmCity 987768300  5  2 B   -     -     -         3107   10   15 
+CharmCity 987768310  5  1 Bc  k     b     -         3112   30   60 
+CharmCity 987768330  5  5 cc  cc    c     f         3142   70    0 
+CharmCity 987768378  5  4 c   c     c     f         3072   40    0 
+CharmCity 987768408  5  3 f   -     -     -         3032    0    0 
+CharmCity 987768433  5  2 Bk  b     -     -         3032   20   45 
+CharmCity 987768447  5  1 Bc  kc    kc    krc       3057  120  320 Jc 5c
+CharmCity 987768496  5  5 f   -     -     -         3257    0    0 
+CharmCity 987768527  5  4 f   -     -     -         3257    0    0 
+CharmCity 987768542  5  3 c   k     k     k         3257   10    0 Tc Qs
+CharmCity 987768571  5  2 Bf  -     -     -         3247   10    0 
+CharmCity 987768609  5  1 Bf  -     -     -         3237    5    0 
+CharmCity 987768642  4  4 f   -     -     -         3232    0    0 
+CharmCity 987768674  5  4 f   -     -     -         3232    0    0 
+CharmCity 987768710  6  3 cc  k     k     b         3232   40    0 8d 4d
+CharmCity 987768746  6  2 Bc  kc    kc    kf        3192   50    0 
+CharmCity 987768791  6  1 Bc  k     kc    kf        3142   30    0 
+CharmCity 987768857  6  6 cc  c     c     c         3112   80    0 Th Ac
+CharmCity 987768885  6  5 c   cc    f     -         3032   30    0 
+CharmCity 987768924  6  4 cc  f     -     -         3002   20    0 
+CharmCity 987768950  6  3 cc  kc    k     k         2982   30    0 6s Ac
+CharmCity 987768993  5  2 Bc  kcc   kf    -         2952   50    0 
+CharmCity 987769030  5  1 Bc  kc    kccc  kc        2902  160    0 9c Kc
+CharmCity 987769086  5  3 Q   -     -     -         2742    0    0 
+CharmCity 987858904  6  2 Bf  -     -     -         4505   10    0 
+CharmCity 987858944  6  1 Bc  kc    kf    -         4495   40    0 
+CharmCity 987858979  6  6 c   k     b     b         4455   50  115 
+CharmCity 987859009  6  5 f   -     -     -         4520    0    0 
+CharmCity 987859045  6  4 cc  f     -     -         4520   20    0 
+CharmCity 987859094  6  3 c   b     -     -         4500   20   45 
+CharmCity 987859110  6  2 Bk  kc    kf    -         4525   20    0 
+CharmCity 987859165  6  1 BQ  -     -     -         4505    5    0 
+CharmCity 987861975  9  2 Bc  kf    -     -         4500   20    0 
+CharmCity 987862018 10  1 Bcc bcc   kc    kc        4480  120  410 2h Ac
+CharmCity 987862127 10 10 f   -     -     -         4770    0    0 
+CharmCity 987862185  9  8 c   cc    f     -         4770   60    0 
+CharmCity 987862257 10  8 f   -     -     -         4710    0    0 
+CharmCity 987862327  9  6 f   -     -     -         4710    0    0 
+CharmCity 987862365 10  6 c   c     c     c         4710   70    0 Jd Tc
+CharmCity 987862411 10  5 c   c     b     b         4640   60  300 Th Kh
+CharmCity 987862478  9  3 c   k     b     kc        4880   50    0 Jc 9c
+CharmCity 987862535  9  2 Bc  kc    kc    kc        4830   70    0 As Ks
+CharmCity 987862599  9  1 Bf  -     -     -         4760    5    0 
+CharmCity 987862670  9  9 f   -     -     -         4755    0    0 
+CharmCity 987862733 10  9 c   c     b     bc        4755   80    0 8s 7h
+CharmCity 987862793 10  8 c   cc    kc    kc        4675   90    0 Ah 9h
+CharmCity 987862854 10  7 f   -     -     -         4585    0    0 
+CharmCity 987862915 10  6 f   -     -     -         4585    0    0 
+CharmCity 987862958 10  5 c   kc    kf    Q         4585   20    0 
+CharmCity 987964370  8  2 f   -     -     -         2267    0    0 
+CharmCity 987964383  8  2 Bk  k     k     k         2267   10    0 8s 6d
+CharmCity 987964449  8  1 Bf  -     -     -         2257    5    0 
+CharmCity 987964522  8  8 Q   -     -     -         2252    0    0 
+CharmCity 987968791  4  3 rr  brc   brc   b         2242  180  355 
+CharmCity 987968855  3  1 Brc b     bc    b         2417  110  200 
+CharmCity 987968897  5  1 Bc  b     br    kc        2507  100    0 Qd Tc
+CharmCity 987968955  4  4 cc  c     k     c         2407   50    0 8h Th
+CharmCity 987968983  4  4 c   k     k     b         2357   30    0 9c Th
+CharmCity 987969037  3  2 Bc  f     -     -         2327   20    0 
+CharmCity 987969053  3  1 Bc  k     bc    kf        2307   50    0 
+CharmCity 987969087  3  3 f   -     -     -         2257    0    0 
+CharmCity 987969099  3  2 B   -     -     -         2257   10   15 
+CharmCity 987969103  3  1 Bf  -     -     -         2262    5    0 
+CharmCity 987969107  3  3 r   b     r     c         2257   90    0 Ad Ks
+CharmCity 987969124  3  2 Bk  b     b     -         2167   40   70 
+CharmCity 987969145  3  1 Bc  b     -     -         2197   20   30 
+CharmCity 987969154  3  3 f   -     -     -         2207    0    0 
+CharmCity 987969167  3  2 Bk  k     k     k         2207   10   25 8s 4d
+CharmCity 987969187  3  1 Bc  k     k     b         2222   40   90 9h Th
+CharmCity 987969210  4  4 f   -     -     -         2272    0    0 
+CharmCity 987969217  4  3 f   -     -     -         2272    0    0 
+CharmCity 987969254  4  2 Bk  b     f     -         2272   20    0 
+CharmCity 987969294  4  1 Bf  -     -     -         2252    5    0 
+CharmCity 987969317  4  4 c   c     f     -         2247   20    0 
+CharmCity 987969345  4  3 f   -     -     -         2227    0    0 
+CharmCity 987969349  4  2 Bk  k     k     b         2227   30   45 
+CharmCity 987969374  3  1 Bc  b     b     b         2242   60  110 
+CharmCity 987969398  3  3 c   b     k     c         2292   40    0 Js 9h
+CharmCity 987969425  4  3 f   -     -     -         2252    0    0 
+CharmCity 987969450  4  2 Bk  k     k     k         2252   10   25 As 8s
+CharmCity 987969483  4  1 Bc  k     k     b         2267   30   40 
+CharmCity 987969511  4  4 c   c     c     b         2277   60  145 Qh Kd
+CharmCity 987969557  4  3 f   -     -     -         2362    0    0 
+CharmCity 987969592  4  2 Bk  k     k     b         2302   30   60 9d Jc
+CharmCity 987969633  4  1 BQ  -     -     -         2292    5    0 
+CharmCity 987973256  3  3 c   bc    b     -         2212   50   80 
+CharmCity 987973297  4  3 f   -     -     -         2242    0    0 
+CharmCity 987973333  4  2 BQ  -     -     -         2242   10    0 
+CharmCity 988427452  9  3 c   f     -     -         1000   10    0 
+CharmCity 988427522  9  2 Br  c     rc    rc         990  150    0 As Ac
+CharmCity 988427612  9  1 Bc  br    b     b          840   90  370 Qh 8s
+CharmCity 988427729  9  9 c   c     c     r         1120   90    0 7d Qd
+CharmCity 988427840  8  7 f   -     -     -         1030    0    0 
+CharmCity 988427877  8  6 c   c     f     -         1030   30    0 
+CharmCity 988427964  9  6 cc  rr    b     k         1000   80  300 5c Ac
+CharmCity 988428055 10  6 f   -     -     -         1220    0    0 
+CharmCity 988428119 10  5 f   -     -     -         1220    0    0 
+CharmCity 988428175 10  4 c   kf    -     -         1220   10    0 
+CharmCity 988428252 10  3 c   kQ    -     -         1210   10    0 
+CharmCity 988497920  2  2 Brc rr    rr    r         2170  200  380 
+CharmCity 988497956  2  1 Brr brc   br    -         2350  140  275 8c Jh
+CharmCity 988498005  2  2 Brc rr    rr    rr        2485  240  480 4s 5d
+CharmCity 988498031  2  1 Brr brc   brc   b         2725  180  340 
+CharmCity 988498059  2  2 Brc rr    rr    rr        2885  240  460 
+CharmCity 988498122  2  1 Brr brc   brc   b         3105  180  340 
+CharmCity 988498156  2  2 Brc rr    c     r         3265  140  260 
+CharmCity 988498180  2  1 Br  -     -     -         3385   20   30 
+CharmCity 988498187  2  2 Br  -     -     -         3395   30   50 
+CharmCity 988498193  2  1 Brr br    -     -         3415   70  130 
+CharmCity 988498213  2  2 B   -     -     -         3475   10   20 5c 4d
+CharmCity 988499663  2  2 B   -     -     -         3485   10   15 
+CharmCity 988501614  2  1 B   -     -     -         3153    5   15 
+CharmCity 988501684  2  2 B   -     -     -         3163   10   20 
+CharmCity 988501789  2  2 BKQ -     -     -         3173   10    0 
+CharmCity 988562390  7  7 r   b     b     k         4493   50  135 Ad Ts
+CharmCity 988562422  9  6 c   b     b     k         4578   40    0 Qc 6c
+CharmCity 988562469  8  4 cc  k     bc    kc        4538   80    0 Kh 8h
+CharmCity 988562513  8  3 f   -     -     -         4458    0    0 
+CharmCity 988562548  8  2 Bk  kc    k     k         4458   20   85 6d Jd
+CharmCity 988562597  9  1 Bcc k     b     kc        4523   60    0 Ts Th
+CharmCity 988562655  9  9 f   -     -     -         4463    0    0 
+CharmCity 988562696  9  8 c   c     f     -         4463   20    0 
+CharmCity 988562738  9  7 c   c     f     -         4443   20    0 
+CharmCity 988562779 10  7 f   -     -     -         4423    0    0 
+CharmCity 988562823 10  6 f   -     -     -         4423    0    0 
+CharmCity 988562865 10  5 cc  f     -     -         4423   20    0 
+CharmCity 988562906 10  5 c   kc    kf    -         4403   20    0 
+CharmCity 988562975  8  2 Bk  kf    -     -         4383   10    0 
+CharmCity 988563020  8  1 Bf  -     -     -         4373    5    0 
+CharmCity 988563093  8  8 f   -     -     -         4368    0    0 
+CharmCity 988563142  9  8 c   c     k     b         4368   40  150 Qs 3s
+CharmCity 988563190  9  7 ccc c     c     cf        4478   90    0 
+CharmCity 988563305  9  6 f   -     -     -         4388    0    0 
+CharmCity 988563386 10  5 f   -     -     -         4388    0    0 
+CharmCity 988563437  9  3 f   -     -     -         4388    0    0 
+CharmCity 988563561  9  3 cc  kf    -     -         4388   40    0 
+CharmCity 988563706 10  2 Bk  k     f     -         4348   10    0 
+CharmCity 988563793 10  1 Bc  kf    -     -         4338   10    0 
+CharmCity 988563887 10 10 c   f     -     -         4328   10    0 
+CharmCity 988563977 10  8 Q   -     -     -         4318    0    0 

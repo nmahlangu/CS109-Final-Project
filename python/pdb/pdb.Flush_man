@@ -1,0 +1,37 @@
+Flush_man 986606681  2  1 Br  b     -     -         2605   30   50 
+Flush_man 986606688  2  2 B   -     -     -         2625   10   15 
+Flush_man 986606690  2  1 Bcc kc    kc    kc        2630   70  140 As 9s
+Flush_man 986606720  3  3 cc  c     f     -         2700   30    0 
+Flush_man 986606738  3  2 Bf  -     -     -         2670   10    0 
+Flush_man 986606745  3  1 Bcc kf    -     -         2660   20    0 
+Flush_man 986606757  3  3 r   b     k     k         2640   30    0 3s 3c
+Flush_man 986606775  3  2 Bf  -     -     -         2610   10    0 
+Flush_man 986606795  3  1 Bf  -     -     -         2600    5    0 
+Flush_man 986606811  3  3 r   rf    -     -         2595   40    0 
+Flush_man 986606823  4  3 cc  rc    kc    bc        2555  110  340 2s 4s
+Flush_man 986606852  4  2 Bk  f     -     -         2785   10    0 
+Flush_man 986606879  4  1 Bf  -     -     -         2775    5    0 
+Flush_man 986606889  4  4 c   c     f     -         2770   20    0 
+Flush_man 986606901  4  3 c   rc    bc    cc        2750  120  133 6s 9s
+Flush_man 986606929  4  2 Bf  -     -     -         2763   10    0 
+Flush_man 986606957  4  1 Bc  kf    -     -         2753   20    0 
+Flush_man 986606983  4  4 cc  f     -     -         2733   20    0 
+Flush_man 986607009  4  3 r   r     c     f         2713   60    0 
+Flush_man 986607034  4  2 Bk  rc    rr    bc        2573  160  500 5h Td
+Flush_man 986607068  4  1 Bf  -     -     -         2913    5    0 
+Flush_man 986607080  4  4 rc  k     k     k         2908   30   90 9s Ks
+Flush_man 986607097  4  3 cc  r     f     -         2968   50    0 
+Flush_man 986607121  4  2 Bc  kc    kf    -         2918   30    0 
+Flush_man 986607144  4  1 Bc  kf    -     -         2883   10    0 
+Flush_man 986607164  4  4 f   -     -     -         2873    0    0 
+Flush_man 986607169  4  3 c   k     f     -         2873   10    0 
+Flush_man 986607214  4  2 Bk  b     -     -         2863   20   45 
+Flush_man 986607228  4  1 Br  brc   kc    kc        2888  100  210 Qh Qd
+Flush_man 986607248  4  4 f   -     -     -         2998    0    0 
+Flush_man 986607270  4  3 f   -     -     -         2998    0    0 
+Flush_man 986607292  4  2 Bk  b     -     -         2998   20   45 
+Flush_man 986607308  4  1 Bf  -     -     -         3023    5    0 
+Flush_man 986607340  4  4 f   -     -     -         2978    0    0 
+Flush_man 986607348  4  3 rr  rc    c     c         2978  110  270 Qd Qc
+Flush_man 986607375  4  2 Bk  bc    k     kc        3128   50  120 Qc 9c
+Flush_man 986607397  4  1 BQ  -     -     -         3198    5    0 

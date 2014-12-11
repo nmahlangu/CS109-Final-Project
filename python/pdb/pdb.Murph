@@ -1,0 +1,975 @@
+Murph     986101314 10  1 Bc  k     b     kc        3657   50    0 Qs Ts
+Murph     986101403  8  8 f   -     -     -         3607    0    0 
+Murph     986101503 10  9 f   -     -     -         3607    0    0 
+Murph     986101572  9  7 f   -     -     -         3607    0    0 
+Murph     986101614  9  6 c   cf    -     -         3607   30    0 
+Murph     986101683  9  5 cc  c     c     rr        3577  130    0 Ah Kd
+Murph     986101714  9  3 Q   -     -     -         3447    0    0 
+Murph     986148414  8  5 f   -     -     -         3669    0    0 
+Murph     986148514  8  4 c   f     -     -         3669   20    0 
+Murph     986148671  9  3 c   kf    -     -         3649   10    0 
+Murph     986148728  9  2 Bc  kc    kc    kf        3639   50    0 
+Murph     986148779  9  1 Bc  kf    -     -         3589   20    0 
+Murph     986148830  9  9 c   k     c     k         3569   30    0 Ks 6s
+Murph     986148890 10  9 cc  kc    kf    -         3539   30    0 
+Murph     986148933 10  8 c   k     kf    -         3509   20    0 
+Murph     986148993 10  7 c   cc    kc    k         3489   60    0 8d 7d
+Murph     986149091 10  6 f   -     -     -         3429    0    0 
+Murph     986149220 10  5 cf  -     -     -         3429   10    0 
+Murph     986149277 10  4 cc  kf    -     -         3419   20    0 
+Murph     986149379 10  3 c   b     b     b         3399   60  170 Ad Jh
+Murph     986149474 10  2 Bk  k     kf    -         3509   10    0 
+Murph     986149543 10  1 Bc  kc    kf    -         3499   30    0 
+Murph     986149629 10 10 f   Q     -     -         3469    0    0 
+Murph     986186382  9  4 c   c     r     k         1000   60    0 8s 3s
+Murph     986186440  9  3 cc  krc   kc    b          940  100    0 Ac 9s
+Murph     986186518 10  3 cc  c     c     f          840   50    0 
+Murph     986186584 10  2 Br  kc    b     b          790   80  400 Ks 4s
+Murph     986186690 10  1 Bc  kc    kf    -         1110   30    0 
+Murph     986186738 10 10 f   -     -     -         1080    0    0 
+Murph     986186768 10  9 c   k     b     r         1080   70  190 3h 9h
+Murph     986186874 10  8 c   r     rc    c         1200  110    0 Kh 5d
+Murph     986186947 10  7 c   kc    kc    k         1090   40    0 Js 2s
+Murph     986187019 10  6 c   k     k     k         1050   10   45 Jd Kd
+Murph     986187057 10  5 c   bc    b     k         1085   50  245 6h 5h
+Murph     986187113 10  4 f   -     -     -         1280    0    0 
+Murph     986187178 10  3 c   k     b     b         1280   50   60 7c Kd
+Murph     986187238 10  2 Bc  k     kf    -         1290   20    0 
+Murph     986187292 10  1 Bf  -     -     -         1270    5    0 
+Murph     986187335 10 10 c   k     f     -         1265   10    0 
+Murph     986187381 10  9 f   Q     -     -         1255    0    0 
+Murph     986222326  8  2 Bf  -     -     -         1255   10    0 
+Murph     986222395  9  1 Bc  kc    kc    kc        1245   70    0 4s As
+Murph     986222467  9  9 c   cc    cc    k         1175  100    0 Qd Jd
+Murph     986222536  8  7 f   -     -     -         1075    0    0 
+Murph     986222578 10  7 cc  kc    k     f         1075   40    0 
+Murph     986222641 10  6 c   kc    kf    -         1035   20    0 
+Murph     986222701 10  5 f   -     -     -         1015    0    0 
+Murph     986222737 10  4 c   cf    -     -         1015   20    0 
+Murph     986222784 10  3 f   -     -     -          995    0    0 
+Murph     986222836 10  2 Bk  kc    k     k          995   20    0 8c Ks
+Murph     986222915 10  1 Bf  -     -     -          975    5    0 
+Murph     986222968 10 10 f   -     -     -          970    0    0 
+Murph     986223045 10  9 f   -     -     Q          970    0    0 
+Murph     986223381  9  9 c   k     k     f          970   10    0 
+Murph     986223419  9  8 f   -     -     -          960    0    0 
+Murph     986223457  9  7 f   -     -     -          960    0    0 
+Murph     986223507  9  6 f   -     -     -          960    0    0 
+Murph     986223611 10  5 f   -     -     -          960    0    0 
+Murph     986223662 10  4 c   kc    kr    b          960   80  195 Kh As
+Murph     986223730 10  3 c   kc    kf    -         1075   20    0 
+Murph     986223794 10  2 Bf  -     -     -         1055   10    0 
+Murph     986223851 10  1 Bc  kc    kc    kf        1045   40    0 
+Murph     986223936 10 10 c   f     -     -         1005   20    0 
+Murph     986223982 10  9 f   -     -     -          985    0    0 
+Murph     986224050 10  8 c   cc    c     f          985   60    0 
+Murph     986224202  9  7 cc  c     b     c          925   70  250 Ad Th
+Murph     986224312  8  5 c   rc    rc    c         1105  120  130 7c 4c
+Murph     986224365  9  4 c   kc    kc    kf        1115   40    0 
+Murph     986224421 10  3 cc  c     kf    -         1075   30    0 
+Murph     986224484 10  2 Bk  k     kf    Q         1045   10    0 
+Murph     986464879  3  3 c   c     c     b          690   60    0 7d 9d
+Murph     986464907  3  2 Bk  k     k     k          630   10    0 5c Qh
+Murph     986464938  3  1 Bf  -     -     -          620    5    0 
+Murph     986464945  2  2 c   k     b     k          615   30    0 8s Qs
+Murph     986464969  2  2 Bk  k     k     rc         585   70    0 9h Qc
+Murph     986464992  2  1 Bc  k     k     k          515   10   20 8c Td
+Murph     986465015  2  2 Bk  k     b     -          525   30   40 
+Murph     986465036  2  1 Bc  k     kc    kf         535   30    0 
+Murph     986465057  3  2 Bk  b     b     -          505   40   60 
+Murph     986465076  3  1 Bcf -     -     -          525   10    0 
+Murph     986465088  2  2 B   -     -     -          515   10   15 
+Murph     986465092  2  1 Bc  b     kc    k          520   40   80 As 8d
+Murph     986465123  2  2 Bk  k     f     -          560   10    0 
+Murph     986465142  2  1 Bf  -     -     -          550    5    0 
+Murph     986465145  2  2 B   -     -     -          545   10   15 
+Murph     986465150  2  1 Bc  kf    -     -          550   10    0 
+Murph     986465161  2  2 B   -     -     -          540   10   15 
+Murph     986465165  2  1 Bc  kc    k     k          545   20    0 Qh 5h
+Murph     986465187  2  2 B   -     -     -          525   10   15 
+Murph     986465193  2  1 Bf  -     -     -          530    5    0 
+Murph     986465199  2  2 Bc  c     c     c          525   70    0 Ah 7s
+Murph     986465215  2  1 Bc  k     k     k          455   10   20 Ac 6h
+Murph     986465243  2  2 Bc  f     -     -          465   20    0 
+Murph     986465260  2  1 Bf  -     -     -          445    5    0 
+Murph     986465263  2  2 B   -     -     -          440   10   15 
+Murph     986465267  2  1 Bc  k     b     -          445   30   40 
+Murph     986465303  2  2 Bk  k     f     -          455   10    0 
+Murph     986465340  2  1 Bf  -     -     -          445    5    0 
+Murph     986465351  2  2 Bk  b     k     b          440   40   60 
+Murph     986465446  2  1 Br  -     -     -          460   20   30 
+Murph     986465467  2  2 Bc  k     c     b          470   60  120 4s Kc
+Murph     986465528  2  1 Bc  k     k     k          530   10   20 7d Ad
+Murph     986465577  2  2 B   -     -     -          540   10   15 
+Murph     986465582  2  1 Bf  -     -     -          545    5    0 
+Murph     986465585  2  2 B   -     -     -          540   10   15 
+Murph     986465589  2  1 Bc  kf    -     -          545   10    0 
+Murph     986465603  2  2 Bc  k     b     -          535   40   60 
+Murph     986465616  2  1 Bc  b     kc    k          555   40   80 Jc 5s
+Murph     986465639  2  2 B   -     -     -          595   10   15 
+Murph     986465644  2  1 Bc  k     b     b          600   50    0 Jc Jh
+Murph     986465672  2  2 B   -     -     -          550   10   15 
+Murph     986465677  2  1 Bc  k     k     kf         555   10    0 
+Murph     986465699  2  2 Bk  k     f     -          545   10    0 
+Murph     986465711  2  1 Bc  k     -     -          535   10   20 
+Murph     986469235  2  2 B   -     -     -          545   10   15 
+Murph     986469241  2  1 B   -     -     -          550    5   15 
+Murph     986474649  5  3 KQ  -     -     -          560    0    0 
+Murph     986527642 10  6 f   -     -     -          490    0    0 
+Murph     986527697 10  5 cc  f     -     -          490   20    0 
+Murph     986527799 10  4 c   c     kf    -          470   30    0 
+Murph     986527858  9  3 c   krc   br    br         440  160  415 7h Jh
+Murph     986528077 10  2 B   -     -     -          695   10   15 
+Murph     986528093 10  1 Bc  kf    -     -          700   20    0 
+Murph     986528175 10 10 f   -     -     -          680    0    0 
+Murph     986528307  9  8 f   -     -     -          680    0    0 
+Murph     986528397 10  8 f   -     -     -          680    0    0 
+Murph     986528502 10  7 f   -     -     -          680    0    0 
+Murph     986528558 10  6 f   -     -     -          680    0    0 
+Murph     986528657 10  5 f   -     -     -          680    0    0 
+Murph     986528762 10  4 cc  kc    kc    kc         680   70    0 7d Qd
+Murph     986528878 10  3 fQ  -     -     -          610    0    0 
+Murph     986686964  9  9 f   -     -     -          550    0    0 
+Murph     986687010  9  8 c   c     c     f          550   40    0 
+Murph     986687056  9  7 f   -     -     -          510    0    0 
+Murph     986687104 10  6 cc  k     f     -          510   20    0 
+Murph     986687186 10  5 f   -     -     -          490    0    0 
+Murph     986687248  9  3 c   Q     -     -          490   10    0 
+Murph     986828417  7  2 Bk  kf    -     -         1000   10    0 
+Murph     986828463  8  1 Bcf -     -     -          990   10    0 
+Murph     986828508  9  9 c   k     f     -          980   10    0 
+Murph     986828543  9  8 c   f     -     -          970   10    0 
+Murph     986828587 10  7 cc  kc    kf    -          960   30    0 
+Murph     986828634 10  6 cc  cc    kc    brc        930  140  184 As Kh
+Murph     986828719 10  5 f   -     -     -          974    0    0 
+Murph     986828761 10  4 c   c     kf    -          974   20    0 
+Murph     986828821 10  3 cc  c     k     b          954   50  130 
+Murph     986828866  9  2 Bk  kcf   -     -         1034   20    0 
+Murph     986828917  9  1 Bf  -     -     -         1014    5    0 
+Murph     986828965  8  8 c   r     k     c         1009   50    0 8d Kd
+Murph     986829003  7  6 cc  c     c     f          959   70    0 
+Murph     986829052  7  5 c   k     k     f          889   10    0 
+Murph     986829083  8  4 c   kf    -     -          879   10    0 
+Murph     986829130  8  3 c   kc    kc    kc         869   60    0 Ad 9c
+Murph     986829179  8  2 Bc  kc    kc    k          809   50    0 Kh Ad
+Murph     986829226  8  1 Bc  k     k     kc         759   40    0 As 4c
+Murph     986829271  8  8 f   -     -     -          719    0    0 
+Murph     986829306  8  7 c   cc    c     c          719   90    0 Ah Kc
+Murph     986829363  8  6 c   c     c     k          629   40    0 Jd 9c
+Murph     986829410  9  6 f   -     -     -          589    0    0 
+Murph     986829458  9  5 cc  k     k     f          589   20    0 
+Murph     986829501  9  4 c   k     kf    -          569   10    0 
+Murph     986829545 10  3 f   -     -     -          559    0    0 
+Murph     986829594 10  2 Bc  k     kc    kc         559   60    0 8c Kc
+Murph     986829641 10  1 Bc  kf    -     -          499   10    0 
+Murph     986829676 10 10 c   c     c     f          489   50    0 
+Murph     986829740 10  9 f   -     -     -          439    0    0 
+Murph     986829763 10  8 f   -     -     -          439    0    0 
+Murph     986829815 10  7 c   c     k     rc         439  100    0 8c As
+Murph     986829869 10  6 cr  c     f     -          339   40    0 
+Murph     986829958 10  5 cc  cc    kc    kf         299   60    0 
+Murph     986830008 10  4 c   kr    k     k          239   30    0 4c Tc
+Murph     986830051 10  3 f   -     -     -          209    0    0 
+Murph     986830124 10  2 Bk  kc    kc    kf         209   40    0 
+Murph     986830177 10  1 Bf  -     -     -          169    5    0 
+Murph     986830218  9  9 f   -     -     -          164    0    0 
+Murph     986830255  9  8 c   c     rc    r          164  150    0 Jc Ac
+Murph     986830316  9  7 cQ  -     -     -           14   10    0 
+Murph     986834031  2  1 BA  -     -     -            4    4    0 9h Ad
+Murph     986874549 10 10 c   c     k     k         1000   20    0 Th Qd
+Murph     986874598 10  9 f   -     -     -          980    0    0 
+Murph     986874658 10  8 c   k     f     -          980   10    0 
+Murph     986874738 10  7 c   k     k     k          970   10   35 Ks 9h
+Murph     986874788 10  6 f   -     -     -          995    0    0 
+Murph     986874849 10  4 Q   -     -     -          995    0    0 
+Murph     986875601  9  9 f   -     -     -          995    0    0 
+Murph     986875648 10  8 c   k     c     f          995   30    0 
+Murph     986875709 10  7 f   -     -     -          965    0    0 
+Murph     986875754 10  3 Q   -     -     -          965    0    0 
+Murph     986876894 10  7 c   kc    kc    kf         965   40    0 
+Murph     986876946 10  6 f   -     -     -          925    0    0 
+Murph     986877004 10  5 c   k     b     b          925   50  170 
+Murph     986877114 10  4 f   -     -     -         1045    0    0 
+Murph     986877186 10  3 cc  kcc   k     kcc       1045  100    0 8d Kh
+Murph     986877272 10  2 Bk  kc    kf    -          945   20    0 
+Murph     986877322 10  1 Bc  k     kf    -          925   10    0 
+Murph     986877378 10 10 c   r     b     -          915   60  205 
+Murph     986877450 10  9 c   r     k     c         1060   50    0 Js 9s
+Murph     986877498 10  8 f   -     -     -         1010    0    0 
+Murph     986877538 10  7 c   c     c     f         1010   50    0 
+Murph     986877599 10  6 f   -     -     -          960    0    0 
+Murph     986877677 10  5 c   c     c     f          960   50    0 
+Murph     986877721 10  4 Q   -     -     -          910    0    0 
+Murph     986970277  6  5 f   -     -     -          910    0    0 
+Murph     986970309  6  4 c   k     c     r          910   70    0 Qh Ad
+Murph     986970352  6  3 c   k     k     kc         840   30   40 2c Tc
+Murph     986970397  6  2 Bk  k     k     k          850   10    0 8s 3d
+Murph     986970441  7  1 Bc  kf    -     -          840   10    0 
+Murph     986970497  5  5 c   k     k     bc         830   50   55 7c Ac
+Murph     986970539  5  5 c   k     k     f          835   10    0 
+Murph     986970573  6  4 f   -     -     -          825    0    0 
+Murph     986970601  6  3 c   k     b     k          825   30   75 8c Qh
+Murph     986970635  6  2 Bk  f     -     -          870   10    0 
+Murph     986970680  6  1 Bf  -     -     -          860    5    0 
+Murph     986970730  6  6 f   -     -     -          855    0    0 
+Murph     986970756  6  5 f   -     -     -          855    0    0 
+Murph     986970790  6  4 c   k     r     -          855   50  100 
+Murph     986970836  7  3 f   -     -     -          905    0    0 
+Murph     986970886  7  2 Bc  kf    -     -          905   20    0 
+Murph     986970943  7  1 Bc  kc    kc    kf         885   40    0 
+Murph     986971041  7  7 f   -     -     -          845    0    0 
+Murph     986971107  7  6 c   k     kc    kf         845   30    0 
+Murph     986971154  7  5 c   k     k     k          815   10    0 2c 9c
+Murph     986971201  6  4 c   kf    -     -          805   10    0 
+Murph     986971224  6  3 fQ  -     -     -          795    0    0 
+Murph     986998269  4  4 f   -     -     -          795    0    0 
+Murph     986998316  3  3 c   k     k     b          795   30   45 
+Murph     986998344  3  2 Bk  k     k     f          810   10    0 
+Murph     986998370  3  1 Bc  kc    kf    -          800   20    0 
+Murph     986998397  3  3 f   -     -     -          780    0    0 
+Murph     986998421  3  2 Bk  f     -     -          780   10    0 
+Murph     986998452  3  1 Bc  k     kf    -          770   10    0 
+Murph     986998479  3  3 f   -     -     -          760    0    0 
+Murph     986998499  3  2 Bk  c     k     k          760   20   60 7c 9c
+Murph     986998527  3  1 Bc  kf    -     -          800   10    0 
+Murph     986998563  3  3 f   -     -     -          790    0    0 
+Murph     986998585  3  2 Bk  k     k     b          790   30   40 
+Murph     986998625  4  1 Bc  kf    -     -          800   10    0 
+Murph     986998655  4  4 c   c     c     f          790   60    0 
+Murph     986998699  4  3 f   -     -     -          730    0    0 
+Murph     986998732  4  2 Bk  f     -     -          730   10    0 
+Murph     986998755  4  1 Bf  -     -     -          720    5    0 
+Murph     986998790  4  4 f   -     -     -          715    0    0 
+Murph     986998816  4  3 c   c     c     c          715   60  130 Kh Qd
+Murph     986998858  5  2 Bk  kc    kc    k          785   40    0 Jc Jh
+Murph     986998905  5  1 Bc  kf    -     -          745   10    0 
+Murph     986998935  5  5 c   c     k     f          735   20    0 
+Murph     986998970  4  3 c   c     f     -          715   20    0 
+Murph     986998996  4  3 f   -     -     -          695    0    0 
+Murph     986999031  4  2 Bk  c     f     -          695   20    0 
+Murph     986999073  5  1 Bf  -     -     -          675    5    0 
+Murph     986999095  5  5 c   c     rc    c          670  100    0 5d 2d
+Murph     986999144  5  4 f   -     Q     -          570    0    0 
+Murph     986999756  8  6 f   -     -     -          570    0    0 
+Murph     986999823  8  5 c   c     c     k          570   40    0 9d Ts
+Murph     986999882  8  4 f   -     -     -          530    0    0 
+Murph     986999950  9  3 f   -     -     -          530    0    0 
+Murph     987000040  9  2 Bk  k     kc    kc         530   50  135 7d Kd
+Murph     987000104  9  1 Bc  kcc   k     k          615   40    0 Jh Ac
+Murph     987000183  8  8 c   k     c     c          575   50    0 8s 8d
+Murph     987000245  6  5 c   k     b     k          525   30   80 Ah Td
+Murph     987000312  6  5 c   c     c     f          575   40    0 
+Murph     987000401  7  4 f   -     -     -          535    0    0 
+Murph     987000437  7  3 f   -     -     -          535    0    0 
+Murph     987000481  7  2 Bk  kf    -     -          535   10    0 
+Murph     987000529  7  1 Bc  kc    kc    k          525   50    0 Ah Jc
+Murph     987000573  5  3 Q   -     -     -          475    0    0 
+Murph     987182299 10 10 c   k     f     -         1000   20    0 
+Murph     987182348  9  8 f   -     -     -          980    0    0 
+Murph     987182418  9  7 cc  c     cc    f          980  120    0 
+Murph     987182503  9  6 cc  f     -     -          860   20    0 
+Murph     987182614  9  5 c   f     -     -          840   30    0 
+Murph     987182676  9  4 c   k     kf    -          810   20    0 
+Murph     987182733  9  3 c   kc    kc    k          790   40    0 7c 8d
+Murph     987182803  9  3 cc  kf    -     -          750   20    0 
+Murph     987182904  9  2 Bf  -     -     -          730   10    0 
+Murph     987182949  9  1 Bf  -     -     -          720    5    0 
+Murph     987183020  9  9 c   k     c     r          715   70  155 Ac Th
+Murph     987183050 10  9 f   -     -     -          800    0    0 
+Murph     987183100 10  8 cc  f     -     -          800   20    0 
+Murph     987183208 10  8 c   c     c     rc         780  100    0 Ks 6d
+Murph     987183270  9  6 c   b     k     k          680   20    0 9s 8d
+Murph     987183358  9  5 c   Q     -     -          660   20    0 
+Murph     987201638  7  6 cc  k     kc    k          640   40    0 8d 7h
+Murph     987201683  7  5 cc  c     c     rc         600  120    0 3d Js
+Murph     987201737  7  4 c   k     f     -          480   10    0 
+Murph     987201781  7  3 cc  k     kf    -          470   20    0 
+Murph     987201820  8  2 Bk  kc    k     k          450   20    0 7s 2d
+Murph     987201869  9  1 Bc  k     kc    k          430   30   80 Ac 4d
+Murph     987201907  9  9 cc  cc    c     b          480  120  720 As 4c
+Murph     987202022 10  9 c   c     c     b         1080   60  220 
+Murph     987202094 10  9 cKQ -     -     -         1240   10    0 
+Murph     987202263  8  6 f   -     -     -         1230    0    0 
+Murph     987202302  8  5 cc  kf    -     -         1230   40    0 
+Murph     987202383  7  4 Q   -     -     -         1190    0    0 
+Murph     987346291  3  1 Bf  -     -     -         1190    5    0 
+Murph     987346296  3  3 c   k     f     -         1185   10    0 
+Murph     987346333  3  2 Bk  k     k     k         1175   10    0 3s 8d
+Murph     987346376  3  1 Bcc kc    kc    k         1165   50    0 Qs Kd
+Murph     987346400  3  3 c   c     f     -         1115   20    0 
+Murph     987346416  4  3 f   -     -     -         1095    0    0 
+Murph     987346431  4  2 Bc  cc    kc    kf        1095   70    0 
+Murph     987346460  4  1 Bc  kcc   kc    k         1025   70    0 5s 6s
+Murph     987346501  4  4 f   -     -     -          955    0    0 
+Murph     987346524  4  3 c   k     k     k          955   10   25 Kc Kh
+Murph     987346540  3  2 Bk  f     -     -          970   10    0 
+Murph     987346559  3  1 Bf  -     -     -          960    5    0 
+Murph     987346565  3  3 cc  c     c     r          955   90  190 
+Murph     987346588  3  2 B   -     -     -         1055   10   15 
+Murph     987346591  3  1 Bc  kf    -     -         1060   20    0 
+Murph     987346599  3  3 f   -     -     -         1040    0    0 
+Murph     987346602  3  2 Bk  k     k     k         1040   10   25 Kc Qh
+Murph     987346615  3  1 Bc  kf    -     -         1055   10    0 
+Murph     987346636  3  3 ccc f     -     -         1045   40    0 
+Murph     987346658  3  2 Bk  c     c     f         1005   40    0 
+Murph     987346672  3  1 Bc  kc    kf    -          965   30    0 
+Murph     987346699  3  3 cc  c     c     r          935   90  185 3h Jc
+Murph     987346718  3  2 Bf  -     -     -         1030   10    0 
+Murph     987346725  3  1 Bc  k     k     k         1020   10   20 5d Ks
+Murph     987346747  2  2 Bc  c     c     c         1030   70    0 2c Tc
+Murph     987346764  2  1 Bc  k     b     -          960   30   40 
+Murph     987346774  2  2 Bk  c     c     f          970   40    0 
+Murph     987346791  2  1 Bc  kc    kf    -          930   20    0 
+Murph     987346805  2  2 Bk  k     k     r          910   50    0 As Ac
+Murph     987346817  2  1 Bc  k     k     k          860   10   20 3d Jd
+Murph     987346835  2  2 Bk  k     k     k          870   10    0 8s 2c
+Murph     987346848  2  1 Bc  b     b     -          860   40   60 
+Murph     987346864  2  2 Bk  c     rr    b          880  120  240 8d Qs
+Murph     987346887  3  1 Bf  -     -     -         1000    5    0 
+Murph     987346904  4  4 c   f     -     -          995   10    0 
+Murph     987346920  4  3 c   k     k     r          985   50  105 Th 3c
+Murph     987346960  2  2 Bk  k     k     k         1040   10   20 Ts 8h
+Murph     987346985  2  1 Bc  b     -     -         1050   20   30 
+Murph     987346999  2  2 B   -     -     -         1060   10   15 
+Murph     987347002  2  1 Bf  -     -     -         1065    5    0 
+Murph     987347005  2  2 B   -     -     -         1060   10   15 
+Murph     987347011  2  1 Bc  k     k     kf        1065   10    0 
+Murph     987347048  3  2 Bk  k     k     k         1055   10    0 9d Kd
+Murph     987347084  3  1 Bc  k     b     -         1045   30   40 
+Murph     987347101  3  3 c   b     -     -         1055   20   40 
+Murph     987347121  3  2 Bf  -     -     -         1075   10    0 
+Murph     987347132  3  1 Bc  k     b     -         1065   30   40 
+Murph     987347146  3  3 c   f     -     -         1075   10    0 
+Murph     987347159  3  2 Bk  c     k     k         1065   20   60 5h Js
+Murph     987347190  4  1 Bc  kf    -     -         1105   10    0 
+Murph     987347209  3  3 c   k     f     -         1095   10    0 
+Murph     987347240  3  3 c   c     f     -         1085   20    0 
+Murph     987347255  3  2 Bk  kc    kc    kf        1065   40    0 
+Murph     987347287  3  1 Bf  -     -     -         1025    5    0 
+Murph     987347292  4  3 c   k     r     b         1020   70  180 
+Murph     987347339  5  3 cc  kf    -     -         1130   20    0 
+Murph     987347362  5  2 Bk  kc    k     k         1110   20   65 Qd 7s
+Murph     987347392  5  1 Bc  k     k     k         1155   10    0 3d 8h
+Murph     987347419  5  5 ccc c     c     c         1145  120    0 Tc Ts
+Murph     987347458  5  4 c   f     -     -         1025   10    0 
+Murph     987347487  5  3 fQ  -     -     -         1015    0    0 
+Murph     987349790 10  5 c   kc    c     c         1015   60    0 7h Tc
+Murph     987349841  9  3 c   bc    kc    k          955   60    0 Ts 4s
+Murph     987349888 10  3 f   -     -     -          895    0    0 
+Murph     987349914 10  2 Bk  kc    kf    -          895   20    0 
+Murph     987349950  9  1 Bc  k     kc    brc        875  110    0 9h Td
+Murph     987349989  8  8 f   -     -     -          765    0    0 
+Murph     987350012  9  8 f   -     -     -          765    0    0 
+Murph     987350068  8  6 c   b     cc    f          765   60    0 
+Murph     987350107  8  5 c   c     k     b          705   40    0 9c 9d
+Murph     987350141  8  4 f   -     -     -          665    0    0 
+Murph     987350168  8  3 f   -     -     -          665    0    0 
+Murph     987350236  7  1 Bk  b     b     kf         665   40    0 
+Murph     987350270  7  1 Bcc kf    -     -          625   20    0 
+Murph     987350301  8  8 c   c     k     k          605   20    0 5h 5d
+Murph     987350339  8  7 c   c     r     b          585  110  460 Kd Qd
+Murph     987350397  8  6 c   c     c     c          935   60    0 3d 5d
+Murph     987350440  8  5 c   kf    -     -          875   10    0 
+Murph     987350499  8  4 c   c     c     c          865   60    0 2c Kh
+Murph     987350528  8  3 ccc c     c     c          805   90    0 7d 9d
+Murph     987350577  8  2 Bc  cc    kc    kf         715   60    0 
+Murph     987350616  8  1 Br  b     b     kf         655   50    0 
+Murph     987350675  8  8 f   -     -     -          605    0    0 
+Murph     987350700  8  7 c   Q     -     -          605   10    0 
+Murph     987482050 10  7 c   c     c     c          994   60    0 As 8d
+Murph     987482097 10  6 c   k     k     f          934   10    0 
+Murph     987482175  9  4 c   kc    f     -          924   30    0 
+Murph     987482221  8  3 f   -     -     -          894    0    0 
+Murph     987482282  9  3 c   bc    k     k          894   30  135 Jd As
+Murph     987482329 10  2 Bk  k     kf    -          999   10    0 
+Murph     987482362  9  1 Bc  kc    kc    kc         989   70    0 2c 2s
+Murph     987482421  9  9 c   c     f     -          919   30    0 
+Murph     987482479  8  7 cc  bc    kc    kc         889   80  225 Ad 7d
+Murph     987482529  8  6 c   rc    c     c         1034   90    0 4d Ac
+Murph     987482578  9  5 f   -     -     -          944    0    0 
+Murph     987482643  9  4 c   cc    c     f          944   60    0 
+Murph     987482691  9  3 f   -     -     -          884    0    0 
+Murph     987482733  9  2 Bk  kcc   kc    kf         884   60    0 
+Murph     987482774  9  1 Bc  k     kf    -          824   10    0 
+Murph     987482821  9  9 c   c     c     f          814   90    0 
+Murph     987482890  9  8 r   r     rc    c          724  120    0 3c Ac
+Murph     987482967 10  7 f   -     -     -          604    0    0 
+Murph     987483024 10  6 fQ  -     -     -          604    0    0 
+Murph     987483884 10  3 Q   -     -     -          604    0    0 
+Murph     987531027  7  3 cc  b     k     f          926   30    0 
+Murph     987531075  7  2 Bc  kc    kf    -          896   30    0 
+Murph     987531146  7  1 Bc  kc    kf    -          866   20    0 
+Murph     987531213  7  7 f   -     -     -          846    0    0 
+Murph     987531251  7  6 f   Q     -     -          846    0    0 
+Murph     987535383  8  4 f   -     -     -          846    0    0 
+Murph     987535420  8  3 c   kc    kc    kf         846   40    0 
+Murph     987535503  8  2 Bk  kf    -     -          806   10    0 
+Murph     987535574  7  1 Bf  -     -     -          796    5    0 
+Murph     987535630  7  7 fQ  -     -     -          791    0    0 
+Murph     987577015 10  8 c   cc    kc    c          791   70    0 Qc Kc
+Murph     987577103  9  6 f   -     -     -          721    0    0 
+Murph     987577180 10  6 cc  c     c     r          721   90  320 4d Ah
+Murph     987577238  9  4 c   b     b     b          951   60    0 Td 9d
+Murph     987577311  9  3 f   -     -     -          891    0    0 
+Murph     987577386 10  2 Bk  kc    k     b          891   40    0 8h 9s
+Murph     987577439 10  1 Bf  Q     -     -          851    5    0 
+Murph     987661182 10  6 cc  cc    cc    f          816   80    0 
+Murph     987661308  8  4 cc  cc    kc    cc         736  140    0 9h Ts
+Murph     987661381  8  3 f   -     -     -          596    0    0 
+Murph     987661421  8  2 Bk  k     kc    kf         596   50    0 
+Murph     987661473  8  1 Brc kc    kc    kc         546   90  190 Kc Ac
+Murph     987661502  8  8 c   k     f     -          646   10    0 
+Murph     987661528  8  7 c   k     b     kr         636   70    0 9d 9c
+Murph     987661561  8  6 c   rrQ   -     -          566   50    0 
+Murph     987662971  8  3 cc  c     c     r          516   90  210 Jc Qs
+Murph     987663026  9  2 Bk  f     -     -          636   10    0 
+Murph     987663073  9  1 Bc  k     kf    -          626   10    0 
+Murph     987663108 10 10 f   -     -     -          616    0    0 
+Murph     987663188 10  9 f   -     -     -          616    0    0 
+Murph     987663215 10  8 c   k     c     f          616   30    0 
+Murph     987663259 10  7 f   -     -     -          586    0    0 
+Murph     987663325 10  6 f   -     -     -          586    0    0 
+Murph     987663353  9  5 c   b     b     cc         586  100    0 6h Ad
+Murph     987663399  9  3 Q   -     -     -          486    0    0 
+Murph     987692166  3  3 f   -     -     -          486    0    0 
+Murph     987692187  4  2 Br  bc    bc    kc         486  100    0 Ts As
+Murph     987692233  4  1 Br  b     -     -          386   30   50 
+Murph     987692245  4  4 c   f     -     -          406   10    0 
+Murph     987692260  4  3 f   -     -     -          396    0    0 
+Murph     987692297  4  2 Bf  -     -     -          396   10    0 
+Murph     987692331  5  1 Bc  kc    kc    kf         386   40    0 
+Murph     987692358  5  5 c   c     c     c          346   70    0 2c Ac
+Murph     987692388  5  4 f   -     -     -          276    0    0 
+Murph     987692445  5  3 c   k     kc    kf         276   30    0 
+Murph     987692496  6  2 Bk  c     c     k          246   40   90 3c 6s
+Murph     987692535  6  1 Bcc kcc   kc    kc         296  110    0 9h 4d
+Murph     987692587  7  7 c   c     k     f          186   20    0 
+Murph     987692637  7  6 c   c     c     c          166   60    0 3d Tc
+Murph     987692668  7  5 c   c     c     f          106   40    0 
+Murph     987692753  5  3 c   c     c     c           66   60    0 Td As
+Murph     987692790  4  2 BA  -     Q     -            6    6    0 
+Murph     987836432  5  2 Bc  kc    kc    kc         910   70  230 8c Kd
+Murph     987836461  5  1 Bc  kf    -     -         1070   20    0 
+Murph     987836526  6  5 cc  c     c     rc        1050  130  470 Qs Ks
+Murph     987836566  6  4 cc  kcc   kcc   kf        1390  140    0 
+Murph     987836619  6  3 c   k     kc    k         1250   30   85 Qd 2c
+Murph     987836658  6  2 Bk  k     c     k         1305   30   80 2c 6d
+Murph     987836688  6  1 Bc  k     k     b         1355   30   80 Qh 8c
+Murph     987836717  6  6 cc  f     -     -         1405   20    0 
+Murph     987836745  6  5 c   f     -     -         1385   20    0 
+Murph     987836791  6  4 f   -     -     -         1365    0    0 
+Murph     987836825  6  3 cc  ccc   ccc   cf        1365  160    0 
+Murph     987836872  6  2 Bk  f     -     -         1205   10    0 
+Murph     987836898  6  1 Bf  -     -     -         1195    5    0 
+Murph     987836906  6  6 r   rr    rc    rc        1190  190    0 Js As
+Murph     987836944  6  5 f   Q     -     -         1000    0    0 
+Murph     987870528  9  9 f   -     -     -         1000    0    0 
+Murph     987870555  9  8 f   -     -     -         1000    0    0 
+Murph     987870590  8  6 f   -     -     -         1000    0    0 
+Murph     987870630  8  5 c   Q     -     -         1000   20    0 
+Murph     987874529  7  7 c   c     f     -          980   20    0 
+Murph     987874578  8  6 cc  f     -     -          960   20    0 
+Murph     987874626  8  5 c   kc    kf    -          940   20    0 
+Murph     987874679  8  4 f   -     -     -          920    0    0 
+Murph     987874737  8  3 f   -     -     -          920    0    0 
+Murph     987874793  8  2 Bk  b     b     b          920   60  190 7c 9h
+Murph     987874833  8  1 Bc  kc    kc    kf        1050   40    0 
+Murph     987874876  8  8 c   b     k     b         1010   40  100 
+Murph     987874935  8  7 f   -     -     -         1070    0    0 
+Murph     987875005  8  6 cc  kc    kc    kf        1070   50    0 
+Murph     987875061 10  6 c   f     -     -         1020   20    0 
+Murph     987875091 10  5 c   k     b     -         1000   30   65 
+Murph     987875124 10  4 r   kc    kc    k         1035   70  260 7d As
+Murph     987875192 10  3 r   b     -     -         1225   30   80 
+Murph     987875222  9  2 Bk  k     k     kf        1275   10    0 
+Murph     987875266  9  1 Br  k     kc    kf        1265   40    0 
+Murph     987875314  8  8 f   -     -     -         1225    0    0 
+Murph     987875362  8  7 c   k     k     k         1225   10   35 Qd Qc
+Murph     987875412 10  7 f   -     -     -         1250    0    0 
+Murph     987875452 10  6 f   -     -     -         1250    0    0 
+Murph     987875507 10  5 f   -     -     -         1250    0    0 
+Murph     987875549 10  4 c   c     c     c         1250   90    0 9s 5s
+Murph     987875596 10  3 c   k     k     k         1160   10    0 Ad 3h
+Murph     987875647  9  2 Bf  -     -     -         1150   10    0 
+Murph     987875702  9  1 Bc  kc    kf    -         1140   20    0 
+Murph     987875745  9  9 f   -     -     -         1120    0    0 
+Murph     987875803  9  8 c   c     f     -         1120   30    0 
+Murph     987875839 10  7 f   -     -     -         1090    0    0 
+Murph     987875908 10  6 c   f     -     -         1090   10    0 
+Murph     987875971 10  5 c   c     c     c         1080   60    0 Ad 9c
+Murph     987876016 10  4 f   -     -     -         1020    0    0 
+Murph     987876071 10  3 f   -     -     -         1020    0    0 
+Murph     987876110 10  2 BQ  -     -     -         1020   10    0 
+Murph     987976899  9  7 c   c     bc    kc         690   90  300 Ad 9h
+Murph     987976951  9  6 c   kf    -     -          900   10    0 
+Murph     987976999  9  6 f   -     -     -          890    0    0 
+Murph     987977048  9  5 c   kf    -     -          890   10    0 
+Murph     987977076  9  4 f   -     -     -          880    0    0 
+Murph     987977102  9  3 c   b     b     b          880   60  115 
+Murph     987977133  9  2 Bk  k     f     -          935   10    0 
+Murph     987977201  8  1 Bc  kc    kc    kf         925   40    0 
+Murph     987977269  9  8 c   c     f     -          885   20    0 
+Murph     987977367  9  7 c   c     k     c          865   40    0 Qs 3h
+Murph     987977461  8  7 c   c     c     c          825   80    0 Qc Kd
+Murph     987977518  7  5 f   -     -     -          745    0    0 
+Murph     987977547  7  4 f   -     -     -          745    0    0 
+Murph     987977577  7  3 c   r     c     c          745   70  175 Js Ac
+Murph     987977607  7  2 Bf  -     -     -          850   10    0 
+Murph     987977680  7  1 Bcc kr    b     b          840   90  350 9s Kd
+Murph     987977738  7  7 r   Q     -     -         1100   20    0 
+Murph     988003072  8  3 cc  cc    cf    -         1080   60    0 
+Murph     988003117  8  2 Bk  kc    kc    kf        1020   40    0 
+Murph     988003192  7  1 Bc  kc    k     k          980   30    0 Qd Ts
+Murph     988003233  7  7 f   -     -     -          950    0    0 
+Murph     988003253  7  6 c   r     k     k          950   30   80 8c Ad
+Murph     988003271  7  5 cc  kc    kc    kc        1000   70    0 Ts 8h
+Murph     988003338  7  4 c   b     k     b          930   40   75 
+Murph     988003360  7  3 f   -     -     -          965    0    0 
+Murph     988003379  7  2 Bc  f     -     -          965   20    0 
+Murph     988003421  7  1 Bc  kc    kc    kf         945   50    0 
+Murph     988003463  7  7 f   -     -     -          895    0    0 
+Murph     988003474  7  6 r   -     -     -          895   20   35 
+Murph     988003483  7  5 r   b     b     -          910   50   90 
+Murph     988003503  8  4 rc  r     r     r          950  140  295 6c Ah
+Murph     988003531  9  3 f   -     -     -         1105    0    0 
+Murph     988003566  9  2 Bk  kcc   krc   kf        1105  100    0 
+Murph     988003620  9  1 Bc  b     -     -         1005   20   50 
+Murph     988003677  9  8 c   b     b     k         1035   40   85 Ah 3d
+Murph     988003722  9  7 c   k     c     k         1080   30    0 6c Kc
+Murph     988003746  9  6 c   b     r     k         1050   60    0 Tc Jc
+Murph     988003809  9  5 c   k     bc    k          990   50    0 Qh 6h
+Murph     988003890  9  4 f   -     -     -          940    0    0 
+Murph     988003909  9  3 c   c     c     f          940   40    0 
+Murph     988003945  9  2 Bk  c     k     rc         900   80    0 5c 3s
+Murph     988003984  9  1 Bc  kcc   kc    br         820  130  460 Kh Tc
+Murph     988004058  9  9 c   c     r     b         1150   80  220 Tc Jc
+Murph     988004105  9  8 r   rr    r     b         1290  130  305 As Ad
+Murph     988004160  9  7 c   c     f     -         1465   20    0 
+Murph     988004205  9  6 f   -     -     -         1445    0    0 
+Murph     988004262  9  5 c   b     c     c         1445   60    0 3s Kc
+Murph     988004308 10  5 f   -     -     -         1385    0    0 
+Murph     988004389  9  3 f   -     -     -         1385    0    0 
+Murph     988004441 10  3 f   -     -     -         1385    0    0 
+Murph     988004512 10  2 Bk  kf    -     -         1385   10    0 
+Murph     988004575 10  1 Bf  -     -     -         1375    5    0 
+Murph     988004612 10 10 c   f     -     -         1370   10    0 
+Murph     988004667 10  9 c   rc    k     c         1360   60    0 9s 5s
+Murph     988004761  9  7 c   k     c     f         1300   30    0 
+Murph     988004844 10  7 f   -     -     -         1270    0    0 
+Murph     988004884 10  6 c   c     k     f         1270   30    0 
+Murph     988004974 10  5 cc  b     k     k         1240   30    0 2d 3d
+Murph     988005015 10  4 cc  kc    f     -         1210   40    0 
+Murph     988005080 10  3 c   b     bc    kc        1170   80    0 Ks Td
+Murph     988005139 10  2 Bk  k     k     b         1090   30   70 
+Murph     988005215 10  1 Br  b     b     b         1130   70  160 Qs Qh
+Murph     988005265 10 10 c   r     c     b         1220   70  205 Kc Tc
+Murph     988005335 10  9 f   -     -     -         1355    0    0 
+Murph     988005376 10  8 f   -     -     -         1355    0    0 
+Murph     988005482 10  7 c   c     b     k         1355   40  125 Jh 8h
+Murph     988005560 10  6 f   -     -     -         1440    0    0 
+Murph     988005598  9  4 f   -     -     -         1440    0    0 
+Murph     988005611  9  3 c   k     f     -         1440   10    0 
+Murph     988005648  9  2 Bk  k     k     b         1430   30   80 Ah Qc
+Murph     988005685  9  1 Bc  kc    k     k         1480   30   80 Td Js
+Murph     988005720  9  5 Q   -     -     -         1530    0    0 
+Murph     988006723  9  4 f   -     -     -         1530    0    0 
+Murph     988006764  9  3 f   -     -     -         1530    0    0 
+Murph     988006796  9  2 Bk  kf    -     -         1530   10    0 
+Murph     988006852  9  1 Bf  -     -     -         1520    5    0 
+Murph     988006888  9  9 f   -     -     -         1515    0    0 
+Murph     988006921  9  8 f   -     -     -         1515    0    0 
+Murph     988006985  8  7 f   -     -     -         1515    0    0 
+Murph     988007034  8  6 f   -     -     -         1515    0    0 
+Murph     988007089  9  5 rc  kc    kc    k         1515   60  135 Ac Tc
+Murph     988007119  9  4 c   kc    kf    -         1590   20    0 
+Murph     988007158  9  3 cc  kc    kc    kf        1570   50    0 
+Murph     988007213  9  2 Bk  kc    kc    kc        1520   60    0 Ks 7h
+Murph     988007257  9  1 Bc  kc    kc    k         1460   50  160 Kd 7c
+Murph     988007309  9  9 f   -     -     -         1570    0    0 
+Murph     988007360  9  8 c   k     c     f         1570   30    0 
+Murph     988007412  9  7 c   cc    c     k         1540   70    0 5s Ts
+Murph     988007479 10  6 f   -     -     -         1470    0    0 
+Murph     988007532 10  5 c   bc    kc    b         1470   70  160 Qh Ts
+Murph     988007590 10  4 f   -     -     -         1560    0    0 
+Murph     988007623 10  3 f   -     -     -         1560    0    0 
+Murph     988007699 10  2 Bk  k     k     b         1560   30   50 
+Murph     988007733  9  1 Bc  kf    -     -         1580   20    0 
+Murph     988007782  8  8 f   -     -     -         1560    0    0 
+Murph     988007845  8  7 c   kc    k     k         1560   20   65 As Jd
+Murph     988007884  9  6 c   k     k     f         1605   10    0 
+Murph     988007957 10  5 c   k     k     f         1595   10    0 
+Murph     988008005 10  4 f   -     -     -         1585    0    0 
+Murph     988008045 10  3 f   -     -     -         1585    0    0 
+Murph     988008100 10  2 Bk  k     k     k         1585   10    0 7h Jc
+Murph     988008141 10  1 Bc  bc    k     kc        1575   50  110 As 6c
+Murph     988008190 10 10 r   b     b     -         1635   50  135 
+Murph     988008285 10  9 c   cc    c     f         1720   60    0 
+Murph     988008331 10  8 f   -     -     -         1660    0    0 
+Murph     988008413 10  7 f   -     -     -         1660    0    0 
+Murph     988008451 10  6 f   -     -     -         1660    0    0 
+Murph     988008469 10  5 f   -     -     -         1660    0    0 
+Murph     988008535 10  4 f   -     -     -         1660    0    0 
+Murph     988008579 10  3 c   kc    kc    k         1660   40    0 Ah Td
+Murph     988008639 10  2 Bk  b     -     -         1620   20   30 
+Murph     988008662 10  1 Bf  Q     -     -         1630    5    0 
+Murph     988009038  8  6 f   -     -     -         1625    0    0 
+Murph     988009077  8  5 c   kc    c     r         1625   90  260 Kh 6s
+Murph     988009121  8  4 c   kc    k     k         1795   30    0 7d 8s
+Murph     988009205  7  2 Bk  kf    -     -         1765   10    0 
+Murph     988009239  7  1 Bc  kf    -     -         1755   10    0 
+Murph     988009264  7  6 Q   -     -     -         1745    0    0 
+Murph     988031869  3  3 c   k     k     b         1745   30   45 
+Murph     988031907  2  2 Bk  f     -     -         1760   10    0 
+Murph     988031922  2  1 Br  b     bc    k         1750   70    0 As 2d
+Murph     988031945  2  2 Bk  b     b     k         1680   40    0 3c 8c
+Murph     988031968  2  1 Bf  -     -     -         1640    5    0 
+Murph     988031974  2  2 Bk  k     k     k         1635   10    0 9d 2s
+Murph     988032014  2  1 Br  -     -     -         1625   20   30 
+Murph     988032021  2  2 B   -     -     -         1635   10   15 
+Murph     988032025  2  1 Bc  kf    -     -         1640   10    0 
+Murph     988032041  3  2 Brc rc    c     kf        1630   80    0 
+Murph     988032079  3  1 Bc  kf    -     -         1550   10    0 
+Murph     988032098  3  3 f   -     -     -         1540    0    0 
+Murph     988032114  3  2 B   -     -     -         1540   10   15 
+Murph     988032120  3  1 Bc  kf    -     -         1545   10    0 
+Murph     988032134  3  3 f   -     -     -         1535    0    0 
+Murph     988032154  3  2 Bk  kc    kc    kf        1535   40    0 
+Murph     988032178  3  1 Bc  kc    kc    kc        1495   70  160 Kc 8d
+Murph     988032210  3  3 f   -     -     -         1585    0    0 
+Murph     988032215  2  1 Bk  k     k     k         1585   10    0 2c 8s
+Murph     988032233  2  1 Bc  kf    -     -         1575   10    0 
+Murph     988032247  2  2 Bk  b     -     -         1565   20   30 
+Murph     988032255  2  1 Br  b     b     k         1575   50    0 5s Jc
+Murph     988032281  2  2 Br  b     k     k         1525   30    0 Qc 2c
+Murph     988032306  2  1 Bf  -     -     -         1495    5    0 
+Murph     988032311  2  2 Bk  b     b     -         1490   40   60 
+Murph     988032328  3  1 Br  b     b     k         1510   50  110 Kd 7s
+Murph     988032349  3  3 r   b     b     k         1570   50    0 Qh Jc
+Murph     988032376  3  2 Bk  c     f     -         1520   20    0 
+Murph     988032401  3  1 Bf  -     -     -         1500    5    0 
+Murph     988032412  3  3 c   b     b     rr        1495  120  280 7s Qc
+Murph     988032442  3  2 Br  k     k     k         1655   20    0 Qs Jd
+Murph     988032474  3  1 Bf  -     -     -         1635    5    0 
+Murph     988032480  3  3 r   b     b     bc        1630   90    0 Th Ah
+Murph     988032508  4  2 Bk  c     r     b         1540   80    0 8c 7d
+Murph     988032548  4  1 Bf  -     -     -         1460    5    0 
+Murph     988032586  5  5 f   -     -     -         1455    0    0 
+Murph     988032605  5  4 c   f     -     -         1455   10    0 
+Murph     988032639  5  3 r   k     b     k         1445   40    0 9s As
+Murph     988032671  5  2 Bk  f     -     -         1405   10    0 
+Murph     988032684  5  1 Bf  -     -     -         1395    5    0 
+Murph     988032738  5  5 f   -     -     -         1390    0    0 
+Murph     988032773  5  4 f   -     -     -         1390    0    0 
+Murph     988032802  6  3 f   -     -     -         1390    0    0 
+Murph     988032826  6  2 Bk  k     f     -         1390   10    0 
+Murph     988032865  6  1 Bc  kc    kc    kc        1380   60    0 8c Ad
+Murph     988032894  6  6 c   c     rc    c         1320  100    0 Ad Ks
+Murph     988032939  6  5 r   br    b     b         1220   90    0 Ah 3c
+Murph     988032975  5  3 r   br    b     b         1130   90  180 
+Murph     988033011  5  2 Br  b     b     b         1220   70  140 Qs Ah
+Murph     988033029  5  1 Bf  -     -     -         1290    5    0 
+Murph     988033061  6  6 c   c     c     c         1285   60    0 Qd 8h
+Murph     988033097  7  6 f   -     Q     -         1225    0    0 
+Murph     988036559 10  6 cc  kc    kc    bc        1225   90    0 Ts Ah
+Murph     988036695 10  5 f   -     -     -         1135    0    0 
+Murph     988036790 10  4 f   -     -     -         1135    0    0 
+Murph     988036850 10  3 c   kQ    -     -         1135   10    0 
+Murph     988038193 10  9 c   c     c     r         1125   90  225 Kh Tc
+Murph     988038238 10  8 c   r     c     c         1260   70    0 7c Ad
+Murph     988038298 10  7 f   -     -     -         1190    0    0 
+Murph     988038336 10  6 cc  c     f     -         1190   40    0 
+Murph     988038376 10  5 c   b     -     -         1150   20   50 
+Murph     988038408  9  3 f   -     -     -         1180    0    0 
+Murph     988038456  9  2 Bc  c     c     c         1180   80    0 Kd 4d
+Murph     988038485  9  1 Bf  -     -     -         1100    5    0 
+Murph     988038522  9  9 c   c     c     k         1095   50  150 8s 8d
+Murph     988038561  9  8 f   -     -     -         1195    0    0 
+Murph     988038619 10  8 c   c     f     -         1195   20    0 
+Murph     988038692 10  7 f   -     -     -         1175    0    0 
+Murph     988038758 10  6 c   c     f     -         1175   30    0 
+Murph     988038798 10  5 f   -     -     -         1145    0    0 
+Murph     988038877  9  3 f   -     -     -         1145    0    0 
+Murph     988038900  9  3 f   -     -     -         1145    0    0 
+Murph     988038943  9  2 Bk  k     c     k         1145   30    0 Ts 6h
+Murph     988038986  9  1 Bf  -     -     -         1115    5    0 
+Murph     988039043  9  9 c   c     c     b         1110   60  220 7c Kc
+Murph     988039144  8  7 f   -     -     -         1270    0    0 
+Murph     988039200  8  3 Q   -     -     -         1270    0    0 
+Murph     988084550  9  2 Bk  k     kf    -         1005   10    0 
+Murph     988084612 10  1 Bc  k     kf    -          995   20    0 
+Murph     988084656 10 10 c   c     c     b          975   70    0 5d Ac
+Murph     988084739 10  9 cc  c     f     -          905   30    0 
+Murph     988084829 10  8 c   c     k     c          875   70    0 Ah 9h
+Murph     988084892 10  7 c   b     b     k          805   50  180 Qh Kd
+Murph     988084986 10  6 c   r     k     k          935   30  150 5c Jc
+Murph     988085052 10  5 rc  kcc   cc    bcc       1055  200    0 2s As
+Murph     988085178 10  4 f   -     -     -          855    0    0 
+Murph     988085269  9  3 f   -     -     -          855    0    0 
+Murph     988085342  8  2 Bc  k     rc    rr         855  160  380 Tc Td
+Murph     988085402  7  1 Br  br    b     b         1075   90  250 Ah Ad
+Murph     988085481  6  6 fQ  -     -     -         1235    0    0 
+Murph     988092639  3  3 c   -     -     -         1150   10   25 
+Murph     988092801  2  1 Bk  k     k     k         1165   10    0 5h 3d
+Murph     988092826  3  1 Bc  kc    kc    k         1155   40   90 Ah 7h
+Murph     988092857  3  3 c   c     c     k         1205   40    0 Ad 8s
+Murph     988092877  3  2 Bk  k     k     f         1165   10    0 
+Murph     988092897  3  1 Bc  kf    -     -         1155   10    0 
+Murph     988092907  3  3 cc  c     f     -         1145   30    0 
+Murph     988092925  3  2 Bcc f     -     -         1115   40    0 
+Murph     988092954  4  1 Bc  bc    k     k         1075   40    0 6d 6c
+Murph     988092977  4  4 cc  f     -     -         1035   20    0 
+Murph     988092998  4  3 f   -     -     -         1015    0    0 
+Murph     988093027  4  2 Bcc kc    kc    k         1015   70    0 8s 8d
+Murph     988093071  4  1 Bc  kf    -     -          945   10    0 
+Murph     988093095  4  4 f   -     -     -          935    0    0 
+Murph     988093125  4  3 c   cc    kc    k          935   50    0 9s 7s
+Murph     988093166  4  2 Bf  -     -     -          885   10    0 
+Murph     988093191  4  1 BQ  -     -     -          875    5    0 
+Murph     988093908  4  4 c   k     k     b          870   30   50 
+Murph     988093937  4  3 f   -     -     -          890    0    0 
+Murph     988093957  4  2 B   -     -     -          890   10   15 
+Murph     988093967  4  1 Bc  kf    -     -          895   10    0 
+Murph     988093979  4  4 f   -     -     -          885    0    0 
+Murph     988094000  4  3 f   -     -     -          885    0    0 
+Murph     988094010  4  2 Bf  -     -     -          885   10    0 
+Murph     988094016  4  1 Bc  kc    k     kc         875   50  130 6d Ad
+Murph     988094046  4  4 f   -     -     -          955    0    0 
+Murph     988094062  4  3 cc  c     k     c          955   50    0 Qd 8h
+Murph     988094083  4  2 Bf  -     -     -          905   10    0 
+Murph     988094095  4  1 Bc  kf    -     -          895   20    0 
+Murph     988094104  4  4 f   -     -     -          875    0    0 
+Murph     988094107  4  3 f   -     -     -          875    0    0 
+Murph     988094123  4  2 Bc  b     c     k          875   50  100 Th Ts
+Murph     988094145  4  1 Bc  k     b     b          925   60  180 Qd 7s
+Murph     988094184  4  4 c   k     k     c         1045   30    0 Ad 7h
+Murph     988094206  4  3 f   -     -     -         1015    0    0 
+Murph     988094224  4  2 Bf  -     -     -         1015   10    0 
+Murph     988094230  4  1 Bf  -     -     -         1005    5    0 
+Murph     988094257  4  4 f   -     -     -         1000    0    0 
+Murph     988094291  4  3 c   b     b     b         1000   60  115 
+Murph     988094340  4  2 B   -     -     -         1055   10   15 
+Murph     988094345  4  1 Br  -     -     -         1060   20   30 
+Murph     988094349  4  4 r   bc    b     -         1070   60  125 
+Murph     988094375  4  3 r   -     -     -         1135   20   35 
+Murph     988094382  4  2 Bc  c     c     b         1150   70  170 3c Kc
+Murph     988094419  4  1 Bc  kf    -     -         1250   20    0 
+Murph     988094447  4  4 f   -     -     -         1230    0    0 
+Murph     988094455  4  3 rc  k     kc    kf        1230   60    0 
+Murph     988094489  4  2 Br  bc    k     kc        1170   60    0 3s 3h
+Murph     988094519  4  1 Bc  kc    kc    k         1110   50    0 7d As
+Murph     988094544  4  4 c   k     k     b         1060   40   90 
+Murph     988094573  4  3 c   c     c     k         1110   40    0 Ks 2h
+Murph     988094595  4  2 Bk  b     b     -         1070   40   60 
+Murph     988094616  4  1 Bc  kc    k     k         1090   30  100 Ad 6h
+Murph     988094645  4  4 f   -     -     -         1160    0    0 
+Murph     988094664  5  3 c   f     -     -         1160   10    0 
+Murph     988094686  5  2 Bf  -     -     -         1150   10    0 
+Murph     988094711  5  1 Bf  -     -     -         1140    5    0 
+Murph     988094748  4  4 f   -     -     -         1135    0    0 
+Murph     988094774  4  3 r   -     -     -         1135   20   35 
+Murph     988094780  4  2 Bc  kc    f     -         1150   40    0 
+Murph     988094838  4  1 Bf  -     -     -         1110    5    0 
+Murph     988094874  4  3 Q   -     -     -         1105    0    0 
+Murph     988134655 10  8 f   -     -     -         1105    0    0 
+Murph     988134770 10  7 c   b     -     -         1105   20   35 
+Murph     988134812  9  5 cc  kf    -     -         1120   20    0 
+Murph     988134891 10  4 f   -     -     Q         1100    0    0 
+Murph     988203813  2  2 Bc  k     bc    k         1100   60   60 8c Kd
+Murph     988203836  2  1 Br  b     b     -         1100   50   80 
+Murph     988203848  2  2 B   -     -     -         1130   10   15 
+Murph     988203850  2  1 Bc  k     k     k         1135   10   20 4s 6s
+Murph     988203861  2  2 Bk  c     c     f         1145   40    0 
+Murph     988203883  2  1 Bf  -     -     -         1105    5    0 
+Murph     988203887  2  2 Bk  c     k     k         1100   20   20 5h 2c
+Murph     988203915  2  1 Bc  k     k     kc        1100   30   60 9h 7c
+Murph     988203933  2  2 Bk  k     k     b         1130   30   40 
+Murph     988203953  2  1 Br  k     k     kf        1140   20    0 
+Murph     988203985  2  2 Bf  -     -     -         1120   10    0 
+Murph     988203991  2  1 Bc  kf    -     -         1110   10    0 
+Murph     988203998  2  2 Bk  k     b     b         1100   50   80 
+Murph     988204011  2  1 Bc  k     b     -         1130   30   40 
+Murph     988204019  2  2 Br  k     k     k         1140   20   40 2h As
+Murph     988204034  2  1 Bc  k     k     b         1160   30   40 
+Murph     988204047  3  2 Bcc c     f     -         1170   50    0 
+Murph     988204068  3  1 Bcc bcc   kcc   b         1120  180  540 Qs Ts
+Murph     988204112  3  3 c   f     -     -         1480   10    0 
+Murph     988204136  3  2 Bcc kc    kc    kf        1470   70    0 
+Murph     988204194  3  1 Bcc k     kcc   bc        1400  120  360 9h Td
+Murph     988204231  3  3 c   k     c     c         1640   50   65 Ks 9d
+Murph     988204266  3  2 Bf  -     -     -         1655   10    0 
+Murph     988204284  3  1 Bc  k     b     -         1645   30   40 
+Murph     988204301  3  3 f   -     -     -         1655    0    0 
+Murph     988204329  3  2 Bk  k     b     -         1655   30   50 
+Murph     988204352  2  1 Bc  kc    bc    kc        1675   80  160 3s 9c
+Murph     988204376  2  2 Bk  f     -     -         1755   10    0 
+Murph     988204385  2  1 Bc  k     kf    -         1745   10    0 
+Murph     988204400  2  2 Bk  c     c     f         1735   40    0 
+Murph     988204418  2  1 Bc  kc    kc    kc        1695   60  120 3h Ts
+Murph     988204438  2  2 Bf  -     -     -         1755   10    0 
+Murph     988204444  2  1 Bc  k     -     -         1745   10   20 
+Murph     988262472  8  8 c   c     c     c         1755   70  200 Tc Kd
+Murph     988262519  9  9 c   b     -     -         1885   20   35 
+Murph     988262540  8  7 c   c     f     -         1900   20    0 
+Murph     988262603  9  6 c   k     k     k         1880   10   23 6s Ah
+Murph     988262649  9  5 cc  r     b     b         1893   80    0 9s 8c
+Murph     988262722  6  2 cc  kQ    -     -         1813   20    0 
+Murph     988263482 10  5 c   kc    kf    -         1793   20    0 
+Murph     988263518 10  4 cc  f     -     -         1773   20    0 
+Murph     988263586 10  3 f   -     -     -         1753    0    0 
+Murph     988263631 10  2 Bk  kf    -     -         1753   10    0 
+Murph     988263687 10  1 Bc  kc    kc    k         1743   50    0 Jc Qs
+Murph     988263752 10 10 r   r     b     b         1693   80  225 Ac Qd
+Murph     988263800 10  9 c   c     k     k         1838   30    0 2h 3h
+Murph     988263860 10  8 f   -     -     -         1808    0    0 
+Murph     988263924 10  7 c   c     c     r         1808  110  370 2s 4s
+Murph     988263994 10  6 cc  c     c     b         2068   70  270 Js Td
+Murph     988264087 10  5 c   cc    cf    -         2268   50    0 
+Murph     988264170 10  4 f   -     -     -         2218    0    0 
+Murph     988264221 10  3 f   -     -     -         2218    0    0 
+Murph     988264259 10  2 Bc  f     -     -         2218   20    0 
+Murph     988264311 10  1 Bc  bcc   kc    kf        2198   70    0 
+Murph     988264406 10 10 c   f     -     -         2128   10    0 
+Murph     988264458 10  9 c   c     c     b         2118   60  155 Th Qs
+Murph     988264504 10  8 f   -     -     -         2213    0    0 
+Murph     988264550 10  7 f   -     -     -         2213    0    0 
+Murph     988264604 10  6 f   -     -     -         2213    0    0 
+Murph     988264701 10  5 c   c     f     -         2213   30    0 
+Murph     988264768 10  4 cc  cc    kc    kc        2183   80  265 Qs Ac
+Murph     988264848  9  2 Bc  kf    -     -         2368   20    0 
+Murph     988264912  9  1 Bc  k     kc    b         2348   50  100 
+Murph     988264975  9  9 f   -     -     -         2398    0    0 
+Murph     988264998  9  8 cf  -     -     -         2398   10    0 
+Murph     988265050  8  6 f   -     -     -         2388    0    0 
+Murph     988265124  9  5 Q   -     -     -         2388    0    0 
+Murph     988291316  8  8 f   -     -     -         2388    0    0 
+Murph     988291353  8  7 f   -     -     -         2388    0    0 
+Murph     988291388  7  5 c   k     f     -         2388   10    0 
+Murph     988291418  7  4 c   c     k     k         2378   20    0 Ts 5s
+Murph     988291449  6  2 Bk  k     k     kf        2358   10    0 
+Murph     988291494  6  1 Bc  b     k     kc        2348   40    0 8c Ts
+Murph     988291534  6  6 f   -     -     -         2308    0    0 
+Murph     988291573  5  4 c   c     c     r         2308   80  160 9c Ts
+Murph     988291630  5  3 f   -     -     -         2388    0    0 
+Murph     988291660  5  2 Bk  kf    -     -         2388   10    0 
+Murph     988291692  5  1 BQ  -     -     -         2378    5    0 
+Murph     988295933  2  2 c   k     k     b         2373   30   40 
+Murph     988295956  2  2 B   -     -     -         2383   10   15 
+Murph     988295959  2  1 Bc  k     b     -         2388   30   40 
+Murph     988295967  2  2 Bk  k     k     k         2398   10   20 2c 5d
+Murph     988295986  2  1 Bc  k     k     k         2408   10    0 Ts 7s
+Murph     988296006  2  2 Bk  k     k     k         2398   10   20 3d 9d
+Murph     988296025  2  1 Bc  k     kc    kc        2408   50  100 Jh 4c
+Murph     988296055  3  2 Bk  k     k     b         2458   30   40 
+Murph     988296078  3  1 Bcc kc    kc    kf        2468   50    0 
+Murph     988296103  4  4 c   k     c     k         2418   30   65 Ah Jc
+Murph     988296119  4  3 f   -     -     -         2453    0    0 
+Murph     988296129  4  2 Bk  c     b     k         2453   40  100 Ah 4s
+Murph     988296159  5  1 Bc  kc    kc    kc        2513   60  140 3s Qs
+Murph     988296192  5  5 f   -     -     -         2593    0    0 
+Murph     988296204  5  4 cc  kf    -     -         2593   20    0 
+Murph     988296221  5  3 c   k     k     c         2573   30    0 6h Ac
+Murph     988296247  5  2 Bk  k     k     b         2543   30   45 
+Murph     988296266  5  1 Bc  b     b     -         2558   40   70 
+Murph     988296282  5  5 f   -     -     -         2588    0    0 
+Murph     988296297  5  4 cc  k     k     k         2588   20    0 5c Qs
+Murph     988296330  5  3 c   k     kc    kc        2568   50    0 5h Qc
+Murph     988296359  5  2 Bk  k     k     b         2518   30   50 
+Murph     988296393  5  1 Bcc kc    kc    kf        2538   50    0 
+Murph     988296422  5  5 f   -     -     -         2488    0    0 
+Murph     988296452  5  3 Q   -     -     -         2488    0    0 
+Murph     988345529  8  2 Bf  -     -     -         2488   10    0 
+Murph     988345575  8  1 Bf  -     -     -         2478    5    0 
+Murph     988345629  9  9 c   f     -     -         2473   10    0 
+Murph     988345662  8  8 f   -     -     -         2463    0    0 
+Murph     988345757  9  7 c   k     f     -         2463   10    0 
+Murph     988345846  9  6 cc  f     -     -         2453   20    0 
+Murph     988345902  9  5 f   -     -     -         2433    0    0 
+Murph     988345990  9  4 f   -     -     -         2433    0    0 
+Murph     988346057 10  3 c   k     kf    -         2433   10    0 
+Murph     988346124 10  2 Bc  kr    kc    k         2423   60  145 Th Qs
+Murph     988346181 10  1 Bf  -     -     -         2508    5    0 
+Murph     988346250 10 10 cc  f     -     -         2503   20    0 
+Murph     988346320  9  8 c   c     c     cc        2483   80    0 Qc 2s
+Murph     988346387  8  6 f   -     -     -         2403    0    0 
+Murph     988346443  8  5 c   f     -     -         2403   10    0 
+Murph     988346520  8  4 c   c     b     c         2393   60    0 Th Ac
+Murph     988346583  8  3 Q   -     -     -         2333    0    0 
+Murph     988349691  9  8 c   k     b     -         2333   30   50 
+Murph     988349740 10  7 c   k     k     f         2353   10    0 
+Murph     988349835 10  6 c   k     b     b         2343   60  165 Js Jc
+Murph     988349918 10  5 c   k     kc    kc        2448   50    0 9d 6d
+Murph     988350023 10  4 cc  kf    -     -         2398   20    0 
+Murph     988350114  7  2 Bc  kf    -     -         2378   20    0 
+Murph     988350132  7  1 Bc  kc    kf    -         2358   30    0 
+Murph     988350165  7  7 c   f     -     -         2328   20    0 
+Murph     988350224  8  7 f   -     -     -         2308    0    0 
+Murph     988350262  8  6 c   c     c     f         2308   60    0 
+Murph     988350335  9  6 c   c     cc    f         2248   60    0 
+Murph     988350415  9  5 cc  c     f     -         2188   40    0 
+Murph     988350482  9  4 f   Q     -     -         2148    0    0 
+Murph     988430021  9  7 c   c     f     -         2158   20    0 
+Murph     988430070  9  6 f   -     -     -         2138    0    0 
+Murph     988430141  9  5 cc  f     Q     -         2138   20    0 
+Murph     988512798 10  5 c   c     c     f         2118   40    0 
+Murph     988512936 10  4 c   cc    c     f         2078   50    0 
+Murph     988513007 10  3 c   kf    -     -         2028   10    0 
+Murph     988513082 10  2 Bk  k     b     -         2018   30   65 
+Murph     988513184 10  1 Bc  b     kc    kc        2053   60  200 Jd 7d
+Murph     988513240 10 10 c   c     k     f         2193   20    0 
+Murph     988513315 10  9 c   c     c     f         2173   40    0 
+Murph     988513384 10  8 c   c     k     b         2133   40  125 Kh 9h
+Murph     988513489 10  7 f   -     -     -         2218    0    0 
+Murph     988513528 10  6 cc  kc    kc    kf        2218   50    0 
+Murph     988513596 10  5 f   -     -     -         2168    0    0 
+Murph     988513655 10  4 c   k     c     f         2168   30    0 
+Murph     988513722 10  3 f   -     -     -         2138    0    0 
+Murph     988513755 10  2 Bc  kf    -     -         2138   20    0 
+Murph     988513815 10  1 Bc  kf    -     -         2118   20    0 
+Murph     988513896 10 10 c   f     -     -         2098   10    0 
+Murph     988513969 10  9 c   c     f     -         2088   20    0 
+Murph     988514015 10  8 c   br    b     b         2068   80  245 Jh 8h
+Murph     988514099 10  7 c   c     f     -         2233   20    0 
+Murph     988514168 10  6 f   -     -     -         2213    0    0 
+Murph     988514231 10  5 c   kf    -     -         2213   10    0 
+Murph     988514297 10  4 c   b     b     k         2203   40    0 Th Qc
+Murph     988514354 10  3 c   c     c     b         2163   60  230 Jc Kc
+Murph     988514417 10  2 Bf  -     -     -         2333   10    0 
+Murph     988514496 10  1 Bcc k     k     k         2323   20   80 3s Jd
+Murph     988514558 10 10 r   r     r     b         2383  110  235 As Ad
+Murph     988514619 10  9 c   b     c     k         2508   40    0 Js 9s
+Murph     988514673 10  8 c   k     c     c         2468   50    0 Jc 8c
+Murph     988514755 10  7 c   kc    kc    kc        2418   60    0 Jh As
+Murph     988514813 10  6 c   c     c     c         2358   80    0 8d Kd
+Murph     988514906 10  5 cc  ccc   cc    kf        2278  110    0 
+Murph     988514993 10  4 c   c     f     -         2168   20    0 
+Murph     988515067 10  3 c   b     b     k         2148   40    0 As 9d
+Murph     988515127 10  2 Bc  bc    b     brc       2108  140  305 Qs 6c
+Murph     988515179 10  1 Bc  kf    -     -         2273   10    0 
+Murph     988515219 10 10 f   -     -     -         2263    0    0 
+Murph     988515281 10  9 f   -     -     -         2263    0    0 
+Murph     988515343 10  8 c   kc    kf    -         2263   20    0 
+Murph     988515421 10  7 cQ  -     -     -         2243   10    0 
+Murph     988521906 10  5 KQ  -     -     -         2163    0    0 
+Murph     988558780 10  4 cc  cf    -     -         2163   30    0 
+Murph     988558849 10  3 f   -     -     -         2133    0    0 
+Murph     988558901 10  2 Bc  kc    kf    -         2133   50    0 
+Murph     988558996 10  1 Bf  -     -     -         2083    5    0 
+Murph     988559052 10 10 c   c     f     -         2078   30    0 
+Murph     988559104 10  9 c   f     -     -         2048   10    0 
+Murph     988559173 10  8 f   -     -     -         2038    0    0 
+Murph     988559255 10  7 c   c     f     -         2038   20    0 
+Murph     988559313 10  6 f   -     -     -         2018    0    0 
+Murph     988559383 10  5 c   kc    kc    kc        2018   60    0 Kh Ts
+Murph     988559438 10  4 f   -     -     -         1958    0    0 
+Murph     988559522 10  3 c   cf    -     -         1958   20    0 
+Murph     988559664 10  2 Bk  f     -     -         1938   10    0 
+Murph     988559725 10  1 Bc  kc    b     k         1928   40  120 7h Ks
+Murph     988559772 10 10 c   r     r     b         2008  100  315 Ad Qd
+Murph     988559826 10  9 c   f     -     -         2223   10    0 
+Murph     988559891 10  8 c   k     c     k         2213   30    0 Td 2d
+Murph     988559951  9  6 f   -     -     -         2183    0    0 
+Murph     988559984  9  6 fQ  -     -     -         2183    0    0 
+Murph     988563706 10  6 c   k     f     -         2183   10    0 
+Murph     988563793 10  5 c   bf    -     -         2173   20    0 
+Murph     988563887 10  4 f   -     -     -         2153    0    0 
+Murph     988563977 10  3 f   Q     -     -         2153    0    0 

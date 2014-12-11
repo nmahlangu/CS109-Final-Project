@@ -1,0 +1,442 @@
+dogwood   988059082 10  4 f   -     -     -         1000    0    0 
+dogwood   988059188  7  1 Bf  -     -     -         1000   10    0 
+dogwood   988059223  8  1 Bc  kf    -     -          990   10    0 
+dogwood   988059310  8  8 r   b     b     k          980   50  160 Qs Ah
+dogwood   988059358  7  7 f   -     -     -         1090    0    0 
+dogwood   988059407  7  6 f   -     -     -         1090    0    0 
+dogwood   988059424  8  5 f   -     -     -         1090    0    0 
+dogwood   988059504  7  4 f   -     -     -         1090    0    0 
+dogwood   988059542  7  3 cc  k     bc    f         1090   60    0 
+dogwood   988059643  8  2 Bk  cc    kcc   kf        1030   90    0 
+dogwood   988059774  9  1 Bcf -     -     -          940   20    0 
+dogwood   988059833  9  9 f   -     -     -          920    0    0 
+dogwood   988059861  9  8 f   -     -     -          920    0    0 
+dogwood   988059916  9  7 r   b     b     -          920   50   95 
+dogwood   988059950 10  6 f   -     -     -          965    0    0 
+dogwood   988059992 10  5 f   -     -     -          965    0    0 
+dogwood   988060024 10  4 c   kc    k     b          965   40  115 
+dogwood   988060091 10  3 f   -     -     -         1040    0    0 
+dogwood   988060194 10  2 Bf  -     -     -         1040   10    0 
+dogwood   988060227  9  1 Bf  -     -     -         1030    5    0 
+dogwood   988060242  8  8 f   -     -     -         1025    0    0 
+dogwood   988060297  8  7 f   -     -     -         1025    0    0 
+dogwood   988060321  7  5 f   -     -     -         1025    0    0 
+dogwood   988060356  7  4 cc  f     -     -         1025   20    0 
+dogwood   988060423  7  3 f   -     -     -         1005    0    0 
+dogwood   988060495  6  2 Bf  -     -     -         1005   10    0 
+dogwood   988060505  6  1 Bc  kc    kf    -          995   20    0 
+dogwood   988060547  7  6 f   -     -     -          975    0    0 
+dogwood   988060589  8  6 f   -     -     -          975    0    0 
+dogwood   988060627  8  5 f   -     -     -          975    0    0 
+dogwood   988060675  8  4 f   -     -     -          975    0    0 
+dogwood   988060728  8  3 c   c     f     -          975   20    0 
+dogwood   988060816  7  2 Br  br    krc   kc         955  140  355 Ac Ah
+dogwood   988060883  8  1 Bc  k     kf    -         1170   20    0 
+dogwood   988060948  8  8 c   r     c     c         1150   70    0 9c Qc
+dogwood   988061002  8  7 f   -     -     -         1080    0    0 
+dogwood   988061033  8  6 f   -     -     -         1080    0    0 
+dogwood   988061082  8  5 r   b     b     kc        1080   70    0 Jd Qd
+dogwood   988061128  8  4 f   -     -     -         1010    0    0 
+dogwood   988061188  8  3 f   -     -     -         1010    0    0 
+dogwood   988061280  8  2 f   -     -     -         1010    0    0 
+dogwood   988061317  8  2 Bk  k     kf    -         1010   10    0 
+dogwood   988061359  9  1 Bc  b     kc    kf        1000   40    0 
+dogwood   988061428  9  9 c   rc    f     -          960   50    0 
+dogwood   988061498  9  8 f   -     -     -          910    0    0 
+dogwood   988061534 10  7 f   -     -     -          910    0    0 
+dogwood   988061565 10  6 f   -     -     -          910    0    0 
+dogwood   988061634 10  5 cc  f     -     -          910   20    0 
+dogwood   988061727 10  4 f   -     -     -          890    0    0 
+dogwood   988061791  8  3 f   -     -     -          890    0    0 
+dogwood   988061849  9  2 Bk  cr    b     b          890   80  220 Ad Td
+dogwood   988061913  9  1 Bf  -     -     -         1030    5    0 
+dogwood   988061958  9  9 r   -     -     -         1025   20   35 
+dogwood   988061991  9  8 f   -     -     -         1040    0    0 
+dogwood   988062040  9  7 f   -     -     -         1040    0    0 
+dogwood   988062080  9  6 f   -     -     -         1040    0    0 
+dogwood   988062130 10  5 f   -     -     -         1040    0    0 
+dogwood   988062193 10  5 r   r     k     k         1040   40  120 Qs Qh
+dogwood   988062245  9  3 f   -     -     -         1120    0    0 
+dogwood   988062334 10  2 Bk  f     -     -         1120   10    0 
+dogwood   988062442 10  1 Bc  bc    kf    -         1110   30    0 
+dogwood   988062497 10 10 c   c     c     c         1080   70    0 5d 5s
+dogwood   988062572 10  9 f   -     -     -         1010    0    0 
+dogwood   988062686 10  8 f   -     -     -         1010    0    0 
+dogwood   988062732 10  7 f   -     -     -         1010    0    0 
+dogwood   988062778 10  6 f   -     -     -         1010    0    0 
+dogwood   988062829 10  5 f   -     -     -         1010    0    0 
+dogwood   988062890 10  4 f   -     -     -         1010    0    0 
+dogwood   988062959 10  3 f   -     -     -         1010    0    0 
+dogwood   988063009 10  2 Bk  kf    -     -         1010   10    0 
+dogwood   988063112 10  1 BKQ -     -     -         1000    5    0 
+dogwood   988315577 10  6 f   -     -     -          995    0    0 
+dogwood   988315714 10  5 f   -     -     -          995    0    0 
+dogwood   988315779 10  4 f   -     -     -          995    0    0 
+dogwood   988315838 10  3 f   -     -     -          995    0    0 
+dogwood   988315870 10  2 Bk  k     k     k          995   10    0 Js Qh
+dogwood   988315928 10  1 Bc  kc    b     b          985   60  150 
+dogwood   988316008 10 10 cc  f     -     -         1075   20    0 
+dogwood   988316088 10  9 c   b     k     k         1055   30    0 Kc Qs
+dogwood   988316172 10  8 f   -     -     -         1025    0    0 
+dogwood   988316256 10  7 c   b     b     -         1025   40   85 
+dogwood   988316303 10  6 f   -     -     -         1070    0    0 
+dogwood   988316329 10  5 f   -     -     -         1070    0    0 
+dogwood   988316374 10  4 cf  -     -     -         1070   10    0 
+dogwood   988316427 10  3 f   -     -     -         1060    0    0 
+dogwood   988316528 10  2 Bk  b     b     k         1060   40   90 2c 2s
+dogwood   988316581 10  1 Bf  -     -     -         1110    5    0 
+dogwood   988316665  9  9 c   c     f     -         1105   20    0 
+dogwood   988316771  9  8 f   -     -     -         1085    0    0 
+dogwood   988316842  9  7 c   f     -     -         1085   10    0 
+dogwood   988316872  9  6 f   -     -     -         1075    0    0 
+dogwood   988316908  9  5 f   -     -     -         1075    0    0 
+dogwood   988316955 10  4 f   -     -     -         1075    0    0 
+dogwood   988317028 10  3 c   k     k     k         1075   10    0 Ah 8h
+dogwood   988317103 10  2 Bk  k     k     kf        1065   10    0 
+dogwood   988317214  9  1 Bf  -     -     -         1055    5    0 
+dogwood   988317287 10 10 f   -     -     -         1050    0    0 
+dogwood   988317330 10  9 f   -     -     -         1050    0    0 
+dogwood   988317385 10  8 f   -     -     -         1050    0    0 
+dogwood   988317469  9  6 c   b     b     b         1050   60  185 
+dogwood   988317517  9  5 f   -     -     -         1175    0    0 
+dogwood   988317561  9  4 f   -     -     -         1175    0    0 
+dogwood   988317606  9  3 f   -     -     -         1175    0    0 
+dogwood   988317641  8  2 Bf  -     -     -         1175   10    0 
+dogwood   988317726  9  1 Bf  -     -     -         1165    5    0 
+dogwood   988317773  9  9 cf  -     -     -         1160   10    0 
+dogwood   988317898  9  8 c   kf    -     -         1150   10    0 
+dogwood   988317992 10  8 f   -     -     -         1140    0    0 
+dogwood   988318067 10  7 f   -     -     -         1140    0    0 
+dogwood   988318113  9  6 f   -     -     -         1140    0    0 
+dogwood   988318165  9  5 f   -     -     -         1140    0    0 
+dogwood   988318224  9  4 r   b     b     -         1140   50  145 
+dogwood   988318275  8  3 c   b     b     b         1235   60  200 Jh Ad
+dogwood   988318322  9  2 Bf  -     -     -         1375   10    0 
+dogwood   988318377  9  1 Bc  kr    k     b         1365   60  190 Ah Td
+dogwood   988318445  8  8 f   -     -     -         1495    0    0 
+dogwood   988318473  8  7 f   -     -     -         1495    0    0 
+dogwood   988318504  9  7 f   -     -     -         1495    0    0 
+dogwood   988318550  8  5 f   -     -     -         1495    0    0 
+dogwood   988318607  7  3 c   b     b     -         1495   40   80 
+dogwood   988318657  7  2 Bk  kf    -     -         1535   10    0 
+dogwood   988318695  7  1 Br  kf    -     -         1525   20    0 
+dogwood   988318747  8  8 f   -     -     -         1505    0    0 
+dogwood   988318857  7  6 f   -     -     -         1505    0    0 
+dogwood   988318896  7  5 c   f     -     -         1505   10    0 
+dogwood   988318941  9  5 f   -     -     -         1495    0    0 
+dogwood   988319017  8  4 cc  c     f     -         1495   40    0 
+dogwood   988319105  8  3 c   kc    kf    -         1455   20    0 
+dogwood   988319199  7  1 Bk  kf    -     -         1435   10    0 
+dogwood   988319276  7  1 Bc  kf    -     -         1425   10    0 
+dogwood   988319375  7  7 c   k     c     f         1415   40    0 
+dogwood   988319548  4  4 c   b     b     -         1375   40   65 
+dogwood   988319586  3  2 Bk  k     kf    -         1400   10    0 
+dogwood   988319640  3  1 Bc  kc    kr    -         1390   60  100 
+dogwood   988319679  3  3 c   b     -     -         1430   20   40 
+dogwood   988319705  3  2 Bc  k     kf    -         1450   20    0 
+dogwood   988319735  3  1 Bc  kc    kc    kf        1430   40    0 
+dogwood   988319793  3  3 c   k     k     b         1390   30   50 
+dogwood   988319831  3  2 Brr c     c     f         1410   70    0 
+dogwood   988319884  3  1 Bc  b     -     -         1340   20   30 
+dogwood   988319917  3  3 f   -     -     -         1350    0    0 
+dogwood   988319940  3  2 Br  b     -     -         1350   40   70 
+dogwood   988319965  3  1 Bc  k     k     b         1380   30    0 6s 4d
+dogwood   988320000  3  3 f   -     -     -         1350    0    0 
+dogwood   988320023  3  2 BQ  -     -     -         1350   10    0 
+dogwood   988654547 10  7 f   -     -     -         1340    0    0 
+dogwood   988654611 10  6 f   -     -     -         1340    0    0 
+dogwood   988654713 10  5 f   -     -     -         1340    0    0 
+dogwood   988654743 10  4 f   -     -     -         1340    0    0 
+dogwood   988654815 10  3 f   -     -     -         1340    0    0 
+dogwood   988654906  9  1 Bf  -     -     -         1340   10    0 
+dogwood   988654979  8  1 Bf  -     -     -         1330    5    0 
+dogwood   988655028  8  8 f   -     -     -         1325    0    0 
+dogwood   988655085  8  7 f   -     -     -         1325    0    0 
+dogwood   988655138  8  6 r   r     c     k         1325   60    0 As Ks
+dogwood   988655188  8  5 f   -     -     -         1265    0    0 
+dogwood   988655232  8  4 f   -     -     -         1265    0    0 
+dogwood   988655250  8  3 c   c     kf    -         1265   20    0 
+dogwood   988655319  8  2 Bf  -     -     -         1245   10    0 
+dogwood   988655348  8  1 Bf  -     -     -         1235    5    0 
+dogwood   988655364  8  8 f   -     -     -         1230    0    0 
+dogwood   988655451  7  6 f   -     -     -         1230    0    0 
+dogwood   988655504  6  5 f   -     -     -         1230    0    0 
+dogwood   988655533  5  4 f   -     -     -         1230    0    0 
+dogwood   988655573  5  3 f   -     -     -         1230    0    0 
+dogwood   988655587  5  2 Br  r     c     f         1230   70    0 
+dogwood   988655646  5  1 Bf  -     -     -         1160    5    0 
+dogwood   988655655  5  5 f   -     -     -         1155    0    0 
+dogwood   988655710  6  4 c   k     k     bc        1155   50    0 3d Jd
+dogwood   988655783  6  3 cc  bc    kc    kc        1105   80  175 Js Qh
+dogwood   988655843  6  2 Bc  rr    rc    c         1200  140  300 Jc Ad
+dogwood   988655899  7  1 Bf  -     -     -         1360    5    0 
+dogwood   988655944  8  8 f   -     -     -         1355    0    0 
+dogwood   988656001  8  7 f   -     -     -         1355    0    0 
+dogwood   988656079  7  5 f   -     -     -         1355    0    0 
+dogwood   988656124  7  4 c   kc    kc    kf        1355   40    0 
+dogwood   988656195  7  3 f   -     -     -         1315    0    0 
+dogwood   988656233  9  2 Bk  k     b     b         1315   50  115 Js Qh
+dogwood   988656277 10  1 Bf  -     -     -         1380    5    0 
+dogwood   988656335 10 10 rc  c     k     f         1375   50    0 
+dogwood   988656409  9  8 c   k     k     b         1325   30   60 
+dogwood   988656456  7  5 f   -     -     -         1355    0    0 
+dogwood   988656509  8  4 cc  kf    -     -         1355   20    0 
+dogwood   988656552  7  3 f   -     -     -         1335    0    0 
+dogwood   988656599  6  2 Bf  -     -     -         1335   10    0 
+dogwood   988656635  6  1 Bc  kc    kf    -         1325   30    0 
+dogwood   988656670  6  6 f   -     -     -         1295    0    0 
+dogwood   988656706  6  5 f   -     -     -         1295    0    0 
+dogwood   988656722  6  4 f   -     -     -         1295    0    0 
+dogwood   988656760  7  3 f   -     -     -         1295    0    0 
+dogwood   988656809  7  2 Bk  kf    -     -         1295   10    0 
+dogwood   988656844  7  1 Bf  -     -     -         1285    5    0 
+dogwood   988656881  7  7 f   -     -     -         1280    0    0 
+dogwood   988656919  8  7 c   k     bc    f         1280   50    0 
+dogwood   988656994  9  7 f   -     -     -         1230    0    0 
+dogwood   988657048  9  6 f   -     -     -         1230    0    0 
+dogwood   988657106  9  5 c   f     -     -         1230   10    0 
+dogwood   988657147  9  4 f   -     -     -         1220    0    0 
+dogwood   988657194  9  3 f   -     -     -         1220    0    0 
+dogwood   988657216  9  2 Bk  f     -     -         1220   10    0 
+dogwood   988657267  9  1 Bf  -     -     -         1210    5    0 
+dogwood   988657323  9  9 c   r     b     b         1205   70  230 Tc Js
+dogwood   988657371  9  8 f   -     -     -         1365    0    0 
+dogwood   988657403 10  7 f   -     -     -         1365    0    0 
+dogwood   988657451 10  6 f   -     -     -         1365    0    0 
+dogwood   988657496  8  4 f   -     -     -         1365    0    0 
+dogwood   988657549  8  3 c   r     k     k         1365   30  100 Td 8d
+dogwood   988657612  8  2 Bf  -     -     -         1435   10    0 
+dogwood   988657663  8  1 Bc  kf    -     -         1425   10    0 
+dogwood   988657694  8  8 f   -     -     -         1415    0    0 
+dogwood   988657752  8  7 f   -     -     -         1415    0    0 
+dogwood   988657786  9  7 r   b     -     -         1415   30   85 
+dogwood   988657838  9  6 r   b     -     -         1470   30   75 
+dogwood   988657856  9  5 f   -     -     -         1515    0    0 
+dogwood   988657931 10  5 f   -     -     -         1515    0    0 
+dogwood   988657997 10  4 f   -     -     -         1515    0    0 
+dogwood   988658070 10  3 c   bc    k     k         1515   30    0 Td Qd
+dogwood   988658132 10  2 Bk  f     -     -         1485   10    0 
+dogwood   988658157  9  1 Bc  kc    kc    k         1475   40  100 4d Jc
+dogwood   988658225 10 10 r   b     b     k         1535   50  180 Jh Qc
+dogwood   988658285 10 10 f   -     -     -         1665    0    0 
+dogwood   988658344 10  8 c   c     c     f         1665   40    0 
+dogwood   988658408 10  7 f   -     -     -         1625    0    0 
+dogwood   988658447 10  6 rc  kc    kf    -         1625   40    0 
+dogwood   988658507 10  5 f   -     -     -         1585    0    0 
+dogwood   988658554 10  4 f   -     -     -         1585    0    0 
+dogwood   988658601 10  3 f   -     -     -         1585    0    0 
+dogwood   988658646  9  2 Bk  kf    -     -         1585   10    0 
+dogwood   988658701  8  1 Br  k     b     b         1575   60  100 
+dogwood   988658746  8  8 f   -     -     -         1615    0    0 
+dogwood   988658766  8  7 r   k     b     -         1615   40   85 
+dogwood   988658797  7  5 f   -     -     -         1660    0    0 
+dogwood   988658840  8  4 f   -     -     -         1660    0    0 
+dogwood   988658883  8  3 f   -     -     -         1660    0    0 
+dogwood   988658931  8  2 Bc  kcc   kc    kf        1660   60    0 
+dogwood   988658987  8  1 Bc  k     k     kf        1600   10    0 
+dogwood   988659041  8  8 f   -     -     -         1590    0    0 
+dogwood   988659097  8  8 f   -     -     -         1590    0    0 
+dogwood   988659133  7  6 c   k     f     -         1590   10    0 
+dogwood   988659178  7  5 f   -     -     -         1580    0    0 
+dogwood   988659218  7  4 cc  k     b     b         1580   60  175 Ad 2d
+dogwood   988659267  6  2 cc  c     rc    c         1695  110  220 7h Th
+dogwood   988659318  6  2 Bk  kf    -     -         1805   10    0 
+dogwood   988659368  6  1 Bc  kf    -     -         1795   20    0 
+dogwood   988659400  6  6 f   -     -     -         1775    0    0 
+dogwood   988659440  6  5 f   -     -     -         1775    0    0 
+dogwood   988659470  6  4 cc  rc    c     c         1775   90  115 Ac 9c
+dogwood   988659509  6  3 f   -     -     -         1800    0    0 
+dogwood   988659551  7  2 Bk  kc    kf    -         1800   20    0 
+dogwood   988659609  8  1 Bf  -     -     -         1780    5    0 
+dogwood   988659655  6  6 f   -     -     -         1775    0    0 
+dogwood   988659694  7  6 c   b     -     -         1775   20   45 
+dogwood   988659727  7  5 cc  kc    kf    -         1800   30    0 
+dogwood   988659790  8  5 f   -     -     -         1770    0    0 
+dogwood   988659832  8  4 cc  k     kf    -         1770   20    0 
+dogwood   988659885  8  3 f   -     -     -         1750    0    0 
+dogwood   988659965  8  2 Bf  -     -     -         1750   10    0 
+dogwood   988660005  8  1 Bc  kf    -     -         1740   10    0 
+dogwood   988660068  8  8 f   -     -     -         1730    0    0 
+dogwood   988660170  7  7 f   -     -     -         1730    0    0 
+dogwood   988660215  9  7 f   -     -     -         1730    0    0 
+dogwood   988660340  8  6 f   -     -     -         1730    0    0 
+dogwood   988660385  9  5 f   -     -     -         1730    0    0 
+dogwood   988660418  9  5 cc  k     b     b         1730   60  155 6h 6d
+dogwood   988660455  8  3 cc  k     kf    -         1825   20    0 
+dogwood   988660496  8  2 Bk  k     k     k         1805   10   25 9s Ah
+dogwood   988660597  7  1 Bc  k     k     kf        1820   10    0 
+dogwood   988660634  7  7 f   -     -     -         1810    0    0 
+dogwood   988660647  7  6 rr  b     -     -         1810   50  105 
+dogwood   988660670  8  5 f   -     -     -         1865    0    0 
+dogwood   988660771  8  4 f   -     -     -         1865    0    0 
+dogwood   988660816  9  3 f   -     -     -         1865    0    0 
+dogwood   988660846  8  2 Bf  -     Q     -         1865   10    0 
+dogwood   988661228  5  3 f   -     -     -         1855    0    0 
+dogwood   988661250  6  3 f   -     -     -         1855    0    0 
+dogwood   988661286  6  2 Bc  rc    kc    k         1855   70    0 Qc 4c
+dogwood   988661351  5  1 Bf  -     -     -         1785    5    0 
+dogwood   988661384  6  6 c   c     c     f         1780   80    0 
+dogwood   988661447  6  5 f   -     -     -         1700    0    0 
+dogwood   988661468  6  4 f   -     -     -         1700    0    0 
+dogwood   988661491  6  3 f   -     -     -         1700    0    0 
+dogwood   988661545  6  2 Bf  -     -     -         1700   10    0 
+dogwood   988661565  6  1 Bf  -     -     -         1690    5    0 
+dogwood   988661594  6  6 f   -     -     -         1685    0    0 
+dogwood   988661606  6  5 f   -     -     -         1685    0    0 
+dogwood   988661643  6  4 r   b     b     -         1685   50   90 
+dogwood   988661664  6  3 f   -     -     -         1725    0    0 
+dogwood   988661689  6  2 Bk  f     -     -         1725   10    0 
+dogwood   988661732  6  1 Bf  -     -     -         1715    5    0 
+dogwood   988661789  6  6 KQ  -     -     -         1710    0    0 
+dogwood   988661858  6  4 f   -     -     -         1710    0    0 
+dogwood   988661880  6  3 cc  b     b     -         1710   50  115 
+dogwood   988661912  6  2 Bf  -     -     -         1775   10    0 
+dogwood   988661919  6  1 Bf  -     -     -         1765    5    0 
+dogwood   988661944  6  6 f   -     -     -         1760    0    0 
+dogwood   988661965  6  5 f   -     -     -         1760    0    0 
+dogwood   988661992  6  4 f   -     -     -         1760    0    0 
+dogwood   988662025  7  3 f   -     -     -         1760    0    0 
+dogwood   988662051  7  2 Bf  -     -     -         1760   10    0 
+dogwood   988662071  7  1 Br  b     b     b         1750   70  180 Jh Js
+dogwood   988662102  7  7 f   -     -     -         1860    0    0 
+dogwood   988662121  7  6 c   k     b     -         1860   30   55 
+dogwood   988662152  7  5 c   f     -     -         1885   10    0 
+dogwood   988662179  7  4 f   -     -     -         1875    0    0 
+dogwood   988662216  7  3 f   -     -     -         1875    0    0 
+dogwood   988662239  8  2 Br  kc    kr    k         1875   70  145 Jc Ad
+dogwood   988662295  8  1 Bf  -     -     -         1950    5    0 
+dogwood   988662329  8  8 f   -     -     -         1945    0    0 
+dogwood   988662382  8  7 f   -     -     -         1945    0    0 
+dogwood   988662411  8  6 f   -     -     -         1945    0    0 
+dogwood   988662422  8  5 c   c     c     rc        1945  110  265 Td 9d
+dogwood   988662465  8  4 r   k     f     -         2100   20    0 
+dogwood   988662513  8  3 f   -     -     -         2080    0    0 
+dogwood   988662552  8  2 Br  b     b     rr        2080  140  350 Kh Kd
+dogwood   988662598  8  1 Bf  -     -     -         2290    5    0 
+dogwood   988662642  8  8 f   -     -     -         2285    0    0 
+dogwood   988662693  8  7 f   -     -     -         2285    0    0 
+dogwood   988662722  8  6 f   -     -     -         2285    0    0 
+dogwood   988662755  8  5 r   b     b     c         2285   70    0 Kc Ad
+dogwood   988662804  9  5 f   -     -     -         2215    0    0 
+dogwood   988662852  9  4 f   -     -     -         2215    0    0 
+dogwood   988662886  9  3 f   -     -     -         2215    0    0 
+dogwood   988662926  9  2 Bk  c     f     -         2215   20    0 
+dogwood   988662965  9  1 Bf  -     -     -         2195    5    0 
+dogwood   988663013  8  8 f   -     -     -         2190    0    0 
+dogwood   988663068  8  7 c   c     k     b         2190   40  105 Th Jd
+dogwood   988663117  9  7 f   -     -     -         2255    0    0 
+dogwood   988663152 10  7 f   -     -     -         2255    0    0 
+dogwood   988663185 10  6 f   -     -     -         2255    0    0 
+dogwood   988663216 10  5 f   -     -     -         2255    0    0 
+dogwood   988663249 10  4 f   -     -     -         2255    0    0 
+dogwood   988663311 10  3 f   -     -     -         2255    0    0 
+dogwood   988663361  8  2 Bf  -     -     -         2255   10    0 
+dogwood   988663409  9  1 Bf  -     -     -         2245    5    0 
+dogwood   988663469 10 10 f   -     -     -         2240    0    0 
+dogwood   988663498 10  9 f   -     -     -         2240    0    0 
+dogwood   988663537 10  8 f   -     -     -         2240    0    0 
+dogwood   988663571 10  7 f   -     -     -         2240    0    0 
+dogwood   988663613 10  6 f   -     -     -         2240    0    0 
+dogwood   988663628 10  5 ccc c     c     f         2240   70    0 
+dogwood   988663723 10  4 c   k     k     k         2170   20    0 Qd Js
+dogwood   988663766 10  3 c   c     k     f         2150   20    0 
+dogwood   988663813 10  2 Bf  -     -     -         2130   10    0 
+dogwood   988663877 10  1 Bf  -     -     -         2120    5    0 
+dogwood   988663947  9  9 f   -     -     -         2115    0    0 
+dogwood   988664098  9  8 f   -     -     -         2115    0    0 
+dogwood   988664148  9  7 f   -     -     -         2115    0    0 
+dogwood   988664201  9  6 f   -     -     -         2115    0    0 
+dogwood   988664258 10  5 r   r     brc   kc        2115  140  585 Js Qs
+dogwood   988664342 10  4 c   b     b     b         2560   60  270 8c 8h
+dogwood   988664443 10  3 f   -     -     -         2770    0    0 
+dogwood   988664496 10  2 Br  k     c     kf        2770   40    0 
+dogwood   988664575 10  1 Bf  -     -     -         2730    5    0 
+dogwood   988664620 10 10 f   -     -     -         2725    0    0 
+dogwood   988664686 10  9 rc  c     k     f         2725   40    0 
+dogwood   988664766 10  8 f   -     -     -         2685    0    0 
+dogwood   988664808 10  7 f   -     -     -         2685    0    0 
+dogwood   988664869 10  6 f   -     -     -         2685    0    0 
+dogwood   988664960 10  5 f   -     -     -         2685    0    0 
+dogwood   988665072 10  4 f   -     -     -         2685    0    0 
+dogwood   988665186 10  3 f   -     -     -         2685    0    0 
+dogwood   988665238 10  2 Bk  k     b     rc        2685   90  200 6c 9d
+dogwood   988665400 10  1 Bc  kc    kc    kr        2795  110  310 7s 2s
+dogwood   988665530 10 10 c   c     k     k         2995   30    0 8c Ac
+dogwood   988665635 10  9 f   -     -     -         2965    0    0 
+dogwood   988665675 10  8 r   rc    cc    f         2965  120    0 
+dogwood   988665801 10  7 f   -     -     -         2845    0    0 
+dogwood   988665854 10  7 f   -     -     -         2845    0    0 
+dogwood   988665951 10  5 c   kcf   -     -         2845   20    0 
+dogwood   988666017 10  5 f   -     -     -         2825    0    0 
+dogwood   988666062  9  4 f   -     -     -         2825    0    0 
+dogwood   988666110 10  2 Bf  -     -     -         2825   10    0 
+dogwood   988666187 10  1 Bc  kf    -     -         2815   10    0 
+dogwood   988666231 10 10 cc  f     -     -         2805   40    0 
+dogwood   988666311 10  9 c   f     -     -         2765   10    0 
+dogwood   988666368 10  8 f   -     -     -         2755    0    0 
+dogwood   988666452 10  7 f   -     -     -         2755    0    0 
+dogwood   988666519 10  6 c   c     f     -         2755   30    0 
+dogwood   988666595 10  5 f   -     -     -         2725    0    0 
+dogwood   988666684 10  4 f   -     -     -         2725    0    0 
+dogwood   988666730 10  3 f   -     -     -         2725    0    0 
+dogwood   988666791 10  2 Bk  k     kc    kf        2725   30    0 
+dogwood   988666845 10  1 Bc  kf    -     -         2695   20    0 
+dogwood   988666894 10 10 c   rc    c     c         2675   80    0 8s 7c
+dogwood   988666974 10  9 r   c     c     f         2595   60    0 
+dogwood   988667110 10  8 f   -     -     -         2535    0    0 
+dogwood   988667164 10  7 f   -     -     -         2535    0    0 
+dogwood   988667258 10  6 c   b     b     b         2535   60   72 9d Jd
+dogwood   988667364 10  5 f   -     -     -         2547    0    0 
+dogwood   988667426 10  4 f   -     -     -         2547    0    0 
+dogwood   988667472 10  3 c   f     -     -         2547   10    0 
+dogwood   988667547 10  2 Bk  kf    -     -         2537   10    0 
+dogwood   988667599 10  1 Bf  -     -     -         2527    5    0 
+dogwood   988667703 10 10 f   -     -     -         2522    0    0 
+dogwood   988667789 10  9 rc  c     f     -         2522   40    0 
+dogwood   988667856 10  8 f   -     -     -         2482    0    0 
+dogwood   988667984 10  7 f   -     -     -         2482    0    0 
+dogwood   988668060 10  6 f   -     -     -         2482    0    0 
+dogwood   988668107 10  5 f   -     -     -         2482    0    0 
+dogwood   988668198 10  5 f   -     -     -         2482    0    0 
+dogwood   988668376 10  3 f   -     -     -         2482    0    0 
+dogwood   988668414 10  2 Bf  -     -     -         2482   10    0 
+dogwood   988668449 10  1 Br  kr    kcc   kc        2472  180    0 Ah Th
+dogwood   988668530 10 10 f   -     -     -         2292    0    0 
+dogwood   988668585 10  9 f   -     -     -         2292    0    0 
+dogwood   988668637 10  8 f   -     -     -         2292    0    0 
+dogwood   988668747 10  7 f   -     -     -         2292    0    0 
+dogwood   988668795 10  6 f   -     -     -         2292    0    0 
+dogwood   988668852 10  5 f   -     -     -         2292    0    0 
+dogwood   988668926 10  4 f   -     -     -         2292    0    0 
+dogwood   988668995 10  3 f   -     -     -         2292    0    0 
+dogwood   988669095 10  2 Bf  -     -     -         2292   10    0 
+dogwood   988669136 10  1 Bc  b     br    b         2282  110    0 9c 7c
+dogwood   988669185 10 10 f   -     -     -         2172    0    0 
+dogwood   988669268 10  9 c   k     b     c         2172   50    0 Qc Ts
+dogwood   988669347 10  8 f   -     -     -         2122    0    0 
+dogwood   988669379 10  7 f   -     -     -         2122    0    0 
+dogwood   988669452 10  6 rc  rc    c     f         2122   80    0 
+dogwood   988669530 10  5 r   b     rc    k         2042   90    0 Qs As
+dogwood   988669599 10  4 f   -     -     -         1952    0    0 
+dogwood   988669640 10  3 f   -     -     -         1952    0    0 
+dogwood   988669687 10  2 Bk  kf    -     -         1952   10    0 
+dogwood   988669777 10  1 Bf  -     -     -         1942    5    0 
+dogwood   988669860 10 10 r   rr    c     c         1937  120    0 Qh Ah
+dogwood   988669917 10  9 f   -     -     -         1817    0    0 
+dogwood   988669984 10  8 f   -     -     -         1817    0    0 
+dogwood   988670031 10  7 f   -     -     -         1817    0    0 
+dogwood   988670065 10  6 f   -     -     -         1817    0    0 
+dogwood   988670159 10  5 rc  rc    rc    k         1817  150  295 Ks Kd
+dogwood   988670226 10  4 cc  krc   kc    kf        1962   70    0 
+dogwood   988670358 10  3 f   -     -     -         1892    0    0 
+dogwood   988670384 10  2 Bf  -     -     -         1892   10    0 
+dogwood   988670488 10  1 Bc  kf    -     -         1882   20    0 
+dogwood   988670565 10 10 f   -     -     -         1862    0    0 
+dogwood   988670651  9  8 c   c     c     r         1862   80  180 Ad 9d
+dogwood   988670699 10  8 f   -     -     -         1962    0    0 
+dogwood   988670760 10  7 f   -     -     -         1962    0    0 
+dogwood   988670799 10  6 f   -     -     -         1962    0    0 
+dogwood   988670851 10  5 f   -     -     -         1962    0    0 
+dogwood   988670867 10  4 f   -     -     -         1962    0    0 
+dogwood   988670945 10  3 cc  kc    kf    -         1962   30    0 
+dogwood   988670988 10  2 BQ  -     -     -         1932   10    0 

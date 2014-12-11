@@ -1,0 +1,1556 @@
+McElvis   986163954 10  2 Bk  k     kf    -         1438   10    0 
+McElvis   986164006 10  1 Bf  -     -     -         1428    5    0 
+McElvis   986164053 10 10 f   -     -     -         1423    0    0 
+McElvis   986164107 10  9 f   -     -     -         1423    0    0 
+McElvis   986164142 10  8 f   -     -     -         1423    0    0 
+McElvis   986164159 10  7 f   -     -     -         1423    0    0 
+McElvis   986164279 10  6 f   -     -     -         1423    0    0 
+McElvis   986164319 10  5 f   -     -     -         1423    0    0 
+McElvis   986164378 10  4 f   -     -     -         1423    0    0 
+McElvis   986164451 10  3 f   -     -     -         1423    0    0 
+McElvis   986164497 10  2 Bf  -     -     -         1423   10    0 
+McElvis   986164559 10  1 Bf  -     -     -         1413    5    0 
+McElvis   986164673  9  9 f   -     -     -         1408    0    0 
+McElvis   986164702 10  9 f   -     -     -         1408    0    0 
+McElvis   986164741  9  7 r   f     -     -         1408   20    0 
+McElvis   986164843  9  6 cc  k     rr    k         1388  100    0 Th Ks
+McElvis   986164906 10  5 r   b     b     b         1288   70  370 Ad As
+McElvis   986165032 10  5 r   c     c     c         1588   70    0 6c 6h
+McElvis   986165083  9  3 f   -     -     -         1518    0    0 
+McElvis   986165143  9  2 Bk  kf    -     -         1518   10    0 
+McElvis   986165217  9  1 Bf  -     -     -         1508    5    0 
+McElvis   986165255  8  8 f   -     -     -         1503    0    0 
+McElvis   986165323  8  8 f   -     -     -         1503    0    0 
+McElvis   986165357  7  6 f   -     -     -         1503    0    0 
+McElvis   986165420  8  6 f   -     -     -         1503    0    0 
+McElvis   986165462  8  5 f   -     -     -         1503    0    0 
+McElvis   986165478  8  4 f   -     -     -         1503    0    0 
+McElvis   986165503  8  3 f   -     -     -         1503    0    0 
+McElvis   986165557  8  2 Bk  kf    -     -         1503   10    0 
+McElvis   986165611  7  1 Bc  kf    -     -         1493   10    0 
+McElvis   986165663  8  8 f   -     -     -         1483    0    0 
+McElvis   986165699  8  7 f   -     -     -         1483    0    0 
+McElvis   986165777  9  8 f   -     -     -         1483    0    0 
+McElvis   986165822  8  6 f   -     -     -         1483    0    0 
+McElvis   986165848  8  5 c   k     k     f         1483   20    0 
+McElvis   986165891  8  4 f   -     -     -         1463    0    0 
+McElvis   986165924  9  3 f   -     -     -         1463    0    0 
+McElvis   986166015  8  2 Bk  kf    -     -         1463   10    0 
+McElvis   986166083  9  1 Bc  k     k     k         1453   10    0 8s Ah
+McElvis   986166136 10 10 c   c     f     -         1443   30    0 
+McElvis   986166221 10  9 f   -     -     -         1413    0    0 
+McElvis   986166298 10  8 f   -     -     -         1413    0    0 
+McElvis   986166435  9  7 c   f     -     -         1413   10    0 
+McElvis   986166536  7  5 f   -     -     -         1403    0    0 
+McElvis   986166555  7  3 c   k     f     -         1403   20    0 
+McElvis   986166607  7  3 f   -     -     -         1383    0    0 
+McElvis   986166734  6  2 Bk  k     kf    -         1383   10    0 
+McElvis   986166778  6  1 Bf  -     -     -         1373    5    0 
+McElvis   986166793  6  6 f   -     -     -         1368    0    0 
+McElvis   986166851  6  5 f   -     -     -         1368    0    0 
+McElvis   986166884  6  4 f   -     -     -         1368    0    0 
+McElvis   986166911  6  3 fQ  -     -     -         1368    0    0 
+McElvis   986167279 10  2 Bk  kf    -     -         1368   10    0 
+McElvis   986167335 10  1 Bc  kcc   kc    kc        1358  100    0 Jc 8c
+McElvis   986167428 10 10 f   -     -     -         1258    0    0 
+McElvis   986167460  9  8 c   k     f     -         1258   20    0 
+McElvis   986167509 10  9 c   c     c     f         1238   70    0 
+McElvis   986167602 10  7 cc  r     cc    ccc       1168  180    0 Jh Jd
+McElvis   986167700 10  6 cr  b     b     b          988   80    0 Qc Qh
+McElvis   986167783 10  5 r   b     b     brc        908  130    0 Kd As
+McElvis   986167838  9  3 f   -     -     -          778    0    0 
+McElvis   986167877  9  2 Bk  kf    -     -          778   10    0 
+McElvis   986167962  9  1 Bf  -     -     -          768    5    0 
+McElvis   986168025  8  8 c   k     k     k          763   10    0 Ad 8c
+McElvis   986168072  8  7 f   -     -     -          753    0    0 
+McElvis   986168125  8  6 f   -     -     -          753    0    0 
+McElvis   986168188  8  5 f   -     -     -          753    0    0 
+McElvis   986168245  8  4 c   k     b     -          753   30   70 
+McElvis   986168300  9  3 f   -     -     -          793    0    0 
+McElvis   986168343  9  2 Bc  k     k     k          793   20    0 8h 9h
+McElvis   986168394  9  1 Bc  b     b     b          773   70  160 
+McElvis   986168446  9  9 f   -     -     -          863    0    0 
+McElvis   986168489 10  9 c   c     c     b          863   60    0 Ad Th
+McElvis   986168586 10  8 f   -     -     -          803    0    0 
+McElvis   986168655 10  7 cc  f     -     -          803   20    0 
+McElvis   986168695 10  6 f   -     -     -          783    0    0 
+McElvis   986168743 10  5 cc  kf    -     -          783   20    0 
+McElvis   986168793 10  4 f   -     -     -          763    0    0 
+McElvis   986168855 10  3 r   kc    kc    kc         763   70    0 Ks Ac
+McElvis   986168905 10  2 Bc  kc    kc    b          693   70  175 
+McElvis   986168986 10  1 Bcc kc    kc    br         798  130  390 7d 7s
+McElvis   986169049  9  9 f   -     -     -         1058    0    0 
+McElvis   986169105  9  9 c   f     -     -         1058   20    0 
+McElvis   986169214 10  8 f   -     -     -         1038    0    0 
+McElvis   986169261  9  6 c   k     k     f         1038   10    0 
+McElvis   986169366  8  4 f   -     -     -         1028    0    0 
+McElvis   986169433  8  3 f   -     -     -         1028    0    0 
+McElvis   986169487  8  2 Bf  -     -     -         1028   10    0 
+McElvis   986169526  9  1 Bf  -     -     -         1018    5    0 
+McElvis   986169597 10 10 f   -     -     -         1013    0    0 
+McElvis   986169665 10  9 c   c     f     -         1013   20    0 
+McElvis   986169774  9  7 f   -     -     -          993    0    0 
+McElvis   986169822  9  7 cc  k     kf    -          993   20    0 
+McElvis   986169875 10  6 r   k     c     r          973  100  285 Kc Kh
+McElvis   986169932 10  5 r   kc    kf    -         1158   30    0 
+McElvis   986170009 10  4 f   -     -     -         1128    0    0 
+McElvis   986170067 10  4 f   -     -     -         1128    0    0 
+McElvis   986170144  9  2 Bk  kf    -     -         1128   10    0 
+McElvis   986170199  9  1 Bf  -     -     -         1118    5    0 
+McElvis   986170231 10  9 c   f     -     -         1113   20    0 
+McElvis   986170277 10  8 f   -     -     -         1093    0    0 
+McElvis   986170327 10  7 f   -     -     -         1093    0    0 
+McElvis   986170421 10  6 f   -     -     -         1093    0    0 
+McElvis   986170450  9  5 f   -     -     -         1093    0    0 
+McElvis   986170494  9  4 f   -     -     -         1093    0    0 
+McElvis   986170520  9  3 f   -     -     -         1093    0    0 
+McElvis   986170535  9  2 Bk  kf    -     -         1093   10    0 
+McElvis   986170571  9  1 Bf  -     -     -         1083    5    0 
+McElvis   986170632  9  9 f   -     -     -         1078    0    0 
+McElvis   986170682 10  8 f   -     -     -         1078    0    0 
+McElvis   986170762 10  7 c   c     k     k         1078   30    0 9h Jh
+McElvis   986170812 10  6 f   -     -     -         1048    0    0 
+McElvis   986170889 10  5 f   -     -     -         1048    0    0 
+McElvis   986170954 10  4 c   kf    -     -         1048   10    0 
+McElvis   986170989 10  3 f   -     -     -         1038    0    0 
+McElvis   986171027 10  2 Bk  k     b     k         1038   30  105 Ks 8c
+McElvis   986171072 10  1 Bf  Q     -     -         1113    5    0 
+McElvis   986247551  8  3 c   k     c     c         1108   50  120 As 8s
+McElvis   986247594  8  2 Bk  kf    -     -         1178   10    0 
+McElvis   986247656  8  1 Bf  -     -     -         1168    5    0 
+McElvis   986247694  8  8 c   c     k     f         1163   20    0 
+McElvis   986247749  8  7 c   r     k     c         1143   60    0 Ts 7s
+McElvis   986247805  8  6 f   -     -     -         1083    0    0 
+McElvis   986247857  8  5 cc  kf    -     -         1083   20    0 
+McElvis   986247908  8  4 r   kc    kc    b         1063   80    0 Qh Qd
+McElvis   986247999  8  3 rc  c     k     k          983   50  195 Ac Qc
+McElvis   986248053  8  2 Bc  kcr   b     b         1128   90  240 Ah 4s
+McElvis   986248131  8  1 Bf  -     -     -         1278    5    0 
+McElvis   986248182  8  8 c   c     k     k         1273   20   75 Tc 3c
+McElvis   986248258  9  8 c   c     r     k         1328   60  140 Kd Jh
+McElvis   986248310  9  7 f   -     -     -         1408    0    0 
+McElvis   986248355  9  6 f   -     -     -         1408    0    0 
+McElvis   986248441  8  4 f   -     -     -         1408    0    0 
+McElvis   986248463  8  3 f   -     -     -         1408    0    0 
+McElvis   986248559  9  2 Bc  kf    -     -         1408   20    0 
+McElvis   986248658  8  1 Bf  -     -     -         1388    5    0 
+McElvis   986248702  8  8 rr  c     c     c         1383   90  230 Qh Qc
+McElvis   986248746  8  7 f   -     -     -         1523    0    0 
+McElvis   986248795  8  6 c   b     c     c         1523   60    0 Jh Tc
+McElvis   986248890  7  5 c   k     k     k         1463   10    0 Kc Qs
+McElvis   986248943  6  4 cc  kc    kc    kc        1453   70    0 3h Ac
+McElvis   986248977  5  3 c   k     b     -         1383   30   45 
+McElvis   986249001  5  2 Br  bc    c     c         1398   80    0 Kh Kc
+McElvis   986249041  5  1 Bc  k     kf    -         1318   10    0 
+McElvis   986249062  4  4 cc  f     -     -         1308   20    0 
+McElvis   986249092  4  3 cc  c     c     c         1288   80    0 6h Ac
+McElvis   986249126  5  2 Bc  kc    kc    kc        1208   70  145 Th Tc
+McElvis   986249154  5  1 Bc  kc    kc    kc        1283   70    0 Qc As
+McElvis   986249183  5  5 c   rc    c     c         1213   80    0 Jh 5c
+McElvis   986249209  6  4 c   kf    -     -         1133   10    0 
+McElvis   986249234  6  3 c   kc    k     kc        1123   40   48 Ac 3h
+McElvis   986249261  6  2 Bc  kc    kc    kc        1131   70    0 7c 9c
+McElvis   986249297  6  1 Bc  kc    k     k         1061   40    0 Th 8h
+McElvis   986249332  6  6 c   k     k     c         1021   30   70 Th Td
+McElvis   986249363  6  5 cc  k     k     k         1061   20   50 Ah 2s
+McElvis   986249392  6  4 cc  k     kc    k         1091   40    0 Ts Ks
+McElvis   986249419  6  3 cc  kc    k     k         1051   30  130 4c 3c
+McElvis   986249476  7  2 Bcc f     -     -         1151   40    0 
+McElvis   986249533  7  1 Bc  kc    k     kf        1111   30    0 
+McElvis   986249570  7  7 f   -     -     -         1081    0    0 
+McElvis   986249597  7  6 f   -     -     -         1081    0    0 
+McElvis   986249638  7  5 c   c     c     cf        1081   70    0 
+McElvis   986249677  7  4 cc  kc    k     kc        1011   50    0 9d 9h
+McElvis   986249707  7  3 c   c     rr    b          961  120  350 
+McElvis   986249743  7  2 Bk  kc    bc    b         1191   80  220 3s 2s
+McElvis   986249775  6  1 Bf  -     -     -         1331    5    0 
+McElvis   986249826  6  6 f   -     -     -         1326    0    0 
+McElvis   986249853  5  4 f   -     -     -         1326    0    0 
+McElvis   986249864  5  3 f   -     -     -         1326    0    0 
+McElvis   986249890  5  2 Bk  k     bc    kc        1326   70   73 Kd As
+McElvis   986249920  5  1 Bcc kc    kf    -         1329   40    0 
+McElvis   986249974  5  5 f   -     -     -         1289    0    0 
+McElvis   986249991  5  4 cc  c     c     c         1289   70  175 Kc Qh
+McElvis   986250018  5  3 cc  kc    kf    -         1394   40    0 
+McElvis   986250053  5  2 Bk  b     -     -         1354   20   40 
+McElvis   986250067  5  1 Bc  kc    k     kc        1374   40  100 5s 6c
+McElvis   986250109  7  7 c   c     c     c         1434   90  270 Td 8d
+McElvis   986250145  7  6 f   -     -     -         1614    0    0 
+McElvis   986250159  7  5 f   -     -     -         1614    0    0 
+McElvis   986250188  7  4 c   bc    b     bc        1614  100    0 5s 3s
+McElvis   986250235  7  3 c   b     b     -         1514   40   85 
+McElvis   986250258  8  2 Bk  f     -     -         1559   10    0 
+McElvis   986250295  8  1 Bf  -     -     -         1549    5    0 
+McElvis   986250355  8  8 c   c     c     c         1544   60    0 Ah 9s
+McElvis   986250395  8  7 c   f     -     -         1484   10    0 
+McElvis   986250429  8  6 c   b     c     c         1474   60   80 5d As
+McElvis   986250474  8  5 f   -     -     -         1494    0    0 
+McElvis   986250516  7  4 f   -     -     -         1494    0    0 
+McElvis   986250553  6  3 f   -     -     -         1494    0    0 
+McElvis   986250582  6  2 Bk  k     b     b         1494   50  100 
+McElvis   986250607  6  1 Bc  kf    -     -         1544   20    0 
+McElvis   986250623  6  6 c   c     c     c         1524   60    0 Ah 9h
+McElvis   986250652  6  5 r   -     -     -         1464   20   35 
+McElvis   986250663  6  4 c   f     -     -         1479   10    0 
+McElvis   986250683  6  3 f   -     -     -         1469    0    0 
+McElvis   986250722  6  2 Bf  -     -     -         1469   10    0 
+McElvis   986250750  6  1 Bf  -     -     -         1459    5    0 
+McElvis   986250795  6  6 c   b     -     -         1454   20   60 
+McElvis   986250821  6  5 c   c     k     f         1494   30    0 
+McElvis   986250848  6  4 f   -     -     -         1464    0    0 
+McElvis   986250868  6  3 c   k     kf    -         1464   10    0 
+McElvis   986250906  6  2 Bf  -     -     -         1454   10    0 
+McElvis   986250928  6  1 Bcc k     k     k         1444   20   80 2d 2c
+McElvis   986250965  6  6 f   -     -     -         1504    0    0 
+McElvis   986250982  6  5 f   -     -     -         1504    0    0 
+McElvis   986250992  6  4 f   -     -     -         1504    0    0 
+McElvis   986251014  6  3 c   c     f     -         1504   20    0 
+McElvis   986251033  6  2 Bk  k     b     -         1484   30   45 
+McElvis   986251051  6  1 Bc  k     k     k         1499   10    0 Ts 5c
+McElvis   986251084  7  6 f   -     -     -         1489    0    0 
+McElvis   986251128  7  5 r   b     -     -         1489   30   85 
+McElvis   986251148  7  4 cc  c     f     -         1544   30    0 
+McElvis   986251186  7  3 f   -     -     -         1514    0    0 
+McElvis   986251223  8  2 Bc  kc    kf    -         1514   30    0 
+McElvis   986251267  8  1 Bc  kc    kc    k         1484   40    0 Th 9s
+McElvis   986251302  7  7 c   c     f     -         1444   30    0 
+McElvis   986251331  7  6 f   -     -     -         1414    0    0 
+McElvis   986251365  8  6 f   -     -     -         1414    0    0 
+McElvis   986251416  8  5 f   -     -     -         1414    0    0 
+McElvis   986251448  7  3 f   -     -     -         1414    0    0 
+McElvis   986251467  7  2 Bf  -     -     -         1414   10    0 
+McElvis   986251498  7  1 Bf  -     -     -         1404    5    0 
+McElvis   986251514  6  6 f   -     -     -         1399    0    0 
+McElvis   986251546  6  5 c   k     b     -         1399   30   65 
+McElvis   986251571  6  4 f   -     -     -         1434    0    0 
+McElvis   986251604  6  3 f   -     -     -         1434    0    0 
+McElvis   986251633  7  2 Bk  k     b     b         1434   50  105 Jd Tc
+McElvis   986251667  7  1 Bf  -     -     -         1489    5    0 
+McElvis   986251688  6  6 c   f     -     -         1484   10    0 
+McElvis   986251727  7  6 f   -     -     -         1474    0    0 
+McElvis   986251757  6  5 f   -     -     -         1474    0    0 
+McElvis   986251792  5  3 c   c     r     b         1474   80  170 Ad 2s
+McElvis   986251828  4  2 B   -     -     -         1564   10   15 
+McElvis   986251840  4  1 Bf  Q     -     -         1569    5    0 
+McElvis   986685362 10  8 f   -     -     -         2509    0    0 
+McElvis   986685398 10  7 c   k     f     -         2509   10    0 
+McElvis   986685462 10  6 f   -     -     -         2499    0    0 
+McElvis   986685488 10  5 f   -     -     -         2499    0    0 
+McElvis   986685528 10  4 c   kc    kf    -         2499   20    0 
+McElvis   986685598  9  3 f   -     -     -         2479    0    0 
+McElvis   986685625  8  2 Bk  kc    k     k         2479   20    0 Ac 7c
+McElvis   986685674  7  1 Bf  -     -     -         2459    5    0 
+McElvis   986685701  7  7 f   -     -     -         2454    0    0 
+McElvis   986685734  7  6 f   -     -     -         2454    0    0 
+McElvis   986685761  7  5 f   -     -     -         2454    0    0 
+McElvis   986685782  7  4 f   -     -     -         2454    0    0 
+McElvis   986685811  7  3 f   -     -     -         2454    0    0 
+McElvis   986685882  9  2 Bk  kf    -     -         2454   10    0 
+McElvis   986685912  9  1 Bc  kf    -     -         2444   10    0 
+McElvis   986685951 10  9 f   -     -     -         2434    0    0 
+McElvis   986685988 10  8 f   -     -     -         2434    0    0 
+McElvis   986686089 10  7 f   -     -     -         2434    0    0 
+McElvis   986686134 10  6 f   -     -     -         2434    0    0 
+McElvis   986686177 10  5 f   -     -     -         2434    0    0 
+McElvis   986686228 10  4 f   -     -     -         2434    0    0 
+McElvis   986686263 10  3 f   -     -     -         2434    0    0 
+McElvis   986686319 10  2 Bc  kc    bf    -         2434   46    0 
+McElvis   986686375  9  1 Bf  -     -     -         2388    5    0 
+McElvis   986686429 10  9 f   -     -     -         2383    0    0 
+McElvis   986686466 10  8 f   -     -     -         2383    0    0 
+McElvis   986686539  8  6 f   -     -     -         2383    0    0 
+McElvis   986686588  8  5 f   -     -     -         2383    0    0 
+McElvis   986686668  7  4 c   k     k     f         2383   10    0 
+McElvis   986686716  7  2 Bf  -     -     -         2373   10    0 
+McElvis   986686765  7  1 Bf  -     -     -         2363    5    0 
+McElvis   986686814  7  7 f   -     -     -         2358    0    0 
+McElvis   986686841  7  6 c   k     f     -         2358   20    0 
+McElvis   986686876  7  5 f   -     -     -         2338    0    0 
+McElvis   986686900  8  4 f   -     -     -         2338    0    0 
+McElvis   986686939  8  3 c   k     k     b         2338   30   50 
+McElvis   986686964  9  2 Bk  kc    kc    kc        2358   60  175 6d 8d
+McElvis   986687010  9  1 Bc  kc    kc    kf        2473   40    0 
+McElvis   986687056  9  9 c   k     b     -         2433   30   55 
+McElvis   986687104 10  9 cc  k     f     -         2458   20    0 
+McElvis   986687186 10  8 f   -     -     -         2438    0    0 
+McElvis   986687248  9  6 f   -     -     -         2438    0    0 
+McElvis   986687312  8  5 c   c     c     f         2438   40    0 
+McElvis   986687368  8  4 f   -     -     -         2398    0    0 
+McElvis   986687393  8  3 crc b     kc    kc        2398   90    0 Ks Kh
+McElvis   986687451  8  2 Bk  k     kf    -         2308   10    0 
+McElvis   986687500  8  1 Bc  b     -     -         2298   20   30 
+McElvis   986687515  8  8 f   -     -     -         2308    0    0 
+McElvis   986687539  8  7 c   k     c     r         2308   90  290 Td Ah
+McElvis   986687619  9  7 f   -     -     -         2508    0    0 
+McElvis   986687674 10  6 f   -     -     -         2508    0    0 
+McElvis   986687704 10  5 c   k     b     kcf       2508   70    0 
+McElvis   986687748 10  4 f   -     -     -         2438    0    0 
+McElvis   986687816  9  3 c   k     kc    kc        2438   50  125 5s 7s
+McElvis   986687856  9  2 Bf  -     -     -         2513   10    0 
+McElvis   986687902  9  1 Bc  kf    -     -         2503   20    0 
+McElvis   986687964  9  9 f   -     -     -         2483    0    0 
+McElvis   986688041  9  8 cc  k     r     f         2483   80    0 
+McElvis   986688097  8  7 c   cc    c     c         2403   70  240 Qh Th
+McElvis   986688137  8  6 f   -     -     -         2573    0    0 
+McElvis   986688183  8  5 c   k     k     f         2573   20    0 
+McElvis   986688217  8  4 f   -     -     -         2553    0    0 
+McElvis   986688243  8  3 f   -     -     -         2553    0    0 
+McElvis   986688276  9  2 Bf  -     -     -         2553   10    0 
+McElvis   986688310 10  1 Bf  -     -     -         2543    5    0 
+McElvis   986688359 10 10 f   -     -     -         2538    0    0 
+McElvis   986688398  9  8 r   c     c     k         2538   70    0 8d 6d
+McElvis   986688445  9  7 c   c     c     f         2468   70    0 
+McElvis   986688506  9  6 c   k     k     k         2398   10    0 Jc Kd
+McElvis   986688551  9  5 c   kc    kc    kc        2388   70    0 Js 8s
+McElvis   986688595  8  4 cc  rc    rc    c         2318  140    0 Qs Qh
+McElvis   986688643  8  3 cc  cf    -     -         2178   30    0 
+McElvis   986688684  8  2 Bc  kf    -     -         2148   20    0 
+McElvis   986688748  8  1 Bc  k     k     k         2128   10   20 Jc Jh
+McElvis   986688774  8  8 c   k     k     c         2138   30   45 Td Kc
+McElvis   986688874  7  6 c   f     -     -         2153   10    0 
+McElvis   986688945  7  6 f   -     -     -         2143    0    0 
+McElvis   986688963  7  5 f   -     -     -         2143    0    0 
+McElvis   986689003  7  4 c   kc    kc    kf        2143   40    0 
+McElvis   986689048  7  3 f   -     -     -         2103    0    0 
+McElvis   986689084  7  2 Bk  k     k     b         2103   30   80 Js 6s
+McElvis   986689122  8  1 Bc  b     k     b         2153   50  230 8c 8d
+McElvis   986689177 10 10 f   -     -     -         2333    0    0 
+McElvis   986689250 10  9 f   -     -     -         2333    0    0 
+McElvis   986689324  9  7 f   -     -     -         2333    0    0 
+McElvis   986689372  9  6 f   -     -     -         2333    0    0 
+McElvis   986689429  9  5 c   cc    kf    -         2333   40    0 
+McElvis   986689502 10  5 f   -     -     -         2293    0    0 
+McElvis   986689596 10  4 f   -     -     -         2293    0    0 
+McElvis   986689645 10  3 f   -     -     -         2293    0    0 
+McElvis   986689696  9  1 Bc  kf    -     -         2293   20    0 
+McElvis   986689755  9  1 Bc  kf    -     -         2273   10    0 
+McElvis   986689862 10 10 c   k     f     -         2263   10    0 
+McElvis   986689947 10  9 f   -     -     -         2253    0    0 
+McElvis   986690027  8  6 f   -     -     -         2253    0    0 
+McElvis   986690051  8  5 f   -     -     -         2253    0    0 
+McElvis   986690107  9  4 f   -     -     -         2253    0    0 
+McElvis   986690145  9  3 f   -     -     -         2253    0    0 
+McElvis   986690203 10  3 f   -     -     -         2253    0    0 
+McElvis   986690268  9  2 Bf  -     -     -         2253   10    0 
+McElvis   986690323  9  1 Bf  -     -     -         2243    5    0 
+McElvis   986690386  9  9 f   -     -     -         2238    0    0 
+McElvis   986690430 10  9 f   -     -     -         2238    0    0 
+McElvis   986690502 10  8 c   cc    c     f         2238   60    0 
+McElvis   986690573 10  7 cc  cc    kf    -         2178   50    0 
+McElvis   986690677 10  6 cc  kf    -     -         2128   20    0 
+McElvis   986690803 10  5 f   -     -     -         2108    0    0 
+McElvis   986690967  9  3 cc  kc    kf    -         2108   30    0 
+McElvis   986691042  8  3 f   -     -     -         2078    0    0 
+McElvis   986691121  9  2 Bf  -     -     -         2078   10    0 
+McElvis   986691207 10  1 Bf  -     -     -         2068    5    0 
+McElvis   986691276 10 10 f   -     -     -         2063    0    0 
+McElvis   986691349 10  9 f   -     -     -         2063    0    0 
+McElvis   986691400 10  8 f   -     -     -         2063    0    0 
+McElvis   986691463 10  7 c   f     -     -         2063   10    0 
+McElvis   986691546 10  6 f   -     -     -         2053    0    0 
+McElvis   986691675 10  5 f   -     -     -         2053    0    0 
+McElvis   986691750 10  4 f   -     -     -         2053    0    0 
+McElvis   986691821 10  3 f   -     -     -         2053    0    0 
+McElvis   986691873 10  2 Bk  kf    -     -         2053   10    0 
+McElvis   986691930  9  1 Bf  -     -     -         2043    5    0 
+McElvis   986691994 10 10 f   -     -     -         2038    0    0 
+McElvis   986692080 10  9 f   -     -     -         2038    0    0 
+McElvis   986692146 10  8 f   -     -     -         2038    0    0 
+McElvis   986692205 10  7 f   -     -     -         2038    0    0 
+McElvis   986692296 10  6 f   -     -     -         2038    0    0 
+McElvis   986692377 10  5 f   -     -     -         2038    0    0 
+McElvis   986692466 10  4 f   -     -     -         2038    0    0 
+McElvis   986692548 10  3 f   -     -     -         2038    0    0 
+McElvis   986692610 10  2 Bf  -     -     -         2038   10    0 
+McElvis   986692674  9  1 Bf  -     -     -         2028    5    0 
+McElvis   986692721 10 10 r   c     f     -         2023   30    0 
+McElvis   986692806 10  9 f   -     -     -         1993    0    0 
+McElvis   986692862 10  8 c   bc    kc    kf        1993   50    0 
+McElvis   986692953 10  7 f   -     -     -         1943    0    0 
+McElvis   986693001 10  6 f   -     -     -         1943    0    0 
+McElvis   986693069 10  5 f   -     -     -         1943    0    0 
+McElvis   986693134 10  4 f   -     -     -         1943    0    0 
+McElvis   986693204 10  3 f   -     -     -         1943    0    0 
+McElvis   986693276 10  2 Bk  kf    -     -         1943   10    0 
+McElvis   986693329 10  1 Bc  k     k     kf        1933   10    0 
+McElvis   986693407 10 10 f   -     -     -         1923    0    0 
+McElvis   986693499 10  9 f   -     -     -         1923    0    0 
+McElvis   986693568 10  8 f   -     -     -         1923    0    0 
+McElvis   986693621 10  7 f   -     -     -         1923    0    0 
+McElvis   986693699 10  6 f   -     -     -         1923    0    0 
+McElvis   986693803 10  5 f   -     -     -         1923    0    0 
+McElvis   986693843 10  4 f   -     -     -         1923    0    0 
+McElvis   986693884 10  3 f   -     -     -         1923    0    0 
+McElvis   986693964 10  2 Bk  kf    -     -         1923   10    0 
+McElvis   986694018 10  1 Bc  kf    -     -         1913   10    0 
+McElvis   986694068 10 10 f   -     -     -         1903    0    0 
+McElvis   986694126 10  9 f   -     -     -         1903    0    0 
+McElvis   986694169 10  8 f   -     -     -         1903    0    0 
+McElvis   986694208 10  8 f   -     -     -         1903    0    0 
+McElvis   986694252 10  6 f   -     -     -         1903    0    0 
+McElvis   986694288 10  5 f   -     -     -         1903    0    0 
+McElvis   986694330 10  4 c   f     -     -         1903   10    0 
+McElvis   986694369 10  3 f   -     -     -         1893    0    0 
+McElvis   986694416 10  2 Bc  c     kf    -         1893   30    0 
+McElvis   986694464 10  1 Bc  k     kf    -         1863   20    0 
+McElvis   986694495 10 10 f   Q     -     -         1843    0    0 
+McElvis   986840092 10  5 f   -     -     -         1843    0    0 
+McElvis   986840200 10  4 f   -     -     -         1843    0    0 
+McElvis   986840265 10  3 f   -     -     -         1843    0    0 
+McElvis   986840310 10  2 Bk  k     kf    -         1843   10    0 
+McElvis   986840383  7  1 Bf  -     -     -         1833    5    0 
+McElvis   986840432  7  7 f   -     -     -         1828    0    0 
+McElvis   986840487  6  5 f   -     -     -         1828    0    0 
+McElvis   986840545  7  5 f   -     -     -         1828    0    0 
+McElvis   986840584  7  4 cc  f     -     -         1828   20    0 
+McElvis   986840661  7  3 cc  kc    k     k         1808   30    0 6d 7d
+McElvis   986840713  6  2 Bk  k     k     k         1778   10   20 3c Js
+McElvis   986840745  6  1 Bc  k     kc    brc       1788  110  260 As Ac
+McElvis   986840813  5  5 cc  c     k     r         1938   70  170 As 7s
+McElvis   986840862  5  4 f   -     -     -         2038    0    0 
+McElvis   986840880  6  3 c   c     c     c         2038   60  150 Ts Td
+McElvis   986840914  6  2 Bf  -     -     -         2128   10    0 
+McElvis   986840930  6  1 Bc  kf    -     -         2118   20    0 
+McElvis   986840980  5  5 cc  c     rc    c         2098  110  225 7h As
+McElvis   986841017  5  4 cf  -     -     -         2213   10    0 
+McElvis   986841045  5  3 f   -     -     -         2203    0    0 
+McElvis   986841059  5  2 Bk  kf    -     -         2203   10    0 
+McElvis   986841122  7  1 Bc  kc    kf    -         2193   30    0 
+McElvis   986841162  8  8 c   k     c     f         2163   40    0 
+McElvis   986841229  8  7 f   -     -     -         2123    0    0 
+McElvis   986841289  9  7 f   -     -     -         2123    0    0 
+McElvis   986841359 10  7 f   -     -     -         2123    0    0 
+McElvis   986841429 10  6 f   -     -     -         2123    0    0 
+McElvis   986841490 10  5 f   -     -     -         2123    0    0 
+McElvis   986841595 10  4 cc  krc   bc    bc        2123  160  645 Ts Td
+McElvis   986841686  8  2 Bf  -     -     -         2608   10    0 
+McElvis   986841755  8  1 Bf  -     -     -         2598    5    0 
+McElvis   986841850  9  9 c   r     b     k         2593   50  215 Qh Ah
+McElvis   986841929  7  6 f   -     -     -         2758    0    0 
+McElvis   986841980  7  6 f   -     -     -         2758    0    0 
+McElvis   986842017  7  5 c   f     -     -         2758   10    0 
+McElvis   986842081  7  5 f   -     -     -         2748    0    0 
+McElvis   986842123  6  3 f   -     -     -         2748    0    0 
+McElvis   986842187  7  2 Bk  kf    -     Q         2748   10    0 
+McElvis   986854286  9  6 f   -     -     -         2738    0    0 
+McElvis   986854367  9  5 f   -     -     -         2738    0    0 
+McElvis   986854445  9  4 f   -     -     -         2738    0    0 
+McElvis   986854506  8  3 cc  kc    kc    kc        2738   80    0 Qh As
+McElvis   986854548  8  2 Bf  -     -     -         2658   10    0 
+McElvis   986854581  8  1 Bcc kcc   kc    kf        2648  120    0 
+McElvis   986854634  8  8 f   -     -     -         2528    0    0 
+McElvis   986854659  8  7 f   -     -     -         2528    0    0 
+McElvis   986854700  9  7 f   -     -     -         2528    0    0 
+McElvis   986854731  9  6 f   -     -     -         2528    0    0 
+McElvis   986854765 10  6 f   -     -     -         2528    0    0 
+McElvis   986854791 10  5 ccc f     -     -         2528   40    0 
+McElvis   986854873  9  3 f   -     -     -         2488    0    0 
+McElvis   986854937  9  2 Bc  kf    -     -         2488   20    0 
+McElvis   986854987  9  1 Bc  kf    -     -         2468   20    0 
+McElvis   986855038  9  9 c   c     k     f         2448   20    0 
+McElvis   986855084  9  8 f   -     -     -         2428    0    0 
+McElvis   986855132  9  7 c   k     k     f         2428   10    0 
+McElvis   986855180  9  6 f   -     -     -         2418    0    0 
+McElvis   986855246 10  6 f   -     -     -         2418    0    0 
+McElvis   986855308 10  5 f   -     -     -         2418    0    0 
+McElvis   986855368 10  4 c   c     c     c         2418   60    0 Td Ah
+McElvis   986855420 10  3 f   -     -     -         2358    0    0 
+McElvis   986855510 10  2 Bf  -     -     -         2358   10    0 
+McElvis   986855571 10  1 Bf  -     -     -         2348    5    0 
+McElvis   986855647 10 10 c   c     rc    c         2343  100    0 Ks Js
+McElvis   986855718 10  9 f   -     -     -         2243    0    0 
+McElvis   986855763 10  8 c   c     cc    f         2243   80    0 
+McElvis   986855843 10  7 c   kc    fQ    -         2163   20    0 
+McElvis   987365271  8  6 f   -     -     -         3261    0    0 
+McElvis   987365330  8  5 f   -     -     -         3261    0    0 
+McElvis   987365357  7  3 f   -     -     -         3261    0    0 
+McElvis   987365422  6  2 f   -     -     -         3261    0    0 
+McElvis   987365481  7  2 Bf  -     -     -         3261   10    0 
+McElvis   987365567  6  1 Bf  -     -     -         3251    5    0 
+McElvis   987365610  6  6 c   f     -     -         3246   20    0 
+McElvis   987365643  6  5 f   -     -     -         3226    0    0 
+McElvis   987365681  5  3 c   k     k     k         3226   10   25 As 3s
+McElvis   987365713  5  2 Bf  -     -     -         3241   10    0 
+McElvis   987365757  5  1 Bf  -     -     -         3231    5    0 
+McElvis   987365765  5  5 f   -     -     -         3226    0    0 
+McElvis   987365773  6  5 cc  c     r     -         3226   70  160 
+McElvis   987365810  6  4 f   -     -     -         3316    0    0 
+McElvis   987365852  6  3 c   k     b     -         3316   30   50 
+McElvis   987365906  6  2 Br  bc    kc    kc        3336  100    0 9c Th
+McElvis   987365989  6  1 Bc  kc    kc    k         3236   40    0 Qs Ts
+McElvis   987366056  7  7 r   b     b     c         3196   70  215 Kd Qd
+McElvis   987366123  8  7 f   -     -     -         3341    0    0 
+McElvis   987366214  8  6 f   -     -     -         3341    0    0 
+McElvis   987366250  8  5 cc  c     f     -         3341   30    0 
+McElvis   987366320  8  4 f   -     -     -         3311    0    0 
+McElvis   987366437  7  3 f   -     -     -         3311    0    0 
+McElvis   987366465  6  2 Bk  k     k     kf        3311   10    0 
+McElvis   987366510  7  1 Bc  k     kf    -         3301   10    0 
+McElvis   987366567  7  7 r   k     b     k         3291   40   85 6h 4h
+McElvis   987366604  7  6 f   -     -     -         3336    0    0 
+McElvis   987366622  7  5 f   -     -     -         3336    0    0 
+McElvis   987366640  7  4 f   -     -     -         3336    0    0 
+McElvis   987366673  7  3 f   -     -     -         3336    0    0 
+McElvis   987366722  7  2 Bf  -     -     -         3336   10    0 
+McElvis   987366785  7  1 Bc  k     kc    kc        3326   50    0 Ad Ks
+McElvis   987366832  6  6 r   k     k     k         3276   30   75 Qh Th
+McElvis   987366891  5  5 c   k     f     -         3321   20    0 
+McElvis   987366940  5  4 c   brc   c     c         3301   90  185 Ah 9c
+McElvis   987366977  5  3 f   -     -     -         3396    0    0 
+McElvis   987366984  5  2 Bf  -     -     -         3396   10    0 
+McElvis   987367010  5  1 Bc  k     k     kf        3386   10    0 
+McElvis   987367058  5  5 c   c     c     k         3376   50  115 Th Qd
+McElvis   987367087  4  3 f   -     -     -         3441    0    0 
+McElvis   987367100  4  2 Bf  -     -     -         3441   10    0 
+McElvis   987367120  4  1 Bc  k     k     k         3431   10   20 Ks 9c
+McElvis   987367152  4  4 c   k     c     f         3441   30    0 
+McElvis   987367185  4  3 f   -     -     -         3411    0    0 
+McElvis   987367201  4  2 B   -     -     -         3411   10   15 
+McElvis   987367205  4  1 Bc  k     b     -         3416   30   50 
+McElvis   987367244  4  4 f   Q     -     -         3436    0    0 
+McElvis   987367639  5  4 f   -     -     -         3436    0    0 
+McElvis   987367812  4  3 c   k     k     f         3436   10    0 
+McElvis   987367869  4  2 Bk  f     -     -         3426   10    0 
+McElvis   987367902  5  1 Bc  kc    kc    kc        3416   60    0 Jc 3c
+McElvis   987367930  5  5 c   k     f     -         3356   10    0 
+McElvis   987367994  5  4 f   -     -     -         3346    0    0 
+McElvis   987368063  7  3 f   -     -     -         3346    0    0 
+McElvis   987368102  8  2 Bf  -     -     -         3346   10    0 
+McElvis   987368148  8  1 Bc  bc    kc    kc        3336   80  280 Th Js
+McElvis   987368201  8  8 f   -     -     -         3536    0    0 
+McElvis   987368273 10  9 f   -     -     -         3536    0    0 
+McElvis   987368349 10  8 f   -     -     -         3536    0    0 
+McElvis   987368417  9  6 f   -     -     -         3536    0    0 
+McElvis   987368458  7  5 f   -     -     -         3536    0    0 
+McElvis   987368520  8  4 cc  f     -     -         3536   20    0 
+McElvis   987368568  8  3 f   -     -     -         3516    0    0 
+McElvis   987368648  8  2 Bk  f     -     -         3516   10    0 
+McElvis   987368726  9  1 Bc  kc    kc    bc        3506   90  270 As Ad
+McElvis   987368774  9  9 c   b     b     b         3686   60  170 9h Js
+McElvis   987368837  9  8 f   -     -     -         3796    0    0 
+McElvis   987368919  8  6 f   -     -     -         3796    0    0 
+McElvis   987369006  8  5 c   k     b     k         3796   30   75 Jh Kh
+McElvis   987369046  8  4 c   k     kf    -         3841   10    0 
+McElvis   987369083  8  3 rc  kc    kc    kc        3831   80    0 4d 3d
+McElvis   987369137  8  2 Bf  -     -     -         3751   10    0 
+McElvis   987369220  7  1 Bcc kf    -     -         3741   20    0 
+McElvis   987369288  7  7 c   c     c     r         3721   80    0 9s Js
+McElvis   987369331  7  6 c   k     k     k         3641   10   45 Kh 4h
+McElvis   987369373  7  5 c   c     c     cc        3676   90    0 As Qh
+McElvis   987369452  8  5 f   -     -     -         3586    0    0 
+McElvis   987369535  8  4 c   k     f     -         3586   10    0 
+McElvis   987369630  8  3 c   k     f     -         3576   10    0 
+McElvis   987369694  8  2 Bk  c     c     c         3566   60    0 Ac 2c
+McElvis   987369723  9  1 Bf  -     -     -         3506    5    0 
+McElvis   987369799  9  9 f   -     -     -         3501    0    0 
+McElvis   987369852  9  8 f   -     -     -         3501    0    0 
+McElvis   987369906  8  7 f   -     -     -         3501    0    0 
+McElvis   987369957  7  6 c   f     -     -         3501   10    0 
+McElvis   987369987  7  5 c   k     c     k         3491   30    0 6d 8d
+McElvis   987370029  6  3 c   k     f     -         3461   10    0 
+McElvis   987370077  6  2 Bk  k     kKQ   -         3451   10    0 
+McElvis   987370450  8  4 cc  kc    k     k         3441   30    0 Qc Tc
+McElvis   987370492  8  3 cc  kc    kf    -         3411   30    0 
+McElvis   987370544  8  2 Bk  r     b     b         3381   70    0 As Ad
+McElvis   987370586  8  1 Bcc kc    kc    k         3311   50    0 3c 5d
+McElvis   987370657  9  9 c   k     k     f         3261   20    0 
+McElvis   987370705 10  9 f   -     -     -         3241    0    0 
+McElvis   987370761 10  9 c   k     f     -         3241   10    0 
+McElvis   987370831 10  7 c   f     -     -         3231   10    0 
+McElvis   987370886 10  6 cc  cc    kf    -         3221   40    0 
+McElvis   987370969 10  5 f   -     -     -         3181    0    0 
+McElvis   987371010 10  4 c   c     c     c         3181   60  125 Kh 9h
+McElvis   987371050 10  3 f   -     -     -         3246    0    0 
+McElvis   987371110 10  2 Bk  kf    -     -         3246   10    0 
+McElvis   987371169  9  1 Bc  kc    kc    k         3236   40    0 Qd 7d
+McElvis   987371232 10 10 c   c     k     f         3196   30    0 
+McElvis   987371279 10  9 f   -     -     -         3166    0    0 
+McElvis   987371315 10  8 c   rc    c     b         3166   80  230 Ac 3s
+McElvis   987371446 10  7 f   -     -     -         3316    0    0 
+McElvis   987371482 10  6 r   kc    b     b         3316   70  245 6h 3h
+McElvis   987371542 10  5 r   r     c     c         3491   90    0 8c 4c
+McElvis   987371598 10  4 c   k     k     k         3401   10    0 Qd Jc
+McElvis   987371645 10  3 f   -     -     -         3391    0    0 
+McElvis   987371698 10  2 Bk  k     k     kf        3391   10    0 
+McElvis   987371754 10  1 Bc  kc    b     kc        3381   70  170 2s Ts
+McElvis   987371789 10 10 f   Q     -     -         3481    0    0 
+McElvis   987383828  9  2 Bk  kc    k     kc        4056   40    0 2h 6d
+McElvis   987383869  9  1 Bc  kc    kc    kc        4016   70    0 5h 8h
+McElvis   987383928 10 10 c   c     f     -         3946   20    0 
+McElvis   987383988 10  9 f   -     -     -         3926    0    0 
+McElvis   987384033 10  8 f   -     -     -         3926    0    0 
+McElvis   987384081 10  7 cc  kc    kf    -         3926   30    0 
+McElvis   987384182 10  6 f   -     -     -         3896    0    0 
+McElvis   987384233 10  5 f   -     -     -         3896    0    0 
+McElvis   987384273 10  4 f   -     -     -         3896    0    0 
+McElvis   987384320 10  3 f   -     -     -         3896    0    0 
+McElvis   987384407 10  2 Bf  -     -     -         3896   10    0 
+McElvis   987384466 10  1 Bc  k     k     k         3886   10   50 Ks Kh
+McElvis   987384543 10 10 c   b     k     k         3926   20   65 As Ad
+McElvis   987384593  9  8 f   -     -     -         3971    0    0 
+McElvis   987384653  9  7 f   -     -     -         3971    0    0 
+McElvis   987384689  9  6 c   f     -     -         3971   20    0 
+McElvis   987384726  9  5 f   -     -     -         3951    0    0 
+McElvis   987384775  9  4 c   k     b     -         3951   30   70 
+McElvis   987384808  9  2 Bk  kf    -     -         3991   10    0 
+McElvis   987384856  8  1 Bf  -     -     -         3981    5    0 
+McElvis   987384922 10 10 c   k     c     k         3976   40  105 Jd Kd
+McElvis   987384973 10  9 f   -     -     -         4041    0    0 
+McElvis   987385078 10  8 f   -     -     -         4041    0    0 
+McElvis   987385144 10  7 f   -     -     -         4041    0    0 
+McElvis   987385196 10  6 c   c     f     -         4041   30    0 
+McElvis   987385265 10  5 c   kc    c     f         4011   40    0 
+McElvis   987385358 10  4 f   -     -     -         3971    0    0 
+McElvis   987385417 10  3 cc  kc    kc    kc        3971   80    0 Kh Ad
+McElvis   987385488 10  2 Bc  k     kc    kc        3891   60  225 2d 4d
+McElvis   987385568 10  1 Bc  kc    kf    -         4056   20    0 
+McElvis   987385618 10 10 f   -     -     -         4036    0    0 
+McElvis   987385692 10  9 c   f     -     -         4036   10    0 
+McElvis   987385800 10  8 f   Q     -     -         4026    0    0 
+McElvis   987559872  9  8 f   -     -     -         3591    0    0 
+McElvis   987559932  9  7 f   -     -     -         3591    0    0 
+McElvis   987560004  8  5 c   rc    rr    b         3591  150  435 Kd Kc
+McElvis   987560045  8  4 c   f     -     -         3876   10    0 
+McElvis   987560069  8  3 f   -     -     -         3866    0    0 
+McElvis   987560094  8  2 Brc c     c     c         3866   90    0 As Kh
+McElvis   987560139  8  1 Bc  kc    kc    k         3776   40   80 Ac Td
+McElvis   987560174  9  9 c   f     -     -         3816   20    0 
+McElvis   987560212 10  8 f   -     -     -         3796    0    0 
+McElvis   987560303 10  7 f   -     -     -         3796    0    0 
+McElvis   987560406 10  6 f   -     -     -         3796    0    0 
+McElvis   987560465 10  5 r   b     b     b         3796   70    0 6d 4d
+McElvis   987560522 10  4 f   -     -     -         3726    0    0 
+McElvis   987560595 10  3 f   -     -     -         3726    0    0 
+McElvis   987560648 10  2 Bk  kf    -     -         3726   10    0 
+McElvis   987560731 10  1 Bf  -     -     -         3716    5    0 
+McElvis   987560797 10 10 f   -     -     -         3711    0    0 
+McElvis   987560861 10  9 f   -     -     -         3711    0    0 
+McElvis   987560898 10  8 f   -     -     -         3711    0    0 
+McElvis   987560940 10  7 f   -     -     -         3711    0    0 
+McElvis   987560971 10  6 f   -     -     -         3711    0    0 
+McElvis   987561025 10  5 f   -     -     -         3711    0    0 
+McElvis   987561075 10  4 f   -     -     -         3711    0    0 
+McElvis   987561122 10  3 f   -     -     -         3711    0    0 
+McElvis   987561178 10  2 Bk  kc    kf    -         3711   20    0 
+McElvis   987561231 10  1 Bf  -     -     -         3691    5    0 
+McElvis   987561281 10 10 c   c     c     f         3686   50    0 
+McElvis   987561352 10  9 f   -     -     -         3636    0    0 
+McElvis   987561399 10  8 f   -     -     -         3636    0    0 
+McElvis   987561453 10  7 c   c     c     c         3636   70    0 3d 3h
+McElvis   987561485 10  6 f   -     -     -         3566    0    0 
+McElvis   987561541 10  5 f   -     -     -         3566    0    0 
+McElvis   987561572 10  4 f   -     -     -         3566    0    0 
+McElvis   987561590 10  3 f   -     -     -         3566    0    0 
+McElvis   987561626 10  2 Bk  cf    -     -         3566   20    0 
+McElvis   987561678 10  1 Bf  -     -     -         3546    5    0 
+McElvis   987561748 10 10 f   -     -     -         3541    0    0 
+McElvis   987561792 10  9 rc  c     c     c         3541   80    0 2h 2c
+McElvis   987561850 10  8 c   f     -     -         3461   10    0 
+McElvis   987561886 10  7 f   -     -     -         3451    0    0 
+McElvis   987561929 10  6 f   -     -     -         3451    0    0 
+McElvis   987561965 10  5 f   -     -     -         3451    0    0 
+McElvis   987562025 10  4 f   -     -     -         3451    0    0 
+McElvis   987562044 10  3 f   -     -     -         3451    0    0 
+McElvis   987562098 10  2 Bk  kc    kc    kc        3451   60    0 Ts Jd
+McElvis   987562181 10  1 Bf  -     -     -         3391    5    0 
+McElvis   987562309 10 10 f   -     -     -         3386    0    0 
+McElvis   987562355 10  9 f   -     -     -         3386    0    0 
+McElvis   987562401 10  8 f   -     -     -         3386    0    0 
+McElvis   987562461 10  7 f   -     -     -         3386    0    0 
+McElvis   987562489 10  6 cc  kc    kc    k         3386   50    0 9h Th
+McElvis   987562534 10  5 c   c     f     -         3336   20    0 
+McElvis   987562582 10  4 c   kf    -     -         3316   10    0 
+McElvis   987562632 10  3 c   c     c     r         3306   80    0 4s 5s
+McElvis   987562669 10  2 Bk  k     k     k         3226   10    0 4h 2d
+McElvis   987562701 10  1 Bf  -     -     -         3216    5    0 
+McElvis   987562722 10 10 c   c     r     k         3211   60   75 Qs As
+McElvis   987562789 10  9 c   f     -     -         3226   10    0 
+McElvis   987562836 10  8 cc  c     c     c         3216   90  280 3h Kh
+McElvis   987562907 10  7 f   -     -     -         3406    0    0 
+McElvis   987562994 10  6 f   -     -     -         3406    0    0 
+McElvis   987563087 10  5 f   -     -     -         3406    0    0 
+McElvis   987563140 10  4 f   -     -     -         3406    0    0 
+McElvis   987563164 10  3 f   -     -     -         3406    0    0 
+McElvis   987563227 10  2 Bf  -     -     -         3406   10    0 
+McElvis   987563257 10  1 Bc  kf    -     -         3396   20    0 
+McElvis   987563309 10 10 c   c     c     f         3376   50    0 
+McElvis   987563379 10  9 c   c     f     -         3326   30    0 
+McElvis   987563439 10  8 f   -     -     -         3296    0    0 
+McElvis   987563472 10  7 f   -     -     -         3296    0    0 
+McElvis   987563508 10  6 cc  kc    k     k         3296   30    0 Jd 8d
+McElvis   987563579 10  5 f   -     -     -         3266    0    0 
+McElvis   987563619 10  4 f   -     -     -         3266    0    0 
+McElvis   987563672 10  3 f   -     -     -         3266    0    0 
+McElvis   987563717 10  2 Bk  kc    kc    kf        3266   40    0 
+McElvis   987563775 10  1 Bc  kc    kc    k         3226   40    0 4s 8s
+McElvis   987563818 10 10 f   -     -     -         3186    0    0 
+McElvis   987563902 10  9 c   k     c     f         3186   40    0 
+McElvis   987563972 10  8 f   -     -     -         3146    0    0 
+McElvis   987564020 10  7 f   -     -     -         3146    0    0 
+McElvis   987564047 10  6 f   -     -     -         3146    0    0 
+McElvis   987564123 10  5 f   -     -     -         3146    0    0 
+McElvis   987564169 10  4 f   -     -     -         3146    0    0 
+McElvis   987564215 10  3 f   -     -     -         3146    0    0 
+McElvis   987564298 10  2 Bk  kf    -     -         3146   10    0 
+McElvis   987564354 10  1 Bf  -     -     -         3136    5    0 
+McElvis   987564429 10 10 f   -     -     -         3131    0    0 
+McElvis   987564469 10  9 c   k     f     -         3131   10    0 
+McElvis   987564541 10  8 f   -     -     -         3121    0    0 
+McElvis   987564586 10  7 f   -     -     -         3121    0    0 
+McElvis   987564653 10  6 f   Q     -     -         3121    0    0 
+McElvis   987723807  7  6 c   f     -     -         2946   10    0 
+McElvis   987723867  7  6 f   -     -     -         2936    0    0 
+McElvis   987723906  7  5 c   k     f     -         2936   10    0 
+McElvis   987723940  7  4 f   -     -     -         2926    0    0 
+McElvis   987723951  7  3 r   b     k     k         2926   30   85 Qc Tc
+McElvis   987723989  7  2 Br  kc    kc    k         2981   50  150 Jh Kh
+McElvis   987724039  7  1 Bf  -     -     -         3081    5    0 
+McElvis   987724056  7  7 f   -     -     -         3076    0    0 
+McElvis   987724094  9  6 f   -     -     -         3076    0    0 
+McElvis   987724147  9  5 f   -     -     -         3076    0    0 
+McElvis   987724191  9  4 f   -     -     -         3076    0    0 
+McElvis   987724279 10  3 f   -     -     -         3076    0    0 
+McElvis   987724323 10  2 Bk  k     kf    -         3076   10    0 
+McElvis   987724369 10  1 Bc  k     b     -         3066   40  120 
+McElvis   987724423 10 10 c   c     c     c         3146   70    0 3d 7d
+McElvis   987724483 10  9 f   -     -     -         3076    0    0 
+McElvis   987724560 10  8 f   -     -     -         3076    0    0 
+McElvis   987724637 10  7 f   -     -     -         3076    0    0 
+McElvis   987724687 10  6 f   -     -     -         3076    0    0 
+McElvis   987724732 10  5 f   -     -     -         3076    0    0 
+McElvis   987724764 10  4 f   -     -     -         3076    0    0 
+McElvis   987724830 10  3 rc  kc    f     -         3076   50    0 
+McElvis   987724895 10  2 Bk  k     k     b         3026   30   75 6s Qh
+McElvis   987724942 10  1 Bf  -     -     -         3071    5    0 
+McElvis   987725000 10 10 c   f     -     -         3066   10    0 
+McElvis   987725070 10  9 f   -     -     -         3056    0    0 
+McElvis   987725095 10  8 cc  k     b     b         3056   60    0 3c 6c
+McElvis   987725191 10  7 cc  kc    kc    kc        2996   70    0 Tc As
+McElvis   987725236 10  6 c   b     -     -         2926   20   75 
+McElvis   987725282 10  5 f   -     -     -         2981    0    0 
+McElvis   987725345 10  4 f   -     -     -         2981    0    0 
+McElvis   987725420 10  3 f   -     -     -         2981    0    0 
+McElvis   987725458 10  2 Bk  kc    kc    kf        2981   40    0 
+McElvis   987725543 10  1 Bf  -     -     -         2941    5    0 
+McElvis   987725630 10 10 cc  c     c     k         2936   60    0 Qd Js
+McElvis   987725725 10  9 c   cc    c     f         2876   90    0 
+McElvis   987725860 10  8 f   -     -     -         2786    0    0 
+McElvis   987725950 10  7 f   -     -     -         2786    0    0 
+McElvis   987726036 10  6 f   -     -     -         2786    0    0 
+McElvis   987726078 10  5 f   -     -     -         2786    0    0 
+McElvis   987726146 10  4 f   -     -     -         2786    0    0 
+McElvis   987726200 10  3 f   -     -     -         2786    0    0 
+McElvis   987726235 10  2 Bk  kf    -     -         2786   10    0 
+McElvis   987726293 10  1 Bf  -     -     -         2776    5    0 
+McElvis   987726378 10 10 f   -     -     -         2771    0    0 
+McElvis   987726421 10  9 f   -     -     -         2771    0    0 
+McElvis   987726513 10  8 f   -     -     -         2771    0    0 
+McElvis   987726592 10  7 f   -     -     -         2771    0    0 
+McElvis   987726666 10  6 f   -     -     -         2771    0    0 
+McElvis   987726727 10  5 f   -     -     -         2771    0    0 
+McElvis   987726821 10  4 f   -     -     -         2771    0    0 
+McElvis   987726888 10  3 f   -     -     -         2771    0    0 
+McElvis   987726954 10  2 Bf  -     -     -         2771   10    0 
+McElvis   987727003 10  1 Bf  -     -     -         2761    5    0 
+McElvis   987727034 10 10 f   -     -     -         2756    0    0 
+McElvis   987727084 10  9 c   f     -     -         2756   10    0 
+McElvis   987727156 10  8 c   c     c     b         2746   60  145 Jc 7c
+McElvis   987727206 10  7 f   -     -     -         2831    0    0 
+McElvis   987727285 10  6 c   k     b     k         2831   30   85 5d 7d
+McElvis   987727355 10  5 f   -     -     -         2886    0    0 
+McElvis   987727457 10  4 f   -     -     -         2886    0    0 
+McElvis   987727522 10  3 f   -     -     -         2886    0    0 
+McElvis   987727570 10  2 Bf  -     -     -         2886   10    0 
+McElvis   987727619 10  1 Bf  -     -     -         2876    5    0 
+McElvis   987727693 10 10 f   -     -     -         2871    0    0 
+McElvis   987727767 10  9 f   -     -     -         2871    0    0 
+McElvis   987727821 10  8 r   k     k     k         2871   20   55 As Ks
+McElvis   987727864 10  7 f   -     -     -         2906    0    0 
+McElvis   987727909 10  6 r   b     k     f         2906   30    0 
+McElvis   987727981 10  5 r   kc    kf    -         2876   30    0 
+McElvis   987728063 10  4 cc  kf    -     -         2846   20    0 
+McElvis   987728138 10  3 f   -     -     -         2826    0    0 
+McElvis   987728202 10  2 Bk  kc    bc    bc        2826  100  360 Ks Js
+McElvis   987728331 10  1 Bf  -     -     -         3086    5    0 
+McElvis   987728393 10 10 c   f     -     -         3081   10    0 
+McElvis   987728464 10  9 c   f     -     -         3071   10    0 
+McElvis   987728516 10  8 f   -     -     -         3061    0    0 
+McElvis   987728607 10  7 f   -     -     -         3061    0    0 
+McElvis   987728717 10  6 f   -     -     -         3061    0    0 
+McElvis   987728785 10  5 f   -     -     -         3061    0    0 
+McElvis   987728905 10  4 cc  f     -     -         3061   20    0 
+McElvis   987729024 10  3 f   -     -     -         3041    0    0 
+McElvis   987729086 10  2 Bk  kf    -     -         3041   10    0 
+McElvis   987729259 10  1 Bc  kc    kc    kc        3031   80    0 Jh Ad
+McElvis   987729392  9  9 f   -     -     -         2951    0    0 
+McElvis   987729444 10  9 f   -     -     -         2951    0    0 
+McElvis   987729487 10  8 f   -     -     -         2951    0    0 
+McElvis   987729540 10  8 f   -     -     -         2951    0    0 
+McElvis   987729615  9  6 f   -     -     -         2951    0    0 
+McElvis   987729692  9  5 f   -     -     -         2951    0    0 
+McElvis   987729739  9  4 f   -     -     -         2951    0    0 
+McElvis   987729789  8  2 B   -     -     -         2951   10   15 
+McElvis   987729810  6  1 Bc  kc    k     b         2956   60  170 
+McElvis   987729888  8  8 f   -     -     -         3066    0    0 
+McElvis   987729910  8  7 f   -     -     -         3066    0    0 
+McElvis   987729959  9  6 f   -     -     -         3066    0    0 
+McElvis   987729996  9  6 cc  kc    kc    kf        3066   50    0 
+McElvis   987730072  9  5 r   kc    kc    kc        3016   70  180 Ac Qc
+McElvis   987730123  9  3 f   -     -     -         3126    0    0 
+McElvis   987730180  9  2 Bf  -     -     -         3126   10    0 
+McElvis   987730226  9  1 Bf  -     -     -         3116    5    0 
+McElvis   987730301  9  9 f   -     -     -         3111    0    0 
+McElvis   987730317 10  9 f   -     -     -         3111    0    0 
+McElvis   987730412 10  7 fQ  -     -     -         3111    0    0 
+McElvis   987950524  9  3 f   -     -     -         2675    0    0 
+McElvis   987950575  9  2 Bk  k     k     k         2675   10   60 Ah Tc
+McElvis   987950663  9  1 Bf  -     -     -         2725    5    0 
+McElvis   987950718  9  9 f   -     -     -         2720    0    0 
+McElvis   987950756  9  8 f   -     -     -         2720    0    0 
+McElvis   987950808  9  7 f   -     -     -         2720    0    0 
+McElvis   987950867  9  6 f   -     -     -         2720    0    0 
+McElvis   987950942  8  5 f   -     -     -         2720    0    0 
+McElvis   987950993  7  4 f   -     -     -         2720    0    0 
+McElvis   987951047  7  3 c   k     c     k         2720   30   70 8s Qs
+McElvis   987951092  7  2 Bk  k     b     -         2760   30   45 
+McElvis   987951128  7  1 Bc  k     k     k         2775   10   20 2s 5s
+McElvis   987951154  7  7 f   -     -     -         2785    0    0 
+McElvis   987951217  7  6 f   -     -     -         2785    0    0 
+McElvis   987951257  8  5 r   c     f     -         2785   30    0 
+McElvis   987951307  7  3 c   k     kf    -         2755   10    0 
+McElvis   987951400  7  2 Bk  k     k     b         2745   30   65 
+McElvis   987951433  7  1 Bf  -     -     -         2780    5    0 
+McElvis   987951457  7  7 f   -     -     -         2775    0    0 
+McElvis   987951484  7  6 cc  c     c     f         2775   50    0 
+McElvis   987951523  7  5 f   -     -     -         2725    0    0 
+McElvis   987951546  7  4 f   -     -     -         2725    0    0 
+McElvis   987951591  7  3 f   -     -     -         2725    0    0 
+McElvis   987951613  8  2 Bk  kf    -     -         2725   10    0 
+McElvis   987951658  7  1 Bf  -     -     -         2715    5    0 
+McElvis   987951680  7  7 f   -     -     -         2710    0    0 
+McElvis   987951701  7  6 f   -     -     -         2710    0    0 
+McElvis   987951721  7  5 c   k     k     k         2710   10    0 Kh 7h
+McElvis   987951769  7  4 f   -     -     -         2700    0    0 
+McElvis   987951785  7  3 f   -     -     -         2700    0    0 
+McElvis   987951815  7  2 Bk  kf    -     -         2700   10    0 
+McElvis   987951848  7  1 Bc  kf    -     -         2690   10    0 
+McElvis   987951875  8  8 f   -     -     -         2680    0    0 
+McElvis   987951957  9  8 c   c     f     -         2680   30    0 
+McElvis   987952030  9  7 f   -     -     -         2650    0    0 
+McElvis   987952075  7  4 f   -     -     -         2650    0    0 
+McElvis   987952118  7  3 f   -     -     -         2650    0    0 
+McElvis   987952159  7  2 Bf  -     -     -         2650   10    0 
+McElvis   987952166  7  1 Bc  k     k     kc        2640   30   45 4c 2c
+McElvis   987952199  8  8 f   -     -     -         2655    0    0 
+McElvis   987952232  8  7 f   -     -     -         2655    0    0 
+McElvis   987952264  8  6 f   -     -     -         2655    0    0 
+McElvis   987952296  9  6 f   -     -     -         2655    0    0 
+McElvis   987952342 10  6 f   -     -     -         2655    0    0 
+McElvis   987952420 10  5 f   -     -     -         2655    0    0 
+McElvis   987952460 10  4 f   -     -     -         2655    0    0 
+McElvis   987952527 10  3 f   -     -     -         2655    0    0 
+McElvis   987952569 10  2 Bf  -     -     -         2655   10    0 
+McElvis   987952615 10  1 Bf  -     -     -         2645    5    0 
+McElvis   987952666 10 10 f   -     -     -         2640    0    0 
+McElvis   987952704 10  9 c   f     -     -         2640   10    0 
+McElvis   987952756 10  8 rc  c     c     f         2630  100    0 
+McElvis   987952815 10  7 f   -     -     -         2530    0    0 
+McElvis   987952858 10  6 f   -     -     -         2530    0    0 
+McElvis   987952922 10  5 f   -     -     -         2530    0    0 
+McElvis   987952965 10  4 f   -     -     -         2530    0    0 
+McElvis   987953027 10  3 f   -     -     -         2530    0    0 
+McElvis   987953058 10  2 Bk  kc    kf    -         2530   20    0 
+McElvis   987953099 10  1 Bc  k     k     kf        2510   10    0 
+McElvis   987953150 10 10 f   -     -     -         2500    0    0 
+McElvis   987953198 10  9 f   -     -     -         2500    0    0 
+McElvis   987953236 10  8 f   -     -     -         2500    0    0 
+McElvis   987953278 10  7 f   -     -     -         2500    0    0 
+McElvis   987953337 10  6 f   -     -     -         2500    0    0 
+McElvis   987953401 10  5 f   -     -     -         2500    0    0 
+McElvis   987953458 10  4 f   -     -     -         2500    0    0 
+McElvis   987953518 10  3 f   -     -     -         2500    0    0 
+McElvis   987953593 10  2 Bk  k     k     k         2500   10   45 5s 4s
+McElvis   987953631 10  1 Bf  -     -     -         2535    5    0 
+McElvis   987953681 10 10 f   -     -     -         2530    0    0 
+McElvis   987953744 10  9 f   -     -     -         2530    0    0 
+McElvis   987953798 10  8 f   -     -     -         2530    0    0 
+McElvis   987953844 10  7 f   -     -     -         2530    0    0 
+McElvis   987953906 10  6 f   -     -     -         2530    0    0 
+McElvis   987954034 10  5 f   -     -     -         2530    0    0 
+McElvis   987954121  9  4 f   -     -     -         2530    0    0 
+McElvis   987954197 10  3 f   -     -     -         2530    0    0 
+McElvis   987954269  9  2 Bf  -     -     -         2530   10    0 
+McElvis   987954286  7  1 Bf  -     -     -         2520    5    0 
+McElvis   987954317  6  6 c   f     -     -         2515   10    0 
+McElvis   987954365  6  5 f   -     -     -         2505    0    0 
+McElvis   987954449  7  4 r   c     r     c         2505   90    0 Ks Kc
+McElvis   987954519  7  3 c   k     kf    -         2415   10    0 
+McElvis   987954623  8  2 Bf  -     -     -         2405   10    0 
+McElvis   987954690  8  1 Bc  k     b     bc        2395   70    0 9d 9c
+McElvis   987954744  7  7 f   -     -     -         2325    0    0 
+McElvis   987954791  7  6 f   -     -     -         2325    0    0 
+McElvis   987954808  7  5 c   c     c     c         2325   60    0 Ac Js
+McElvis   987954869  7  4 c   k     c     c         2265   60    0 5h 3h
+McElvis   987954931  7  3 c   k     f     -         2205   10    0 
+McElvis   987954959  7  2 Bk  kc    kc    kc        2195   60    0 7h 9c
+McElvis   987954989  7  1 Bc  kf    -     -         2135   10    0 
+McElvis   987955034  7  7 cc  c     c     b         2125   70  240 5d Kd
+McElvis   987955117  8  6 f   -     -     -         2295    0    0 
+McElvis   987955156  7  4 f   -     -     -         2295    0    0 
+McElvis   987955210  6  3 f   -     -     -         2295    0    0 
+McElvis   987955258  6  2 Bk  kf    -     -         2295   10    0 
+McElvis   987955278  6  1 Bf  -     -     -         2285    5    0 
+McElvis   987955302  7  7 f   -     -     -         2280    0    0 
+McElvis   987955390  8  7 c   r     k     r         2280   80  260 5s 6d
+McElvis   987955453  8  6 f   -     -     -         2460    0    0 
+McElvis   987955511  8  5 cc  f     -     -         2460   20    0 
+McElvis   987955570  8  4 cc  c     c     kc        2440   90    0 Ac Jh
+McElvis   987955654  8  3 f   -     -     -         2350    0    0 
+McElvis   987955715  8  2 Bc  kc    kf    -         2350   30    0 
+McElvis   987955779  8  1 Bf  -     -     -         2320    5    0 
+McElvis   987955837  9  9 c   c     f     -         2315   30    0 
+McElvis   987955889  9  8 cc  c     c     f         2285   70    0 
+McElvis   987955946  9  7 f   -     -     -         2215    0    0 
+McElvis   987955999 10  7 crc rc    cf    -         2215   90    0 
+McElvis   987956107 10  6 f   -     -     -         2125    0    0 
+McElvis   987956183 10  6 f   -     -     -         2125    0    0 
+McElvis   987956243  9  4 cc  kc    kf    -         2125   40    0 
+McElvis   987956310  9  3 cc  kc    kc    kc        2085   80    0 Ad Td
+McElvis   987956365  9  2 Bf  Q     -     -         2005   10    0 
+McElvis   987975417  7  6 f   -     -     -         1800    0    0 
+McElvis   987975455  7  5 f   -     -     -         1800    0    0 
+McElvis   987975475  7  5 cc  kc    kc    f         1800   70    0 
+McElvis   987975540  6  3 c   k     k     k         1730   10    0 6s 8s
+McElvis   987975573  6  2 Bf  -     -     -         1720   10    0 
+McElvis   987975601  6  1 Bf  -     -     -         1710    5    0 
+McElvis   987975643  7  6 c   b     b     k         1705   40    0 5d 7d
+McElvis   987975729  8  5 f   -     -     -         1665    0    0 
+McElvis   987975762  8  4 c   kc    kf    -         1665   20    0 
+McElvis   987975816  8  3 c   kc    kc    kf        1645   60    0 
+McElvis   987975867  8  2 Bk  k     k     f         1585   10    0 
+McElvis   987975901  8  1 Bf  -     -     -         1575    5    0 
+McElvis   987975916  8  8 c   c     c     c         1570   70    0 8d Js
+McElvis   987975969  9  7 f   -     -     -         1500    0    0 
+McElvis   987976011  9  6 f   -     -     -         1500    0    0 
+McElvis   987976051  9  5 c   kc    kc    kf        1500   60    0 
+McElvis   987976109  9  4 f   -     -     -         1440    0    0 
+McElvis   987976161  9  3 c   f     -     -         1440   10    0 
+McElvis   987976212  9  2 Bk  k     b     b         1430   50  105 Tc Jd
+McElvis   987976237  9  1 Bf  -     -     -         1485    5    0 
+McElvis   987976260  9  9 c   c     c     k         1480   50    0 6s 8c
+McElvis   987976312  9  8 f   -     -     -         1430    0    0 
+McElvis   987976362  9  7 c   k     f     -         1430   10    0 
+McElvis   987976387  9  6 c   f     -     -         1420   10    0 
+McElvis   987976415  9  5 f   -     -     -         1410    0    0 
+McElvis   987976456  8  4 c   kc    c     k         1410   50    0 Ah 6d
+McElvis   987976499  8  3 cc  c     kc    kc        1360   70    0 3s Ah
+McElvis   987976544  8  2 Bk  kf    -     -         1290   10    0 
+McElvis   987976569  8  1 Bc  b     -     -         1280   20   40 
+McElvis   987976585  8  8 c   f     -     -         1300   20    0 
+McElvis   987976626  8  7 c   k     c     k         1280   50    0 8h Jh
+McElvis   987976677  8  5 f   -     -     -         1230    0    0 
+McElvis   987976771  8  5 c   b     c     c         1230   60    0 8c 9d
+McElvis   987976832  8  4 f   -     -     -         1170    0    0 
+McElvis   987976899  9  3 f   -     -     -         1170    0    0 
+McElvis   987976951  9  2 Bk  kc    kc    kc        1170   60    0 Qs 8h
+McElvis   987976999  9  1 Bc  kf    -     -         1110   20    0 
+McElvis   987977048  9  9 c   f     -     -         1090   10    0 
+McElvis   987977076  9  8 f   -     -     -         1080    0    0 
+McElvis   987977102  9  7 c   f     -     -         1080   10    0 
+McElvis   987977133  9  6 c   k     c     k         1070   30  160 Ad Ks
+McElvis   987977201  8  5 f   -     -     -         1200    0    0 
+McElvis   987977269  9  4 c   kf    -     -         1200   10    0 
+McElvis   987977367  9  3 c   c     k     f         1190   20    0 
+McElvis   987977461  8  2 Bf  -     -     -         1170   10    0 
+McElvis   987977518  7  1 Bf  -     -     -         1160    5    0 
+McElvis   987977547  7  7 c   c     c     f         1155   40    0 
+McElvis   987977577  7  6 c   f     -     -         1115   10    0 
+McElvis   987977607  7  5 f   -     -     -         1105    0    0 
+McElvis   987977680  7  4 cc  cc    c     c         1105   90    0 Qh Ah
+McElvis   987977738  7  3 cc  k     kf    -         1015   20    0 
+McElvis   987977793  6  2 Bk  k     b     k          995   30    0 2c Ah
+McElvis   987977815  6  1 Bc  b     k     kf         965   20    0 
+McElvis   987977862  6  6 c   k     f     -          945   10    0 
+McElvis   987977887  5  4 cc  c     k     k          935   40    0 7d Js
+McElvis   987977912  5  3 f   -     -     -          895    0    0 
+McElvis   987977926  4  2 Bk  kf    -     -          895   10    0 
+McElvis   987977939  3  1 BQ  -     -     -          885    5    0 
+McElvis   988065374 10 10 c   c     r     -          735   60  125 
+McElvis   988065422 10  9 c   k     f     -          800   20    0 
+McElvis   988065521 10  8 f   -     -     -          780    0    0 
+McElvis   988065572 10  7 f   -     -     -          780    0    0 
+McElvis   988065682 10  6 f   -     -     -          780    0    0 
+McElvis   988065785 10  5 f   -     -     -          780    0    0 
+McElvis   988065846 10  4 f   -     -     -          780    0    0 
+McElvis   988065904 10  3 f   -     -     -          780    0    0 
+McElvis   988065945 10  2 Bk  k     b     k          780   30  100 Jh Jc
+McElvis   988066002 10  1 Bc  kc    k     k          850   20  110 8c Ac
+McElvis   988066107  9  9 f   -     -     -          940    0    0 
+McElvis   988066147  9  8 c   f     -     -          940   10    0 
+McElvis   988066253  8  6 f   -     -     -          930    0    0 
+McElvis   988066320  8  5 cc  f     -     -          930   40    0 
+McElvis   988066436  8  4 c   c     c     f          890   40    0 
+McElvis   988066486  7  2 Bf  -     -     -          850   10    0 
+McElvis   988066540  8  1 Bc  kc    k     kf         840   30    0 
+McElvis   988066633  7  7 c   c     c     f          810   40    0 
+McElvis   988066683  7  6 c   c     c     rr         770  130  275 Jc Ac
+McElvis   988066717  8  6 c   k     k     k          915   20    0 Qd 5d
+McElvis   988066805  9  6 f   -     -     -          895    0    0 
+McElvis   988066868  9  6 f   -     -     -          895    0    0 
+McElvis   988066937  9  5 cc  rc    c     c          895   90  338 Qs 2s
+McElvis   988067022  8  3 f   -     -     -         1143    0    0 
+McElvis   988067065  8  3 f   -     -     -         1143    0    0 
+McElvis   988067108  9  2 Bk  kf    -     -         1143   10    0 
+McElvis   988067142  9  1 Bc  k     kc    kc        1133   60  220 Ac 9h
+McElvis   988067196  9  9 cc  f     -     -         1293   20    0 
+McElvis   988067224  9  8 r   k     rc    f         1273  100    0 
+McElvis   988067292  9  7 f   -     -     -         1173    0    0 
+McElvis   988067329  9  6 cc  kc    kc    krr       1173  130  290 Qh 4h
+McElvis   988067391  9  5 c   kf    -     -         1333   10    0 
+McElvis   988067429  9  4 f   -     -     -         1323    0    0 
+McElvis   988067474 10  3 f   -     -     -         1323    0    0 
+McElvis   988067558  9  2 Bk  k     k     kf        1323   10    0 
+McElvis   988067651  9  1 Bf  -     -     -         1313    5    0 
+McElvis   988067726  9  9 f   -     -     -         1308    0    0 
+McElvis   988067829 10  9 f   -     -     -         1308    0    0 
+McElvis   988067904  9  8 cf  -     Q     -         1308   10    0 
+McElvis   988078911 10  9 KQ  -     -     -         1298    0    0 
+McElvis   988080164 10  4 Q   -     -     -         1298    0    0 
+McElvis   988080657 10  8 cc  c     f     -         1298   30    0 
+McElvis   988080718 10  7 f   -     -     -         1268    0    0 
+McElvis   988080818 10  6 f   -     -     -         1268    0    0 
+McElvis   988080902 10  5 f   -     -     -         1268    0    0 
+McElvis   988081002  9  4 f   -     -     -         1268    0    0 
+McElvis   988081120 10  3 f   -     -     -         1268    0    0 
+McElvis   988081152 10  2 Bf  -     -     -         1268   10    0 
+McElvis   988081227 10  1 Bf  -     -     -         1258    5    0 
+McElvis   988081299 10 10 c   r     k     c         1253   60    0 3s 5s
+McElvis   988081355 10  9 c   c     f     -         1193   30    0 
+McElvis   988081417 10  8 c   f     Q     -         1163   20    0 
+McElvis   988212477  5  3 f   -     -     -         1143    0    0 
+McElvis   988212506  5  2 Bf  -     -     -         1143   10    0 
+McElvis   988212541  5  1 Bf  -     -     -         1133    5    0 
+McElvis   988212566  5  5 c   k     c     c         1128   60  135 Qc Kc
+McElvis   988212603  7  5 c   k     k     k         1203   10    0 6d Jd
+McElvis   988212662  7  5 c   c     f     -         1193   20    0 
+McElvis   988212711  6  3 cc  kc    r     c         1173   90    0 Jd Kd
+McElvis   988212772  7  2 Bf  -     -     -         1083   10    0 
+McElvis   988212815  7  1 Bf  -     -     -         1073    5    0 
+McElvis   988212869  7  7 c   f     -     -         1068   20    0 
+McElvis   988212961  8  6 f   -     -     -         1048    0    0 
+McElvis   988213021  8  5 f   -     -     -         1048    0    0 
+McElvis   988213090  8  4 f   -     -     -         1048    0    0 
+McElvis   988213156  8  3 f   -     -     -         1048    0    0 
+McElvis   988213223  8  2 Bk  k     kf    -         1048   10    0 
+McElvis   988213288  8  1 Bf  -     -     -         1038    5    0 
+McElvis   988213354  9  9 c   c     c     f         1033   40    0 
+McElvis   988213444  9  4 Q   -     -     -          993    0    0 
+McElvis   988221933  8  5 c   k     f     -          993   10    0 
+McElvis   988221986  8  4 cr  k     kc    kc         983   70    0 3c 3h
+McElvis   988222032  9  3 c   k     kc    kf         913   30    0 
+McElvis   988222085  8  2 Bk  kf    -     -          883   10    0 
+McElvis   988222138  8  1 Bf  -     -     -          873    5    0 
+McElvis   988222203  7  7 c   r     b     k          868   60    0 Td As
+McElvis   988222240  7  6 c   k     k     k          808   10    0 7c Th
+McElvis   988222274  7  5 c   f     -     -          798   10    0 
+McElvis   988222329  7  4 f   -     -     -          788    0    0 
+McElvis   988222375  8  4 f   -     -     -          788    0    0 
+McElvis   988222439  8  3 f   -     -     -          788    0    0 
+McElvis   988222497 10  2 Bk  kf    -     -          788   10    0 
+McElvis   988222564  9  1 Bf  -     -     -          778    5    0 
+McElvis   988222597  7  7 c   k     b     -          773   30   45 
+McElvis   988222664  7  6 f   -     -     -          788    0    0 
+McElvis   988222685  8  6 c   c     k     f          788   20    0 
+McElvis   988222732  8  4 f   -     -     -          768    0    0 
+McElvis   988222812  7  3 f   -     -     -          768    0    0 
+McElvis   988222849  7  2 Bk  kf    -     -          768   10    0 
+McElvis   988222914  7  1 Bc  k     k     kc         758   30   70 Ah 4c
+McElvis   988222958  7  7 c   c     f     -          798   30    0 
+McElvis   988222997  7  6 f   -     -     -          768    0    0 
+McElvis   988223031  7  5 f   -     -     -          768    0    0 
+McElvis   988223054  7  4 f   -     -     -          768    0    0 
+McElvis   988223085  7  3 cc  kf    -     -          768   20    0 
+McElvis   988223113  7  2 Bk  b     b     b          748   60  120 4c Js
+McElvis   988223145  7  1 Bc  brc   k     k          808   60    0 5c 4c
+McElvis   988223194  7  7 c   f     -     -          748   20    0 
+McElvis   988223231  7  6 f   -     -     -          728    0    0 
+McElvis   988223286  8  6 c   c     f     -          728   20    0 
+McElvis   988223322  8  5 c   cc    kc    k          708   50  195 8s Ts
+McElvis   988223361  8  4 f   -     -     -          853    0    0 
+McElvis   988223388  8  3 f   -     -     -          853    0    0 
+McElvis   988223416  7  2 Bc  kc    k     k          853   30    0 Jc Kh
+McElvis   988223447  8  1 Bc  bc    k     k          823   30    0 Kd 6h
+McElvis   988223493  8  8 f   -     -     -          793    0    0 
+McElvis   988223517  7  6 r   b     b     c          793   70    0 As 9s
+McElvis   988223563  7  5 f   -     -     -          723    0    0 
+McElvis   988223593  7  4 c   k     c     f          723   30    0 
+McElvis   988223636  8  3 f   -     -     -          693    0    0 
+McElvis   988223677  9  2 Bk  b     b     c          693   60  120 Ah Jc
+McElvis   988223722  9  1 Bc  kc    bc    kc         753   80    0 Ac 9h
+McElvis   988223781 10 10 f   -     -     -          673    0    0 
+McElvis   988223802  9  9 f   -     -     -          673    0    0 
+McElvis   988223836 10  8 cc  b     b     -          673   50  125 
+McElvis   988223896 10  7 f   -     -     -          748    0    0 
+McElvis   988223953 10  7 f   -     -     -          748    0    0 
+McElvis   988223981 10  5 f   -     -     -          748    0    0 
+McElvis   988224056 10  4 r   k     k     k          748   20    0 4s 4c
+McElvis   988224090 10  3 f   -     -     -          728    0    0 
+McElvis   988224134 10  2 Bf  -     -     -          728   10    0 
+McElvis   988224174 10  1 Bf  -     -     -          718    5    0 
+McElvis   988224222 10 10 f   -     -     -          713    0    0 
+McElvis   988224274 10  9 f   -     -     -          713    0    0 
+McElvis   988224312  9  7 f   -     -     -          713    0    0 
+McElvis   988224341  9  6 f   -     -     -          713    0    0 
+McElvis   988224385  8  4 c   kc    b     b          713   60    0 Qs Ac
+McElvis   988224426  8  3 f   -     -     -          653    0    0 
+McElvis   988224465  8  2 Bf  -     -     -          653   10    0 
+McElvis   988224498  9  1 Bf  -     -     -          643    5    0 
+McElvis   988224531 10 10 f   -     -     -          638    0    0 
+McElvis   988224568 10  9 f   -     -     -          638    0    0 
+McElvis   988224640 10  8 f   -     -     -          638    0    0 
+McElvis   988224675  9  6 c   c     f     -          638   20    0 
+McElvis   988224727  9  5 f   -     -     -          618    0    0 
+McElvis   988224759  9  4 f   -     -     -          618    0    0 
+McElvis   988224836  9  3 f   -     -     -          618    0    0 
+McElvis   988224898  9  2 Bk  kf    -     -          618   10    0 
+McElvis   988224928  9  1 Bf  -     -     -          608    5    0 
+McElvis   988224958 10 10 f   -     -     -          603    0    0 
+McElvis   988224995 10  9 f   -     -     -          603    0    0 
+McElvis   988225058 10  8 f   -     -     -          603    0    0 
+McElvis   988225102 10  7 f   -     -     -          603    0    0 
+McElvis   988225148  9  5 f   -     -     -          603    0    0 
+McElvis   988225204  9  4 c   k     k     c          603   30    0 8d Kd
+McElvis   988225271  8  3 c   c     c     r          573   80  185 2d As
+McElvis   988225384  7  2 Bk  b     b     -          678   40   65 
+McElvis   988225412  7  1 Bc  k     k     k          703   10    0 9s Ts
+McElvis   988225443  7  7 f   -     -     -          693    0    0 
+McElvis   988225485  7  6 f   -     -     -          693    0    0 
+McElvis   988225523  8  6 r   k     b     b          693   60  135 
+McElvis   988225561  8  6 f   -     -     -          768    0    0 
+McElvis   988225611  8  5 c   c     c     c          768   70    0 Ac Jd
+McElvis   988225653  7  4 c   c     c     b          698   70  150 
+McElvis   988225686  7  3 f   -     -     -          778    0    0 
+McElvis   988225709  7  2 Bk  f     -     -          778   10    0 
+McElvis   988225738  7  1 Bc  kf    -     -          768   10    0 
+McElvis   988225798  7  7 c   b     -     -          758   20   55 
+McElvis   988225826  8  6 f   -     -     -          793    0    0 
+McElvis   988225859  8  5 c   c     c     r          793   80  180 Tc Ts
+McElvis   988225890  8  4 f   -     -     -          893    0    0 
+McElvis   988225922  8  3 cc  c     c     k          893   50    0 Tc Js
+McElvis   988225970  8  2 Bf  -     -     -          843   10    0 
+McElvis   988225993  8  1 Bf  -     -     -          833    5    0 
+McElvis   988226037  8  8 f   -     -     -          828    0    0 
+McElvis   988226080  9  8 f   -     -     -          828    0    0 
+McElvis   988226121  9  7 f   -     -     -          828    0    0 
+McElvis   988226150  8  5 f   -     -     -          828    0    0 
+McElvis   988226204  8  4 f   -     -     -          828    0    0 
+McElvis   988226248  8  4 f   -     -     -          828    0    0 
+McElvis   988226276  8  3 fQ  -     -     -          828    0    0 
+McElvis   988411738 10 10 f   -     -     -          828    0    0 
+McElvis   988411806 10  9 f   -     -     -          828    0    0 
+McElvis   988411890  9  8 f   -     -     -          828    0    0 
+McElvis   988411953 10  7 f   -     -     -          828    0    0 
+McElvis   988412008 10  6 c   k     kf    -          828   10    0 
+McElvis   988412085 10  6 f   -     -     -          818    0    0 
+McElvis   988412173 10  4 f   -     -     -          818    0    0 
+McElvis   988412291 10  3 f   -     -     -          818    0    0 
+McElvis   988412349 10  2 Brc c     c     f          818   70    0 
+McElvis   988412427 10  1 Bf  -     -     -          748    5    0 
+McElvis   988412473 10 10 f   -     -     -          743    0    0 
+McElvis   988412518 10  9 f   -     -     -          743    0    0 
+McElvis   988412557 10  8 c   c     rc    c          743  140  740 9s 8s
+McElvis   988412657 10  7 f   -     -     -         1343    0    0 
+McElvis   988412703 10  6 r   c     c     c         1343   70    0 5d 5s
+McElvis   988412738 10  5 f   -     -     -         1273    0    0 
+McElvis   988412777 10  4 c   c     c     f         1273   50    0 
+McElvis   988412833 10  3 ccc kc    kc    br        1223  140  505 Ts Td
+McElvis   988412930 10  2 Bk  rc    ccc   c         1588  140    0 Qs 3h
+McElvis   988412998 10  1 Bc  kc    kc    kf        1448   80    0 
+McElvis   988413078 10 10 f   -     -     -         1368    0    0 
+McElvis   988413116 10  9 f   -     -     -         1368    0    0 
+McElvis   988413180 10  8 f   -     -     -         1368    0    0 
+McElvis   988413241 10  7 f   -     -     -         1368    0    0 
+McElvis   988413316 10  6 f   -     -     -         1368    0    0 
+McElvis   988413397 10  5 f   -     -     -         1368    0    0 
+McElvis   988413447 10  4 f   -     -     -         1368    0    0 
+McElvis   988413507 10  3 f   -     -     -         1368    0    0 
+McElvis   988413591 10  2 Bk  kf    -     -         1368   10    0 
+McElvis   988413687  9  1 Bc  kcf   -     -         1358   40    0 
+McElvis   988413752 10 10 f   -     -     -         1318    0    0 
+McElvis   988413794 10  9 cc  f     -     -         1318   40    0 
+McElvis   988413918 10  8 cc  c     k     k         1278   30   40 Jc Ad
+McElvis   988413991 10  7 f   -     -     -         1288    0    0 
+McElvis   988414066 10  6 f   -     -     -         1288    0    0 
+McElvis   988414139 10  5 f   -     -     -         1288    0    0 
+McElvis   988414233 10  4 f   -     -     -         1288    0    0 
+McElvis   988414290 10  3 rc  b     bc    kc        1288  110    0 As Js
+McElvis   988414373 10  2 Bf  -     -     -         1178   10    0 
+McElvis   988414516  8  1 Bf  -     -     -         1168    5    0 
+McElvis   988414593  9  9 c   b     b     k         1163   40    0 Kh Kd
+McElvis   988414682  9  8 c   f     -     -         1123   10    0 
+McElvis   988414750  8  6 f   -     -     -         1113    0    0 
+McElvis   988414802  8  5 f   -     -     -         1113    0    0 
+McElvis   988414863  7  3 cc  cc    kf    -         1113   40    0 
+McElvis   988414946  7  2 Bf  Q     -     -         1073   10    0 
+McElvis   988497635  4  3 f   -     -     -         1063    0    0 
+McElvis   988497665  4  2 Bf  -     -     -         1063   10    0 
+McElvis   988497675  3  1 Bf  -     -     -         1053    5    0 
+McElvis   988497681  3  3 fQ  -     -     -         1048    0    0 
+McElvis   988507862  9  3 f   -     -     -         1048    0    0 
+McElvis   988507937  8  2 Bk  kf    -     -         1048   10    0 
+McElvis   988508028  8  1 Bc  b     k     kf        1038   20    0 
+McElvis   988508086  8  8 cc  c     c     f         1018   70    0 
+McElvis   988508179  8  7 c   rc    c     k          948   60  245 Qh Kh
+McElvis   988508245  9  7 c   bc    kc    k         1133   50    0 3c Ah
+McElvis   988508332  9  6 f   -     -     -         1083    0    0 
+McElvis   988508436  9  5 f   -     -     -         1083    0    0 
+McElvis   988508501  9  4 f   -     -     -         1083    0    0 
+McElvis   988508560  9  4 c   bcc   bc    kc        1083  110    0 9s Js
+McElvis   988508669 10  3 f   -     -     -          973    0    0 
+McElvis   988508783 10  2 Bk  kf    -     -          973   10    0 
+McElvis   988508852 10  1 Bf  -     -     -          963    5    0 
+McElvis   988508909 10 10 f   -     -     -          958    0    0 
+McElvis   988508961 10  9 c   f     -     -          958   10    0 
+McElvis   988509038 10  8 f   -     -     -          948    0    0 
+McElvis   988509190 10  7 f   -     -     -          948    0    0 
+McElvis   988509265 10  6 f   -     -     -          948    0    0 
+McElvis   988509307 10  5 f   -     -     -          948    0    0 
+McElvis   988509366 10  4 f   -     -     -          948    0    0 
+McElvis   988509438 10  3 f   -     -     -          948    0    0 
+McElvis   988509485 10  2 Bk  k     kf    -          948   10    0 
+McElvis   988509525 10  1 Bc  kc    kc    kf         938   50    0 
+McElvis   988509586 10 10 r   k     c     f          888   40    0 
+McElvis   988509635 10  9 f   -     -     -          848    0    0 
+McElvis   988509700 10  8 f   -     -     -          848    0    0 
+McElvis   988509752 10  7 f   -     -     -          848    0    0 
+McElvis   988509808 10  6 f   -     -     -          848    0    0 
+McElvis   988509852 10  5 f   -     -     -          848    0    0 
+McElvis   988509899 10  4 f   -     -     -          848    0    0 
+McElvis   988509963 10  3 cc  c     f     -          848   30    0 
+McElvis   988510023 10  2 Bk  kf    -     -          818   10    0 
+McElvis   988510073 10  1 Bc  kf    -     -          808   10    0 
+McElvis   988510149 10 10 c   c     c     c          798   60  215 As Jc
+McElvis   988510192 10  9 f   -     -     -          953    0    0 
+McElvis   988510260 10  8 c   c     k     b          953   40  120 
+McElvis   988510309 10  7 f   -     -     -         1033    0    0 
+McElvis   988510371 10  6 f   -     -     -         1033    0    0 
+McElvis   988510432 10  5 f   -     -     -         1033    0    0 
+McElvis   988510505 10  4 f   -     -     -         1033    0    0 
+McElvis   988510547 10  3 f   -     -     -         1033    0    0 
+McElvis   988510622 10  2 Bk  k     b     b         1033   50  105 2h Jh
+McElvis   988510651 10  1 Bf  -     -     -         1088    5    0 
+McElvis   988510683 10 10 f   -     -     -         1083    0    0 
+McElvis   988510773 10  9 f   -     -     -         1083    0    0 
+McElvis   988510853 10  8 c   c     c     c         1083   70   92 As Tc
+McElvis   988510915 10  7 c   cc    f     -         1105   50    0 
+McElvis   988510972 10  6 f   -     -     -         1055    0    0 
+McElvis   988511031 10  5 f   -     -     -         1055    0    0 
+McElvis   988511057 10  4 cc  r     b     b         1055   80    0 9c 9s
+McElvis   988511127  9  3 f   -     -     -          975    0    0 
+McElvis   988511173  9  2 Bk  rr    b     b          975   90  160 
+McElvis   988511224  9  1 Br  b     k     k         1045   30   90 Jc Js
+McElvis   988511267  7  7 r   k     c     c         1105   60    0 Ts As
+McElvis   988511303  8  7 c   f     -     -         1045   10    0 
+McElvis   988511346  8  6 c   c     c     c         1035   70  200 3d 6d
+McElvis   988511388  8  5 f   -     -     -         1165    0    0 
+McElvis   988511431  8  4 f   -     -     -         1165    0    0 
+McElvis   988511450  8  3 c   b     -     -         1165   20   45 
+McElvis   988511476  8  2 Bf  -     -     -         1190   10    0 
+McElvis   988511540  8  1 Bc  k     kf    -         1180   10    0 
+McElvis   988511573  9  9 f   -     -     -         1170    0    0 
+McElvis   988511647  8  7 r   k     k     k         1170   20    0 5h 6h
+McElvis   988511686  8  6 c   k     c     r         1150   70  160 Jd Ad
+McElvis   988511731  9  6 cc  f     -     -         1240   20    0 
+McElvis   988511808  9  5 r   c     c     f         1220   50    0 
+McElvis   988511870 10  4 f   -     -     -         1170    0    0 
+McElvis   988511925 10  3 f   -     -     -         1170    0    0 
+McElvis   988511965 10  2 Bk  kf    -     -         1170   10    0 
+McElvis   988512007 10  1 Bf  -     -     -         1160    5    0 
+McElvis   988512066 10 10 f   -     -     -         1155    0    0 
+McElvis   988512120 10 10 f   -     -     -         1155    0    0 
+McElvis   988512179 10  8 f   -     -     -         1155    0    0 
+McElvis   988512260 10  7 f   -     -     -         1155    0    0 
+McElvis   988512323 10  6 f   -     -     -         1155    0    0 
+McElvis   988512459 10  6 f   -     -     -         1155    0    0 
+McElvis   988512510 10  4 f   -     -     -         1155    0    0 
+McElvis   988512601 10  3 c   b     cc    cc        1155  100    0 Ah Qc
+McElvis   988512702 10  2 Bk  kf    -     -         1055   10    0 
+McElvis   988512798 10  1 Bc  b     b     bc        1045   80  250 9s 9d
+McElvis   988512936 10 10 c   r     c     c         1215   70  270 Ad Qc
+McElvis   988513007 10  9 f   -     -     -         1415    0    0 
+McElvis   988513082 10  8 c   k     f     -         1415   10    0 
+McElvis   988513184 10  7 f   -     -     -         1405    0    0 
+McElvis   988513240 10  6 c   b     k     b         1405   40  125 Qs Ah
+McElvis   988513315 10  5 f   -     -     -         1490    0    0 
+McElvis   988513384 10  4 c   kf    -     -         1490   10    0 
+McElvis   988513489 10  3 f   -     -     -         1480    0    0 
+McElvis   988513528 10  2 Bf  -     -     -         1480   10    0 
+McElvis   988513596 10  1 Bc  k     k     b         1470   30    0 Qc Tc
+McElvis   988513655 10 10 f   -     -     -         1440    0    0 
+McElvis   988513722 10  9 f   -     -     -         1440    0    0 
+McElvis   988513755 10  8 cc  bc    kc    kf        1440   60    0 
+McElvis   988513815 10  7 f   -     -     -         1380    0    0 
+McElvis   988513896 10  6 f   -     -     -         1380    0    0 
+McElvis   988513969 10  5 f   -     -     -         1380    0    0 
+McElvis   988514015 10  4 c   kf    -     -         1380   10    0 
+McElvis   988514099 10  3 f   -     -     -         1370    0    0 
+McElvis   988514168 10  2 Bf  -     -     -         1370   10    0 
+McElvis   988514231 10  1 Bf  -     -     -         1360    5    0 
+McElvis   988514297 10 10 f   -     -     -         1355    0    0 
+McElvis   988514354 10  9 c   c     f     -         1355   20    0 
+McElvis   988514417 10  9 f   -     -     -         1335    0    0 
+McElvis   988514496 10  7 f   -     -     -         1335    0    0 
+McElvis   988514558 10  6 f   -     -     -         1335    0    0 
+McElvis   988514619 10  5 f   -     -     -         1335    0    0 
+McElvis   988514673 10  4 f   -     -     -         1335    0    0 
+McElvis   988514755 10  4 f   -     -     -         1335    0    0 
+McElvis   988514813 10  2 Bc  kf    -     -         1335   20    0 
+McElvis   988514906 10  1 Bf  -     -     -         1315    5    0 
+McElvis   988514993 10 10 c   c     c     c         1310   60    0 As 6s
+McElvis   988515067 10  9 c   c     c     k         1250   40  120 Ad Js
+McElvis   988515127 10  8 f   -     -     -         1330    0    0 
+McElvis   988515179 10  7 f   -     -     -         1330    0    0 
+McElvis   988515219 10  6 f   -     -     -         1330    0    0 
+McElvis   988515281 10  5 c   r     br    b         1330  120    0 6s 6d
+McElvis   988515343 10  4 f   -     -     -         1210    0    0 
+McElvis   988515421 10  3 f   -     -     -         1210    0    0 
+McElvis   988515551 10  2 Bc  kc    kf    -         1210   30    0 
+McElvis   988515724  8  1 Bc  kc    kc    kc        1180   70    0 8c 8h
+McElvis   988515801  8  5 Q   -     -     -         1110    0    0 
+McElvis   988571036  6  5 f   -     -     -         1110    0    0 
+McElvis   988571082  6  4 f   -     -     -         1110    0    0 
+McElvis   988571129  6  4 c   c     c     rc        1110  120  320 Qh 8h
+McElvis   988571169  5  2 Bk  k     k     k         1310   10    0 3h 8c
+McElvis   988571203  5  1 Bf  -     -     -         1300    5    0 
+McElvis   988571265  5  5 f   -     -     -         1295    0    0 
+McElvis   988571305  5  5 f   -     -     -         1295    0    0 
+McElvis   988571340  4  3 f   -     -     -         1295    0    0 
+McElvis   988571362  4  2 B   -     -     -         1295   10   15 
+McElvis   988571366  4  1 Bf  -     -     -         1300    5    0 
+McElvis   988571388  4  4 c   c     c     k         1295   40    0 Qh 9h
+McElvis   988571422  4  3 f   -     -     -         1255    0    0 
+McElvis   988571440  5  2 Bf  -     -     -         1255   10    0 
+McElvis   988571479  4  1 Bf  -     -     -         1245    5    0 
+McElvis   988571511  6  5 c   b     c     c         1240   70    0 Qc Qh
+McElvis   988571558  7  5 f   -     -     -         1170    0    0 
+McElvis   988571588  7  4 cc  c     c     c         1170   90    0 5s 3s
+McElvis   988571636  8  3 cc  c     rr    rr        1080  190    0 4d 3d
+McElvis   988571689  8  2 Bk  kc    kc    kc         890   80    0 7d 4h
+McElvis   988571753  9  1 BQ  -     -     -          810    5    0 
+McElvis   988575281  9  6 f   -     -     -          805    0    0 
+McElvis   988575360 10  5 c   f     -     -          805   10    0 
+McElvis   988575451 10  4 f   -     -     -          795    0    0 
+McElvis   988575571 10  3 f   -     -     -          795    0    0 
+McElvis   988575638 10  2 Bf  -     -     -          795   10    0 
+McElvis   988575700 10  1 Bf  -     -     -          785    5    0 
+McElvis   988575800 10 10 f   -     -     -          780    0    0 
+McElvis   988575887 10  9 c   f     -     -          780   20    0 
+McElvis   988575945 10  8 c   kf    -     -          760   10    0 
+McElvis   988576027  8  6 f   -     -     -          750    0    0 
+McElvis   988576152  8  5 r   k     rc    b          750  100  285 2s 3s
+McElvis   988576236  8  4 f   -     -     -          935    0    0 
+McElvis   988576298  8  3 f   -     -     -          935    0    0 
+McElvis   988576380  7  2 Bk  kf    -     -          935   10    0 
+McElvis   988576427  7  1 Bf  -     -     -          925    5    0 
+McElvis   988576479  8  8 f   -     -     -          920    0    0 
+McElvis   988576589  9  7 f   -     -     -          920    0    0 
+McElvis   988576679 10  7 f   -     -     -          920    0    0 
+McElvis   988576765 10  6 f   -     -     -          920    0    0 
+McElvis   988576842  9  4 f   -     -     -          920    0    0 
+McElvis   988576876  9  3 f   -     -     -          920    0    0 
+McElvis   988576964  8  1 Bf  -     -     -          920   10    0 
+McElvis   988577018  9  1 Bf  -     -     -          910    5    0 
+McElvis   988577103 10 10 cc  c     f     -          905   30    0 
+McElvis   988577164  9  8 f   -     -     -          875    0    0 
+McElvis   988577224  8  6 f   -     -     -          875    0    0 
+McElvis   988577280  7  4 f   -     -     -          875    0    0 
+McElvis   988577310  7  3 cc  kf    -     -          875   20    0 
+McElvis   988577397  7  2 Bk  kf    -     -          855   10    0 
+McElvis   988577467  7  1 Bc  k     kc    kf         845   40    0 
+McElvis   988577536  7  7 f   -     -     -          805    0    0 
+McElvis   988577584  7  6 f   -     -     -          805    0    0 
+McElvis   988577618  7  5 f   -     -     -          805    0    0 
+McElvis   988577654  7  4 f   -     -     -          805    0    0 
+McElvis   988577695  7  3 f   -     -     -          805    0    0 
+McElvis   988577760  9  2 Bf  -     -     -          805   10    0 
+McElvis   988577830  9  1 Bf  -     -     -          795    5    0 
+McElvis   988577896  9  9 f   -     -     -          790    0    0 
+McElvis   988577952 10  9 f   -     -     -          790    0    0 
+McElvis   988578024  9  8 f   -     -     -          790    0    0 
+McElvis   988578106  9  7 c   c     c     rr         790  120  300 Ah 6h
+McElvis   988578169  9  6 r   kc    kf    -          970   30    0 
+McElvis   988578284  9  5 f   -     -     -          940    0    0 
+McElvis   988578320  9  4 f   -     -     -          940    0    0 
+McElvis   988578374  9  3 f   -     -     -          940    0    0 
+McElvis   988578471  8  2 Bc  kc    kf    -          940   30    0 
+McElvis   988578540  8  1 Bc  k     kf    -          910   10    0 
+McElvis   988578604  9  8 c   f     -     -          900   20    0 
+McElvis   988578680 10  8 fQ  -     -     -          880    0    0 
+McElvis   988580667 10  2 Bk  kc    k     kc         880   40    0 6c Kd
+McElvis   988580741 10  1 Bf  -     -     -          840    5    0 
+McElvis   988580793 10 10 c   r     b     b          835   80  285 As Qh
+McElvis   988580874 10  9 f   -     -     -         1040    0    0 
+McElvis   988580928 10  8 f   -     -     -         1040    0    0 
+McElvis   988581000 10  7 f   -     -     -         1040    0    0 
+McElvis   988581045 10  6 c   c     c     c         1040   80    0 Ah 4h
+McElvis   988581088 10  5 f   -     -     -          960    0    0 
+McElvis   988581144 10  4 f   -     -     -          960    0    0 
+McElvis   988581186 10  3 f   -     -     -          960    0    0 
+McElvis   988581238 10  2 Bc  k     k     b          960   40  105 
+McElvis   988581315 10  1 Bf  -     -     -         1025    5    0 
+McElvis   988581384 10 10 f   -     -     -         1020    0    0 
+McElvis   988581428 10  9 f   -     -     -         1020    0    0 
+McElvis   988581492 10  8 f   -     -     -         1020    0    0 
+McElvis   988581529 10  7 f   -     -     -         1020    0    0 
+McElvis   988581568 10  6 r   kf    -     -         1020   20    0 
+McElvis   988581633 10  5 f   -     -     -         1000    0    0 
+McElvis   988581690 10  4 f   -     -     -         1000    0    0 
+McElvis   988581733 10  3 f   -     -     -         1000    0    0 
+McElvis   988581775 10  2 Bk  b     kc    kf        1000   40    0 
+McElvis   988581823 10  1 Bf  -     -     -          960    5    0 
+McElvis   988581872 10 10 f   -     -     -          955    0    0 
+McElvis   988581928 10  9 c   c     c     c          955   60  190 6s 6c
+McElvis   988582002 10  9 f   -     -     -         1085    0    0 
+McElvis   988582089 10  7 f   -     -     -         1085    0    0 
+McElvis   988582142 10  6 f   -     -     -         1085    0    0 
+McElvis   988582197 10  5 f   -     -     -         1085    0    0 
+McElvis   988582268 10  4 f   -     -     -         1085    0    0 
+McElvis   988582331 10  3 c   b     b     -         1085   40  110 
+McElvis   988582365 10  2 Bk  k     kf    -         1155   10    0 
+McElvis   988582402 10  1 Bc  kc    b     k         1145   40  160 2s 5s
+McElvis   988582452 10 10 r   b     b     k         1265   50  175 Kc As
+McElvis   988582504 10  9 c   k     f     -         1390   10    0 
+McElvis   988582548 10  8 c   k     k     kf        1380   10    0 
+McElvis   988582602 10  7 f   -     -     -         1370    0    0 
+McElvis   988582664 10  6 f   -     -     -         1370    0    0 
+McElvis   988582698 10  5 f   -     -     -         1370    0    0 
+McElvis   988582741 10  4 f   -     -     -         1370    0    0 
+McElvis   988582798 10  3 f   -     -     -         1370    0    0 
+McElvis   988582839 10  2 Bk  k     kf    -         1370   10    0 
+McElvis   988582897 10  1 Bc  kf    -     -         1360   10    0 
+McElvis   988582952 10 10 f   -     -     -         1350    0    0 
+McElvis   988583007 10  9 f   -     -     -         1350    0    0 
+McElvis   988583055 10  8 f   -     -     -         1350    0    0 
+McElvis   988583122 10  7 f   -     -     -         1350    0    0 
+McElvis   988583163 10  6 f   -     -     -         1350    0    0 
+McElvis   988583211 10  5 f   -     -     -         1350    0    0 
+McElvis   988583260 10  4 c   kc    k     c         1350   40    0 Tc Ad
+McElvis   988583334 10  3 r   kc    c     k         1310   50    0 3c 3h
+McElvis   988583415 10  2 Bk  b     b     b         1260   60    0 8d 7c
+McElvis   988583468 10  1 Bc  kc    kf    -         1200   20    0 
+McElvis   988583571 10 10 f   -     -     -         1180    0    0 
+McElvis   988583608 10  9 f   -     -     -         1180    0    0 
+McElvis   988583661 10  8 f   -     -     -         1180    0    0 
+McElvis   988583708 10  7 c   f     -     -         1180   10    0 
+McElvis   988583776 10  6 f   -     -     -         1170    0    0 
+McElvis   988583843 10  5 f   -     -     -         1170    0    0 
+McElvis   988583919 10  4 f   -     -     -         1170    0    0 
+McElvis   988583999 10  3 cc  kc    cc    f         1170   70    0 
+McElvis   988584088 10  2 Bf  -     -     -         1100   10    0 
+McElvis   988584143  9  1 Bf  -     -     -         1090    5    0 
+McElvis   988584206  9  9 r   b     b     -         1085   50  160 
+McElvis   988584260 10  9 f   -     -     -         1195    0    0 
+McElvis   988584301 10  8 f   -     -     -         1195    0    0 
+McElvis   988584347 10  7 f   -     -     -         1195    0    0 
+McElvis   988584397 10  6 c   kf    -     -         1195   10    0 
+McElvis   988584464 10  5 f   -     -     -         1185    0    0 
+McElvis   988584531 10  4 r   k     k     k         1185   20    0 5c 4c
+McElvis   988584590 10  3 f   -     -     -         1165    0    0 
+McElvis   988584660 10  2 Bk  f     -     -         1165   10    0 
+McElvis   988584722 10  1 Bf  -     -     -         1155    5    0 
+McElvis   988584779 10 10 f   -     -     -         1150    0    0 
+McElvis   988584844 10  9 f   -     -     -         1150    0    0 
+McElvis   988584896 10  8 c   f     -     -         1150   20    0 
+McElvis   988584994 10  7 fQ  -     -     -         1130    0    0 
+McElvis   988666110 10  6 f   -     -     -         1130    0    0 
+McElvis   988666187 10  5 f   -     -     -         1130    0    0 
+McElvis   988666231 10  4 f   -     -     -         1130    0    0 
+McElvis   988666311 10  3 f   -     -     -         1130    0    0 
+McElvis   988666368 10  2 Bc  kf    -     -         1130   30    0 
+McElvis   988666452 10  1 Bf  -     -     -         1100    5    0 
+McElvis   988666519 10 10 f   -     -     -         1095    0    0 
+McElvis   988666595 10  9 f   -     -     -         1095    0    0 
+McElvis   988666684 10  8 f   -     -     -         1095    0    0 
+McElvis   988666730 10  7 f   -     -     -         1095    0    0 
+McElvis   988666791 10  6 f   -     -     -         1095    0    0 
+McElvis   988666845 10  5 f   -     -     -         1095    0    0 
+McElvis   988666894 10  4 f   -     -     -         1095    0    0 
+McElvis   988666974 10  3 f   -     -     -         1095    0    0 
+McElvis   988667110 10  2 Bf  -     -     -         1095   10    0 
+McElvis   988667164 10  1 Bcc kf    -     -         1085   30    0 
+McElvis   988667258 10 10 f   -     -     -         1055    0    0 
+McElvis   988667364 10  9 f   -     -     -         1055    0    0 
+McElvis   988667426 10  8 f   -     -     -         1055    0    0 
+McElvis   988667472 10  7 f   -     -     -         1055    0    0 
+McElvis   988667547 10  6 f   -     -     -         1055    0    0 
+McElvis   988667599 10  5 f   -     -     -         1055    0    0 
+McElvis   988667703 10  4 f   -     -     -         1055    0    0 
+McElvis   988667789 10  3 f   -     -     -         1055    0    0 
+McElvis   988667856 10  2 Bk  kf    -     -         1055   10    0 
+McElvis   988667984 10  1 Bc  kf    -     -         1045   20    0 
+McElvis   988668060 10 10 f   -     -     -         1025    0    0 
+McElvis   988668107 10  9 c   cc    rr    rc        1025  220    0 Ad As
+McElvis   988668198 10  4 Q   -     -     -          805    0    0 
+McElvis   988669185 10  8 c   b     b     b          805   60  150 Tc Kc
+McElvis   988669268 10  7 f   -     -     -          895    0    0 
+McElvis   988669347 10  6 rc  bc    kc    kc         895   90    0 Jd Jh
+McElvis   988669379 10  5 f   -     -     -          805    0    0 
+McElvis   988669452 10  4 f   -     -     -          805    0    0 
+McElvis   988669530 10  3 cc  kc    br    k          805   90  230 Jd Ac
+McElvis   988669599 10  2 Bf  -     -     -          945   10    0 
+McElvis   988669640 10  1 Bf  -     -     -          935    5    0 
+McElvis   988669687 10 10 f   -     -     -          930    0    0 
+McElvis   988669777 10  9 f   -     -     -          930    0    0 
+McElvis   988669860 10  8 rc  brc   b     b          930  120  295 Ac Ad
+McElvis   988669917 10  7 c   k     b     b         1105   50  120 5h 6h
+McElvis   988669984 10  6 f   -     -     -         1175    0    0 
+McElvis   988670031 10  5 f   -     -     -         1175    0    0 
+McElvis   988670065 10  4 c   k     c     r         1175   70  280 Ts Ad
+McElvis   988670159 10  3 rc  cc    f     -         1385   90    0 
+McElvis   988670226 10  2 Bc  kcc   kf    -         1295   50    0 
+McElvis   988670358 10  1 Bf  -     -     -         1245    5    0 
+McElvis   988670384 10 10 c   k     b     cc        1240  100    0 Ad Jc
+McElvis   988670488 10 10 c   r     k     bc        1140   80  220 9d 9s
+McElvis   988670565 10  8 c   f     -     -         1280   20    0 
+McElvis   988670651  9  7 f   -     -     -         1260    0    0 
+McElvis   988670699 10  6 f   -     -     -         1260    0    0 
+McElvis   988670760 10  5 f   -     -     -         1260    0    0 
+McElvis   988670799 10  4 f   -     -     -         1260    0    0 
+McElvis   988670851 10  3 f   -     -     -         1260    0    0 
+McElvis   988670867 10  2 Bk  kf    -     -         1260   10    0 
+McElvis   988670945 10  1 Bf  -     -     -         1250    5    0 
+McElvis   988670988 10 10 f   -     -     -         1245    0    0 
+McElvis   988671066  9  8 f   -     -     -         1245    0    0 
+McElvis   988671082  9  8 f   -     -     -         1245    0    0 
+McElvis   988671134  9  7 f   -     -     -         1245    0    0 
+McElvis   988671197  9  6 f   -     -     -         1245    0    0 
+McElvis   988671235  9  6 c   k     f     -         1245   10    0 
+McElvis   988671285  8  4 c   f     -     -         1235   10    0 
+McElvis   988671348  8  3 f   -     -     -         1225    0    0 
+McElvis   988671418 10  2 Bf  -     -     -         1225   10    0 
+McElvis   988671514  9  1 Bf  -     -     -         1215    5    0 
+McElvis   988671588  9  9 c   k     f     -         1210   10    0 
+McElvis   988671644  9  8 f   -     -     -         1200    0    0 
+McElvis   988671702  9  7 c   c     f     -         1200   20    0 
+McElvis   988671767 10  7 r   r     b     b         1180   80  245 Qc Ac
+McElvis   988671820 10  6 f   -     -     -         1345    0    0 
+McElvis   988671896 10  5 f   -     -     -         1345    0    0 
+McElvis   988671944 10  4 f   -     -     -         1345    0    0 
+McElvis   988672083 10  3 f   -     -     -         1345    0    0 
+McElvis   988672176  9  2 Bk  kc    k     b         1345   40  135 8c 6h
+McElvis   988672237  9  1 Bf  -     -     -         1440    5    0 
+McElvis   988672282  9  9 c   f     -     -         1435   20    0 
+McElvis   988672365  9  8 f   -     -     -         1415    0    0 
+McElvis   988672420  8  7 f   -     -     -         1415    0    0 
+McElvis   988672469  9  6 f   -     -     -         1415    0    0 
+McElvis   988672563  9  5 f   -     -     -         1415    0    0 
+McElvis   988672622  9  3 f   -     -     -         1415    0    0 
+McElvis   988672701  9  2 Bc  cc    bc    kc        1415  100    0 8s 8c
+McElvis   988672753  9  1 Bc  kc    kc    kf        1315   40    0 
+McElvis   988672809  9  9 fQ  -     -     -         1275    0    0 
+McElvis   988681300 10  3 f   -     -     -         1275    0    0 
+McElvis   988681425  9  1 Bf  -     -     -         1275   10    0 
+McElvis   988681477  9  1 Bf  -     -     -         1265    5    0 
+McElvis   988681645  9  9 f   -     -     -         1260    0    0 
+McElvis   988681729  9  8 f   -     -     -         1260    0    0 
+McElvis   988681842  8  7 f   Q     -     -         1260    0    0 

@@ -1,0 +1,173 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Texas Hold'em Analysis</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../css/bootstrap.css" media="screen">
+    <link rel="stylesheet" href="../css/holdem.css">
+    <link rel="stylesheet" href="../css/bootswatch.min.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../bower_components/html5shiv/dist/html5shiv.js"></script>
+      <script src="../bower_components/respond/dest/respond.min.js"></script>
+    <![endif]-->
+    <script>
+
+     var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-23019901-1']);
+      _gaq.push(['_setDomainName', "bootswatch.com"]);
+        _gaq.push(['_setAllowLinker', true]);
+      _gaq.push(['_trackPageview']);
+
+     (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
+
+    </script>
+  </head>
+  <body>
+    <div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="../index.html" class="navbar-brand">CS 109 Final Project</a>
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="http://cs109.github.io/2014/">CS 109</a></li>
+            <li><a href="holdem.html">Intro to Texas Hold'em</a></li>
+            <li><a href="process.html">Process</a></li>
+            <li><a href="https://wrapbootstrap.com/?ref=bsw" target="_blank">Project</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+    </br>
+    <!-- Introduction to Texas Hold'em -->
+    <div class="well" id="well_overwrite">
+        <h1>Introduction to Texas Hold'em</h1>
+    </div>
+    <!-- the basics -->
+    <div class="col-lg-4">
+        <div class="bs-component">
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title">The Basics</h3>
+            </div>
+            <div class="panel-body">
+				<ul>
+					<li>Depending on the limit and betting structure, players will place out blinds and antes so there is an initial amount to get this started. This is called <i>posting</i>.</li>
+					<li>The dealer shuffles up a standard deck of 52 playing cards.</li>
+					<li>Each player is dealt 2 private cards face down. These are called your <i>hole cards</i> or <i>pocket cards</i>.</li>
+					<li>Then there is a round of betting starting with the player to the left of the blinds. This is the <i>preflop</i> betting round. Like most games of poker, players can call (match a bet or a raise), raise (increase the size of an existing bet in the same betting round), or fold (discard one's hand and forfeit interest in the current pot). </li>
+					<li>After the betting round ends, the dealer discards the top card of the deck. This is called the <i>burn card</i>. This is done to prevent cheating.</li>
+					<li>The dealer then flips the next three cards face up on the table. This is called <i>the flop</i>. These are communal cards that anyone can use in combination with their two pocket cards to form a poker hand.</li>
+					<li>The player to the left of the dealer starts another betting round.</li>
+					<li>After the betting concludes, the dealer burns again then flips another communal card onto the table. This is called the <i>turn</i>.</li>
+					<li>The player to the left of the dealer starts another betting round. In many types of games, this is where the bet size doubles.</li>
+					<li>Again, the dealer burns a card and places a final card face up on the table. This is called the <i>river</i>. Players can now use any of the five cards on the table or the two cards in their pocket to form a five card poker hand.</li>
+					<li>There is one final round of betting starting with the player to the left of the dealer</li>
+					<li>After that, we have the <i>showdown</i>. Players who have not folded revealed their hands, beginning with the player to the left of the last player to call. Players use a combination of their pocket cards and the community cards to form a five card poker hand.</li>
+					<li>The player who shows the best hand wins! Although sometimes players with the same hand split the pot.</li>
+				</ul>
+            </div>	
+          </div>
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              <h3 class="panel-title">Poker Hand Rankings</h3>
+            </div>
+            <div class="panel-body">
+				<div class="table-responsive"> 
+				    <table class="table">
+				      <tbody>
+				        <tr>
+				          <td>
+				          	<div class="panel panel-primary">
+				          		<div class="panel-heading">
+              						<h3 class="panel-title">Hand Rankings</h3>
+            					</div>
+            					<div class="panel-body">
+            						<img src="../img/poker_hands.png">
+            					</div>
+				          	</div>
+				          </td>
+				          <td>
+				          	<div class="panel panel-primary">
+				          		<div class="panel-heading">
+              						<h3 class="panel-title">Descriptions</h3>
+            					</div>
+            													<div class="panel-body">
+	            					<div class="table-responsive"> 
+	            						<table class="table table-striped table-bordered">
+	            							<tbody>
+	            								<tr>
+												<td><b><i>Royal Flush</i></b>: A straight from ten to an ace with all five cards of the same suit. In poker all suits are ranked equally.</td>
+												</tr>
+												<tr>
+													<td><b><i>Straight Flush</b></i>: Any straight with all five cards of the same suit.</td>
+												</tr>
+												<tr>
+													<td><b><i>Four Of A Kind</b></i>: Any four cards of the same rank. If two players share the same Four of a Kind (on the board), the bigger fifth card (the "kicker") decides who wins the pot.</td>
+												</tr>
+												<tr>
+													<td><b><i>Full House</b></i>: Any three cards of the same rank together with any two cards of the same rank. </td>
+												</tr>
+												<tr>
+													<td><b><i>Flush</b></i>: Any five cards of the same suit (not consecutive). The highest card of the five determines the rank of the flush. </td>
+												</tr>
+												<tr>
+													<td><b><i>Straight</b></i>: Any five consecutive of different suits. Aces can count as either a high or low card. </td>
+												</tr>
+												<tr>
+													<td><b><i>Three Of A Kind</b></i>: Any three cards of the same rank. </td>
+												</tr>
+												<tr>
+													<td><b><i>Two Pair</b></i>: Any two cards of the same rank together with another two cards of the same rank. The highest pair of the two determines the rank of the two-pair.</td>
+												</tr>
+												<tr>
+													<td><b><i>One Pair</b></i>: Any two cards of the same rank.</td>
+												</tr>
+	            							</tbody>
+	            						</table>
+            						</div>
+            					</div>
+				          	</div>
+			              </td>
+				        </tr>
+				      </tbody>
+				    </table>
+				</div>
+            </div>	
+          </div>
+        </div>
+      </div>
+      <!-- footer -->
+      <footer id="footer_overwrite"> 
+        <div class="row">
+          <div class="col-lg-12">
+            <ul class="list-unstyled">
+              <li class="pull-right"><a href="#top">Back to top</a></li>
+              <li><a href="http://www.linkedin.com/pub/dennis-cui/40/63/70a">Dennis Cui</a></li>
+              <li><a href="http://www.linkedin.com/in/markandrewyao">Mark Yao</a></li>
+              <li><a href="https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile">Nicholas Mahlangu</a></li>
+              <li><a href="http://www.linkedin.com/pub/zachary-fogelson/47/389/a22">Zachary Fogelson</a></li>
+            </ul>
+            <p>Made by Nicholas Mahlangu</a>. Contact him with an <a href="mailto:nmahlangu@college.harvard.edu">email</a>.</p>
+            <p>Based on <a href="http://getbootstrap.com" rel="nofollow">Bootstrap</a>. Icons from <a href="http://fortawesome.github.io/Font-Awesome/" rel="nofollow">Font Awesome</a>. Web fonts from <a href="http://www.google.com/webfonts" rel="nofollow">Google</a>.</p>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+  </body>
+</html>

@@ -1,0 +1,112 @@
+joeb      986651806  2  1 Brr krr   brc   brc       1000  240  480 Jc Jd
+joeb      986651888  3  3 Q   -     -     -         1240    0    0 
+joeb      986652898  3  2 Bc  k     k     b         1240   40    0 Td Jh
+joeb      986652925  3  1 Bf  -     -     -         1200    5    0 
+joeb      986652958  3  3 f   -     -     -         1195    0    0 
+joeb      986652964  3  2 Bk  r     c     c         1195   70    0 6c 2h
+joeb      986653007  3  1 Bf  -     -     -         1125    5    0 
+joeb      986653031  3  3 f   -     -     -         1120    0    0 
+joeb      986653057  3  2 Bf  -     -     -         1120   10    0 
+joeb      986653064  3  1 Bcc kf    -     -         1110   20    0 
+joeb      986653113  3  3 cr  f     -     -         1090   30    0 
+joeb      986653140  3  2 Bf  -     -     -         1060   10    0 
+joeb      986653158  3  1 Bf  -     -     -         1050    5    0 
+joeb      986653167  3  3 c   -     -     -         1045   10   25 
+joeb      986653175  2  1 Bf  -     -     -         1060   10    0 
+joeb      986653183  2  1 Bc  b     -     -         1050   20   30 
+joeb      986653194  2  2 B   -     -     -         1060   10   15 
+joeb      986653204  2  1 Bc  b     -     -         1065   20   30 
+joeb      986653243  2  2 B   -     -     -         1075   10   15 
+joeb      986653245  2  1 Bf  -     -     -         1080    5    0 
+joeb      986653248  2  2 Bc  f     -     -         1075   20    0 
+joeb      986653257  2  1 Bc  b     -     -         1055   20   30 
+joeb      986653270  2  2 B   -     -     -         1065   10   15 
+joeb      986653272  2  1 Bc  kf    -     -         1070   10    0 
+joeb      986653284  2  2 B   -     -     -         1060   10   15 
+joeb      986653287  2  1 Bf  -     -     -         1065    5    0 
+joeb      986653289  2  2 B   -     -     -         1060   10   15 
+joeb      986653296  2  1 Bc  bc    kc    k         1065   50  100 As 5c
+joeb      986653320  2  2 Bk  c     c     b         1115   60  120 Kh 6c
+joeb      986653352  2  1 Bf  -     -     -         1175    5    0 
+joeb      986653359  2  2 B   -     -     -         1170   10   15 
+joeb      986653364  2  1 Bcc k     bc    kc        1175   80    0 Ks 7c
+joeb      986653391  2  2 B   -     -     -         1095   10   15 
+joeb      986653399  2  1 Bf  -     -     -         1100    5    0 
+joeb      986653401  2  2 B   -     -     -         1095   10   15 
+joeb      986653405  2  1 Bf  -     -     -         1100    5    0 
+joeb      986653408  2  2 Bf  -     -     -         1095   10    0 
+joeb      986653415  2  1 Bf  -     -     -         1085    5    0 
+joeb      986653419  2  2 Bf  -     -     -         1080   10    0 
+joeb      986653423  2  1 Bf  -     -     -         1070    5    0 
+joeb      986653426  2  2 Brc c     c     c         1065   90  180 Ad 2d
+joeb      986653445  2  1 Bf  -     -     -         1155    5    0 
+joeb      986653454  2  2 B   -     -     -         1150   10   15 
+joeb      986653456  2  1 Bc  k     b     -         1155   30   40 
+joeb      986653498  2  2 Bf  -     -     -         1165   10    0 
+joeb      986653503  2  1 Bf  -     -     -         1155    5    0 
+joeb      986653506  2  2 B   -     -     -         1150   10   15 
+joeb      986653509  2  1 Bc  kf    -     -         1155   10    0 
+joeb      986653522  2  2 B   -     -     -         1145   10   15 
+joeb      986653526  2  1 Bf  -     -     -         1150    5    0 
+joeb      986653531  2  2 Bk  b     -     -         1145   20   30 
+joeb      986653543  2  1 Bcc kf    -     -         1155   20    0 
+joeb      986653558  2  2 Bc  c     c     b         1135   70  140 As 8d
+joeb      986653574  3  1 BQ  -     -     -         1205    5    0 
+joeb      986772320  4  3 rr  brc   brc   brc       1000  240    0 8d 6d
+joeb      986772378  2  1 Brc brc   brc   bf         760  180    0 
+joeb      986772431  2  1 BQ  -     -     -          580    5    0 
+joeb      986772470  2  1 Brf -     -     -          575   20    0 
+joeb      986772478  2  2 Brc rr    rf    -          555  120    0 
+joeb      986772507  2  1 Brr bf    -     -          435   50    0 
+joeb      986772526  3  2 Br  f     -     -          385   30    0 
+joeb      986772603  2  1 Brr brc   bf    -          355  100    0 
+joeb      986772633  2  2 Bf  -     -     -          255   10    0 
+joeb      986772638  2  1 Brr brc   brc   brc        245  240    0 5d Ks
+joeb      986772690  2  2 BA  -     -     -            5    5   10 Js Kd
+joeb      986772691  2  1 BcA -     -     -           10   10    0 4c 3c
+joeb      986772723  2  1 Brr brc   brc   kf        1000  160    0 
+joeb      986772768  2  2 Brc rr    rr    f          840  160    0 
+joeb      986772836  2  1 Bf  -     -     -          680    5    0 
+joeb      986772842  2  2 Brr rr    rr    rr         675  240    0 2h 8c
+joeb      986772887  2  1 Bcf -     -     -          435   10    0 
+joeb      986772898  2  2 Bf  -     -     -          425   10    0 
+joeb      986772905  2  1 Bf  -     -     -          415    5    0 
+joeb      986772909  2  2 Brf -     -     -          410   30    0 
+joeb      986772916  2  1 Brr brf   -     -          380   70    0 
+joeb      986772947  2  2 Bf  -     -     -          310   10    0 
+joeb      986772952  2  1 Brr brc   brc   brc        300  240    0 4c 3s
+joeb      986772995  2  2 Bc  rc    cA    -           60   60  120 5c Qd
+joeb      986773021  2  1 Br  brc   brA   -          120  120    0 3d Js
+joeb      987303488  2  2 Brc rr    brc   rf        1000  200    0 
+joeb      987303534  2  1 Brr brc   brc   brc        800  240    0 Kh Ad
+joeb      987303571  2  2 Brc rr    rr    rf         560  200    0 
+joeb      987303607  2  1 Brr brc   brc   brc        360  240    0 9s 7h
+joeb      987303650  2  2 Brc rr    rA    -          120  120    0 Qh 2s
+joeb      987303696  2  1 Brr brc   brc   brc       1000  240    0 Th Ks
+joeb      987303740  2  2 Brc rr    rr    rf         760  200    0 
+joeb      987303784  2  1 Brr brc   brc   bf         560  180    0 
+joeb      987303831  2  2 Brc rr    rf    -          380  120    0 
+joeb      987303852  2  1 Brr brc   brc   brc        260  240    0 Kc 2d
+joeb      987303884  2  2 BrA -     -     -           20   20   20 Ad Ks
+joeb      987303896  2  1 BrA -     -     -           20   20   40 Kc 9h
+joeb      987303910  2  2 BrcA -     -     -           40   40    0 5s 3d
+joeb      987303965  2  1 Brr brc   brf   -         1000  140    0 
+joeb      987303989  2  2 Brc rr    rf    -          860  120    0 
+joeb      987304020  2  1 Brr brc   brc   brf        740  220    0 
+joeb      987304056  2  2 Brc rr    rr    rr         520  240  480 4d 3d
+joeb      987304087  2  1 Brr brc   brc   brc        760  240    0 2c 2d
+joeb      987304156  2  2 Brc rr    rr    rr         520  240    0 Ah 2s
+joeb      987304204  2  1 Brr brc   brc   brc        280  240    0 2c 6d
+joeb      987304285  2  2 BrcA -     -     -           40   40   80 6s Qc
+joeb      987304304  2  1 Brr br    bA    -           80   80    0 Kh Qc
+joeb      988497920  2  1 Brr brc   brc   bf         315  180    0 
+joeb      988497956  2  2 Brc rr    rcA   -          135  135    0 6c 5s
+joeb      988498005  2  1 Brr brc   brc   brc       1000  240    0 Jd As
+joeb      988498031  2  2 Brc rr    rr    f          760  160    0 
+joeb      988498059  2  1 Brr brc   brc   brf        600  220    0 
+joeb      988498122  2  2 Brc rr    rr    f          380  160    0 
+joeb      988498156  2  1 Brr brc   b     bf         220  120    0 
+joeb      988498180  2  2 Bf  -     -     -          100   10    0 
+joeb      988498187  2  1 Brf -     -     -           90   20    0 
+joeb      988498193  2  2 Brc rf    -     -           70   60    0 
+joeb      988498213  2  1 BcA -     -     -           10   10    0 6d 2c

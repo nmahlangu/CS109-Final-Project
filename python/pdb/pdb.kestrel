@@ -1,0 +1,103 @@
+kestrel   986692377 10  9 c   c     cc    f         1000   70    0 
+kestrel   986692466 10  8 f   -     -     -          930    0    0 
+kestrel   986692548 10  7 f   -     -     -          930    0    0 
+kestrel   986692610 10  3 Q   -     -     -          930    0    0 
+kestrel   986692721 10  4 f   -     -     -          930    0    0 
+kestrel   986692806 10  3 f   -     -     -          930    0    0 
+kestrel   986692862 10  2 Bk  kf    -     -          930   10    0 
+kestrel   986692953 10  1 Bf  -     -     -          920    5    0 
+kestrel   986693001 10 10 f   -     -     -          915    0    0 
+kestrel   986693069 10  9 f   -     -     -          915    0    0 
+kestrel   986693134 10  8 f   -     -     -          915    0    0 
+kestrel   986693204 10  7 c   f     -     -          915   10    0 
+kestrel   986693276 10  6 f   -     -     -          905    0    0 
+kestrel   986693329 10  5 f   -     -     -          905    0    0 
+kestrel   986693407 10  4 f   -     -     -          905    0    0 
+kestrel   986693499 10  3 f   -     -     -          905    0    0 
+kestrel   986693568 10  2 Bk  k     bf    -          905   30    0 
+kestrel   986693621 10  1 Bc  kc    kf    -          875   20    0 
+kestrel   986693699 10 10 f   -     -     -          855    0    0 
+kestrel   986693803 10  9 f   -     -     -          855    0    0 
+kestrel   986693843 10  8 f   -     -     -          855    0    0 
+kestrel   986693884 10  7 f   -     -     -          855    0    0 
+kestrel   986693964 10  6 f   -     -     -          855    0    0 
+kestrel   986694018 10  5 f   -     -     -          855    0    0 
+kestrel   986694068 10  4 f   -     -     -          855    0    0 
+kestrel   986694126 10  3 f   -     -     -          855    0    0 
+kestrel   986694169 10  2 Bc  f     -     -          855   20    0 
+kestrel   986694208 10  1 Bc  kf    -     -          835   10    0 
+kestrel   986694252 10 10 f   -     -     -          825    0    0 
+kestrel   986694288 10  9 c   c     rc    c          825  100    0 Ts Kd
+kestrel   986694330 10  8 c   r     b     r          725   90  205 9s Js
+kestrel   986694369 10  7 f   -     -     -          840    0    0 
+kestrel   986694416 10  6 cc  c     b     -          840   50  150 
+kestrel   986694464 10  5 f   -     -     -          940    0    0 
+kestrel   986694495 10  4 f   -     -     -          940    0    0 
+kestrel   986694542  9  3 f   -     -     -          940    0    0 
+kestrel   986694584  9  2 Bk  kf    -     -          940   10    0 
+kestrel   986694651 10  1 Brc kf    -     -          930   40    0 
+kestrel   986694731  9  9 f   -     -     -          890    0    0 
+kestrel   986694750 10  9 f   -     -     -          890    0    0 
+kestrel   986694790 10  8 c   f     -     -          890   10    0 
+kestrel   986694831 10  7 f   -     -     -          880    0    0 
+kestrel   986694900 10  6 f   -     -     -          880    0    0 
+kestrel   986694965 10  5 f   -     -     -          880    0    0 
+kestrel   986695009 10  4 f   -     -     -          880    0    0 
+kestrel   986695053 10  3 c   kf    -     -          880   10    0 
+kestrel   986695144 10  2 Bk  kc    kc    kc         870   60  145 Jh Ks
+kestrel   986695187 10  1 Bc  bc    br    brc        955  170  400 Jc 6h
+kestrel   986695245 10 10 f   -     -     -         1185    0    0 
+kestrel   986695316 10  9 f   -     -     -         1185    0    0 
+kestrel   986695355 10  8 c   b     c     r         1185   80  175 Ah 9s
+kestrel   986695409 10  7 f   -     -     -         1280    0    0 
+kestrel   986695467 10  6 f   -     -     -         1280    0    0 
+kestrel   986695515 10  5 f   -     -     -         1280    0    0 
+kestrel   986695569 10  4 c   kf    -     -         1280   10    0 
+kestrel   986695632 10  3 cc  bc    b     b         1270   80  255 Th Ts
+kestrel   986695676 10  2 Bc  kf    -     -         1445   20    0 
+kestrel   986695726 10  1 Bc  kf    -     -         1425   10    0 
+kestrel   986695799 10 10 c   cc    c     cc        1415  110    0 6h 8h
+kestrel   986695907 10  9 f   -     -     -         1305    0    0 
+kestrel   986695986 10  8 f   -     -     -         1305    0    0 
+kestrel   986696040 10  7 cc  k     kc    kc        1305   60   68 Ah 8s
+kestrel   986696094 10  6 f   -     -     -         1313    0    0 
+kestrel   986696214 10  5 c   b     kf    -         1313   20    0 
+kestrel   986696289 10  4 f   -     -     -         1293    0    0 
+kestrel   986696370 10  3 f   -     -     -         1293    0    0 
+kestrel   986696442 10  2 Bk  b     bc    kf        1293   60    0 
+kestrel   986696513 10  1 Bc  b     kc    kf        1233   40    0 
+kestrel   986696654 10 10 f   -     -     -         1193    0    0 
+kestrel   986696782  9  8 c   f     -     -         1193   10    0 
+kestrel   986696875  8  6 f   -     -     -         1183    0    0 
+kestrel   986696925  8  5 f   -     -     -         1183    0    0 
+kestrel   986696980  8  4 f   -     -     -         1183    0    0 
+kestrel   986697051  8  3 c   k     k     kf        1183   10    0 
+kestrel   986697132  9  2 Bk  kf    -     -         1173   10    0 
+kestrel   986697158 10  1 Bf  -     -     -         1163    5    0 
+kestrel   986697242 10 10 c   c     b     c         1158   60    0 9h 9s
+kestrel   986697305  9  8 c   fQ    -     -         1098   20    0 
+kestrel   986697729 10  6 f   -     -     -         1078    0    0 
+kestrel   986697825 10  5 f   -     -     -         1078    0    0 
+kestrel   986697865 10  4 f   -     -     -         1078    0    0 
+kestrel   986697929 10  3 f   -     -     -         1078    0    0 
+kestrel   986697979  9  2 Bf  Q     -     -         1063   10    0 
+kestrel   987116928 10  6 f   -     -     -          238    0    0 
+kestrel   987116987 10  5 f   -     -     -          238    0    0 
+kestrel   987117089 10  4 f   -     -     -          238    0    0 
+kestrel   987117170 10  3 f   -     -     -          238    0    0 
+kestrel   987117223 10  2 Bf  -     -     -          238   10    0 
+kestrel   987117298 10  1 Bc  kc    kf    -          228   20    0 
+kestrel   987117361 10 10 f   -     -     -          208    0    0 
+kestrel   987117410  9  8 f   -     -     -          208    0    0 
+kestrel   987117477  8  6 c   f     -     -          208   10    0 
+kestrel   987117528  8  6 f   -     -     -          198    0    0 
+kestrel   987117560  8  5 r   bc    f     -          198   40    0 
+kestrel   987117652  8  4 f   -     -     -          158    0    0 
+kestrel   987117746  7  3 f   -     -     -          158    0    0 
+kestrel   987117795  6  2 Bf  -     -     -          158   10    0 
+kestrel   987117832  6  1 Bc  k     b     -          148   30   50 
+kestrel   987117880  6  6 f   -     -     -          168    0    0 
+kestrel   987117914  6  5 f   -     -     -          168    0    0 
+kestrel   987117937  6  4 r   b     -     -          168   40   85 
+kestrel   987118123  6  2 Bk  k     b     kc         213   50    0 Ah 5h
+kestrel   987118174  6  1 Bc  kQ    -     -          163   10    0 

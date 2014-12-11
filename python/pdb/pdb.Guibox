@@ -1,0 +1,1718 @@
+Guibox    986143452  6  4 c   f     -     -         1000   10    0 
+Guibox    986143482  6  3 cc  kccc  kf    -          990   60    0 
+Guibox    986143549  6  2 Bc  kc    kf    -          930   30    0 
+Guibox    986143590  6  1 Bc  kf    -     -          900   20    0 
+Guibox    986143663  6  6 c   f     -     -          880   20    0 
+Guibox    986143705  6  5 c   k     f     -          860   10    0 
+Guibox    986143731  6  4 cc  rc    rr    -          850  130  280 
+Guibox    986143771  6  3 c   b     -     -         1000   20   50 
+Guibox    986143797  6  2 Bc  b     b     kQ        1030   50    0 
+Guibox    986144096  7  2 Bc  brc   b     b          980  100  280 
+Guibox    986144143  7  1 Bc  br    b     b         1160   80  200 5d Jh
+Guibox    986144198  8  7 c   r     rr    b         1280  130    0 Qs Kc
+Guibox    986144234  9  6 cc  kcc   kf    -         1150   50    0 
+Guibox    986144316  9  5 c   kf    -     -         1100   10    0 
+Guibox    986144389  7  4 c   k     k     c         1090   30   36 Js 4d
+Guibox    986144436  7  3 c   k     cc    b         1096   70  200 Qh Th
+Guibox    986144480  7  2 Bc  bc    bc    kc        1226  100    0 Th Jc
+Guibox    986144521  8  1 Bc  k     b     b         1126   50  130 Td 7h
+Guibox    986144546  8  8 c   c     c     r         1206   80  180 Jh 9d
+Guibox    986144569  7  6 c   c     rc    b         1306  100  365 Kh 2c
+Guibox    986144604  7  5 c   kf    -     -         1571   10    0 
+Guibox    986144637  6  4 c   c     b     k         1561   40  110 Ts 6s
+Guibox    986144667  6  3 c   b     k     b         1631   40   75 
+Guibox    986144689  6  2 Bk  k     k     k         1666   10    0 2s 4h
+Guibox    986144711  6  1 BQ  -     -     -         1656    5    0 
+Guibox    986144883  6  3 c   k     f     -         1651   10    0 
+Guibox    986144913  5  2 Bk  b     b     k         1641   40  120 4d Qs
+Guibox    986144948  5  1 Bc  b     -     -         1721   20   60 
+Guibox    986144968  5  5 c   rc    k     f         1761   40    0 
+Guibox    986145012  6  4 c   k     c     f         1721   30    0 
+Guibox    986145042  6  3 c   k     f     -         1691   10    0 
+Guibox    986145079  6  2 Bc  kc    kf    -         1681   30    0 
+Guibox    986145108  6  1 Bc  b     b     b         1651   60  150 3s 8d
+Guibox    986145136  6  6 c   k     k     k         1741   10    0 2d 5s
+Guibox    986145183  6  5 c   c     f     -         1731   20    0 
+Guibox    986145226  7  6 cc  c     c     f         1711   50    0 
+Guibox    986145328  7  5 cf  -     -     -         1661   20    0 
+Guibox    986145399  7  4 cc  k     cc    c         1641   80    0 5h 7c
+Guibox    986145540  9  4 c   kf    -     -         1561   10    0 
+Guibox    986145631  9  3 c   kc    kc    bc        1551   80  210 Kc Jh
+Guibox    986145688 10  2 Bc  kcc   kc    k         1681   70    0 6d Ts
+Guibox    986145773 10  1 Bc  kf    -     -         1611   10    0 
+Guibox    986145819  9  9 c   c     c     f         1601   40    0 
+Guibox    986145870  9  8 c   rc    ccc   cf        1561  140    0 
+Guibox    986145953 10  8 c   c     k     f         1421   30    0 
+Guibox    986146051 10  7 c   c     k     b         1391   40    0 2c 6s
+Guibox    986146135  9  5 fQ  -     -     -         1351    0    0 
+Guibox    986155681 10  8 c   c     c     f         1351   50    0 
+Guibox    986155739  9  7 cc  f     -     -         1301   20    0 
+Guibox    986155800  8  5 c   rc    k     c         1281   70    0 As 2h
+Guibox    986155860  8  4 c   k     b     k         1211   30   38 3s Jd
+Guibox    986155906  8  3 cc  b     b     bc        1219   90    0 Qc 6s
+Guibox    986155973  9  2 Bk  kc    kf    -         1129   20    0 
+Guibox    986156015  9  1 Bc  kf    -     -         1109   20    0 
+Guibox    986156086  9  9 c   c     k     f         1089   20    0 
+Guibox    986156131  9  8 c   b     k     k         1069   30    0 Td 5d
+Guibox    986156198  9  7 c   kc    f     -         1039   30    0 
+Guibox    986156299  9  6 c   c     r     b         1009   80  275 4c As
+Guibox    986156380  9  5 c   f     -     -         1204   20    0 
+Guibox    986156496 10  5 cc  c     cf    -         1184   70    0 
+Guibox    986156589 10  5 c   c     kf    -         1114   20    0 
+Guibox    986156658 10  3 c   c     f     -         1094   20    0 
+Guibox    986156735 10  2 Bc  f     -     -         1074   20    0 
+Guibox    986156821 10  1 Bc  b     bc    b         1054   80  270 Qs Th
+Guibox    986156929  9  9 c   c     c     b         1244   60  210 8d Ah
+Guibox    986156988  9  8 cc  b     k     b         1394   50  125 Ks Qc
+Guibox    986157093  8  7 c   f     -     -         1469   20    0 
+Guibox    986157170 10  6 cc  cc    f     -         1449   60    0 
+Guibox    986157288 10  5 c   c     f     -         1389   20    0 
+Guibox    986157379 10  4 c   b     b     b         1369   60    0 Kh Jh
+Guibox    986157450 10  3 cc  rc    f     -         1309   50    0 
+Guibox    986157553 10  2 Bk  kQ    -     -         1259   10    0 
+Guibox    986253247  5  5 c   b     r     b         1584   80    0 Kh Qc
+Guibox    986253276  5  4 c   f     -     -         1504   10    0 
+Guibox    986253310  5  3 c   f     Q     -         1494   10    0 
+Guibox    986261556  6  4 c   bc    bc    brc       1091  150  320 3d 2s
+Guibox    986261601  7  3 c   b     b     k         1261   40    0 Js 8c
+Guibox    986261646  7  2 Bc  kf    -     -         1221   30    0 
+Guibox    986261699  9  1 Bc  kf    -     -         1191   10    0 
+Guibox    986261787  9  9 c   f     -     -         1181   10    0 
+Guibox    986261861  9  9 c   c     c     k         1171   50    0 6h Ac
+Guibox    986261908  8  7 c   k     f     -         1121   10    0 
+Guibox    986261964  9  7 c   cc    c     c         1111  100    0 9c 9h
+Guibox    986262022  8  5 cc  f     -     -         1011   20    0 
+Guibox    986262075  8  4 cc  b     c     rr         991  130    0 4d 3d
+Guibox    986262152  8  2 cc  kf    -     -          861   20    0 
+Guibox    986262219  8  2 Bk  b     b     -          841   40   70 
+Guibox    986262245  8  1 Br  b     b     b          871   70  180 4s 4h
+Guibox    986262288  8  8 c   c     c     c          981   60    0 7c 6c
+Guibox    986262334  8  7 c   kc    kc    kc         921   60    0 3d 7s
+Guibox    986262407  8  6 cc  c     c     c          861   70  225 3h 7c
+Guibox    986262467  8  5 c   r     r     b         1016   90  295 2h Th
+Guibox    986262556  8  4 c   c     k     kf        1221   20    0 
+Guibox    986262665  8  3 c   f     -     -         1201   10    0 
+Guibox    986262783  8  2 Bc  kc    b     b         1191   70  210 Td 4d
+Guibox    986262874  6  1 BQ  -     -     -         1331    5    0 
+Guibox    986606720  3  2 Bc  c     f     -         1506   30    0 
+Guibox    986606738  3  1 Bf  -     -     -         1476    5    0 
+Guibox    986606745  3  3 cc  c     f     -         1471   30    0 
+Guibox    986606757  3  2 Bc  kc    k     k         1441   30   90 6s 6c
+Guibox    986606775  3  1 Bc  bc    b     b         1501   80    0 Td 5d
+Guibox    986606795  3  3 c   c     c     k         1421   40   85 4s 4d
+Guibox    986606811  3  2 Bc  br    -     -         1466   50  110 
+Guibox    986606823  4  1 Bc  bc    kc    kc        1526  110    0 Qc Ts
+Guibox    986606852  4  4 c   c     c     f         1416   40    0 
+Guibox    986606879  4  3 c   b     -     -         1376   20   35 
+Guibox    986606889  4  2 Bk  b     b     -         1391   40   70 
+Guibox    986606901  4  1 Bc  bc    kc    bc        1421  120  134 9d 4s
+Guibox    986606929  4  4 cc  f     -     -         1435   20    0 
+Guibox    986606957  4  3 cc  bc    b     -         1415   60  140 
+Guibox    986606983  4  2 Bc  c     c     f         1495   50    0 
+Guibox    986607009  4  1 Bc  bc    b     b         1445   80  150 
+Guibox    986607034  4  4 c   cc    cc    f         1515  120    0 
+Guibox    986607068  4  3 cc  r     -     -         1395   40   75 
+Guibox    986607080  4  2 Bc  k     k     k         1430   30    0 2h 6s
+Guibox    986607097  4  1 Bc  bc    b     -         1400   70  180 
+Guibox    986607121  4  4 c   c     f     -         1510   30    0 
+Guibox    986607144  4  3 c   b     b     b         1480   60    0 5s 6d
+Guibox    986607164  4  2 B   -     -     -         1420   10   15 
+Guibox    986607169  4  1 Bc  k     kf    -         1425   10    0 
+Guibox    986607214  4  4 c   f     -     -         1415   10    0 
+Guibox    986607228  4  3 cc  rr    b     b         1405  100    0 Ad 3d
+Guibox    986607248  4  2 Bc  rc    f     -         1305   50    0 
+Guibox    986607270  4  1 Bc  b     bc    bc        1255  100    0 9c Ad
+Guibox    986607292  4  4 c   f     -     -         1155   10    0 
+Guibox    986607308  4  3 c   kc    cc    kc        1145   80    0 Ts 8d
+Guibox    986607340  4  2 Bc  f     -     -         1065   20    0 
+Guibox    986607348  4  1 Bcc br    b     b         1045  110    0 Qh 7s
+Guibox    986607375  4  4 c   r     k     b          935   50    0 8d Th
+Guibox    986607397  4  3 cc  kf    -     -          885   20    0 
+Guibox    986607424  3  2 Bc  rr    b     -          865   90  220 
+Guibox    986607450  4  1 Bc  bcc   kccc  kc         995  160    0 Ts 7d
+Guibox    986607539  4  4 c   rr    r     r          835  140    0 4c Ks
+Guibox    986607564  4  3 c   rc    rr    b          695  140  460 4s Qd
+Guibox    986607592  4  2 Bc  kf    -     -         1015   20    0 
+Guibox    986607612  4  1 Br  b     b     b          995   70  150 
+Guibox    986607630  4  4 cc  c     rc    r         1075  130  290 5s 8h
+Guibox    986607655  4  3 ccc br    b     b         1235  120  380 Jc 9c
+Guibox    986607687  4  2 Bcc kf    -     -         1495   40    0 
+Guibox    986607726  5  1 Bc  kf    -     -         1455   20    0 
+Guibox    986607768  6  6 c   c     f     -         1435   40    0 
+Guibox    986607818  5  4 c   f     -     -         1395   10    0 
+Guibox    986607848  5  3 cc  rr    b     b         1385  100  200 
+Guibox    986607885  5  2 BQ  -     -     -         1485   10    0 
+Guibox    986691207 10  8 c   b     b     k         1070   40  165 7s Td
+Guibox    986691276 10  7 c   c     k     f         1195   20    0 
+Guibox    986691349 10  6 c   b     b     k         1175   40    0 2s As
+Guibox    986691400 10  5 c   bc    b     b         1135   70  170 
+Guibox    986691463 10  4 c   b     bc    b         1235   80  300 7s 5h
+Guibox    986691546 10  3 ccc kf    -     -         1455   40    0 
+Guibox    986691675 10  2 Bk  kc    b     b         1415   60    0 Tc 7c
+Guibox    986691750 10  1 Bc  k     k     kf        1355   10    0 
+Guibox    986691821 10 10 cc  rc    f     -         1345   50    0 
+Guibox    986691873 10  9 c   f     -     -         1295   10    0 
+Guibox    986691930  9  7 c   k     f     -         1285   10    0 
+Guibox    986691994 10  7 cc  c     f     -         1275   30    0 
+Guibox    986692080 10  6 c   c     c     c         1245   60  240 8d As
+Guibox    986692146 10  5 cc  b     b     k         1425   50  160 4d 6h
+Guibox    986692205 10  4 cc  ccc   kc    kc        1535  120    0 4d Kh
+Guibox    986692296 10  3 c   bc    bcc   b         1415  110    0 5c 2c
+Guibox    986692377 10  2 Bc  kc    kcf   -         1305   50    0 
+Guibox    986692466 10  1 Bc  bc    bc    bc        1255  120    0 8c Ts
+Guibox    986692548 10 10 f   -     -     -         1135    0    0 
+Guibox    986692610 10  9 c   f     -     -         1135   20    0 
+Guibox    986692674  9  7 c   c     f     -         1115   20    0 
+Guibox    986692721 10  7 cc  b     rc    rc        1095  150    0 Jd 5d
+Guibox    986692806 10  6 c   kc    kc    k          945   40    0 Jd 6c
+Guibox    986692862 10  5 c   kf    -     -          905   10    0 
+Guibox    986692953 10  4 cc  b     b     b          895   70  225 8h 8c
+Guibox    986693001 10  3 cc  bcc   kf    -         1050   60    0 
+Guibox    986693069 10  2 Bk  k     kc    kf         990   30    0 
+Guibox    986693134 10  1 Bc  kf    -     -          960   20    0 
+Guibox    986693204 10 10 c   f     -     -          940   10    0 
+Guibox    986693276 10  9 c   c     c     c          930   60    0 5c 6h
+Guibox    986693329 10  8 c   k     k     f          870   10    0 
+Guibox    986693407 10  7 cc  rf    -     -          860   40    0 
+Guibox    986693499 10  6 c   kc    kc    c          820   60    0 9c Js
+Guibox    986693568 10  5 c   k     f     -          760   10    0 
+Guibox    986693621 10  4 c   kf    -     -          750   10    0 
+Guibox    986693699 10  3 ccc Q     -     -          740   40    0 
+Guibox    986694750 10  6 c   c     c     c          700   90    0 Jc 8h
+Guibox    986694790 10  5 c   r     k     b          610   50    0 5d Jd
+Guibox    986694831 10  4 c   b     c     b          560   60  220 
+Guibox    986694900 10  3 c   b     bc    bc         720  100    0 As 4d
+Guibox    986694965 10  2 Bc  bc    k     k          620   40    0 8s 2d
+Guibox    986695009 10  1 Brr br    b     b          580  110    0 8d 3d
+Guibox    986695053 10 10 c   r     b     k          470   50    0 Tc 8c
+Guibox    986695144 10  9 c   b     b     b          420   60    0 Th 6h
+Guibox    986695187 10  8 c   r     rc    rr         360  170    0 9s Qs
+Guibox    986695245 10  7 rr  b     brc   brA        190  190    0 Td Js
+Guibox    986710673  8  3 c   bc    kc    kc        1881   70    0 9s Qd
+Guibox    986710744  7  2 Bk  b     k     kf        1811   20    0 
+Guibox    986710783  8  1 Bc  kf    -     -         1791   10    0 
+Guibox    986710818  9  9 c   c     c     c         1781   70    0 3s 3c
+Guibox    986710876 10  9 c   f     -     -         1711   20    0 
+Guibox    986710928  9  7 c   kc    kcc   kc        1691  100    0 2h Ah
+Guibox    986710991  9  6 c   c     f     -         1591   20    0 
+Guibox    986711038  9  5 c   cc    cc    kc        1571  100    0 3d 8c
+Guibox    986711113  9  4 cc  b     b     b         1471   70  180 
+Guibox    986711160  9  4 cc  kc    kc    k         1581   50  175 9d 6c
+Guibox    986711209  9  2 Bc  kc    kc    bc        1706  100  133 8s Ts
+Guibox    986711255  9  1 Bf  -     -     -         1739    5    0 
+Guibox    986711315  9  9 c   k     c     b         1734   50  140 9c Kd
+Guibox    986711353  9  8 c   f     -     -         1824   10    0 
+Guibox    986711389  8  6 c   kc    kf    -         1814   20    0 
+Guibox    986711448  8  5 cc  kf    -     -         1794   20    0 
+Guibox    986711494  8  4 cc  b     -     -         1774   30   60 
+Guibox    986711515  8  3 c   kc    k     c         1804   40    0 2s As
+Guibox    986711580  8  2 Bc  bc    kc    k         1764   60    0 7h Qh
+Guibox    986711605  7  1 Bc  kf    -     -         1704   20    0 
+Guibox    986711629  7  7 c   c     c     f         1684   50    0 
+Guibox    986711655  7  6 cc  c     f     -         1634   30    0 
+Guibox    986711702  7  5 c   b     -     -         1604   20   45 
+Guibox    986711727  7  4 c   c     c     f         1629   50    0 
+Guibox    986711754  6  3 c   rr    b     b         1579   90  220 2h Qd
+Guibox    986711794  6  2 Bc  r     bc    b         1709  100    0 Ac Kc
+Guibox    986711842  6  1 Bc  kc    kc    k         1609   50    0 Jh 6c
+Guibox    986711873  6  6 c   k     f     -         1559   10    0 
+Guibox    986711919  6  5 c   b     b     b         1549   60  115 
+Guibox    986711952  6  4 c   bc    k     b         1604   50  110 
+Guibox    986711989  6  3 c   rc    c     b         1664   80  180 6s 5d
+Guibox    986712017  5  2 Bc  kf    -     -         1764   20    0 
+Guibox    986712050  5  1 Bc  k     kf    -         1744   20    0 
+Guibox    986712087  5  5 c   k     c     f         1724   30    0 
+Guibox    986712109  6  4 c   bc    b     b         1694   70    0 9h Qd
+Guibox    986712148  6  3 c   c     b     r         1624   80    0 Qd 3c
+Guibox    986712178  6  2 Bc  b     -     -         1544   30   75 
+Guibox    986712197  6  1 Bc  kf    -     -         1589   10    0 
+Guibox    986712248  6  6 c   c     c     c         1579   70    0 6h Ac
+Guibox    986712285  8  5 cc  c     rr    r         1509  160  370 7h 8d
+Guibox    986712350  8  4 cc  f     -     -         1719   20    0 
+Guibox    986712392  8  3 c   kf    -     -         1699   10    0 
+Guibox    986712428  8  2 Bk  bc    kc    kf        1689   70    0 
+Guibox    986712472  8  1 Bc  bc    kc    kf        1619   60    0 
+Guibox    986712517  8  8 c   b     b     f         1559   40    0 
+Guibox    986712554  8  7 c   f     -     -         1519   20    0 
+Guibox    986712603  8  6 c   b     br    b         1499  100    0 Qc 4c
+Guibox    986712641  8  5 c   f     -     -         1399   10    0 
+Guibox    986712666  8  4 cc  rc    c     c         1389   90  205 8h Qd
+Guibox    986712697  8  3 cc  cc    c     rr        1504  150  420 Qs Jc
+Guibox    986712758  8  2 Bc  kc    kc    k         1774   50  185 4d Td
+Guibox    986712811  8  1 Bcc kcc   kc    kc        1909  110    0 Jh 9d
+Guibox    986712875  8  8 c   k     b     -         1799   30   20 Qc Ts
+Guibox    986712927  8  7 cc  r     -     -         1789   60  165 Qd 6c
+Guibox    986712961  7  5 c   bc    bc    b         1894   90    0 Ad 7h
+Guibox    986712995  7  4 c   kc    brc   kc        1804  120    0 6s 4d
+Guibox    986713043  8  4 c   b     b     b         1684   60  155 Td Qs
+Guibox    986713084  8  3 c   b     b     b         1779   60  120 
+Guibox    986713130  8  2 Bc  kc    kc    br        1839  110    0 Jc 6h
+Guibox    986713158  8  1 Bc  k     bc    bc        1729   90    0 9h Qd
+Guibox    986713220  8  8 c   r     b     b         1639   80    0 8c Tc
+Guibox    986713283  8  7 c   c     f     -         1559   20    0 
+Guibox    986713330  8  6 cc  k     b     b         1539   60  125 
+Guibox    986713360  8  5 cc  b     -     -         1604   30   65 
+Guibox    986713393  7  4 c   k     b     -         1639   30   65 
+Guibox    986713430  7  3 cc  kc    b     b         1674   70    0 3c 2c
+Guibox    986713481  7  2 Bk  k     f     -         1604   10    0 
+Guibox    986713522  7  1 Bc  k     k     b         1594   30    0 5d 4d
+Guibox    986713572  7  7 c   c     f     -         1564   20    0 
+Guibox    986713611  7  6 c   f     -     -         1544   10    0 
+Guibox    986713649  7  5 c   k     kf    -         1534   10    0 
+Guibox    986713704  7  4 c   kf    -     -         1524   10    0 
+Guibox    986713739  7  3 c   b     b     -         1514   40   85 
+Guibox    986713768  7  2 Bc  kf    -     -         1559   20    0 
+Guibox    986713809  7  1 Bc  k     b     b         1539   50   55 2h 3d
+Guibox    986713854  7  7 c   f     -     -         1544   10    0 
+Guibox    986713894  7  6 c   c     c     f         1534   70    0 
+Guibox    986713920  7  5 c   k     k     k         1464   10    0 6s 5h
+Guibox    986713971  7  4 c   b     b     k         1454   40   85 8d As
+Guibox    986714027  7  3 cc  kf    -     -         1499   20    0 
+Guibox    986714077  7  2 Bk  k     b     b         1479   50  130 9h 2d
+Guibox    986714123  7  1 Bc  kc    b     b         1559   60    0 4d 3h
+Guibox    986714167  7  7 c   k     k     k         1499   10    0 Jc 6h
+Guibox    986714295  6  5 c   rc    rr    rr        1489  200  415 7s 9s
+Guibox    986714329  6  4 c   f     -     -         1704   10    0 
+Guibox    986714367  6  3 c   b     -     -         1694   20   35 
+Guibox    986714386  6  2 Bk  b     b     k         1709   40   80 Ah 5s
+Guibox    986714414  6  1 Bc  b     b     b         1749   60  130 
+Guibox    986714441  6  6 c   f     -     -         1819   10    0 
+Guibox    986714493  6  5 c   c     bf    -         1809   40    0 
+Guibox    986714542  6  4 c   c     c     rr        1769  120  325 Kd Qd
+Guibox    986714596  6  3 c   k     c     k         1974   30    0 4h Ks
+Guibox    986714636  6  2 Bk  b     b     b         1944   60  100 
+Guibox    986714659  6  1 Bc  k     kf    -         1984   20    0 
+Guibox    986714693  6  6 c   k     b     k         1964   30   75 5c 8s
+Guibox    986714726  6  5 c   k     k     b         2009   30   50 
+Guibox    986714758  6  4 cc  c     f     -         2029   30    0 
+Guibox    986714783  6  3 cc  b     c     f         1999   50    0 
+Guibox    986714820  5  2 Bk  f     -     -         1949   10    0 
+Guibox    986714856  5  1 Bc  k     k     k         1939   10    0 3s 4c
+Guibox    986714880  5  5 c   r     b     b         1929   70    0 Jc 3c
+Guibox    986714919  6  4 cc  f     -     -         1859   20    0 
+Guibox    986714956  6  3 c   c     k     b         1839   40   80 
+Guibox    986714990  6  2 Bf  -     -     -         1879   10    0 
+Guibox    986715021  6  1 Bc  b     -     -         1869   30   60 
+Guibox    986715036  6  6 f   -     -     -         1899    0    0 
+Guibox    986715068  6  5 c   c     c     rc        1899  110  330 Th 2h
+Guibox    986715109  6  4 c   k     k     k         2119   10   25 6h 3s
+Guibox    986715132  6  3 cc  c     rr    b         2134  130    0 Jd Kh
+Guibox    986715166  6  2 Bc  b     b     b         2004   70  145 
+Guibox    986715198  6  1 Bc  b     -     -         2079   20   30 
+Guibox    986715233  6  6 c   k     f     -         2089   10    0 
+Guibox    986715263  6  5 c   c     c     c         2079   80    0 8s Jh
+Guibox    986715289  6  4 c   b     b     -         1999   40   65 
+Guibox    986715327  6  3 c   k     b     -         2024   30   55 
+Guibox    986715363  6  2 BfQ -     -     -         2049   10    0 
+Guibox    986744625  8  7 c   kf    -     -         2039   10    0 
+Guibox    986744666 10  6 c   kf    -     -         2029   20    0 
+Guibox    986744752 10  5 c   c     b     c         2009   60    0 7d Jc
+Guibox    986744810 10  4 c   kf    -     -         1949   10    0 
+Guibox    986744854 10  3 c   kc    kc    kf        1939   40    0 
+Guibox    986744919 10  2 Bk  k     k     k         1899   10    0 Qd 2d
+Guibox    986744960 10  1 Bc  kc    k     k         1889   30    0 Jd 9c
+Guibox    986745009 10 10 f   -     -     -         1859    0    0 
+Guibox    986745033 10  9 c   kc    kf    -         1859   30    0 
+Guibox    986745078 10  8 c   b     b     -         1829   40  100 
+Guibox    986745124 10  7 c   c     f     -         1889   20    0 
+Guibox    986745167 10  6 cc  c     f     -         1869   50    0 
+Guibox    986745221 10  5 cc  kf    -     -         1819   20    0 
+Guibox    986745258 10  4 cc  kc    k     kf        1799   30    0 
+Guibox    986745302 10  3 cc  kf    -     -         1769   30    0 
+Guibox    986745352 10  2 Bk  k     bc    kf        1739   50    0 
+Guibox    986745437 10  1 Bc  k     kf    -         1689   10    0 
+Guibox    986745488 10 10 c   b     b     b         1679   70  220 9d Td
+Guibox    986745537 10  9 c   c     k     f         1829   20    0 
+Guibox    986745583 10  8 c   b     b     r         1809   80  115 Ac Ts
+Guibox    986745660 10  7 c   k     k     f         1844   10    0 
+Guibox    986745708 10  6 c   c     r     b         1834   90  225 Ks Kd
+Guibox    986745749 10  5 cc  kc    kf    -         1969   30    0 
+Guibox    986745818 10  4 c   kc    kf    -         1939   20    0 
+Guibox    986745863 10  3 c   bc    b     b         1919   70    0 6s Qh
+Guibox    986745924 10  2 Bc  kcc   brc   b         1849  160  480 8s Qs
+Guibox    986746009 10  1 Bc  kc    k     kf        2169   30    0 
+Guibox    986746111 10 10 c   k     f     -         2139   10    0 
+Guibox    986746158 10  9 cc  b     c     c         2129   70    0 Kc 7d
+Guibox    986746217 10  8 c   c     c     f         2059   60    0 
+Guibox    986746291 10  7 c   f     -     -         1999   10    0 
+Guibox    986746354 10  6 c   kc    k     f         1989   20    0 
+Guibox    986746440 10  5 c   k     k     f         1969   10    0 
+Guibox    986746493 10  4 cc  c     f     -         1959   40    0 
+Guibox    986746563 10  3 c   kc    bc    bcc       1919  140    0 4c 9d
+Guibox    986746664 10  2 Bc  k     k     k         1779   20    0 Jh 5c
+Guibox    986746699 10  1 Bc  bc    kcf   -         1759   50    0 
+Guibox    986746787 10 10 c   c     c     k         1709   60    0 Ks Ts
+Guibox    986746846 10  9 c   b     br    b         1649  100  285 Kd Jd
+Guibox    986746899 10  8 c   Q     -     -         1834   10    0 
+Guibox    986749886  7  4 cc  b     b     b         1824   70    0 Js Ts
+Guibox    986749946  7  3 ccc kf    -     -         1754   40    0 
+Guibox    986749982  7  2 Bc  kcc   kf    -         1714   60    0 
+Guibox    986750063  7  1 Bc  kc    b     bc        1654   80    0 Qd 7c
+Guibox    986750114  7  7 c   k     k     k         1574   10   20 Ac 2s
+Guibox    986750159  7  6 c   c     k     k         1584   30    0 Th 7c
+Guibox    986750204  6  5 c   c     k     k         1554   20    0 Ts 2s
+Guibox    986750240  6  4 c   c     f     -         1534   20    0 
+Guibox    986750273  6  3 c   k     k     k         1514   10    0 4s 2d
+Guibox    986750346  6  2 Bk  b     b     -         1504   40   90 
+Guibox    986750380  5  1 Bc  b     b     b         1554   60    0 Js Td
+Guibox    986750423  5  5 c   f     -     -         1494   10    0 
+Guibox    986750489  7  4 cc  k     kf    -         1484   20    0 
+Guibox    986750528  7  3 c   k     k     kf        1464   10    0 
+Guibox    986750602  9  2 Bk  kf    -     -         1454   10    0 
+Guibox    986750650  9  1 Bc  kf    -     -         1444   10    0 
+Guibox    986750744  9  9 cc  c     k     f         1434   30    0 
+Guibox    986750813 10  9 c   c     r     b         1404   90   97 Kc 7h
+Guibox    986750852 10  8 c   k     k     k         1411   10    0 Kc 5s
+Guibox    986750939 10  7 c   kf    -     -         1401   10    0 
+Guibox    986751005 10  6 c   k     f     -         1391   10    0 
+Guibox    986751086  9  5 c   kf    -     -         1381   10    0 
+Guibox    986751178  9  4 c   k     k     f         1371   10    0 
+Guibox    986751219 10  3 c   kc    k     kf        1361   20    0 
+Guibox    986751281 10  2 Bc  kc    kf    -         1341   30    0 
+Guibox    986751368 10  1 Bc  kc    b     k         1311   40    0 4c 5s
+Guibox    986751428 10 10 cc  k     c     f         1271   40    0 
+Guibox    986751521 10  9 c   k     c     k         1231   30   75 Td 5h
+Guibox    986751557 10  8 cc  k     kc    k         1276   40  115 Qh 8d
+Guibox    986751614 10  7 cc  r     brc   c         1351  140    0 Jc Ks
+Guibox    986751657 10  7 c   kf    -     -         1211   10    0 
+Guibox    986751710 10  5 Q   -     -     -         1201    0    0 
+Guibox    986863790  9  3 c   cc    kf    -         2046   30    0 
+Guibox    986863837  9  2 Bk  k     k     f         2016   10    0 
+Guibox    986863862  9  1 Bc  bc    kc    k         2006   60  230 Qc Qd
+Guibox    986863910  9  9 c   c     ccc   f         2176  100    0 
+Guibox    986863987  9  8 cc  c     f     -         2076   30    0 
+Guibox    986864040  9  7 c   c     f     -         2046   20    0 
+Guibox    986864086  9  6 c   rr    rr    rr        2026  210  430 Qs Qc
+Guibox    986864157  7  3 c   kc    k     f         2246   20    0 
+Guibox    986864222  7  2 Bc  bc    b     b         2226   80    0 5d 6d
+Guibox    986864271  7  1 Bc  kf    -     -         2146   20    0 
+Guibox    986864305  7  7 c   b     -     -         2126   20   35 
+Guibox    986864319  8  7 c   b     b     b         2141   60  130 5c Qc
+Guibox    986864354  8  6 cc  f     -     -         2211   20    0 
+Guibox    986864393  8  5 cc  k     kf    -         2191   20    0 
+Guibox    986864420  8  4 ccc kf    -     -         2171   40    0 
+Guibox    986864486  8  3 c   k     c     f         2131   30    0 
+Guibox    986864539  9  2 Bk  kc    kc    kc        2101   60    0 7c Qd
+Guibox    986864599  8  1 Bc  bcc   kccc  k         2041  140    0 2h 9h
+Guibox    986864666  9  9 c   k     bc    f         1901   60    0 
+Guibox    986864732  9  8 c   b     rr    b         1841  120  280 3c Ac
+Guibox    986864804 10  8 cc  f     -     -         2001   40    0 
+Guibox    986864849 10  7 f   -     -     -         1961    0    0 
+Guibox    986864884 10  6 ccc c     c     k         1961   70  315 6s Ts
+Guibox    986864945 10  5 c   b     -     -         2206   20   35 
+Guibox    986864981  9  4 ccc kcc   c     cc        2221  120    0 Js 7s
+Guibox    986865057 10  3 f   -     -     -         2101    0    0 
+Guibox    986865107 10  2 Bc  k     k     f         2101   20    0 
+Guibox    986865147 10  1 Bc  k     k     kf        2081   10    0 
+Guibox    986865209 10 10 c   c     c     r         2071   80  205 Tc 2h
+Guibox    986865244  9  8 cc  c     k     k         2196   30    0 6d Qs
+Guibox    986865283 10  8 f   -     -     -         2166    0    0 
+Guibox    986865351 10  7 cc  c     f     -         2166   30    0 
+Guibox    986865388 10  6 c   f     -     -         2136   10    0 
+Guibox    986865437 10  5 c   b     b     k         2126   40    0 7c Kh
+Guibox    986865477 10  4 cc  kf    -     -         2086   40    0 
+Guibox    986865545 10  3 c   kc    kc    f         2046   40    0 
+Guibox    986865619 10  2 Bc  cc    cf    -         2006   80    0 
+Guibox    986865732 10  1 Bc  kcc   kf    -         1926   50    0 
+Guibox    986865844 10 10 f   -     -     -         1876    0    0 
+Guibox    986865897 10  9 f   -     -     -         1876    0    0 
+Guibox    986866007 10  8 c   c     r     rc        1876  140    0 9h Ad
+Guibox    986866092 10  7 c   r     c     k         1736   60  225 Kc 3h
+Guibox    986866154 10  6 c   c     r     bc        1901  100    0 3h Jd
+Guibox    986866238  8  5 cc  rc    c     f         1801   70    0 
+Guibox    986866286  8  4 cc  rc    cc    cc        1731  150    0 4s Qh
+Guibox    986866348  8  3 cc  brc   brc   brc       1581  220  515 Qh 9d
+Guibox    986866399  8  2 Bcc br    bcc   bcc       1876  240    0 Kc Ks
+Guibox    986866471  8  1 Bc  bc    brc   bc        1636  160    0 8h Jh
+Guibox    986866520  9  9 c   cc    cc    f         1476  150    0 
+Guibox    986866579  9  8 c   c     rc    b         1326  110  325 3s 4c
+Guibox    986866665  9  7 cc  Q     -     -         1541   30    0 
+Guibox    986867351 10  5 cc  k     k     b         1511   40  105 
+Guibox    986867417 10  4 c   bcc   c     k         1576   70    0 2h Js
+Guibox    986867450 10  4 cc  b     b     b         1506   70    0 9h 4d
+Guibox    986867493  9  2 Bk  kc    kc    kc        1436   60    0 8d Kh
+Guibox    986867518  9  1 Bc  k     b     b         1376   70  240 
+Guibox    986867603  9  9 c   c     c     f         1546   40    0 
+Guibox    986867694  8  7 c   k     k     k         1506   10    0 Qd 9h
+Guibox    986867737  8  6 cc  cc    c     f         1496   80    0 
+Guibox    986867796  8  5 c   kf    -     -         1416   20    0 
+Guibox    986867839  8  4 cc  kc    br    br        1396  160  505 Qd 6h
+Guibox    986867901  7  3 cc  bc    bc    kc        1741  100    0 2s 4d
+Guibox    986867946  8  2 Bc  cf    -     -         1641   30    0 
+Guibox    986867989  9  1 Bcc kf    -     -         1611   40    0 
+Guibox    986868066  9  9 c   c     c     c         1571   80    0 Ts Th
+Guibox    986868135 10  9 c   f     -     -         1491   20    0 
+Guibox    986868196 10  8 cc  kf    -     -         1471   40    0 
+Guibox    986868285 10  7 ccc kf    -     -         1431   40    0 
+Guibox    986868376 10  6 ccc ccc   kcc   f         1391  140    0 
+Guibox    986868485 10  5 ccc kcf   -     -         1251   70    0 
+Guibox    986868634 10  4 cc  cc    kQ    -         1181   60    0 
+Guibox    986875110  8  4 c   kr    b     b         1121   70    0 8d 6h
+Guibox    986875156  8  3 c   kf    -     -         1051   10    0 
+Guibox    986875176  8  2 Bk  b     b     k         1041   40  105 Ad 7h
+Guibox    986875224  8  1 Bc  b     -     -         1106   20   40 
+Guibox    986875244  8  8 c   b     -     -         1126   20   35 
+Guibox    986875276  8  7 c   bc    brc   b         1141  130  330 Tc 9c
+Guibox    986875333  8  6 c   k     b     b         1341   50  110 
+Guibox    986875408  8  5 c   b     b     b         1401   60  115 
+Guibox    986875431  8  4 c   f     -     -         1456   10    0 
+Guibox    986875484  8  3 c   b     kc    kf        1446   40    0 
+Guibox    986875523  8  2 Bk  kf    -     -         1406   10    0 
+Guibox    986875562  8  1 Bc  k     b     -         1396   30   50 
+Guibox    986875601  9  8 c   k     f     -         1416   10    0 
+Guibox    986875648 10  7 c   k     c     f         1406   30    0 
+Guibox    986875709 10  6 cc  c     k     b         1376   50    0 8d Jc
+Guibox    986875754 10  6 c   f     -     -         1326   10    0 
+Guibox    986875800  9  4 c   k     bc    kf        1316   50    0 
+Guibox    986875883  8  3 cc  kc    kf    -         1266   30    0 
+Guibox    986875913  8  2 Bk  b     b     b         1236   60  135 Jh Ad
+Guibox    986875957  8  1 Bc  b     b     kf        1311   40    0 
+Guibox    986876002  8  8 c   c     f     -         1271   30    0 
+Guibox    986876041  8  7 c   c     c     c         1241   60    0 3s Tc
+Guibox    986876094  8  6 cc  b     b     b         1181   70  200 
+Guibox    986876167  8  5 c   bc    k     brc       1311  110    0 4h As
+Guibox    986876252  8  4 c   f     -     -         1201   10    0 
+Guibox    986876297  8  3 cc  k     kf    -         1191   20    0 
+Guibox    986876364  7  1 Bk  bc    k     kf        1171   30    0 
+Guibox    986876405  8  1 Bc  b     b     b         1141   60    0 Ts Kh
+Guibox    986876429  9  8 cc  c     c     k         1081   50    0 Qh Ks
+Guibox    986876511  9  7 c   b     b     b         1031   60  135 
+Guibox    986876569  8  5 c   bc    b     b         1106   70    0 Jd 8c
+Guibox    986876641  9  4 cc  c     r     b         1036   90  260 Ac 7s
+Guibox    986876694  9  3 c   k     c     f         1206   30    0 
+Guibox    986876743  9  2 Bk  k     f     -         1176   10    0 
+Guibox    986876817  8  1 Bc  b     -     -         1166   20   30 
+Guibox    986876842  8  8 c   c     f     -         1176   20    0 
+Guibox    986876894 10  9 c   b     b     b         1156   60  195 4h Ac
+Guibox    986876946 10  8 c   k     f     -         1291   10    0 
+Guibox    986877004 10  7 c   k     f     -         1281   10    0 
+Guibox    986877114 10  6 cc  r     r     b         1271  100  375 8d Td
+Guibox    986877186 10  5 cc  kf    -     -         1546   20    0 
+Guibox    986877272 10  4 c   b     b     -         1526   40   65 
+Guibox    986877322 10  3 c   k     rc    cc        1551  110    0 8h 9h
+Guibox    986877378 10  2 Bc  kf    -     -         1441   20    0 
+Guibox    986877450 10  1 Bc  bc    k     kf        1421   30    0 
+Guibox    986877498 10 10 c   b     b     br        1391  100    0 6d Ac
+Guibox    986877538 10  9 c   f     -     -         1291   20    0 
+Guibox    986877599 10  8 cc  k     c     f         1271   40    0 
+Guibox    986877677 10  7 c   f     -     -         1231   20    0 
+Guibox    986877721 10  6 c   b     b     b         1211   60  135 Th Jc
+Guibox    986877762 10  5 cc  k     k     k         1286   30    0 Qd As
+Guibox    986877813 10  4 c   b     b     br        1256  100  295 5c 5d
+Guibox    986877879 10  3 c   kc    kf    -         1451   20    0 
+Guibox    986877948  9  2 Bk  k     kf    -         1431   10    0 
+Guibox    986878015 10  1 Bc  kc    kf    -         1421   30    0 
+Guibox    986878068 10 10 c   f     -     -         1391   10    0 
+Guibox    986878104 10  9 c   cf    -     -         1381   20    0 
+Guibox    986878179 10  8 cc  kc    c     c         1361   70    0 4c Jd
+Guibox    986878247 10  7 c   kf    -     -         1291   10    0 
+Guibox    986878359 10  7 c   c     c     f         1281   70    0 
+Guibox    986878429 10  5 c   k     kf    -         1211   10    0 
+Guibox    986878509 10  4 c   b     rc    c         1201  100    0 Tc 9c
+Guibox    986878590 10  3 c   r     b     b         1101   70    0 7c 5d
+Guibox    986878669 10  2 Bc  kf    -     Q         1031   20    0 
+Guibox    986951828  5  4 cc  k     brc   bc        1011  140    0 2h Th
+Guibox    986951853  5  3 c   c     b     b          871   60    0 As Jc
+Guibox    986951883  5  2 Bk  kf    -     -          811   10    0 
+Guibox    986951917  5  1 Bc  bc    kf    -          801   40    0 
+Guibox    986951965  5  5 cc  rr    rr    c          761  160    0 Ah 6s
+Guibox    986952003  5  4 c   f     -     -          601   10    0 
+Guibox    986952033  5  3 cc  brc   brc   bc         591  180    0 5s Qd
+Guibox    986952069  5  2 Bc  b     brc   brc        411  190  193 Td 9h
+Guibox    986952098  5  1 Bcc br    br    brc        414  220    0 4c Qs
+Guibox    986952154  6  5 r   rr    b     b          194  100    0 4s 5s
+Guibox    986952205  6  4 c   b     b     b           94   60  185 3h Qs
+Guibox    986952238  6  3 c   f     -     -          219   10    0 
+Guibox    986952269  6  2 Bk  b     brc   brc        209  180    0 6d 9d
+Guibox    986952309  6  1 BrA -     -     -           29   29    0 6s 9s
+Guibox    986952384  6  4 cc  kf    -     -         1000   20    0 
+Guibox    986952419  6  3 c   kf    -     -          980   10    0 
+Guibox    986952472  6  2 Bc  kf    -     -          970   20    0 
+Guibox    986952511  6  1 Bc  bc    kc    k          950   60    0 7d Js
+Guibox    986952539  6  6 cc  f     -     -          890   20    0 
+Guibox    986952571  6  5 cc  f     -     -          870   20    0 
+Guibox    986952655  6  4 c   rc    r     b          850  120    0 4c 6h
+Guibox    986952724  8  3 cc  b     b     b          730   70    0 Qh 5h
+Guibox    986952759  9  2 Bk  kc    krc   kc         660  100    0 Kh 8s
+Guibox    986952804  9  1 Bc  k     kf    -          560   20    0 
+Guibox    986952832  9  9 c   k     c     c          540   50    0 Tc 4c
+Guibox    986952867 10  9 cc  c     b     b          490   70  155 
+Guibox    986952902 10  8 c   rr    r     r          575  140  315 3c 4h
+Guibox    986952948 10  7 c   c     cc    brc        750  140  375 6d 6c
+Guibox    986953004 10  6 c   kf    -     -          985   10    0 
+Guibox    986953056 10  5 c   kc    kf    -          975   20    0 
+Guibox    986953109 10  4 cc  b     r     b          955   90    0 9c 2s
+Guibox    986953198 10  3 Q   -     -     -          865    0    0 
+Guibox    986966855  9  8 c   b     b     b          865   60  110 
+Guibox    986966895  8  7 c   f     -     -          915   10    0 
+Guibox    986966934  8  6 c   b     -     -          905   20   45 
+Guibox    986966957  8  5 cc  kf    -     -          930   20    0 
+Guibox    986967002  8  4 ccc rc    f     -          910   70    0 
+Guibox    986967047  8  3 cc  bc    c     f          840   60    0 
+Guibox    986967080  7  2 Bc  c     r     b          780  100    0 Js 7d
+Guibox    986967122  7  1 Bc  kc    k     kf         680   20    0 
+Guibox    986967204  8  6 c   f     -     -          660   10    0 
+Guibox    986967232  8  5 c   c     c     b          650   60  110 
+Guibox    986967264  8  4 c   ccc   cc    kf         700  100    0 
+Guibox    986967347  8  3 c   k     b     -          600   30   70 
+Guibox    986967400  8  2 Bc  b     b     brc        640  130    0 4c Kh
+Guibox    986967441  8  1 Bc  b     b     br         510  100    0 As 5s
+Guibox    986967520  9  9 c   r     r     r          410  120  150 9d Ad
+Guibox    986967573  9  8 c   Q     -     -          440   10    0 
+Guibox    987138248  3  3 c   k     c     c         1085   50    0 Tc 4h
+Guibox    987138277  3  2 Bk  b     b     b         1035   60  105 
+Guibox    987138298  4  1 Bc  k     k     k         1080   10   30 9c Td
+Guibox    987138325  4  4 c   f     -     -         1100   20    0 
+Guibox    987138345  5  3 c   b     -     -         1080   20   35 
+Guibox    987138356  5  2 Bk  kc    b     bc        1095   80    0 Jc 2s
+Guibox    987138389  5  1 Bc  b     bc    bc        1015  100  230 9c Th
+Guibox    987138428  5  5 c   r     c     b         1145   70  160 Kd 3d
+Guibox    987138457  5  4 c   c     c     f         1235   40    0 
+Guibox    987138507  5  4 c   c     c     f         1195   40    0 
+Guibox    987138547  4  2 Bk  kf    -     -         1155   10    0 
+Guibox    987138578  4  1 Bc  b     b     -         1145   40   60 
+Guibox    987138597  3  3 c   b     -     -         1165   20   35 
+Guibox    987138616  3  2 Bk  k     kf    -         1180   10    0 
+Guibox    987138638  3  1 Bcc kf    -     -         1170   20    0 
+Guibox    987138673  3  3 c   c     c     f         1150   40    0 
+Guibox    987138690  3  2 Bk  k     k     kf        1110   10    0 
+Guibox    987138706  3  1 Bc  b     b     bc        1100   80    0 5s 6h
+Guibox    987138727  3  3 cc  rc    rc    c         1020  130    0 Ad 4s
+Guibox    987138751  3  2 Bk  k     f     -          890   10    0 
+Guibox    987138766  3  1 Bc  b     b     bc         880   80    0 Tc Ad
+Guibox    987138805  3  3 cc  k     f     -          800   20    0 
+Guibox    987138828  3  2 Bk  b     b     -          780   40   65 
+Guibox    987138838  2  1 Bc  k     b     k          805   30   60 Ac Jh
+Guibox    987138852  2  2 Bc  f     -     -          835   20    0 
+Guibox    987138862  2  1 Bc  b     b     -          815   40   60 
+Guibox    987138870  2  2 Bc  f     -     -          835   20    0 
+Guibox    987138877  2  1 Bc  b     b     bc         815   80    0 Qd 9c
+Guibox    987138893  2  2 Bk  k     b     -          735   30   40 
+Guibox    987138910  2  1 Bcc k     k     k          745   20    0 3c Ac
+Guibox    987138925  2  2 Bk  b     -     -          725   20   30 
+Guibox    987138934  2  1 Bc  b     b     -          735   40   60 
+Guibox    987138943  2  2 B   -     -     -          755   10   15 
+Guibox    987138947  2  1 Bc  k     b     -          760   30   40 
+Guibox    987138957  2  2 Bk  k     k     k          770   10    0 4c Ad
+Guibox    987138973  2  1 Bc  b     b     b          760   60  100 
+Guibox    987138989  2  2 B   -     -     -          800   10   15 
+Guibox    987138993  2  1 Bc  k     b     b          805   50    0 6c 4c
+Guibox    987139008  2  2 Bc  b     br    b          755  110  220 6h 6s
+Guibox    987139031  2  1 Bc  b     b     b          865   60  120 Tc Qd
+Guibox    987139047  2  2 Bk  k     bc    c          925   70    0 As Qc
+Guibox    987139066  2  1 Bc  k     k     kc         855   30   60 Qd As
+Guibox    987139082  2  2 Bk  f     -     -          885   10    0 
+Guibox    987139093  2  1 Bcc k     k     bc         875   60    0 9s 5s
+Guibox    987139108  2  2 Bk  b     -     -          815   20   30 
+Guibox    987139119  2  1 Bc  k     bc    kf         825   50    0 
+Guibox    987139133  2  2 Bk  k     k     k          775   10   20 Qc 4h
+Guibox    987139148  2  1 Bcc k     b     b          785   60  100 
+Guibox    987139171  2  2 Bk  k     k     f          825   10    0 
+Guibox    987139185  2  1 Bc  b     b     bc         815   80    0 Tc Kc
+Guibox    987139199  2  2 Bk  k     f     -          735   10    0 
+Guibox    987139209  2  1 Bc  k     b     -          725   30   40 
+Guibox    987139221  2  2 Brc k     b     f          735   60    0 
+Guibox    987139243  2  1 Bc  b     b     -          675   40   60 
+Guibox    987139254  2  2 Bk  k     k     k          695   10    0 Jc 2h
+Guibox    987139267  2  1 Bc  b     b     b          685   60  100 
+Guibox    987139283  2  2 Bk  k     k     k          725   10    0 Ts 9h
+Guibox    987139298  2  1 Bc  k     kf    -          715   10    0 
+Guibox    987139313  2  2 Bk  b     -     -          705   20   30 
+Guibox    987139319  2  1 Br  b     -     -          715   30   50 
+Guibox    987139325  2  2 Bk  k     b     f          735   30    0 
+Guibox    987139344  2  1 Bc  b     -     -          705   20   30 
+Guibox    987139350  2  2 Br  -     -     -          715   20   30 
+Guibox    987139355  2  1 Bc  k     k     kf         725   10    0 
+Guibox    987139368  2  2 Bk  b     -     -          715   20   30 
+Guibox    987139376  2  1 Bc  b     b     bc         725   80   80 Qd 2c
+Guibox    987139388  2  2 Bk  c     c     c          725   60    0 5s 7d
+Guibox    987139402  2  1 Bcc b     b     b          665   70  140 Jc 8c
+Guibox    987139423  2  2 Bk  r     b     k          735   50    0 Td 8h
+Guibox    987139446  2  1 Bc  kf    -     -          685   10    0 
+Guibox    987139455  2  2 Bk  c     f     -          675   20    0 
+Guibox    987139465  2  1 Bc  b     b     -          655   40   60 
+Guibox    987139474  2  2 Br  -     -     -          675   20   30 
+Guibox    987139480  2  1 Bc  k     k     k          685   10   20 4s Th
+Guibox    987139490  2  2 Bk  k     b     r          695   70    0 Ah 6c
+Guibox    987139507  2  1 Bc  b     -     -          625   20   30 
+Guibox    987139517  2  2 B   -     -     -          635   10   15 
+Guibox    987139520  2  1 Bc  k     kc    kf         640   30    0 
+Guibox    987139533  2  2 Bk  b     -     -          610   20   30 
+Guibox    987139540  2  1 Bc  b     -     -          620   20   30 
+Guibox    987139547  2  2 Bk  b     b     -          630   40   60 
+Guibox    987139555  2  1 Bc  b     b     -          650   40   60 
+Guibox    987139568  2  2 Bk  k     k     k          670   10   20 Ac 2s
+Guibox    987139579  2  1 Bc  k     b     -          680   30   40 
+Guibox    987139592  2  2 B   -     -     -          690   10   15 
+Guibox    987139594  2  1 Bc  b     -     -          695   20   30 
+Guibox    987139601  2  2 Bk  b     -     -          705   20   30 
+Guibox    987139610  2  1 Bc  b     b     k          715   40    0 5h 5c
+Guibox    987139626  2  2 Bk  k     k     r          675   50   80 
+Guibox    987139643  3  1 Bc  b     -     -          705   20   40 
+Guibox    987139657  2  2 c   r     k     c          725   50    0 5c 4c
+Guibox    987139672  2  2 Bc  c     c     f          675   50    0 
+Guibox    987139687  2  1 Bc  kc    k     k          625   20    0 Ad 8h
+Guibox    987139702  2  2 Bk  b     -     -          605   20   30 
+Guibox    987139711  2  1 Bc  b     -     -          615   20   30 
+Guibox    987139718  2  2 Bk  k     c     f          625   30    0 
+Guibox    987139728  2  1 Bc  b     b     brc        595  120  120 7h 9c
+Guibox    987139744  2  2 B   -     -     -          595   10   15 
+Guibox    987139749  2  1 Bc  b     b     b          600   60    0 Qh 9c
+Guibox    987139764  2  2 B   -     -     -          540   10   15 
+Guibox    987139770  2  1 Bc  brc   b     b          545   90  180 5h 2h
+Guibox    987139784  2  2 B   -     -     -          635   10   15 
+Guibox    987139789  2  1 Bc  b     -     -          640   20   30 
+Guibox    987139795  2  2 B   -     -     -          650   10   15 
+Guibox    987139797  2  1 Bc  k     b     b          655   50   80 
+Guibox    987139805  2  2 B   -     -     -          685   10   15 
+Guibox    987139809  2  1 Bcc kc    kc    k          690   50  100 7s 9s
+Guibox    987139825  2  2 Bc  k     b     -          740   40   60 
+Guibox    987139839  2  1 Bc  k     k     kf         760   10    0 
+Guibox    987139858  2  2 Bk  k     b     -          750   30   40 
+Guibox    987139868  2  1 Bc  k     kf    -          760   10    0 
+Guibox    987139880  2  2 Bc  r     b     k          750   60    0 3c Jd
+Guibox    987139898  2  1 Bc  b     -     -          690   20   30 
+Guibox    987139910  2  2 Bc  k     k     k          700   20    0 7c 9c
+Guibox    987139930  2  1 Bc  bc    bc    kc         680   90    0 2c Jc
+Guibox    987139948  2  2 B   -     -     -          590   10   15 
+Guibox    987139953  2  1 Bc  b     -     -          595   20   30 
+Guibox    987139959  2  2 B   -     -     -          605   10   15 
+Guibox    987139961  2  1 Br  b     br    b          610  110    0 6c 2c
+Guibox    987139973  2  2 Br  b     b     -          500   50   80 
+Guibox    987139988  2  1 Bc  b     bc    k          530   60    0 3h 3s
+Guibox    987140005  2  2 B   -     -     -          470   10   15 
+Guibox    987140012  2  1 Bc  b     -     -          475   20   30 
+Guibox    987140031  2  2 Bk  r     b     b          485   70   70 Js 4d
+Guibox    987140044  2  1 Bc  b     b     -          485   40   60 
+Guibox    987140055  2  2 Bk  c     c     c          505   60    0 9h 4c
+Guibox    987140066  2  1 Bc  b     -     -          445   20   30 
+Guibox    987140074  2  2 B   -     -     -          455   10   15 
+Guibox    987140075  2  1 Bc  k     b     -          460   30   40 
+Guibox    987140081  2  2 Bk  Q     -     -          470   10    0 
+Guibox    987187015  9  2 c   b     b     b          685   60  110 
+Guibox    987187050 10  2 Bc  kc    kc    kc         735   70    0 7h Jd
+Guibox    987187096  9  1 Bc  kf    -     -          665   10    0 
+Guibox    987187168  9  9 c   k     f     -          655   10    0 
+Guibox    987187192  9  8 c   b     b     k          645   40  180 Ks Ah
+Guibox    987187246  9  7 c   c     c     f          785   40    0 
+Guibox    987187288  9  6 c   b     c     rr         745  130    0 Qd Qs
+Guibox    987187379  8  4 c   b     b     b          615   60  120 
+Guibox    987187444  7  3 cc  br    b     b          675   90  195 2s Tc
+Guibox    987187491  7  2 Bk  k     kf    -          780   10    0 
+Guibox    987187544  7  1 Bc  b     b     b          770   60    0 4h Ad
+Guibox    987187577  7  7 c   k     c     b          710   50    0 8c Js
+Guibox    987187607  7  6 c   r     k     b          660   50  115 Ks 8d
+Guibox    987187662  8  5 c   r     c     k          725   50    0 3s Td
+Guibox    987187704  8  4 c   r     b     b          675   70  170 6c Jc
+Guibox    987187744  7  3 c   k     k     b          775   30   60 
+Guibox    987187792  7  2 Bk  b     c     kf         805   40    0 
+Guibox    987187844  7  1 Bc  kc    bc    k          765   60    0 Kh 5s
+Guibox    987187875  7  7 c   k     b     -          705   30   60 
+Guibox    987187919  7  6 c   b     b     b          735   60  160 Ks 9s
+Guibox    987187969  7  5 c   rc    r     rc         835  140    0 4s As
+Guibox    987188005  7  4 c   kc    kf    -          695   20    0 
+Guibox    987188048  8  3 c   b     -     -          675   20   50 
+Guibox    987188109  7  2 Bk  kf    -     -          705   10    0 
+Guibox    987188152  7  1 Bc  b     b     b          695   60    0 4c Jh
+Guibox    987188182  7  7 c   rc    c     rr         635  150  295 
+Guibox    987188234  7  6 cc  c     c     c          780   70  180 5s 6c
+Guibox    987188286  7  5 c   c     r     b          890  100    0 6d 6s
+Guibox    987188349  8  4 c   k     b     b          790   50  130 
+Guibox    987188432  7  2 cc  bc    b     k          870   60    0 4c Qd
+Guibox    987188460  6  2 Bk  b     -     -          810   20   50 
+Guibox    987188508  6  1 Bc  b     -     -          840   30   60 
+Guibox    987188523  5  5 c   b     -     -          870   20   30 
+Guibox    987188549  4  4 c   b     -     -          880   20   40 
+Guibox    987188567  3  3 c   b     bc    c          900   80    0 9d Ah
+Guibox    987188592  4  2 Bc  kf    -     -          820   20    0 
+Guibox    987188617  4  1 Bc  kf    -     -          800   10    0 
+Guibox    987188639  4  4 c   Q     -     -          790   10    0 
+Guibox    987194314  9  5 cc  cc    kf    -          780   50    0 
+Guibox    987194381 10  4 cc  kc    kf    -          730   30    0 
+Guibox    987194471 10  3 c   c     c     f          700   40    0 
+Guibox    987194508 10  2 Bk  kc    bc    kf         660   60    0 
+Guibox    987194573  8  1 Bc  b     b     b          600   60  160 7h Jh
+Guibox    987194602  8  8 c   c     c     c          700   60    0 5s 7s
+Guibox    987194694  7  6 c   b     bc    b          640   80  200 Ks 7h
+Guibox    987194739  8  3 Q   -     -     -          760    0    0 
+Guibox    987348948  7  7 c   f     -     -         1240   10    0 
+Guibox    987348985  7  6 f   -     -     -         1230    0    0 
+Guibox    987349021  7  5 c   b     b     -         1230   40   80 
+Guibox    987349069  7  4 cc  kc    br    b         1270  130  425 Td Jd
+Guibox    987349113  7  3 cc  k     f     -         1565   20    0 
+Guibox    987349169  7  2 Bc  kf    -     -         1545   20    0 
+Guibox    987349215  9  1 Bc  kc    br    b         1525  110  290 Kh 8c
+Guibox    987349252  9  9 c   c     c     r         1705   80  112 As 2h
+Guibox    987349287  8  7 c   c     c     c         1737   60  140 Ad 5s
+Guibox    987349318  9  7 c   f     -     -         1817   10    0 
+Guibox    987349349  9  6 cc  f     -     -         1807   30    0 
+Guibox    987349373  9  5 cc  kc    k     f         1777   30    0 
+Guibox    987349416  9  4 cc  bc    br    b         1747  120  380 8d 5s
+Guibox    987349460  9  3 c   kf    -     -         2007   10    0 
+Guibox    987349499  9  2 Bc  kc    kc    kc        1997  100    0 Js Jh
+Guibox    987349537  9  1 Bcc kc    kc    k         1897   50    0 9d 4c
+Guibox    987349565  9  9 c   b     rc    rr        1847  160    0 2h 2s
+Guibox    987349614  9  8 c   k     f     -         1687   10    0 
+Guibox    987349646  9  8 cc  k     b     b         1677   60  175 8d Qc
+Guibox    987349675  8  6 cc  k     k     f         1792   20    0 
+Guibox    987349704  9  6 cc  c     c     c         1772   70    0 Ks Jd
+Guibox    987349735  9  5 cc  kc    k     c         1702   50    0 6c Qd
+Guibox    987349768  9  4 c   k     b     b         1652   50  115 
+Guibox    987349790 10  3 c   kc    kc    kf        1717   40    0 
+Guibox    987349841  9  1 Bc  kc    kc    k         1677   60  260 As Tc
+Guibox    987349888 10  1 Bc  k     b     b         1877   50  100 
+Guibox    987349914 10 10 c   b     b     b         1927   60   82 4h Ad
+Guibox    987349950  9  9 c   k     b     rr        1949  110  240 Ac Th
+Guibox    987349989  8  7 c   c     f     -         2079   20    0 
+Guibox    987350012  9  3 Q   -     -     -         2059    0    0 
+Guibox    987351480 10 10 ccc f     -     -         2059   40    0 
+Guibox    987351542  9  8 cc  c     c     f         2019   50    0 
+Guibox    987351653  8  7 cc  kc    kc    k         1969   50    0 Qd Ac
+Guibox    987351716  9  7 cc  cc    c     f         1919   70    0 
+Guibox    987351773  9  6 c   r     r     r         1849  110    0 Qs Qh
+Guibox    987351822  9  5 c   c     c     f         1739   50    0 
+Guibox    987351878  9  4 c   b     b     bc        1689   80    0 7d 6c
+Guibox    987351968 10  3 c   kc    b     b         1609   60    0 Ks Qc
+Guibox    987352039  9  2 Bk  kcc   kf    -         1549   40    0 
+Guibox    987352108  8  1 Bc  kf    -     -         1509   20    0 
+Guibox    987352145  8  8 c   c     c     f         1489   40    0 
+Guibox    987352190  8  6 c   k     f     -         1449   10    0 
+Guibox    987352254  8  5 cc  kf    -     -         1439   20    0 
+Guibox    987352317  9  5 cc  f     -     -         1419   20    0 
+Guibox    987352386  9  4 c   k     f     -         1399   10    0 
+Guibox    987352435  9  3 cc  c     c     c         1389   90    0 7c 2h
+Guibox    987352493  9  2 Bk  Q     -     -         1299   10    0 
+Guibox    987369452  8  4 cc  kc    k     b         1289   50  145 7h Th
+Guibox    987369535  8  3 c   k     f     -         1384   10    0 
+Guibox    987369630  8  2 Bk  k     f     -         1374   10    0 
+Guibox    987369694  8  1 Bc  b     b     b         1364   60  160 4d 2h
+Guibox    987369723  9  9 c   c     c     k         1464   50    0 Qd 6d
+Guibox    987369799  9  8 c   b     k     c         1414   40  140 Kd Js
+Guibox    987369852  9  7 c   c     c     f         1514   50    0 
+Guibox    987369906  8  6 cc  c     c     f         1464   50    0 
+Guibox    987369957  7  5 c   c     c     k         1414   40    0 9c Ad
+Guibox    987369987  7  4 c   k     Q     -         1374   10    0 
+Guibox    987370184  6  6 c   c     c     c         1364   70    0 9s Qc
+Guibox    987370245  7  6 c   rr    r     k         1294   90    0 9h Td
+Guibox    987370286  7  5 c   f     -     -         1204   20    0 
+Guibox    987370356  6  4 c   kf    -     -         1184   10    0 
+Guibox    987370398  6  3 cc  kf    -     -         1174   20    0 
+Guibox    987370450  8  2 Bc  kf    -     -         1154   20    0 
+Guibox    987370492  8  1 Bc  kc    kf    -         1134   30    0 
+Guibox    987370544  8  8 c   f     -     -         1104   10    0 
+Guibox    987370586  8  7 cc  c     c     k         1094   50    0 8h As
+Guibox    987370657  9  7 c   k     k     f         1044   20    0 
+Guibox    987370705 10  7 c   c     c     f         1024   60    0 
+Guibox    987370761 10  6 c   k     kf    -          964   10    0 
+Guibox    987370831 10  5 c   bc    kc    bc         954   90    0 6h 7d
+Guibox    987370886 10  4 cc  kf    -     -          864   20    0 
+Guibox    987370969 10  3 cc  kc    kc    kf         844   60    0 
+Guibox    987371010 10  2 Bk  b     b     b          784   60    0 Jh 7h
+Guibox    987371050 10  1 Bc  kf    -     -          724   10    0 
+Guibox    987371110 10 10 c   c     r     br         714  120  280 4h 5s
+Guibox    987371169  9  9 c   b     b     k          874   40    0 4d Ac
+Guibox    987371232 10  8 c   c     k     f          834   30    0 
+Guibox    987371279 10  7 c   k     k     k          804   10    0 6s 5s
+Guibox    987371315 10  6 c   cf    -     -          794   20    0 
+Guibox    987371446 10  5 c   k     k     f          774   10    0 
+Guibox    987371482 10  4 cc  kc    kf    -          764   30    0 
+Guibox    987371542 10  3 cc  rc    b     b          734   90  275 3d Qh
+Guibox    987371598 10  2 Bk  k     k     k          919   10    0 Kh Tc
+Guibox    987371645 10  1 Bc  kc    kc    k          909   40    0 3d 4d
+Guibox    987371698 10 10 c   k     k     f          869   10    0 
+Guibox    987371754 10  9 c   f     -     -          859   20    0 
+Guibox    987371789 10  8 c   c     k     k          839   20  130 9h 3h
+Guibox    987371847  9  7 c   cc    kf    -          949   40    0 
+Guibox    987371908  9  6 c   k     f     -          909   10    0 
+Guibox    987371959  9  5 cc  bc    b     b          899   80  255 5s As
+Guibox    987371997  9  4 c   k     k     c         1074   30    0 Ah 3h
+Guibox    987372036  9  3 c   kc    kf    -         1044   20    0 
+Guibox    987372096  8  1 Bk  k     b     b         1024   50    0 Js Jc
+Guibox    987372138  8  1 Bc  kc    b     b          974   80    0 7s 4s
+Guibox    987372211  9  9 c   k     k     k          894   10   35 Kh Td
+Guibox    987372264  9  7 c   c     f     -          919   20    0 
+Guibox    987372325  9  6 c   c     c     r          899   80  185 
+Guibox    987372372  8  4 c   c     c     k         1004   40    0 9d 2d
+Guibox    987372415  9  4 c   k     k     f          964   10    0 
+Guibox    987372465  9  3 c   kc    kc    b          954   60    0 5c Ac
+Guibox    987372534  9  2 Bk  b     -     -          894   20   40 
+Guibox    987372559  9  1 Bc  k     b     -          914   30   60 
+Guibox    987372588  9  9 c   cc    f     -          944   50    0 
+Guibox    987372628  9  8 c   c     b     b          894   70  185 7h Tc
+Guibox    987372677 10  8 c   kc    kf    -         1009   20    0 
+Guibox    987372726 10  7 c   b     b     b          989   60  150 
+Guibox    987372766 10  6 c   k     b     rr        1079  110    0 Td 3d
+Guibox    987372822 10  5 c   k     k     k          969   10    0 2h 3c
+Guibox    987372870 10  4 cc  kf    -     -          959   20    0 
+Guibox    987372942 10  3 c   kcc   kc    k          939   50    0 4s Jc
+Guibox    987373014  8  2 Bk  kf    -     -          889   10    0 
+Guibox    987373053  9  1 Bc  kc    k     b          879   40   80 
+Guibox    987373108  9  9 c   k     c     f          919   40    0 
+Guibox    987373183  9  8 c   f     -     -          879   20    0 
+Guibox    987373220  9  7 cc  c     c     c          859   80    0 4d 9d
+Guibox    987373316 10  6 c   f     -     -          779   10    0 
+Guibox    987373385 10  5 cc  c     k     b          769   50    0 2s Ad
+Guibox    987373444 10  4 cc  kc    kf    -          719   40    0 
+Guibox    987373512 10  3 c   fQ    -     -          679   10    0 
+Guibox    987481750 10  6 c   cf    -     -          275   20    0 
+Guibox    987481796 10  5 c   kc    c     rr         255  120  455 9c Qc
+Guibox    987481883 10  4 c   b     b     b          590   60  195 
+Guibox    987481961 10  3 cc  cc    kf    -          725   40    0 
+Guibox    987482050 10  2 Bk  b     b     b          685   60  200 4h 6h
+Guibox    987482097 10  1 Bc  k     k     kf         825   10    0 
+Guibox    987482175  9  9 c   f     -     -          815   10    0 
+Guibox    987482221  8  8 c   r     r     cc         805  130    0 9d 8s
+Guibox    987482282  9  8 c   c     k     k          675   30    0 5h 8c
+Guibox    987482329 10  7 c   k     c     r          645   70    0 As 8h
+Guibox    987482362  9  5 c   bc    kc    kf         575   50    0 
+Guibox    987482421  9  4 c   r     r     b          525   90  285 3s Jd
+Guibox    987482479  8  2 Bc  kf    -     -          720   20    0 
+Guibox    987482529  8  1 Bc  kf    -     -          700   20    0 
+Guibox    987482578  9  9 c   rr    c     c          680  130    0 4d 4c
+Guibox    987482643  9  8 c   f     -     -          550   10    0 
+Guibox    987482691  9  7 c   b     b     b          540   60  135 Kd Qd
+Guibox    987482733  9  6 c   rc    c     c          615   80    0 7h 9s
+Guibox    987482774  9  5 c   k     b     b          535   50    0 6h 6c
+Guibox    987482821  9  4 c   rc    bc    brc        485  170    0 7c Jc
+Guibox    987482890  9  3 cc  bc    br    b          315  120    0 Ah 4c
+Guibox    987482967 10  2 Bk  b     rc    c          195  100    0 Ad Qh
+Guibox    987483024 10  1 BQ  -     -     -           95    5    0 
+Guibox    987569207  9  5 cc  b     b     -           90   50  135 
+Guibox    987569250 10  4 cc  br    b     b          175  100    0 8d Ac
+Guibox    987569324  9  3 rc  b     b     bA          75   75    0 3d 3c
+Guibox    987636688  5  2 Bk  c     f     -         1000   20    0 
+Guibox    987636707  6  1 Bc  kc    kc    k          980   50    0 Jc 8s
+Guibox    987636735  7  7 cc  c     cc    c          930  110    0 Qh 9s
+Guibox    987636782  7  6 c   b     c     c          820   60    0 Td Kd
+Guibox    987636835  7  5 cc  f     -     -          760   20    0 
+Guibox    987636880  8  4 c   b     b     b          740   60  140 8c Qc
+Guibox    987636913  8  3 cc  kc    kc    kf         820   50    0 
+Guibox    987636969  8  2 Bc  b     b     b          770   80  320 
+Guibox    987637013  8  1 Bc  kf    -     -         1010   20    0 
+Guibox    987637089  8  8 c   b     b     k          990   40   92 7h Tc
+Guibox    987637143  9  8 c   c     cc    c         1042  180    0 Th Tc
+Guibox    987637238  8  6 c   ccc   c     f          862   70    0 
+Guibox    987637321  9  6 c   c     c     brc        792  120    0 Ad 9c
+Guibox    987637391  9  6 cc  kf    -     -          672   20    0 
+Guibox    987637477  7  4 c   kf    -     -          652   10    0 
+Guibox    987637520  8  3 ccc k     f     -          642   40    0 
+Guibox    987637575  9  2 Bk  br    b     b          602   80    0 5c 6c
+Guibox    987637610  9  1 Bc  kc    kf    -          522   40    0 
+Guibox    987637697 10 10 c   c     f     -          482   20    0 
+Guibox    987637768 10  9 c   c     k     f          462   30    0 
+Guibox    987637806 10  8 cc  c     f     -          432   30    0 
+Guibox    987637861 10  7 c   c     r     r          402  110  270 5s 4c
+Guibox    987637908 10  6 c   c     k     f          562   20    0 
+Guibox    987637947 10  5 c   bc    rr    b          542  130  400 7h 5d
+Guibox    987638008 10  5 c   k     bc    bc         812   90    0 Tc 5s
+Guibox    987638086  8  2 Bc  b     b     -          722   50  105 
+Guibox    987638106  9  1 Bc  b     b     b          777   60  120 
+Guibox    987638149 10 10 c   k     f     -          837   10    0 
+Guibox    987638188 10  9 c   k     f     -          827   10    0 
+Guibox    987638219 10  8 c   f     -     -          817   10    0 
+Guibox    987638261 10  7 cc  c     f     -          807   50    0 
+Guibox    987638301 10  6 cc  k     f     -          757   20    0 
+Guibox    987638346 10  5 c   b     bc    kc         737   80    0 3h 8h
+Guibox    987638414 10  4 c   f     -     -          657   10    0 
+Guibox    987638478 10  3 c   cf    -     -          647   20    0 
+Guibox    987638525 10  2 Bc  kc    kc    bf         627   70    0 
+Guibox    987638564 10  1 Bc  k     kf    -          557   10    0 
+Guibox    987638621 10 10 c   c     c     cc         547  140    0 As 4s
+Guibox    987638694  7  7 c   c     c     f          407   50    0 
+Guibox    987638758  7  6 c   c     c     b          357   70  175 Qh Ks
+Guibox    987638788  7  5 c   k     kc    b          462   50   95 
+Guibox    987638832  7  4 cc  kc    kf    -          507   30    0 
+Guibox    987638888  7  3 c   b     -     -          477   20   35 
+Guibox    987638913  7  2 Bc  c     c     r          492   90    0 Ad 6c
+Guibox    987638937  7  1 Bc  bc    br    brc        402  180    0 2s 3d
+Guibox    987638997  7  7 c   k     b     k          222   30   80 3h Tc
+Guibox    987639038  7  6 c   c     c     f          272   40    0 
+Guibox    987639068  7  5 c   b     b     r          232   80    0 6h Jh
+Guibox    987639101  7  5 r   b     b     b          152   70    0 5s 7d
+Guibox    987639146  7  4 r   b     b     -           82   50   95 
+Guibox    987639182  7  3 r   brc   b     b          127  100    0 6s 5h
+Guibox    987639217  7  2 BrA -     -     -           27   27    0 7h 5c
+Guibox    987639586 10  7 c   f     -     -         1000   10    0 
+Guibox    987639627 10  6 cc  kc    b     b          990   70  225 
+Guibox    987639706  9  4 cc  k     bc    b         1145   80  200 5c 6d
+Guibox    987639765  9  4 c   k     kf    -         1265   10    0 
+Guibox    987639828 10  3 c   cc    kc    kc        1255   70    0 Qd 8d
+Guibox    987639884  9  2 Bk  k     b     bc        1185   70    0 Qh 2s
+Guibox    987639923  9  1 Bc  kf    -     -         1115   10    0 
+Guibox    987639963  9  9 c   c     cc    f         1105   60    0 
+Guibox    987640015  9  8 c   f     -     -         1045   20    0 
+Guibox    987640045  9  7 c   c     cc    f         1025  110    0 
+Guibox    987640111  9  7 c   k     cc    ccc        915  130    0 6c Ad
+Guibox    987640176  9  6 c   c     r     b          785   90  107 Ts Ac
+Guibox    987640230  9  5 c   k     b     -          802   30   45 
+Guibox    987640258  9  4 cc  cc    b     b          817   71   90 As 4s
+Guibox    987640322 10  3 c   kc    kc    kf         836   50    0 
+Guibox    987640361 10  2 Bc  kc    kf    -          786   40    0 
+Guibox    987640435 10  1 Bc  bc    kf    -          746   30    0 
+Guibox    987640533 10 10 c   c     b     b          716   60  170 Tc Kc
+Guibox    987640588  9  8 c   c     rc    c          826  120  365 Kh 7h
+Guibox    987640634  9  7 c   k     c     rc        1071   90    0 Ks Js
+Guibox    987640698  9  6 c   c     c     c          981   80  235 7c 3s
+Guibox    987640737  8  4 cc  kc    kf    -         1136   30    0 
+Guibox    987640811  8  3 cc  kc    kc    kf        1106   60    0 
+Guibox    987640874  8  2 Bc  c     b     b         1046   73  212 6d Ah
+Guibox    987640930  7  1 Bcc kf    -     -         1185   20    0 
+Guibox    987640980  7  7 c   f     -     -         1165   10    0 
+Guibox    987641034  7  6 c   c     k     c         1155   40    0 3h 3s
+Guibox    987641066  7  5 cc  f     -     -         1115   30    0 
+Guibox    987641136  7  4 cc  kf    -     -         1085   20    0 
+Guibox    987641160  8  4 cc  c     c     c         1065   70    0 2h 4d
+Guibox    987641191  8  3 c   b     bc    kc         995   80    0 Qd 6c
+Guibox    987641229  8  2 Bc  kf    -     -          915   20    0 
+Guibox    987641262  9  1 Bc  kf    -     -          895   10    0 
+Guibox    987641325 10 10 cc  c     c     c          885   80    0 6s 6d
+Guibox    987641369 10  9 c   f     -     -          805   10    0 
+Guibox    987641429 10  8 c   k     c     c          795   50    0 Ac 3d
+Guibox    987641492 10  7 c   cc    br    b          745  110  330 9h Ks
+Guibox    987641565 10  6 c   f     -     -          965   10    0 
+Guibox    987641635 10  5 c   kc    k     bc         955   60    0 Js 2c
+Guibox    987641698 10  4 cc  cc    kc    kc         895  100    0 3c 6h
+Guibox    987641756 10  3 c   fQ    -     -          795   10    0 
+Guibox    987643966  9  8 c   b     b     b          785   60    0 6s Js
+Guibox    987644031  9  7 c   k     k     f          725   10    0 
+Guibox    987644103  9  6 c   c     c     f          715   40    0 
+Guibox    987644203  8  4 c   b     -     -          675   20   35 
+Guibox    987644221  8  3 c   b     b     bf         690   60    0 
+Guibox    987644273  8  2 Bc  b     b     b          630   80  315 9d 6d
+Guibox    987644323  7  1 Bc  bc    b     -          865   50   90 
+Guibox    987644356  7  7 c   b     b     r          905   80    0 5s 8s
+Guibox    987644397  7  6 c   b     b     b          825   60    0 Ts 7c
+Guibox    987644438  8  5 c   r     rr    b          765  130  270 2h 6h
+Guibox    987644494  7  4 c   kf    -     -          905   10    0 
+Guibox    987644541  8  4 cc  f     -     -          895   20    0 
+Guibox    987644609  8  3 c   b     b     b          875   60    0 5c Ad
+Guibox    987644652  9  2 Bk  k     b     b          815   50  120 5d Jd
+Guibox    987644690 10  1 Bc  bc    bc    k          885   70    0 Qh 7h
+Guibox    987644719 10 10 c   k     f     -          815   20    0 
+Guibox    987644796 10  9 c   kc    bc    f          795   60    0 
+Guibox    987644852 10  8 c   Q     -     -          735   10    0 
+Guibox    987659235  9  9 c   c     c     c          725   60    0 5c Td
+Guibox    987659295  9  8 c   r     b     b          665   80  249 Th Ac
+Guibox    987659345  9  3 Q   -     -     -          834    0    0 
+Guibox    987729444 10  5 c   c     f     -          964   20    0 
+Guibox    987729487 10  4 cc  f     -     -          944   30    0 
+Guibox    987729540 10  3 c   f     -     -          914   10    0 
+Guibox    987729615  9  2 Bc  r     rr    c          904  140    0 Tc Th
+Guibox    987729692  9  1 Bc  b     b     b          764   70    0 2s 5d
+Guibox    987729739  9  9 c   k     b     f          694   30    0 
+Guibox    987729789  8  6 Q   -     -     -          664    0    0 
+Guibox    987745173 10  9 c   k     f     -          664   10    0 
+Guibox    987745225 10  8 c   kc    k     k          654   20    0 8s 4c
+Guibox    987745305 10  7 cc  bc    kf    -          634   40    0 
+Guibox    987745343 10  6 c   b     b     brc        594  120    0 Jc 6s
+Guibox    987745388 10  5 r   b     b     b          474   70    0 6h 9s
+Guibox    987745424 10  4 r   b     b     b          404   70  155 
+Guibox    987745470 10  3 c   b     b     br         489  120    0 7c 3s
+Guibox    987745540 10  2 Bk  b     b     -          369   40   85 
+Guibox    987745575 10  1 Bc  br    br    brc        414  190    0 As 5s
+Guibox    987745620 10 10 c   rr    rr    rr         224  210    0 3h 9s
+Guibox    987745672 10  9 ccA -     -     -           14   14   70 Qd Ah
+Guibox    987745764 10  8 r   r     rA    -           70   70    0 4d Kh
+Guibox    987900466 10  2 Bc  bc    kcc   kf        1000  120    0 
+Guibox    987900536 10  1 Bc  kc    kc    bf         880   80    0 
+Guibox    987900598 10 10 c   f     -     -          800   20    0 
+Guibox    987900667 10  9 cc  cc    cc    c          780  130    0 Ad Js
+Guibox    987900748 10  9 cc  f     -     -          650   20    0 
+Guibox    987900876 10  7 c   kf    -     -          630   20    0 
+Guibox    987900965 10  6 c   k     b     k          610   30    0 Th 2s
+Guibox    987901022 10  5 cc  b     r     b          580   90    0 Ac Th
+Guibox    987901089 10  4 ccc kf    -     -          490   40    0 
+Guibox    987901199 10  3 c   k     k     kQ         450   10    0 
+Guibox    987959942 10  2 Bk  b     b     b          440   60    0 Kd 7c
+Guibox    987959994 10  1 Bc  kc    kc    k          380   40    0 Kc 4d
+Guibox    987960029 10 10 c   c     c     b          340   70    0 4h 3d
+Guibox    987960074 10  9 c   k     k     k          270   10    0 Js 4h
+Guibox    987960097 10  8 c   kc    k     kf         260   20    0 
+Guibox    987960183 10  7 c   b     b     b          240   70    0 6h 4d
+Guibox    987960248 10  6 c   k     k     b          170   40   95 
+Guibox    987960294 10  5 cc  kc    kf    -          225   30    0 
+Guibox    987960349 10  4 c   kc    kc    bf         195   60    0 
+Guibox    987960389 10  3 c   bc    brc   bcA        135  135    0 6d Jh
+Guibox    987976999  9  5 c   c     c     f         1080   50    0 
+Guibox    987977048  9  4 c   kf    -     -         1030   10    0 
+Guibox    987977076  9  3 c   c     r     b         1020   80    0 Ad 4c
+Guibox    987977102  9  2 Bk  kc    kc    kf         940   40    0 
+Guibox    987977133  9  1 Bc  k     b     k          900   30    0 Th 4d
+Guibox    987977201  8  8 c   b     c     c          870   80  300 Ks Qd
+Guibox    987977269  9  7 c   f     -     -         1090   10    0 
+Guibox    987977367  9  6 c   f     -     -         1080   10    0 
+Guibox    987977461  8  6 c   c     c     b         1070   80  350 As Ac
+Guibox    987977518  7  4 c   b     b     b         1340   60  115 
+Guibox    987977547  7  3 c   b     b     b         1395   60    0 8h Kd
+Guibox    987977577  7  2 Bk  bc    b     b         1335   70    0 As 5c
+Guibox    987977607  7  1 Bc  kc    kf    -         1265   30    0 
+Guibox    987977680  7  7 cc  f     -     -         1235   30    0 
+Guibox    987977738  7  6 cc  k     c     f         1205   40    0 
+Guibox    987977793  6  5 c   k     f     -         1165   10    0 
+Guibox    987977815  6  4 c   c     k     c         1155   40    0 2c 7s
+Guibox    987977862  6  3 c   Q     -     -         1115   10    0 
+Guibox    987982401  4  2 Bc  c     k     f          740   30    0 
+Guibox    987982454  4  1 Bc  b     b     -          710   40   80 
+Guibox    987982475  5  5 c   k     k     f          750   10    0 
+Guibox    987982520  6  5 cc  c     rr    rr         740  190    0 7s 2s
+Guibox    987982579  7  5 c   b     -     -          550   20   45 
+Guibox    987982610  6  3 c   b     k     f          575   20    0 
+Guibox    987982643  6  2 Bc  kc    kc    bc         555   90    0 2d 9d
+Guibox    987982711  6  1 Bc  bc    b     b          465   80  150 
+Guibox    987982759  6  6 c   b     c     r          535   90    0 9s 8h
+Guibox    987982805  7  6 c   c     f     -          445   20    0 
+Guibox    987982853  8  6 c   k     k     b          425   30  105 Ac 4s
+Guibox    987982893  8  5 cc  b     k     br         500   90  255 
+Guibox    987982938  9  4 cc  kf    -     -          665   20    0 
+Guibox    987983021  9  3 cc  b     b     b          645   70  185 4h Qd
+Guibox    987983067  9  2 Bc  kc    f     -          760   30    0 
+Guibox    987983132  9  1 Bc  b     b     b          730   60   85 Jh 3c
+Guibox    987983169  9  9 cc  c     f     -          755   30    0 
+Guibox    987983201  9  8 c   cc    r     r          725  120    0 Js Tc
+Guibox    987983252  9  7 c   f     Q     -          605   10    0 
+Guibox    987985678  4  3 cc  c     f     -          595   30    0 
+Guibox    987985693  4  2 B   -     -     -          565   10   15 
+Guibox    987985698  4  1 Bc  b     b     b          570   60    0 9d 7d
+Guibox    987985718  4  4 c   b     b     b          510   70  175 
+Guibox    987985743  4  3 c   k     b     b          615   50   90 
+Guibox    987985764  4  2 B   -     -     -          655   10   15 
+Guibox    987985768  4  1 Bc  bc    bc    bc         660  120    0 Qc 3d
+Guibox    987985787  4  4 c   r     b     rc         540  120  127 Jh Qs
+Guibox    987985814  4  3 c   b     -     -          547   20   40 
+Guibox    987985828  4  2 Bk  k     k     f          567   10    0 
+Guibox    987985842  4  1 Bc  bc    br    b          557  120    0 8c As
+Guibox    987985865  4  4 c   k     f     -          437   20    0 
+Guibox    987985897  4  3 c   k     k     c          417   30    0 9d 7s
+Guibox    987985910  4  2 Bc  r     b     bc         387  100    0 7s 8h
+Guibox    987985929  4  1 Bc  b     -     -          287   20   30 
+Guibox    987985947  5  4 r   r     b     b          297   90  260 Ah 8h
+Guibox    987985984  5  3 cc  cc    kc    kc         467   80    0 4h 2c
+Guibox    987986018  5  2 Bc  kc    kc    kc         387   70    0 8h Td
+Guibox    987986051  5  1 Bc  b     -     -          317   20   40 
+Guibox    987986062  5  5 r   b     brc   f          337  110    0 
+Guibox    987986094  5  4 r   brc   brc   b          227  170    0 3s Ts
+Guibox    987986126  6  3 r   b     b     bA          57   57  112 
+Guibox    987986152  7  2 Bc  brc   b     b          112  100    0 5h Ac
+Guibox    987986217  8  1 BcA -     -     -           12   12    0 Jh 3d
+Guibox    987986258  8  7 ccc bc    kc    c         1000  120    0 3s 3h
+Guibox    987986351  8  6 c   f     -     -          880   20    0 
+Guibox    987986399  8  5 c   k     b     b          860   50  180 8h 5c
+Guibox    987986459  9  4 c   f     -     -          990   20    0 
+Guibox    987986510 10  3 ccc kc    kcc   Q          970  110    0 
+Guibox    988000796  9  2 Bc  kc    kc    kc        1105   70    0 Ks Td
+Guibox    988000849  9  1 Bc  b     b     b         1035   70  240 
+Guibox    988000937  9  8 cc  kf    -     -         1205   40    0 
+Guibox    988000986  9  7 c   c     c     b         1165   70    0 4h Kd
+Guibox    988001031  9  6 cc  b     b     bc        1095   90    0 2c 3h
+Guibox    988001101  9  5 ccc kc    kf    -         1005   50    0 
+Guibox    988001166 10  4 c   kc    kc    kf         955   40    0 
+Guibox    988001208  9  2 Bc  c     f     -          915   30    0 
+Guibox    988001261  7  1 Bc  kf    -     -          885   20    0 
+Guibox    988001302  8  8 c   c     c     f          865   50    0 
+Guibox    988001383 10  8 c   f     -     -          815   10    0 
+Guibox    988001440 10  7 cc  kf    -     -          805   20    0 
+Guibox    988001478  9  5 cc  kc    kc    kc         785   70    0 Qh Td
+Guibox    988001510  9  4 ccc f     -     -          715   40    0 
+Guibox    988001580  9  3 cc  kc    b     b          675   70  155 9d Qd
+Guibox    988001612  9  2 Bc  kc    kcf   -          760   70    0 
+Guibox    988001696  9  1 Bc  kf    -     -          690   20    0 
+Guibox    988001734  9  9 c   c     k     k          670   30   75 4h 2d
+Guibox    988001763  9  8 c   c     k     f          715   30    0 
+Guibox    988001819  9  7 cc  kc    b     b          685   70  155 9h 7d
+Guibox    988001879  9  6 c   b     f     -          770   30    0 
+Guibox    988001961  8  5 cc  c     b     k          740   50    0 3d 3s
+Guibox    988002001  8  4 c   b     b     b          690   60    0 Ks Ts
+Guibox    988002052  8  3 cc  b     b     -          630   50  135 
+Guibox    988002086  8  2 Bk  kf    -     -          715   10    0 
+Guibox    988002117  8  1 Bc  kc    k     b          705   50  110 
+Guibox    988002168  8  8 c   c     f     -          765   30    0 
+Guibox    988002201  8  7 c   k     rc    c          735   90    0 Kd Js
+Guibox    988002248  9  7 c   c     f     -          645   20    0 
+Guibox    988002286  8  5 c   c     c     k          625   40    0 2s Qs
+Guibox    988002326  8  4 c   cc    kc    k          585   50    0 9d 6h
+Guibox    988002379  8  3 c   kf    -     -          535   10    0 
+Guibox    988002425  8  2 Bc  kf    -     -          525   20    0 
+Guibox    988002466  8  1 Bcc kc    kr    b          505   90  270 Qh 8s
+Guibox    988002542  8  8 c   f     -     -          685   20    0 
+Guibox    988002566  8  7 cc  kf    -     -          665   20    0 
+Guibox    988002625  8  6 c   k     f     -          645   10    0 
+Guibox    988002657  8  5 c   f     -     -          635   20    0 
+Guibox    988002708  9  5 c   k     k     k          615   10    0 6h Qc
+Guibox    988002757  9  4 cc  brc   bc    brc        605  180    0 Ks Js
+Guibox    988002805  9  3 Q   -     -     -          425    0    0 
+Guibox    988004308 10  4 c   kQ    -     -          425   10    0 
+Guibox    988004441 10  2 Bk  k     kf    -          415   10    0 
+Guibox    988004512 10  1 Bc  kc    kc    bc         405   80    0 4d Kc
+Guibox    988004575 10 10 c   k     k     f          325   10    0 
+Guibox    988004612 10  9 c   f     -     -          315   10    0 
+Guibox    988004667 10  8 c   cc    k     b          305   60    0 3h 9d
+Guibox    988004761  9  6 c   k     b     b          245   50  125 
+Guibox    988004844 10  6 c   k     bc    b          320   70  135 
+Guibox    988004884 10  5 c   f     -     -          385   10    0 
+Guibox    988004974 10  4 cc  kQ    -     -          375   20    0 
+Guibox    988035501 10  2 Bc  kf    -     -          355   20    0 
+Guibox    988035567 10  1 Bc  kf    -     -          335   10    0 
+Guibox    988035629  9  9 cc  c     c     c          325   90    0 7h Ah
+Guibox    988035664 10  9 c   c     c     rr         235  120    0 6h 2h
+Guibox    988035727 10  8 c   b     -     -          115   20   65 
+Guibox    988035759 10  7 cc  br    b     b          160   90  300 
+Guibox    988035828 10  6 cc  f     -     -          370   20    0 
+Guibox    988035881 10  5 cc  k     k     f          350   20    0 
+Guibox    988035936 10  4 c   f     -     -          330   10    0 
+Guibox    988035957 10  3 cc  kc    kc    b          320   70  295 
+Guibox    988036028 10  2 Bc  f     -     -          545   20    0 
+Guibox    988036096 10  1 Bc  kc    k     k          525   20    0 2s 4s
+Guibox    988036150 10 10 c   b     b     r          505   80    0 5s Jc
+Guibox    988036232 10  9 c   k     b     b          425   50    0 8h 2s
+Guibox    988036340 10  8 c   k     k     r          375   60  220 2c 6c
+Guibox    988036403 10  7 c   k     b     b          535   50  180 Qh Ad
+Guibox    988036482 10  6 cc  f     -     -          665   20    0 
+Guibox    988036559 10  5 cc  kc    kf    Q          645   30    0 
+Guibox    988039959  8  2 Bc  kf    -     -          615   20    0 
+Guibox    988040029  9  1 Bc  kf    -     -          595   10    0 
+Guibox    988040055  9  9 cc  cf    -     -          585   40    0 
+Guibox    988040110  9  8 c   f     -     -          545   10    0 
+Guibox    988040155 10  8 cc  kf    -     -          535   20    0 
+Guibox    988040192 10  7 c   bc    rc    rr         515  170  290 4s 9h
+Guibox    988040304 10  6 cc  k     kf    -          635   20    0 
+Guibox    988040356 10  5 c   f     -     -          615   10    0 
+Guibox    988040400  9  4 c   kf    -     -          605   10    0 
+Guibox    988040480  9  2 Bc  k     kf    -          595   20    0 
+Guibox    988040541  9  1 Bc  kc    br    b          575  100  230 
+Guibox    988040596  9  9 c   b     c     c          705   60    0 Jc 7s
+Guibox    988040640  9  8 c   f     -     -          645   10    0 
+Guibox    988040688  7  6 c   b     -     -          635   20   35 
+Guibox    988040723  7  5 c   kc    kc    kf         650   40    0 
+Guibox    988040767  7  4 c   b     b     bc         610   80  103 Jd 9d
+Guibox    988040804  6  2 Bk  k     b     b          633   50  105 
+Guibox    988040838  8  1 Bc  kc    kc    b          688   60  140 2c Ac
+Guibox    988040870  8  8 c   k     f     -          768   10    0 
+Guibox    988040909  8  7 cc  f     -     -          758   20    0 
+Guibox    988040979  8  6 c   c     c     k          738   40  120 Ac Ts
+Guibox    988041015  7  4 c   k     f     -          818   10    0 
+Guibox    988041100  7  3 c   b     b     -          808   40   85 
+Guibox    988041134  7  2 Bc  c     kcc   kf         853   90    0 
+Guibox    988041208  6  1 Bc  k     kf    -          763   10    0 
+Guibox    988041235  6  6 c   c     brc   c          753  120    0 4c 8d
+Guibox    988041269  6  5 cc  k     b     k          633   40    0 Js 5s
+Guibox    988041317  5  3 cc  cc    b     kc         593   80    0 6d Jc
+Guibox    988041364  6  2 Bk  b     b     -          513   40   75 
+Guibox    988041391  6  1 Bc  b     -     -          548   20   50 
+Guibox    988041410  6  6 c   f     -     -          578   10    0 
+Guibox    988041433  6  5 c   k     k     f          568   10    0 
+Guibox    988041473  6  4 cc  f     -     -          558   30    0 
+Guibox    988041524  6  3 c   kf    -     -          528   10    0 
+Guibox    988041566  6  2 Bk  kf    -     -          518   10    0 
+Guibox    988041597  6  1 Bc  kf    -     -          508   20    0 
+Guibox    988041652  6  6 c   b     b     b          488   60   80 9s Qc
+Guibox    988041694  6  5 cc  c     c     c          508   70    0 2c 5d
+Guibox    988041727  6  4 c   c     rc    c          438  100    0 Js Jh
+Guibox    988041763  5  3 cc  c     k     f          338   30    0 
+Guibox    988041814  5  2 Bk  bc    brc   brc        308  190    0 2c 2s
+Guibox    988041853  5  1 Br  br    b     b          118   90    0 Jd 4h
+Guibox    988041885  5  5 r   -     -     -           28   20   35 
+Guibox    988041899  5  4 r   rcA   -     -           43   43  111 As Ts
+Guibox    988041923  5  3 c   b     -     -          111   20   50 
+Guibox    988041944  5  2 Br  b     -     -          141   30   55 
+Guibox    988041954  5  1 Br  b     b     b          166   70  180 Jd Kc
+Guibox    988041984  5  5 r   rr    rr    rr         276  220    0 Kh Ts
+Guibox    988042048  6  4 rc  b     bA    -           56   56    0 6d 2d
+Guibox    988053564  8  8 c   k     k     k         1000   10    0 7d 4d
+Guibox    988053597  8  7 c   c     r     b          990   80  210 
+Guibox    988053714  7  5 cc  f     -     -         1120   20    0 
+Guibox    988053748  7  4 c   c     c     f         1100   40    0 
+Guibox    988053780  7  3 c   k     k     f         1060   10    0 
+Guibox    988053829  7  2 Bk  k     kc    b         1050   50  135 Ks 4s
+Guibox    988053864  7  1 Bc  kf    -     -         1135   20    0 
+Guibox    988053934  7  7 c   c     c     f         1115   60    0 
+Guibox    988054030  7  6 cc  k     k     b         1055   40    0 Th 6d
+Guibox    988054058  7  5 c   c     f     -         1015   20    0 
+Guibox    988054084  7  4 c   f     -     -          995   10    0 
+Guibox    988054114  8  4 c   kc    bc    b          985   80    0 Qc 6h
+Guibox    988054171  8  3 c   kc    br    b          905  100  225 
+Guibox    988054254  8  2 Bc  kf    -     -         1030   20    0 
+Guibox    988054323  9  1 Bc  kc    kc    br        1010  100    0 7s Jh
+Guibox    988054407  9  9 c   f     -     -          910   20    0 
+Guibox    988054462  9  8 c   k     r     c          890   70  145 Qd 9h
+Guibox    988054519  9  7 cQ  -     -     -          965   10    0 
+Guibox    988056895  8  4 c   k     k     k          955   10    0 Qc 2d
+Guibox    988056951  8  4 c   b     k     b          945   40    0 7d 6c
+Guibox    988056989  8  3 cf  -     -     -          905   10    0 
+Guibox    988057049  8  2 Bk  kf    -     -          895   10    0 
+Guibox    988057126  8  1 Bc  kf    -     -          885   10    0 
+Guibox    988057168  9  9 cc  k     r     k          875   80    0 Ad 8s
+Guibox    988057240  9  3 Q   -     -     -          795    0    0 
+Guibox    988058100  9  4 cc  f     -     -          795   20    0 
+Guibox    988058166 10  3 cc  kc    kc    kf         775   50    0 
+Guibox    988058237 10  2 Bc  kc    brc   b          725  130  415 2c Kh
+Guibox    988058289 10  1 Bc  kf    -     -         1010   20    0 
+Guibox    988058355 10 10 c   c     f     -          990   30    0 
+Guibox    988058398 10  9 c   c     f     -          960   70    0 
+Guibox    988058457 10  8 c   k     c     f          890   30    0 
+Guibox    988058501  9  6 c   f     -     -          860   10    0 
+Guibox    988058553  9  5 c   c     c     c          850  120    0 Kd Ks
+Guibox    988058618 10  4 c   kc    br    rc         730  160    0 Ah 3h
+Guibox    988058691 10  3 c   c     k     kf         570   20    0 
+Guibox    988058740 10  2 Bc  kf    -     -          550   20    0 
+Guibox    988058785 10  1 Bc  bc    kc    k          530   50    0 4d 4h
+Guibox    988058843 10 10 c   Q     -     -          480   10    0 
+Guibox    988068242 10  9 c   k     f     -          470   10    0 
+Guibox    988068287 10  8 c   k     k     k          460   10    0 Qd 5d
+Guibox    988068379 10  7 cf  -     -     -          450   20    0 
+Guibox    988068435 10  6 c   b     b     -          430   40   85 
+Guibox    988068505  9  5 cc  c     f     -          475   30    0 
+Guibox    988068548 10  4 c   c     c     r          445   80    0 Tc Th
+Guibox    988068613 10  3 c   kc    b     b          365   60  160 
+Guibox    988068706 10  2 Bc  bc    b     b          465   80  240 2d Qd
+Guibox    988068780  8  1 Bc  b     k     b          625   40  100 
+Guibox    988068841  9  9 c   k     b     b          685   50  130 3s Ks
+Guibox    988068885  9  8 c   c     f     -          765   30    0 
+Guibox    988068917  9  7 c   f     -     -          735   10    0 
+Guibox    988068969  9  6 c   bc    kc    k          725   50    0 2c 8c
+Guibox    988069015  9  5 c   kf    -     -          675   10    0 
+Guibox    988069066  9  4 ccc bc    c     c          665  100    0 9h Qc
+Guibox    988069149  9  3 c   kc    kc    bc         565   80    0 Jh 5s
+Guibox    988069221 10  3 c   kf    -     -          485   10    0 
+Guibox    988069259 10  2 BKQ -     -     -          475   10    0 
+Guibox    988158824 10  7 cc  kc    kc    kc         380   70  185 Qh 7h
+Guibox    988158869 10  6 c   kc    kc    k          495   40    0 6h Kd
+Guibox    988158918 10  5 ccc kf    -     -          455   40    0 
+Guibox    988159022 10  4 cc  f     -     -          415   40    0 
+Guibox    988159100 10  3 cc  k     rf    -          375   60    0 
+Guibox    988159150 10  2 Bc  c     c     rr         315  140  380 4d 4h
+Guibox    988159237 10  1 Bcc kf    -     -          555   40    0 
+Guibox    988159315 10 10 c   rr    rr    brc        515  220  550 Qc Qh
+Guibox    988159399 10  9 c   c     rc    rr         845  190  795 Qh Ad
+Guibox    988159467 10  8 c   f     -     -         1450   20    0 
+Guibox    988159542 10  7 c   c     c     c         1430   70  155 3s Ah
+Guibox    988159580 10  6 c   f     -     -         1515   20    0 
+Guibox    988159611 10  5 c   kc    br    b         1495  100  230 Qd 2h
+Guibox    988159710 10  4 c   k     f     -         1625   10    0 
+Guibox    988159745 10  3 ccc kf    -     -         1615   40    0 
+Guibox    988159821 10  2 Bk  c     k     k         1575   20   70 5c 2h
+Guibox    988159860 10  1 Bc  k     b     -         1625   30   70 
+Guibox    988159919 10 10 c   k     k     f         1665   10    0 
+Guibox    988159972 10  9 c   c     c     k         1655   40    0 5h Qh
+Guibox    988160037 10  8 c   f     -     -         1615   20    0 
+Guibox    988160069 10  7 cc  b     bc    b         1595  110  415 9d Jh
+Guibox    988160145 10  6 c   c     c     f         1900   40    0 
+Guibox    988160217 10  5 c   c     rc    rr        1860  190    0 6c 9h
+Guibox    988160313 10  4 c   f     -     -         1670   10    0 
+Guibox    988160404  9  3 c   k     b     -         1660   30   80 
+Guibox    988160445  9  2 Bk  k     b     b         1710   50  125 
+Guibox    988160487  9  1 Bc  kc    krc   b         1785  120  380 Jh 2d
+Guibox    988160552  9  9 c   c     c     k         2045   40  120 3c Kc
+Guibox    988160617  9  8 c   k     c     f         2125   30    0 
+Guibox    988160709 10  8 c   c     c     c         2095   60   95 2h 8c
+Guibox    988160761 10  7 c   b     b     br        2130  100    0 Qh Qd
+Guibox    988160818 10  6 c   c     k     c         2030   50    0 7h Tc
+Guibox    988160961 10  5 c   fQ    -     -         1980   10    0 
+Guibox    988250416  9  6 c   f     -     -         1970   10    0 
+Guibox    988250515 10  5 c   kf    -     -         1960   10    0 
+Guibox    988250578 10  4 ccc f     -     -         1950   40    0 
+Guibox    988250717 10  3 cc  f     -     -         1910   20    0 
+Guibox    988250856  9  2 Bk  k     kc    kf        1890   30    0 
+Guibox    988250930 10  1 Bc  kQ    -     -         1860   10    0 
+Guibox    988255830  9  7 c   k     f     -         1850   10    0 
+Guibox    988255916  8  6 c   f     -     -         1840   20    0 
+Guibox    988255980  8  5 c   f     -     -         1820   10    0 
+Guibox    988256017  7  3 c   b     k     c         1810   40    0 5c Ad
+Guibox    988256064  8  2 Bc  kc    kc    kf        1770   60    0 
+Guibox    988256149  7  1 Bc  kc    kc    kc        1710   60  180 Ah Kh
+Guibox    988256240  7  7 c   c     c     r         1830   80  260 Td 2s
+Guibox    988256291  8  7 c   c     c     c         2010   60    0 Th 6h
+Guibox    988256360  8  6 c   c     r     rr        1950  150    0 6c 5c
+Guibox    988256433  9  6 c   f     -     -         1800   10    0 
+Guibox    988256493 10  5 cc  f     -     -         1790   20    0 
+Guibox    988256576 10  4 cc  f     -     -         1770   20    0 
+Guibox    988256668 10  3 cc  kcc   kc    krc       1750  150    0 Qh 4h
+Guibox    988256782 10  2 Bk  k     kf    -         1600   10    0 
+Guibox    988256863 10  1 Bc  kf    -     -         1590   10    0 
+Guibox    988256920 10 10 c   k     f     -         1580   10    0 
+Guibox    988257007  9  8 c   cc    kc    b         1570   80  300 6d Jh
+Guibox    988257064 10  8 c   c     f     -         1790   20    0 
+Guibox    988257116  9  6 c   f     -     -         1770   10    0 
+Guibox    988257170  9  5 cc  f     -     -         1760   30    0 
+Guibox    988257226 10  5 ccc ccc   ccc   f         1730  160    0 
+Guibox    988257329 10  5 cc  bc    br    bc        1570  123    0 Jd Js
+Guibox    988257436  9  3 c   f     -     -         1447   10    0 
+Guibox    988257496 10  2 Bk  c     cc    c         1437  100    0 Jd 3h
+Guibox    988257535 10  1 Bc  b     b     b         1337   60  180 As Kd
+Guibox    988257586 10 10 c   c     c     f         1457   40    0 
+Guibox    988257639 10  9 cfQ -     -     -         1417   10    0 
+Guibox    988293982  2  1 BcQ -     -     -         1407   10    0 
+Guibox    988327418  9  9 c   f     -     -         1397   10    0 
+Guibox    988327446  9  8 c   cc    c     f         1387   60    0 
+Guibox    988327511  9  7 c   f     -     -         1327   10    0 
+Guibox    988327564  8  5 c   f     -     -         1317   20    0 
+Guibox    988327599  8  5 c   k     f     -         1297   10    0 
+Guibox    988327652  8  4 cc  kc    kc    bc        1287   90  295 9d 8c
+Guibox    988327721  9  3 c   f     -     -         1492   10    0 
+Guibox    988327766 10  2 Bc  kf    -     -         1482   20    0 
+Guibox    988327855 10  1 Bc  br    br    b         1462  120  360 5d Td
+Guibox    988327921 10 10 c   c     r     b         1702   80  215 Tc Ac
+Guibox    988327976 10  9 c   f     -     -         1837   10    0 
+Guibox    988328047 10  8 c   kc    f     -         1827   30    0 
+Guibox    988328120 10  7 c   k     f     -         1797   10    0 
+Guibox    988328189 10  7 cc  c     f     -         1787   50    0 
+Guibox    988328269  9  5 c   f     -     -         1737   20    0 
+Guibox    988328354 10  4 c   k     c     k         1717   30  120 Kh Qs
+Guibox    988328409 10  3 cc  cc    bc    k         1807   80  380 3s Ac
+Guibox    988328499 10  2 Bcc kc    kc    kf        2107   70    0 
+Guibox    988328570 10  1 Bc  kc    kf    -         2037   30    0 
+Guibox    988328668  9  9 cc  c     rc    c         2007  110    0 Kh Kc
+Guibox    988328743 10  9 c   c     c     k         1897   50    0 9d 4c
+Guibox    988328805 10  8 c   k     f     -         1847   20    0 
+Guibox    988328861 10  7 c   c     c     c         1827   80    0 Js 7c
+Guibox    988328997 10  6 c   c     c     k         1747   60  215 Ks Ah
+Guibox    988329089  8  5 c   b     b     -         1902   40  110 
+Guibox    988329133  9  4 c   kc    brc   b         1972  120  133 Qd Jh
+Guibox    988329187  9  3 c   f     -     -         1985   10    0 
+Guibox    988329243 10  2 Bk  k     k     k         1975   10    0 Td 2c
+Guibox    988329294 10  1 Bc  k     kf    -         1965   10    0 
+Guibox    988329361 10 10 c   c     c     c         1955   70    0 Js Tc
+Guibox    988329429 10  9 c   c     r     b         1885   90  225 Kh Kc
+Guibox    988329500 10  8 c   f     -     -         2020   20    0 
+Guibox    988329603  9  7 cc  c     k     r         2000   70    0 Th Ks
+Guibox    988329707  8  5 cc  c     c     f         1930   50    0 
+Guibox    988329750  9  4 cc  k     k     k         1880   20    0 3s 8s
+Guibox    988329801  9  3 cc  kc    kc    kf        1860   50    0 
+Guibox    988329853  9  2 Bc  kc    kc    kc        1810   70    0 Th Kc
+Guibox    988329950  9  1 Bc  kc    kf    -         1740   20    0 
+Guibox    988330030  8  4 Q   -     -     -         1720    0    0 
+Guibox    988339346  8  6 c   k     k     k         1720   10    0 3c 6h
+Guibox    988339408  8  5 cc  c     c     c         1710   70  175 Ad 7s
+Guibox    988339452  8  4 c   k     c     r         1815   70  165 As Ts
+Guibox    988339500  9  3 c   k     k     f         1910   10    0 
+Guibox    988339555 10  2 Bc  kf    -     -         1900   30    0 
+Guibox    988339617 10  1 Bc  kc    br    b         1870  110    0 9h 6c
+Guibox    988339690 10 10 cc  c     f     -         1760   30    0 
+Guibox    988339805  6  6 cc  f     -     -         1730   20    0 
+Guibox    988339826  6  5 f   -     -     -         1710    0    0 
+Guibox    988339852  6  4 c   cc    kc    kc        1710   70    0 9d 5c
+Guibox    988339907  6  3 c   f     -     -         1640   10    0 
+Guibox    988339952  6  2 B   -     -     -         1630   10   15 
+Guibox    988339964  6  1 Bcc kc    br    bc        1635  130  350 Ah 9c
+Guibox    988340019  7  7 c   f     -     -         1855   20    0 
+Guibox    988340041  7  6 cc  c     c     k         1835   60    0 3s 4h
+Guibox    988340113  8  6 cc  k     b     k         1775   40  110 8h 9d
+Guibox    988340156  7  4 c   cc    k     f         1845   30    0 
+Guibox    988340213  7  3 c   kf    -     -         1815   10    0 
+Guibox    988340255  8  2 Bk  b     b     -         1805   40   65 
+Guibox    988340280  8  1 Bc  b     kc    kf        1830   50    0 
+Guibox    988340349  8  7 cc  f     -     -         1780   20    0 
+Guibox    988340404  8  6 c   c     c     c         1760   60    0 7s 7c
+Guibox    988340450  8  5 cc  f     -     -         1700   30    0 
+Guibox    988340528  8  4 c   f     -     -         1670   10    0 
+Guibox    988340581  8  3 cc  c     cc    kc        1660  100    0 7s 6c
+Guibox    988340632  7  2 Bk  b     br    b         1560  100    0 Kd Ts
+Guibox    988340689  7  1 Bc  kf    -     -         1460   10    0 
+Guibox    988340748  7  7 c   f     -     -         1450   10    0 
+Guibox    988340802  8  7 Q   -     -     -         1440    0    0 
+Guibox    988342041  7  5 cc  kf    -     -         1440   20    0 
+Guibox    988342149  8  4 cc  kc    kc    kc        1420   70    0 Th 6c
+Guibox    988342302 10  3 cc  bc    bc    rc        1350  170    0 Ah 7s
+Guibox    988342468 10  2 Bk  kf    -     -         1180   10    0 
+Guibox    988342550 10  1 Bcc kc    kc    bc        1170  120    0 5c Qc
+Guibox    988342774 10 10 c   k     c     rr        1050  110  305 9d Td
+Guibox    988342937  9  9 cc  k     k     b         1245   40  100 
+Guibox    988343027  9  7 c   cc    c     c         1305   70  250 7c 7h
+Guibox    988343117 10  8 c   k     b     -         1485   30   65 
+Guibox    988343221 10  6 c   k     b     b         1520   50  110 
+Guibox    988343369 10  5 cc  cf    -     -         1580   30    0 
+Guibox    988343429 10  4 c   bc    bc    b         1550   90  185 
+Guibox    988343517 10  3 c   kc    kf    -         1645   20    0 
+Guibox    988343661 10  2 Bc  kf    -     -         1625   20    0 
+Guibox    988343721 10  1 Bc  b     bc    kc        1605   80    0 7h Ac
+Guibox    988343760 10 10 c   k     k     k         1525   10    0 6d As
+Guibox    988343845 10  9 c   c     f     -         1515   20    0 
+Guibox    988343901 10  8 c   kf    -     -         1495   10    0 
+Guibox    988343971 10  7 c   c     f     -         1485   20    0 
+Guibox    988344032 10  6 cc  k     kf    -         1465   20    0 
+Guibox    988344188 10  5 ccc kf    -     -         1445   40    0 
+Guibox    988344302 10  4 cQ  -     -     -         1405   10    0 
+Guibox    988380489  3  2 Bk  k     kf    -         1395   10    0 
+Guibox    988380516  3  1 Bc  k     k     b         1385   30   40 
+Guibox    988380538  3  3 c   k     k     k         1395   10   25 5c Ks
+Guibox    988380549  3  2 Bk  k     k     f         1410   10    0 
+Guibox    988380568  3  1 Bcc bf    -     -         1400   30    0 
+Guibox    988380579  3  3 c   c     c     c         1370   60    0 As Kc
+Guibox    988380596  3  2 Bk  k     k     f         1310   10    0 
+Guibox    988380620  3  1 Bc  b     b     b         1300   60  130 7c 5h
+Guibox    988380640  3  3 c   k     b     -         1370   30   50 
+Guibox    988380664  3  2 Bk  kr    b     brc       1390  130    0 Ac 9d
+Guibox    988380690  3  1 Bc  k     k     k         1260   10    0 Kc 5d
+Guibox    988380718  3  3 c   c     k     c         1250   40    0 3h Qc
+Guibox    988380739  3  2 B   -     -     -         1210   10   15 
+Guibox    988380747  3  1 Bc  b     k     b         1215   40    0 8c Qd
+Guibox    988380763  4  3 c   kf    -     -         1175   10    0 
+Guibox    988380803  4  2 Bk  kf    -     -         1165   10    0 
+Guibox    988380846  4  1 Bc  k     b     -         1155   30   40 
+Guibox    988380863  4  4 c   c     c     c         1165   80    0 7h 5d
+Guibox    988380904  4  3 c   k     b     -         1085   30   60 
+Guibox    988380936  4  2 Bk  kf    -     -         1115   10    0 
+Guibox    988380976  4  1 Bc  k     k     kf        1105   10    0 
+Guibox    988381013  5  5 c   c     k     f         1095   20    0 
+Guibox    988381048  5  4 cQ  -     -     -         1075   10    0 
+Guibox    988421295 10 10 c   b     -     -          471   20   45 
+Guibox    988421329 10  9 c   b     b     c          496   60    0 Qs 4h
+Guibox    988421391 10  8 c   f     -     -          436   10    0 
+Guibox    988421429 10  7 c   f     -     -          426   10    0 
+Guibox    988421470 10  6 c   rc    k     k          416   40    0 2s Td
+Guibox    988421520 10  5 c   b     c     b          376   60  165 Ac 2h
+Guibox    988421600 10  4 cc  b     bc    b          481   90    0 6d Qd
+Guibox    988421682 10  3 c   b     b     b          391   60  115 
+Guibox    988421721 10  2 Bk  b     k     k          446   20    0 9d 7s
+Guibox    988421776  9  1 Bc  kc    kf    -          426   20    0 
+Guibox    988421817 10 10 c   c     f     -          406   30    0 
+Guibox    988421859 10  9 c   cc    kc    bc         376   90    0 8d Tc
+Guibox    988421962 10  8 cc  bc    brc   bc         286  160    0 7c 9c
+Guibox    988422081 10  7 c   cc    r     b          126  110    0 8s 4h
+Guibox    988422146 10  6 ccA -     -     -           16   16    0 9h 8h
+Guibox    988479724 10  6 c   b     kc    b         1000   60    0 Qh Qc
+Guibox    988479797 10  5 cc  b     b     b          940   70  260 
+Guibox    988479871 10  4 cc  k     bc    b         1130   80  142 Kh Jd
+Guibox    988479924 10  3 cc  f     -     -         1192   20    0 
+Guibox    988480001  9  2 Bc  kc    kf    -         1172   30    0 
+Guibox    988480054  9  1 Bcc bc    b     b         1142  100  400 Qs 7s
+Guibox    988480118  9  9 c   f     -     -         1442   10    0 
+Guibox    988480166  8  7 c   c     c     c         1432   80    0 Ah 2s
+Guibox    988480214  9  6 c   f     -     -         1352   20    0 
+Guibox    988480279  7  4 c   k     c     k         1332   30    0 5c Jd
+Guibox    988480331  6  3 c   c     f     -         1302   20    0 
+Guibox    988480372  7  2 Bk  kc    kc    kf        1282   40    0 
+Guibox    988480460  7  1 Bc  b     -     -         1242   30  110 
+Guibox    988480494  7  7 c   k     k     b         1322   30   50 
+Guibox    988480539  7  6 c   r     c     k         1342   60    0 Jd Kd
+Guibox    988480574  6  4 c   kf    -     -         1282   10    0 
+Guibox    988480642  6  4 c   c     c     k         1272   40    0 Qs Ks
+Guibox    988480687  7  3 cc  cc    kc    bc        1232  100    0 4d Qs
+Guibox    988480750  7  2 Bk  kf    -     -         1132   10    0 
+Guibox    988480795  7  1 Bc  k     b     b         1122   50   80 
+Guibox    988480832  8  8 c   c     r     c         1152   80    0 Qc 3c
+Guibox    988480875  8  7 c   k     f     -         1072   10    0 
+Guibox    988480928  8  6 c   k     b     -         1062   30   60 
+Guibox    988480962  8  5 c   c     c     b         1092   60  115 
+Guibox    988480990  8  4 c   k     k     kf        1147   10    0 
+Guibox    988481047  8  3 cc  kc    kc    k         1137   50    0 9c Jh
+Guibox    988481094  8  2 Bk  kr    b     b         1087   70    0 Jd Jc
+Guibox    988481131  8  1 Bc  k     kc    kf        1017   30    0 
+Guibox    988481179  8  8 c   f     -     -          987   10    0 
+Guibox    988481219  8  7 c   c     c     c          977   80    0 Jc 2s
+Guibox    988481269  9  6 c   c     c     f          897   40    0 
+Guibox    988481355 10  5 c   Q     -     -          857   10    0 
+Guibox    988511573  9  8 c   f     Q     -          847   10    0 
+Guibox    988511731  9  5 cc  cf    -     -          837   30    0 
+Guibox    988511808  9  4 cc  b     b     b          807   70  255 Qh 5d
+Guibox    988511870 10  3 cc  kc    k     b          992   50    0 7d Th
+Guibox    988511925 10  2 Bk  kc    k     k          942   20    0 3s 6d
+Guibox    988511965 10  1 Bc  kf    -     -          922   10    0 
+Guibox    988512007 10 10 c   c     b     b          912   70  225 2d 2h
+Guibox    988512066 10  9 c   c     rc    r         1067  140    0 Ac Qc
+Guibox    988512120 10  9 c   k     b     -          927   30   60 
+Guibox    988512179 10  7 c   k     k     kf         957   10    0 
+Guibox    988512260 10  6 cc  k     b     b          947   60  108 7s 9d
+Guibox    988512323 10  5 c   f     -     -          995   10    0 
+Guibox    988512459 10  5 c   c     c     f          985   40    0 
+Guibox    988512510 10  3 c   f     -     -          945   10    0 
+Guibox    988512601 10  2 Bk  kc    bc    bc         935  100    0 Jd Js
+Guibox    988512702 10  1 Bc  kf    -     -          835   10    0 
+Guibox    988512798 10 10 c   c     c     r          825   80    0 6c Qh
+Guibox    988512936 10  9 c   f     -     -          745   10    0 
+Guibox    988513007 10  8 c   bc    kc    kf         735   50    0 
+Guibox    988513082 10  7 c   k     f     -          685   10    0 
+Guibox    988513184 10  6 c   Q     -     -          675   10    0 
+Guibox    988528140  8  4 c   c     c     b          665   60    0 8s Qc
+Guibox    988528212 10  4 c   bc    kc    kf         605   50    0 
+Guibox    988528266 10  3 c   k     b     k          555   30    0 Js 2h
+Guibox    988528300 10  2 Bk  k     k     b          525   30    0 2s Jd
+Guibox    988528371 10  1 Bc  bc    kc    kf         495   50    0 
+Guibox    988528433  8  8 c   k     k     k          445   10    0 Jh 9s
+Guibox    988528466  8  7 c   k     k     c          435   30    0 Td Kh
+Guibox    988528498  9  7 c   r     b     k          405   50    0 6c 3h
+Guibox    988528572  9  6 c   Q     -     -          355   10    0 
+Guibox    988568360  9  7 cc  f     -     -          345   30    0 
+Guibox    988568447 10  6 c   cc    kf    -          315   40    0 
+Guibox    988568526 10  5 c   kf    -     -          275   10    0 
+Guibox    988568607  9  4 cc  c     f     -          265   30    0 
+Guibox    988568642  7  2 Bk  k     bc    bf         235   70    0 
+Guibox    988568667  7  1 BQ  -     -     -          165    5    0 
+Guibox    988568779  7  3 cc  brc   brc   bA         160  160    0 2d 5c
+Guibox    988568857  6  4 c   c     c     c         1000   90    0 Qs Ts
+Guibox    988568914  6  3 cc  k     bc    bc         910  100    0 7c 8c
+Guibox    988568964  6  2 Bk  b     br    b          810  100    0 Qs Ac
+Guibox    988569003  6  1 Bc  b     -     -          710   20   50 
+Guibox    988569033  6  6 c   f     -     -          740   10    0 
+Guibox    988569064  7  5 cc  k     c     k          730   60    0 2d 4s
+Guibox    988569144  7  4 c   f     -     -          670   10    0 
+Guibox    988569197  8  3 c   b     b     b          660   60    0 3s 4c
+Guibox    988569233  8  2 Bk  kf    -     -          600   10    0 
+Guibox    988569284  9  1 Bc  b     kc    k          590   40    0 8s Ts
+Guibox    988569323  9  9 cc  k     f     -          550   40    0 
+Guibox    988569371  8  7 c   f     -     -          510   20    0 
+Guibox    988569432  6  4 c   c     c     c          490   70    0 Ah Kh
+Guibox    988569465  7  4 c   f     -     -          420   20    0 
+Guibox    988569506  7  3 c   f     -     -          400   10    0 
+Guibox    988569562  8  2 Bc  kc    kf    -          390   30    0 
+Guibox    988569631  9  1 Bc  bc    kc    kf         360   60    0 
+Guibox    988569699 10 10 cc  c     f     -          300   50    0 
+Guibox    988569776  9  8 c   bc    rr    rr         250  190    0 As Td
+Guibox    988569851  9  7 rc  rA    -     -           60   60    0 4c Ts
+Guibox    988569984  9  6 c   k     kc    kf        1000   30    0 
+Guibox    988570049  8  4 c   k     b     c          970   60    0 5s 3d
+Guibox    988570120  8  3 cc  cc    kc    kc         910   80    0 8c 8h
+Guibox    988570195  8  2 Bc  ccc   kc    c          830  100    0 Jh Ks
+Guibox    988570297  7  1 Bc  kf    -     -          730   20    0 
+Guibox    988570360  7  7 c   c     f     -          710   30    0 
+Guibox    988570437  5  4 c   f     -     -          680   10    0 
+Guibox    988570479  5  4 c   c     c     c          670   70    0 8h Qh
+Guibox    988570510  6  3 cc  cc    k     f          600   50    0 
+Guibox    988570553  5  2 Bk  kf    -     -          550   10    0 
+Guibox    988570593  6  1 Bcc kc    k     k          540   30   60 Qs 6d
+Guibox    988570631  6  6 c   f     -     -          570   10    0 
+Guibox    988570687  6  5 c   k     k     k          560   10    0 Jh 6d
+Guibox    988570750  6  3 c   kf    -     -          550   10    0 
+Guibox    988570781  6  2 Bk  kf    -     -          540   10    0 
+Guibox    988570800  6  1 Bc  kc    brc   b          530  130    0 Ac Ad
+Guibox    988570836  6  6 c   k     k     f          400   10    0 
+Guibox    988570874  6  5 c   kc    b     b          390   60  145 9d 7d
+Guibox    988570917  5  3 c   c     c     f          475   50    0 
+Guibox    988570956  6  2 Bk  k     b     b          425   50    0 6s 2h
+Guibox    988570972  6  1 Bcc kc    kc    br         375  110  270 4h 3s
+Guibox    988571036  6  6 c   c     f     -          535   20    0 
+Guibox    988571082  6  5 c   k     c     f          515   30    0 
+Guibox    988571129  6  5 c   c     f     -          485   20    0 
+Guibox    988571169  5  3 c   k     k     k          465   10    0 8h 7s
+Guibox    988571203  5  2 Bc  kc    kc    kf         455   70    0 
+Guibox    988571265  5  1 Bc  kc    kc    k          385   40    0 6c 6s
+Guibox    988571305  5  3 Q   -     -     -          345    0    0 
+Guibox    988571636  8  4 cc  f     -     -          345   20    0 
+Guibox    988571689  8  3 c   kc    kc    kf         325   40    0 
+Guibox    988571753  9  2 Bk  kf    -     -          285   10    0 
+Guibox    988571824  7  1 Bc  b     b     -          275   40   90 
+Guibox    988571858  6  6 c   c     b     b          325   60  110 
+Guibox    988571882  7  6 c   k     c     f          375   30    0 
+Guibox    988571941  8  6 c   c     f     -          345   20    0 
+Guibox    988571977  8  5 c   k     k     k          325   20    0 7h Qh
+Guibox    988572013  8  5 cc  cc    k     rc         305  120    0 3d 6s
+Guibox    988572092  7  3 c   c     c     r          185   80   82 Kc 3c
+Guibox    988572120  7  2 Bk  k     k     k          187   10    0 5h 5s
+Guibox    988572195  8  1 Bc  k     kf    -          177   20    0 
+Guibox    988572254  6  6 c   r     b     b          157   70  140 
+Guibox    988572297  6  5 c   k     k     c          227   30    0 8c 3h
+Guibox    988572343  7  5 c   k     k     f          197   10    0 
+Guibox    988572425  7  4 c   kc    k     b          187   40    0 5c 8d
+Guibox    988572475  7  3 r   b     b     b          147   70    0 4s Ac
+Guibox    988572508  7  2 Bc  b     r     cA          77   77  244 2s 2h
+Guibox    988572565  7  1 Bc  kc    bc    b          244  100  320 5c 6c
+Guibox    988572623  7  7 c   f     -     -          464   10    0 
+Guibox    988572698  8  7 c   kc    k     f          454   20    0 
+Guibox    988572810  8  6 c   kc    kf    -          434   20    0 
+Guibox    988572870  8  5 c   f     -     -          414   20    0 
+Guibox    988572935  8  4 c   k     f     -          394   10    0 
+Guibox    988572994  8  3 c   kc    kc    k          384   40    0 4c Qh
+Guibox    988573030  8  2 Bc  kc    b     -          344   50  105 
+Guibox    988573067  8  1 Bc  kc    kc    krc        399  110    0 7h 2s
+Guibox    988573134  8  8 c   c     k     f          289   30    0 
+Guibox    988573185  7  6 c   k     cc    kc         259   70    0 5c 9h
+Guibox    988573236  7  5 c   f     -     -          189   10    0 
+Guibox    988573288  6  4 c   kf    -     -          179   10    0 
+Guibox    988573334  7  3 c   kc    c     f          169   50    0 
+Guibox    988573427  7  2 Bk  k     b     -          119   30   45 
+Guibox    988573455  6  1 Bc  b     b     brc        134  120    0 2d 3d
+Guibox    988573498  6  6 ccA -     -     -           14   14   47 Jc 9d
+Guibox    988573552  7  5 cc  b     bA    -           47   47  112 
+Guibox    988573597  7  4 cc  r     b     b          112   90    0 5c 4h
+Guibox    988573656  7  3 rcA -     -     -           22   22    0 Js Kh
+Guibox    988577952 10  6 c   cc    f     -         1000   50    0 
+Guibox    988578024  9  5 cc  c     c     f          950   50    0 
+Guibox    988578106  9  4 c   c     f     -          900   20    0 
+Guibox    988578169  9  3 cc  kc    kc    kf         880   50    0 
+Guibox    988578284  9  2 Bk  k     b     b          830   50    0 Ts 5h
+Guibox    988578320  9  1 Bc  bc    bc    b          780   90    0 Qd 9d
+Guibox    988578374  9  9 c   c     c     f          690   50    0 
+Guibox    988578471  8  7 c   c     r     b          640   90  285 
+Guibox    988578540  8  6 c   k     b     -          835   30   70 
+Guibox    988578604  9  5 cc  f     -     -          875   20    0 
+Guibox    988578680 10  5 cc  rc    rc    rc         855  200  740 Th Ah
+Guibox    988578804  9  4 cc  f     -     -         1395   20    0 
+Guibox    988578880  9  3 cc  k     f     -         1375   30    0 
+Guibox    988578946  9  2 Bcc kf    -     -         1345   40    0 
+Guibox    988579034 10  1 Bc  kf    -     -         1305   20    0 
+Guibox    988579125  8  8 c   b     b     -         1285   40  110 
+Guibox    988579176  8  7 c   f     -     -         1355   10    0 
+Guibox    988579221  9  7 c   f     -     -         1345   10    0 
+Guibox    988579282  9  6 c   f     -     -         1335   10    0 
+Guibox    988579331  9  5 c   c     c     r         1325   90  250 
+Guibox    988579372 10  4 c   bc    kc    kc        1485   70  133 Jc 8s
+Guibox    988579429 10  3 c   cc    ccf   -         1548  100    0 
+Guibox    988579495 10  2 Bc  kf    -     -         1448   20    0 
+Guibox    988579561 10  1 Bc  kc    kcc   kf        1428   80    0 
+Guibox    988579631 10 10 cc  cc    cc    cc        1348  160    0 Ah Ac
+Guibox    988579715 10  9 c   f     -     -         1188   10    0 
+Guibox    988579776  9  7 c   k     k     c         1178   30    0 Qs 3h
+Guibox    988579856  7  5 cc  c     f     -         1148   30    0 
+Guibox    988579901  7  4 c   f     -     -         1118   10    0 
+Guibox    988579944  6  2 Bk  b     b     b         1108   60  100 
+Guibox    988580015  8  1 Bc  k     b     b         1148   50    0 7d Ks
+Guibox    988580046  9  9 c   f     -     -         1098   10    0 
+Guibox    988580103  7  6 c   b     b     b         1088   60  145 
+Guibox    988580147  7  5 c   b     bc    c         1173   80    0 Qd Js
+Guibox    988580205  7  4 cc  c     f     -         1093   30    0 
+Guibox    988580280  7  3 c   r     bcc   bc        1063  130    0 4h 4c
+Guibox    988580361  7  2 Bk  k     k     bc         933   50    0 4c 3c
+Guibox    988580417  8  1 Bc  br    b     b          883   90  190 Qc Qd
+Guibox    988580489  8  8 c   k     k     k          983   10    0 3s 6h
+Guibox    988580590  9  8 c   k     k     f          973   20    0 
+Guibox    988580667 10  8 c   b     k     kf         953   20    0 
+Guibox    988580741 10  7 c   f     -     -          933   20    0 
+Guibox    988580793 10  6 cc  cc    kf    -          913   40    0 
+Guibox    988580874 10  5 c   c     k     b          873   40    0 As 7d
+Guibox    988580928 10  4 cc  kf    -     -          833   30    0 
+Guibox    988581000 10  3 cc  kc    kc    k          803   50    0 6d 8s
+Guibox    988581045 10  2 Bc  bc    kf    -          753   40    0 
+Guibox    988581088 10  1 Bc  kf    -     -          713   20    0 
+Guibox    988581144 10 10 c   cf    -     -          693   40    0 
+Guibox    988581186 10  9 c   f     -     -          653   10    0 
+Guibox    988581238 10  8 c   k     k     f          643   20    0 
+Guibox    988581315 10  7 cc  cc    kc    kf         623   60    0 
+Guibox    988581384 10  6 c   Q     -     -          563   10    0 
+Guibox    988586945 10  8 c   rc    c     k          553   60    0 Qs 8h
+Guibox    988587008 10  8 c   k     b     b          493   60  135 
+Guibox    988587068  9  6 c   c     f     -          568   30    0 
+Guibox    988587160  9  5 c   kc    k     b          538   40  115 5d Kh
+Guibox    988587251 10  4 c   b     b     bc         613   80    0 Td Js
+Guibox    988587308 10  3 c   ccc   kc    crc        533  150    0 7d 5h
+Guibox    988587423 10  2 Bk  k     k     kf         383   10    0 
+Guibox    988587508 10  1 Bc  kc    kc    kc         373   60    0 Jh Kh
+Guibox    988587567 10 10 c   c     f     -          313   20    0 
+Guibox    988587653 10  9 cc  c     b     r          293  100  255 
+Guibox    988587761  9  8 c   k     k     k          448   10    0 8s 3s
+Guibox    988587842  9  7 c   b     b     -          438   40  100 
+Guibox    988587905 10  6 c   k     b     brc        498  110    0 3h 6d
+Guibox    988587991  9  4 c   kc    k     kf         388   20    0 
+Guibox    988588084  7  2 Bc  kf    -     -          368   20    0 
+Guibox    988588151  7  1 Bc  k     kc    br         348  130  480 6c 4d
+Guibox    988588249  6  6 c   b     -     -          698   20   30 
+Guibox    988588283  6  6 c   k     b     k          708   30   90 9d 3h
+Guibox    988588319  6  5 c   k     k     rc         768   70   75 3c Js
+Guibox    988588372  5  3 c   k     b     -          773   30   55 
+Guibox    988588434  5  2 Bc  f     -     -          798   20    0 
+Guibox    988588455  5  1 Bc  kc    kf    -          778   20    0 
+Guibox    988588512  5  5 c   f     -     -          758   10    0 
+Guibox    988588540  5  4 c   f     -     -          748   10    0 
+Guibox    988588575  4  2 Bk  k     b     bc         738   70   80 6h Ts
+Guibox    988588619  4  1 Bc  kc    bc    kc         748   80    0 8c 4c
+Guibox    988588657  4  4 c   c     f     -          668   40    0 
+Guibox    988588726  4  3 c   k     k     f          628   10    0 
+Guibox    988588763  5  2 Bk  cf    -     -          618   20    0 
+Guibox    988588807  5  1 Bccc kcc   kf    -          598   70    0 
+Guibox    988588877  5  5 c   k     b     k          528   30    0 4s Td
+Guibox    988588930  5  4 c   c     c     f          498   50    0 
+Guibox    988588967  5  3 c   c     c     c          448   60    0 4h Jd
+Guibox    988589016  7  3 c   k     k     bc         388   50    0 Jc 4s
+Guibox    988589093  7  3 c   k     k     k          338   10    0 3c 7h
+Guibox    988589142  8  2 Bk  kc    kc    kc         328   60    0 3c 6d
+Guibox    988589193  8  1 Bc  kf    -     -          268   10    0 
+Guibox    988589268  9  9 c   b     rr    b          258  120  260 Qc 3c
+Guibox    988589326  9  8 c   c     KQ    -          398   20    0 

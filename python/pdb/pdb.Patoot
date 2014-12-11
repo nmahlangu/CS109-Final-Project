@@ -1,0 +1,110 @@
+Patoot    986200640  9  2 Bk  c     f     -         1000   20    0 
+Patoot    986200684  9  1 Bf  -     -     -          980    5    0 
+Patoot    986200729  9  9 c   k     c     f          975   30    0 
+Patoot    986200787  9  8 c   f     -     -          945   20    0 
+Patoot    986200821  8  6 f   -     -     -          925    0    0 
+Patoot    986200849  8  5 c   f     -     -          925   10    0 
+Patoot    986200893  9  4 rc  kc    kc    b          915   80  205 
+Patoot    986200937  9  3 c   k     kf    -         1040   10    0 
+Patoot    986200977  9  2 Bf  -     -     -         1030   10    0 
+Patoot    986201019  9  1 Bc  b     kc    kf        1020   40    0 
+Patoot    986201054  9  9 f   -     -     -          980    0    0 
+Patoot    986201099  9  8 rc  k     c     f          980   60    0 
+Patoot    986201175  9  7 c   c     c     f          920   50    0 
+Patoot    986201228  9  6 r   rc    cc    rc         870  240    0 Td Ks
+Patoot    986201299  9  5 f   -     -     -          630    0    0 
+Patoot    986201409  8  4 rc  f     -     -          630   40    0 
+Patoot    986201463  8  3 r   f     -     -          590   20    0 
+Patoot    986201489  8  2 Bc  f     -     -          570   30    0 
+Patoot    986201546  7  1 Br  k     k     k          540   20   50 Td Ks
+Patoot    986201583  7  7 f   -     -     -          570    0    0 
+Patoot    986201639  7  6 r   b     k     k          570   30    0 2d 2c
+Patoot    986201682  7  5 cc  rc    rc    f          540  140    0 
+Patoot    986201764  7  4 f   -     -     -          400    0    0 
+Patoot    986201807  7  3 r   br    br    b          400  130  330 9s 5s
+Patoot    986201840  7  2 Bf  -     -     -          600   10    0 
+Patoot    986201868  7  1 Bc  kf    -     -          590   20    0 
+Patoot    986201924  8  8 rc  k     rc    c          570  120    0 3c As
+Patoot    986201976  8  7 c   b     b     r          450   80    0 5c 6s
+Patoot    986202014  9  6 r   k     r     k          370   60    0 Ks 9s
+Patoot    986202063  9  5 c   k     k     k          310   10    0 Qs 9c
+Patoot    986202111  8  3 r   b     k     kf         300   30    0 
+Patoot    986202158  8  2 Br  kf    -     -          270   20    0 
+Patoot    986202222  9  1 Bc  b     -     -          250   20   50 
+Patoot    986202240  8  8 c   b     b     c          280   60    0 7s Kd
+Patoot    986202277  8  7 c   f     -     -          220   10    0 
+Patoot    986202322  8  6 c   f     -     -          210   10    0 
+Patoot    986202351  8  5 c   k     k     k          200   10   40 5s Jh
+Patoot    986202373  8  4 r   b     bc    k          230   70    0 Ts Qc
+Patoot    986202428  8  3 rc  rc    cf    -          160   80    0 
+Patoot    986202489  8  2 Bk  c     k     c           80   40    0 3h 9d
+Patoot    986202526  8  1 Bc  kc    kf    -           40   30    0 
+Patoot    986202561  8  8 cA  -     -     -           10   10    0 2d Ts
+Patoot    986203290  5  3 f   -     -     -         1000    0    0 
+Patoot    986203326  5  2 Bc  rr    b     b         1000  100  200 Kh 8h
+Patoot    986203350  6  1 Bf  -     -     -         1100    5    0 
+Patoot    986203374  6  6 c   k     f     -         1095   20    0 
+Patoot    986203420  6  5 c   f     -     -         1075   10    0 
+Patoot    986203473  6  4 f   -     -     -         1065    0    0 
+Patoot    986203543  6  3 c   f     -     -         1065   10    0 
+Patoot    986203592  7  2 Bf  -     -     -         1055   10    0 
+Patoot    986203641  7  1 Bc  kf    -     -         1045   20    0 
+Patoot    986203730  7  7 f   -     -     -         1025    0    0 
+Patoot    986203769  7  6 r   c     c     r         1025  110  275 Js Jh
+Patoot    986203807  7  5 f   -     -     -         1190    0    0 
+Patoot    986203851  7  4 f   -     -     -         1190    0    0 
+Patoot    986203901  7  3 ccc kc    k     kf        1190   50    0 
+Patoot    986203967  7  2 Bf  -     -     -         1140   10    0 
+Patoot    986204013  6  1 Bf  -     -     -         1130    5    0 
+Patoot    986204071  6  6 f   -     -     -         1125    0    0 
+Patoot    986204113  6  5 r   Q     -     -         1125   20    0 
+Patoot    986279928  2  2 Brc r     rr    rf         230  180    0 
+Patoot    986279968  2  1 Brr kf    -     -           50   40    0 
+Patoot    986279982  2  2 BA  -     -     -           10   10   20 Qd Qh
+Patoot    986279990  2  1 BrA -     -     -           20   20   40 9d Jc
+Patoot    986279997  2  2 BrcA -     -     -           40   40    0 4h 9s
+Patoot    986280071  2  2 Brc r     rc    rf        1000  150    0 
+Patoot    986280110  2  1 Brr br    brc   b          850  170    0 7d 5s
+Patoot    986280136  2  2 Brc rc    rc    rf         680  170    0 
+Patoot    986280171  2  1 Brr brc   brc   brc        510  240    0 3c 7c
+Patoot    986280218  2  2 Brc rc    rc    rf         270  170    0 
+Patoot    986280244  2  1 Brr br    bf    -          100   90    0 
+Patoot    986280275  2  2 BA  -     -     -           10   10    0 Td Js
+Patoot    986599513  4  2 Bc  b     b     -         1000   50   85 
+Patoot    986599554  4  1 Bf  -     -     -         1035    5    0 
+Patoot    986599578  5  5 c   k     k     f         1030   10    0 
+Patoot    986599606  5  4 c   f     -     -         1020   10    0 
+Patoot    986599636  5  3 cc  kf    -     -         1010   20    0 
+Patoot    986599662  5  2 Bk  k     k     k          990   10   50 5s 2s
+Patoot    986599689  5  1 Bf  -     -     -         1030    5    0 
+Patoot    986599713  5  5 f   -     -     -         1025    0    0 
+Patoot    986599755  5  4 cc  k     k     k         1025   20    0 Jd Qh
+Patoot    986599786  5  3 f   -     -     -         1005    0    0 
+Patoot    986599817  5  2 Bf  -     -     -         1005   10    0 
+Patoot    986599837  5  1 Bc  b     -     -          995   20   34 Qc 9d
+Patoot    986599851  4  4 f   -     -     -         1009    0    0 
+Patoot    986599858  5  4 f   -     -     -         1009    0    0 
+Patoot    986599871  5  3 f   -     -     -         1009    0    0 
+Patoot    986599893  5  2 Bf  -     -     -         1009   10    0 
+Patoot    986599929  5  1 Bf  -     -     -          999    5    0 
+Patoot    986599949  5  5 c   b     r     -          994   60  120 
+Patoot    986599989  5  4 f   -     -     -         1054    0    0 
+Patoot    986600016  5  3 c   k     f     -         1054   10    0 
+Patoot    986600033  5  2 Bk  kc    kf    -         1044   30    0 
+Patoot    986600068  5  1 Bcc br    bc    k         1014  100  300 Kc Qc
+Patoot    986600106  6  6 cf  -     -     -         1214   10    0 
+Patoot    986600148  6  5 f   -     -     -         1204    0    0 
+Patoot    986600187  7  5 c   k     f     -         1204   10    0 
+Patoot    986600236  8  6 f   -     -     -         1194    0    0 
+Patoot    986600275  8  5 cc  f     -     -         1194   20    0 
+Patoot    986600361  8  4 f   -     -     -         1174    0    0 
+Patoot    986600425  7  3 rc  k     k     kf        1174   30    0 
+Patoot    986600472  6  2 Bk  kf    -     -         1144   10    0 
+Patoot    986600502  6  1 Bc  kc    kc    kc        1134   60    0 6d Qh
+Patoot    986600535  6  6 c   c     f     -         1074   30    0 
+Patoot    986600582  6  5 c   rr    b     b         1044   90  255 
+Patoot    986600661  7  4 f   -     -     -         1209    0    0 
+Patoot    986600719  7  3 c   kc    rc    c         1209  120    0 5h 3h
+Patoot    986600767  6  2 Brc kc    kf    -         1089   50    0 
+Patoot    986600810  6  1 Bf  -     -     -         1039    5    0 
+Patoot    986600851  6  6 cc  Q     -     -         1034   20    0 

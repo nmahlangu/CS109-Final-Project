@@ -1,0 +1,288 @@
+Larrikin  986133744  3  2 Br  b     b     -         1565   50   85 
+Larrikin  986133819  3  1 Bc  b     -     -         1600   20   30 
+Larrikin  986133841  3  3 r   -     -     -         1610   20   35 
+Larrikin  986133850  3  2 Bk  b     -     -         1625   20   35 
+Larrikin  986133864  3  1 Bc  b     bc    k         1640   60    0 4s 7d
+Larrikin  986133892  3  3 c   b     -     -         1580   20   35 
+Larrikin  986133909  3  2 Br  k     f     -         1595   20    0 
+Larrikin  986133950  4  1 Bc  b     -     -         1575   20   40 
+Larrikin  986133983  4  4 r   b     b     b         1595   70  125 
+Larrikin  986134016  5  4 f   -     -     -         1650    0    0 
+Larrikin  986134097  4  2 r   b     b     bc        1650   90    0 Jh Kd
+Larrikin  986134143  4  2 Br  b     b     b         1560   70  145 
+Larrikin  986134180  5  1 Bc  b     brc   bc        1635  150  330 Kc 7s
+Larrikin  986134243  6  6 cc  f     -     -         1815   20    0 
+Larrikin  986134271  6  5 f   -     -     -         1795    0    0 
+Larrikin  986134309  6  4 cc  br    b     brc       1795  150    0 Kh 2s
+Larrikin  986134374  6  3 rc  brc   b     bc        1645  130    0 Jh 8s
+Larrikin  986134438  6  2 Br  b     b     b         1515   80  145 
+Larrikin  986134498  6  1 Bc  b     bc    kc        1580   90    0 6c 5s
+Larrikin  986134570  6  6 rc  r     b     b         1490  100  290 
+Larrikin  986134659  6  5 c   k     kf    Q         1680   20    0 
+Larrikin  986136404 10  8 cc  kc    c     f         1000   50    0 
+Larrikin  986136541  8  5 cc  bc    b     b          950   80  270 
+Larrikin  986136627  8  4 f   -     -     -         1140    0    0 
+Larrikin  986136723  8  3 rc  b     b     b         1140   80  115 3h Th
+Larrikin  986136774  8  3 c   b     b     -         1175   40   90 
+Larrikin  986136833 10  3 c   r     b     bc        1225   90    0 8s 9c
+Larrikin  986136941 10  2 Bc  k     b     b         1135   60    0 4s Kh
+Larrikin  986137005 10  1 Bc  kc    kcc   kc        1075  140    0 Ts 7c
+Larrikin  986137098 10  7 Q   -     -     -          935    0    0 
+Larrikin  986177964  9  1 BQ  -     -     -          935    5    0 
+Larrikin  986182528  4  2 Br  brc   brc   br        1150  200  405 6d 6s
+Larrikin  986182603  5  1 Bc  kf    -     -         1355   10    0 
+Larrikin  986182644  5  5 c   c     b     b         1345   60    0 Qc 8h
+Larrikin  986182699  4  3 c   c     b     cc        1285   80    0 Jd 5d
+Larrikin  986182741  5  3 rr  cc    kc    kc        1205  100    0 7h 7c
+Larrikin  986182787  5  2 Bk  brc   bc    kf        1105   90    0 
+Larrikin  986182827  5  1 Bc  b     b     b         1015   70  200 
+Larrikin  986182856  5  5 c   k     k     f         1145   10    0 
+Larrikin  986182896  5  4 f   -     -     -         1135    0    0 
+Larrikin  986182925  5  3 f   -     -     -         1135    0    0 
+Larrikin  986182943  5  2 Bk  b     bc    kc        1135   80    0 4d Ac
+Larrikin  986182979  5  1 Br  b     b     b         1055   70  140 Ac Qd
+Larrikin  986183005  5  5 c   k     b     b         1125   50  110 
+Larrikin  986183088  4  4 cc  rc    rr    r         1185  190    0 Ad 5c
+Larrikin  986183152  4  3 r   r     b     b          995   80  200 4h 4d
+Larrikin  986183206  4  2 Br  rr    r     b         1115  130    0 Ah 9d
+Larrikin  986183257  3  1 Br  b     b     bc         985   90    0 Jh 8h
+Larrikin  986183290  2  2 c   k     k     b          895   30   40 
+Larrikin  986183314  2  2 B   -     -     -          905   10   15 
+Larrikin  986183317  2  1 Bc  brc   kc    kc         910   90    0 Ad 2h
+Larrikin  986183337  2  2 B   -     -     -          820   10   15 
+Larrikin  986183342  2  1 Br  b     b     b          825   70  140 2s 2h
+Larrikin  986183355  2  2 Bk  rc    c     c          895   80    0 3h 4c
+Larrikin  986183388  2  1 Bcc b     bc    bc         815  110  220 3d 9c
+Larrikin  986183407  2  2 Bk  -     -     -          925   10   20 
+Larrikin  986183778  3  2 Bc  kc    kc    kf         935   50    0 
+Larrikin  986183819  3  1 Bc  kc    k     bf         885   40    0 
+Larrikin  986183858  3  3 c   k     b     -          845   30   50 
+Larrikin  986183881  3  2 Br  k     kc    bc         865   80  165 Kh Jh
+Larrikin  986183909  3  1 Br  b     b     b          950   70  120 
+Larrikin  986183933  3  3 Q   -     -     -         1000    0    0 
+Larrikin  986184042  3  2 Bc  brc   brc   brc       1000  220    0 7h 3c
+Larrikin  986184081  3  1 Bcc kc    kf    -          780   30    0 
+Larrikin  986184114  4  3 rr  rc    k     c          750   90    0 Jd 4d
+Larrikin  986184167  3  1 Bk  kf    -     -          660   10    0 
+Larrikin  986184201  3  1 Bc  k     bc    kf         650   50    0 
+Larrikin  986184252  3  3 c   b     r     b          600   80    0 9c 2c
+Larrikin  986184292  3  2 Br  r     b     b          520   80  200 5h 5s
+Larrikin  986184328  5  1 Brr bc    k     b          640   80    0 6h 6c
+Larrikin  986184401  5  5 f   -     -     -          560    0    0 
+Larrikin  986184470  5  4 c   k     b     -          560   30   55 
+Larrikin  986184561  4  2 c   b     b     b          585   60  110 
+Larrikin  986184587  4  2 Br  c     c     c          635   70    0 As 9d
+Larrikin  986184632  4  1 Brc kr    b     br         565  130  330 7d Qd
+Larrikin  986184689  5  5 cc  c     b     b          765   90  330 7s Jc
+Larrikin  986184759  5  4 c   c     f     -         1005   20    0 
+Larrikin  986184783  5  3 cc  f     -     -          985   20    0 
+Larrikin  986184801  5  2 Bk  k     b     b          965   50    0 9c Kc
+Larrikin  986184837  5  1 Bcc br    b     b          915  100    0 9s 2d
+Larrikin  986184899  5  5 c   f     -     -          815   10    0 
+Larrikin  986184950  7  5 c   f     -     -          805   10    0 
+Larrikin  986185023  7  4 f   -     -     -          795    0    0 
+Larrikin  986185062  7  3 Q   -     -     -          795    0    0 
+Larrikin  986186518 10  2 Br  c     c     b          795   70    0 8h 9h
+Larrikin  986186584 10  1 Bcc kc    kc    kQ         725   60    0 
+Larrikin  986189579  9  3 rc  b     b     bc         665  100    0 Kc 3h
+Larrikin  986189624  9  2 Br  b     -     -          565   30   75 
+Larrikin  986189650  9  1 Brc b     b     b          610   90    0 Ac Js
+Larrikin  986189690  9  9 r   b     b     b          520   80    0 As 5s
+Larrikin  986189732  9  8 r   b     -     -          440   30  115 
+Larrikin  986189779  9  5 Q   -     -     -          525    0    0 
+Larrikin  986219423  6  4 c   b     b     -         1885   40   75 
+Larrikin  986219450  6  3 f   -     -     -         1920    0    0 
+Larrikin  986219481  6  2 Bc  kc    k     b         1920   50    0 7d 3h
+Larrikin  986219517  5  1 Bc  bc    brc   b         1870  150    0 9h 8c
+Larrikin  986219566  5  5 f   -     -     -         1720    0    0 
+Larrikin  986219601  5  4 c   b     -     -         1720   20   45 
+Larrikin  986219626  5  3 cc  b     b     b         1745   70  135 
+Larrikin  986219653  5  2 Bc  kf    -     -         1810   20    0 
+Larrikin  986219672  5  1 Bc  k     bc    brc       1790  130  270 8s Qd
+Larrikin  986219711  5  5 f   -     -     -         1930    0    0 
+Larrikin  986219725  5  4 cc  f     -     -         1930   20    0 
+Larrikin  986219760  5  3 c   kf    -     -         1910   10    0 
+Larrikin  986219795  5  2 Br  b     b     b         1900   80  190 9h 9d
+Larrikin  986219852  5  1 Bc  kf    -     -         2010   10    0 
+Larrikin  986219895  5  5 r   b     -     -         2000   30   60 
+Larrikin  986219924  5  4 c   kf    -     -         2030   10    0 
+Larrikin  986219962  5  3 f   -     -     -         2020    0    0 
+Larrikin  986219988  5  2 Bc  kc    kc    b         2020   70    0 9c 6d
+Larrikin  986220034  7  1 Bc  b     kf    -         1950   30    0 
+Larrikin  986220070  8  8 f   -     -     -         1920    0    0 
+Larrikin  986220100  8  7 c   f     -     -         1920   30    0 
+Larrikin  986220141  8  6 f   -     -     -         1890    0    0 
+Larrikin  986220186  8  5 cc  f     -     -         1890   20    0 
+Larrikin  986220239  8  4 c   bc    k     b         1870   50   63 2c As
+Larrikin  986220276  8  3 c   c     c     b         1883   60    0 9c 5c
+Larrikin  986220315  7  2 Bk  b     -     -         1823   20   45 
+Larrikin  986220331  7  1 Bc  kf    -     -         1848   20    0 
+Larrikin  986220360  7  7 r   b     b     b         1828   70  155 7d Ad
+Larrikin  986220392  7  6 r   b     b     b         1913   80  205 4h 4s
+Larrikin  986220433  7  5 c   f     -     -         2038   20    0 
+Larrikin  986220473  7  4 c   k     b     b         2018   60  245 Ac 3h
+Larrikin  986220532  7  3 cc  bc    b     b         2203   80    0 4h 3h
+Larrikin  986220574  7  2 Br  b     b     -         2123   50   85 
+Larrikin  986220670  6  1 Bc  k     b     -         2158   40   90 
+Larrikin  986220694  6  6 c   c     b     br        2208  100    0 5s Qc
+Larrikin  986220732  7  5 r   bc    c     c         2108   80    0 Ah 9c
+Larrikin  986220769  7  4 f   -     -     -         2028    0    0 
+Larrikin  986220807  7  3 r   b     b     bc        2028   90  185 8h 8d
+Larrikin  986220845  8  3 c   c     c     r         2123   80  315 Jh 3c
+Larrikin  986220896  8  2 Bk  f     -     -         2358   10    0 
+Larrikin  986220948  8  1 Brc kc    kc    k         2348   70  150 Ah Qd
+Larrikin  986220990  8  8 f   -     -     -         2428    0    0 
+Larrikin  986221104  8  7 c   c     c     c         2428   60    0 Kc 9h
+Larrikin  986221171  8  6 f   -     -     -         2368    0    0 
+Larrikin  986221214  8  5 c   rc    c     c         2368  100    0 Ah Jh
+Larrikin  986221275  9  5 cc  c     c     k         2268   50  145 8d 9d
+Larrikin  986221331  9  4 c   kc    k     b         2363   40   48 Qh 4h
+Larrikin  986221384  9  3 c   b     -     -         2371   20   45 
+Larrikin  986221413 10  3 c   kf    -     -         2396   10    0 
+Larrikin  986221450 10  2 Bc  kc    kc    kc        2386   70    0 3h 4d
+Larrikin  986221504 10  1 Bc  brc   k     kf        2316   60    0 
+Larrikin  986221567 10 10 c   c     c     cf        2256  100    0 
+Larrikin  986221671 10  9 c   f     -     -         2156   20    0 
+Larrikin  986221709 10  8 c   b     b     b         2136   60  125 
+Larrikin  986221759  9  6 c   k     k     bc        2201   60    0 8s 6s
+Larrikin  986221847  8  4 c   b     b     b         2141   60  195 
+Larrikin  986221927  7  3 cc  cf    -     -         2276   30    0 
+Larrikin  986221975  6  1 Bcc kc    kc    krc       2246  130    0 4s 3c
+Larrikin  986222052  6  1 Bc  kf    -     -         2116   20    0 
+Larrikin  986222129  6  6 cc  c     c     f         2096   50    0 
+Larrikin  986222179  7  5 c   c     c     c         2046   60    0 Kc 5s
+Larrikin  986222212  7  4 r   cc    kc    k         1986   70    0 Ah Jd
+Larrikin  986222264  7  3 c   k     f     -         1916   10    0 
+Larrikin  986222326  8  3 cc  krr   br    bcc       1906  220    0 Jh 8s
+Larrikin  986222395  9  3 cc  kf    -     -         1686   20    0 
+Larrikin  986222467  9  2 Bk  br    br    k         1666  100    0 7s 9s
+Larrikin  986222536  8  1 Br  bc    kc    kc        1566   80    0 4c Kc
+Larrikin  986222578 10 10 r   r     k     f         1486   40    0 
+Larrikin  986222641 10  9 c   b     b     -         1446   40  120 
+Larrikin  986222701 10  8 c   f     -     -         1526   10    0 
+Larrikin  986222737 10  7 f   -     -     -         1516    0    0 
+Larrikin  986222784 10  6 rc  cc    c     c         1516  100    0 3h 3s
+Larrikin  986222836 10  5 c   f     -     -         1416   10    0 
+Larrikin  986222915 10  4 c   k     k     f         1406   10    0 
+Larrikin  986222968 10  3 rr  br    rr    b         1396  170  630 Ad Jh
+Larrikin  986223045 10  2 Br  br    b     b         1856   90    0 3d Ah
+Larrikin  986223121  9  1 Brc k     k     b         1766   50  180 
+Larrikin  986223222  9  9 r   c     c     k         1896   60    0 8h Ad
+Larrikin  986223313  8  7 cc  kc    kc    k         1836   60    0 7c Js
+Larrikin  986223381  9  7 f   -     -     -         1776    0    0 
+Larrikin  986223419  9  6 f   -     -     -         1776    0    0 
+Larrikin  986223457  9  5 rr  c     k     cc        1776  110    0 4h 4s
+Larrikin  986223507  9  4 c   br    b     b         1666   80  225 
+Larrikin  986223611 10  3 r   b     bc    kc        1811   90    0 7d Ad
+Larrikin  986223662 10  2 Bk  kf    -     -         1721   10    0 
+Larrikin  986223730 10  1 Bc  kc    kf    -         1711   20    0 
+Larrikin  986223794 10 10 c   f     -     -         1691   30    0 
+Larrikin  986223851 10  9 c   c     c     c         1661   60    0 5c 6h
+Larrikin  986223936 10  8 r   rr    b     -         1601   80  205 
+Larrikin  986223982 10  7 cc  b     c     c         1726   70    0 Tc 8d
+Larrikin  986224050 10  6 c   f     -     -         1656   20    0 
+Larrikin  986224202  9  5 cc  c     kc    b         1636   70    0 Jh 2c
+Larrikin  986224312  8  3 c   br    br    b         1566  120  130 7h Tc
+Larrikin  986224365  9  2 Bk  kc    kf    -         1576   20    0 
+Larrikin  986224421 10  1 Br  b     kr    k         1556   70    0 5h As
+Larrikin  986224484 10 10 f   -     -     -         1486    0    0 
+Larrikin  986224560  8  7 r   rr    b     b         1486  110  300 As Ad
+Larrikin  986224612  8  7 c   f     -     -         1676   10    0 
+Larrikin  986224637  8  6 c   f     -     -         1666   10    0 
+Larrikin  986224681  9  5 c   bc    k     k         1656   40    0 7c Qc
+Larrikin  986224729  9  4 cc  k     f     -         1616   20    0 
+Larrikin  986224785  9  3 c   kf    -     -         1596   10    0 
+Larrikin  986224826  9  2 Br  br    b     b         1586   90  240 Kh Ks
+Larrikin  986224877  9  1 Bc  kf    -     -         1736   20    0 
+Larrikin  986224941  9  9 c   k     k     f         1716   20    0 
+Larrikin  986224998  8  7 c   ccc   c     f         1696   80    0 
+Larrikin  986225059  9  7 r   b     b     b         1616   70    0 9c Ad
+Larrikin  986225129  9  6 f   -     -     -         1546    0    0 
+Larrikin  986225188  9  5 c   c     c     r         1546   80  120 Ac 3h
+Larrikin  986225257  8  4 c   c     br    r         1586  130    0 Tc 9s
+Larrikin  986225320  8  3 r   b     b     b         1456   70    0 4h 4c
+Larrikin  986225357  6  1 Br  b     b     b         1386   80  200 
+Larrikin  986225388  6  1 Bc  kf    -     -         1506   10    0 
+Larrikin  986225413  6  6 f   -     -     -         1496    0    0 
+Larrikin  986225445  6  5 c   c     c     b         1496   60    0 Td 8s
+Larrikin  986225494  6  4 r   b     b     k         1436   50    0 5h Th
+Larrikin  986225546  6  3 f   -     -     -         1386    0    0 
+Larrikin  986225589  6  2 Bk  k     c     b         1386   50    0 9h Ts
+Larrikin  986225628  6  1 Bc  kc    kc    k         1336   40    0 Qc 5h
+Larrikin  986225681  6  6 c   b     -     -         1296   20   55 
+Larrikin  986225716  6  5 f   -     -     -         1331    0    0 
+Larrikin  986225743  6  4 r   b     b     b         1331   70  145 Ad Js
+Larrikin  986225766  6  3 f   -     -     -         1406    0    0 
+Larrikin  986225810  7  2 Bc  kc    kc    kf        1406   50    0 
+Larrikin  986225855  7  1 Bc  kc    kr    b         1356   80  180 
+Larrikin  986225911  8  8 f   -     -     -         1456    0    0 
+Larrikin  986225953  9  8 f   -     -     -         1456    0    0 
+Larrikin  986226015  9  7 r   -     -     -         1456   20   35 
+Larrikin  986226031  9  5 Q   -     -     -         1471    0    0 
+Larrikin  986266656  7  3 r   r     br    brc       1036  180  203 As Kc
+Larrikin  986266728  7  2 Bk  k     kc    kf        1059   30    0 
+Larrikin  986266824  7  1 Br  k     kc    k         1029   50  190 2s As
+Larrikin  986266952  7  6 f   -     -     -         1169    0    0 
+Larrikin  986266994  8  6 r   b     b     c         1169   70    0 3s 3h
+Larrikin  986267087  8  5 f   -     -     -         1099    0    0 
+Larrikin  986267148  7  3 c   kc    kf    -         1099   20    0 
+Larrikin  986267215  8  4 c   k     k     b         1079   30   80 7d Td
+Larrikin  986267295  7  2 Bc  kf    -     -         1129   20    0 
+Larrikin  986267361  7  1 Bcc kc    kc    b         1109   80  250 7c 9c
+Larrikin  986267441  7  7 f   -     -     -         1279    0    0 
+Larrikin  986267458  7  6 c   k     f     -         1279   10    0 
+Larrikin  986267542  7  5 rr  c     c     b         1269   90    0 Kh Jc
+Larrikin  986267597  8  4 f   -     -     -         1179    0    0 
+Larrikin  986267674  8  3 f   -     -     -         1179    0    0 
+Larrikin  986267730  8  2 Bk  k     kc    kf        1179   30    0 
+Larrikin  986267790  8  1 Br  -     -     -         1149   20   30 
+Larrikin  986267806  6  6 r   b     -     -         1159   30   60 
+Larrikin  986267831  6  5 c   cc    c     k         1189   50    0 9h Jd
+Larrikin  986267913  7  4 cc  br    r     b         1139  120  405 2c 3c
+Larrikin  986267987  7  3 f   -     -     -         1424    0    0 
+Larrikin  986268054  7  2 Br  b     bc    bc        1424  110    0 Ad Th
+Larrikin  986268414  4  1 Bc  b     b     bf        1314   60    0 
+Larrikin  986268454  5  5 f   -     -     -         1254    0    0 
+Larrikin  986268479  5  5 r   b     b     -         1254   50   95 
+Larrikin  986268509  4  3 r   b     b     r         1299   90  220 5c Kd
+Larrikin  986268541  4  2 Br  b     b     -         1429   50  100 
+Larrikin  986268571  4  1 Br  -     -     -         1479   20   30 
+Larrikin  986268580  4  4 r   -     -     -         1489   20   35 
+Larrikin  986268586  4  3 r   c     f     -         1504   30    0 
+Larrikin  986268621  4  2 Bc  cr    c     rr        1474  150    0 Jc 9c
+Larrikin  986268694  6  1 Bc  b     b     b         1324   60  140 
+Larrikin  986268738  6  6 c   f     -     -         1404   10    0 
+Larrikin  986268793  7  6 r   r     b     b         1394   80  260 Kh Tc
+Larrikin  986268929  7  5 f   -     -     Q         1574    0    0 
+Larrikin  986707535  9  4 cc  kf    -     -        19033   20    0 
+Larrikin  986707610  8  3 f   -     -     -        19013    0    0 
+Larrikin  986707709  8  2 Bk  bc    kc    kc       19013   70    0 Qc 9c
+Larrikin  986707781  6  1 Bc  b     b     bc       18943   90    0 5s Qh
+Larrikin  986707813  6  6 cc  f     -     -        18853   20    0 
+Larrikin  986707847  6  3 Q   -     -     -        18833    0    0 
+Larrikin  988099694  2  2 Brc rr    rr    rr         985  240    0 8h Tc
+Larrikin  988099774  2  1 Brr brc   brc   brc        745  240  480 Kh 7c
+Larrikin  988099818  2  2 Brr rr    rr    r          985  200  380 
+Larrikin  988099865  2  1 Brr br    br    br        1165  190  360 
+Larrikin  988099911  2  2 Brc rr    rr    rr        1335  240  480 3s Qh
+Larrikin  988099963  2  1 Brr brc   brc   brc       1575  240  480 8c 8h
+Larrikin  988100015  2  2 Brc r     rr    b         1815  160  300 
+Larrikin  988100061  2  1 Brr -     -     -         1955   40   10 Qs 2d
+Larrikin  988100068  2  2 Brc b     -     -         1925   50   90 
+Larrikin  988100097  2  1 Br  -     -     -         1965   20    0 8s 9s
+Larrikin  988100102  2  2 Brc -     -     -         1945   40   80 4s 6h
+Larrikin  988100124  2  1 Brr br    brc   brc       1985  230  460 Tc Ts
+Larrikin  988100179  2  2 Brc rr    rr    r         2215  200  380 
+Larrikin  988100218  2  1 Brr br    brc   br        2395  210  400 
+Larrikin  988100268  2  2 Brc rc    rr    rr        2585  230  460 Tc Jc
+Larrikin  988100311  2  1 Brr bc    brc   bc        2815  170  340 Ks 6c
+Larrikin  988100354  2  1 Br  -     -     -         2985   20   30 
+Larrikin  988100370  3  3 c   k     k     f         2995   10    0 
+Larrikin  988100411  2  2 B   -     -     -         2985   10   15 
+Larrikin  988100415  2  1 Br  -     -     -         2990   20   30 
+Larrikin  988100418  2  2 B   -     -     -         3000   10   15 
+Larrikin  988100420  2  1 Br  -     -     -         3005   20   30 
+Larrikin  988100423  2  2 B   -     -     -         3015   10   15 
+Larrikin  988100426  2  1 Bf  -     -     -         3020    5    0 
+Larrikin  988100429  2  2 Bk  f     -     -         3015   10    0 
+Larrikin  988100439  2  1 BQ  -     -     -         3005    5    0 

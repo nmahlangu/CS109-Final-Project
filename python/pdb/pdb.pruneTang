@@ -1,0 +1,62 @@
+pruneTang 987052656  8  4 fQ  -     -     -         1000    0    0 
+pruneTang 987138248  3  1 Bc  k     kf    -         1000   10    0 
+pruneTang 987138277  3  3 c   c     c     f          990   40    0 
+pruneTang 987138298  4  3 f   -     -     -          950    0    0 
+pruneTang 987138325  4  2 Bc  kc    kf    -          950   30    0 
+pruneTang 987138345  5  1 Bf  -     -     -          920    5    0 
+pruneTang 987138356  5  5 c   b     c     r          915   80  210 3h 9h
+pruneTang 987138389  5  4 f   -     -     -         1040    0    0 
+pruneTang 987138428  5  3 c   bc    b     kc        1040   70    0 9d Ad
+pruneTang 987138457  5  2 Bk  c     c     rc         970  100  340 As 8s
+pruneTang 987138507  5  1 Bc  kf    -     -         1210   10    0 
+pruneTang 987138547  4  4 c   c     c     c         1200   60  150 7d 8c
+pruneTang 987138578  4  3 fQ  -     -     -         1290    0    0 
+pruneTang 987191624  6  3 c   c     c     k         1290   40    0 Ah Ts
+pruneTang 987191669  6  2 Bc  kc    kc    f         1250   50    0 
+pruneTang 987191735  6  1 Bf  -     -     -         1200    5    0 
+pruneTang 987191766  7  6 r   b     b     -         1195   50  105 
+pruneTang 987191803  7  5 cc  kf    -     -         1250   20    0 
+pruneTang 987191841  8  4 c   c     f     -         1230   20    0 
+pruneTang 987191897  8  3 cc  k     k     b         1210   40   85 
+pruneTang 987191936  8  2 Bk  kf    -     -         1255   10    0 
+pruneTang 987191983  7  1 Bf  -     -     -         1245    5    0 
+pruneTang 987192028  6  6 f   -     -     -         1240    0    0 
+pruneTang 987192058  6  5 f   -     -     -         1240    0    0 
+pruneTang 987192107  7  5 cc  cc    c     f         1240   60    0 
+pruneTang 987192170  8  4 f   -     -     -         1180    0    0 
+pruneTang 987192222  8  3 c   cf    -     -         1180   20    0 
+pruneTang 987192325  8  2 Bc  kc    k     kf        1160   30    0 
+pruneTang 987192380  7  1 Bc  kf    -     -         1130   10    0 
+pruneTang 987192471  7  7 f   -     -     -         1120    0    0 
+pruneTang 987192522  7  6 f   -     -     -         1120    0    0 
+pruneTang 987192601  8  6 f   -     -     -         1120    0    0 
+pruneTang 987192622  8  5 f   -     -     -         1120    0    0 
+pruneTang 987192675  8  4 f   -     -     -         1120    0    0 
+pruneTang 987192740  7  3 f   -     -     -         1120    0    0 
+pruneTang 987192780  8  2 Bc  c     c     f         1120   50    0 
+pruneTang 987192821  8  1 Bc  k     k     kf        1070   10    0 
+pruneTang 987192886  8  8 cc  cc    f     -         1060   70    0 
+pruneTang 987192971  9  8 c   f     -     -          990   20    0 
+pruneTang 987193030  9  7 c   c     b     c          970   70    0 Jh 3h
+pruneTang 987193094 10  6 f   -     -     -          900    0    0 
+pruneTang 987193159 10  5 c   brc   rc    f          900  110    0 
+pruneTang 987193226 10  4 f   -     -     -          790    0    0 
+pruneTang 987193277 10  3 f   -     -     -          790    0    0 
+pruneTang 987193336 10  2 Bc  kf    -     -          790   20    0 
+pruneTang 987193395 10  1 Br  b     b     kf         770   70    0 
+pruneTang 987193523 10 10 c   cc    c     f          700   60    0 
+pruneTang 987193603 10  9 c   c     r     b          640   90  250 
+pruneTang 987193674 10  9 c   ccc   rr    c          800  160  580 Jc 5c
+pruneTang 987193737  9  7 f   -     -     -         1220    0    0 
+pruneTang 987193805  9  5 f   -     -     -         1220    0    0 
+pruneTang 987193852  8  4 f   -     -     -         1220    0    0 
+pruneTang 987193942  8  3 c   f     -     -         1220   10    0 
+pruneTang 987193991  8  2 Bk  k     kc    kf        1210   30    0 
+pruneTang 987194031  9  1 Bc  kf    -     -         1180   10    0 
+pruneTang 987194067  9  9 c   f     -     -         1170   10    0 
+pruneTang 987194117  9  8 f   -     -     -         1160    0    0 
+pruneTang 987194246  9  7 f   -     -     -         1160    0    0 
+pruneTang 987194314  9  6 r   r     b     b         1160   90  390 Qd Ad
+pruneTang 987194381 10  6 c   c     c     cf        1460   70    0 
+pruneTang 987194471 10  5 f   -     -     -         1390    0    0 
+pruneTang 987194508 10  5 c   Q     -     -         1390   10    0 

@@ -1,0 +1,1008 @@
+JimR      986194947  3  3 f   -     -     -         1516    0    0 
+JimR      986194963  3  2 Br  b     b     b         1516   70  140 9h 9c
+JimR      986194986  3  1 Bc  k     k     k         1586   10   20 8c Ah
+JimR      986195008  3  3 f   -     -     -         1596    0    0 
+JimR      986195014  3  2 Bc  kf    -     -         1596   20    0 
+JimR      986195035  3  1 Bc  k     b     b         1576   60    0 4d 7d
+JimR      986195058  3  3 c   k     k     k         1516   10    0 7h Qc
+JimR      986195076  3  2 B   -     -     -         1506   10   15 
+JimR      986195082  3  1 Bf  -     -     -         1511    5    0 
+JimR      986195098  3  3 cc  c     c     c         1506   70  150 9c Qd
+JimR      986195115  3  2 Bc  k     k     f         1586   20    0 
+JimR      986195131  3  1 Br  -     -     -         1566   20   30 
+JimR      986195140  3  3 rc  c     c     c         1576   80    0 As 2c
+JimR      986195157  3  2 Bk  k     f     -         1496   10    0 
+JimR      986195173  3  1 Bcc kf    -     -         1486   20    0 
+JimR      986195183  3  3 f   -     -     -         1466    0    0 
+JimR      986195191  3  2 Bk  c     c     k         1466   40    0 7c Kd
+JimR      986195209  4  1 Bc  kc    kr    b         1426   90  190 9c 4d
+JimR      986195232  4  4 c   cc    f     -         1526   30    0 
+JimR      986195262  4  3 c   b     -     -         1496   20   35 
+JimR      986195276  4  2 Bc  kr    b     k         1511   60    0 4d 7s
+JimR      986195325  4  1 Br  b     b     b         1451   70    0 As Js
+JimR      986195348  4  4 c   rr    rr    c         1381  150    0 4s Ts
+JimR      986195382  5  3 r   -     -     -         1231   20   35 
+JimR      986195396  5  2 Br  br    b     b         1246   90    0 Ad 9s
+JimR      986195442  6  1 Bc  kc    kc    k         1156   60    0 6s 9c
+JimR      986195479  6  6 r   b     -     -         1096   30   60 
+JimR      986195498  6  5 cc  k     c     f         1126   60    0 
+JimR      986195539  6  4 c   bc    bc    kc        1066   90    0 Jh 5h
+JimR      986195568  6  3 cc  c     f     -          976   30    0 
+JimR      986195600  6  2 Bcc kc    kc    kf         946   70    0 
+JimR      986195639  6  1 Bcc kc    kc    k          876   50  100 7h Th
+JimR      986195664  6  6 c   k     f     -          926   10    0 
+JimR      986195713  6  5 c   kf    -     -          916   10    0 
+JimR      986195743  5  3 cc  cc    f     -          906   60    0 
+JimR      986195773  6  3 cc  kc    k     k          846   30    0 6h 8s
+JimR      986195812  6  2 Br  k     c     b          816   60  120 4c Ac
+JimR      986195878  6  1 Bc  kc    kf    -          876   30    0 
+JimR      986195912  6  6 c   k     c     c          846   60  155 Qd 2s
+JimR      986195944  6  5 c   k     c     k          941   30    0 3s 5h
+JimR      986195975  6  4 rc  c     r     r          911  130  360 7c Ac
+JimR      986196016  6  3 c   k     f     -         1141   10    0 
+JimR      986196056  6  2 Bc  c     c     k         1131   50    0 3h Kc
+JimR      986196106  6  1 Br  b     b     b         1081   70    0 4c Ac
+JimR      986196131  6  6 rc  c     f     -         1011   60    0 
+JimR      986196166  6  5 cc  rr    r     b          951  120    0 Ad 7c
+JimR      986196217  6  4 cc  cc    kf    -          831   50    0 
+JimR      986196273  6  3 cc  c     b     b          781   70  190 4h 3c
+JimR      986196324  6  2 Bc  cc    c     f          901   60    0 
+JimR      986196358  6  1 Bc  kf    -     -          841   20    0 
+JimR      986196395  6  6 c   f     -     -          821   20    0 
+JimR      986196418  6  5 cc  cc    c     f          801  120    0 
+JimR      986196473  6  4 cc  c     f     -          681   30    0 
+JimR      986196515  6  3 c   b     c     c          651   60  130 9h Qc
+JimR      986196546  6  2 Bf  -     -     -          721   10    0 
+JimR      986196589  7  1 Bc  kf    -     -          711   10    0 
+JimR      986196611  7  7 c   f     -     -          701   20    0 
+JimR      986196655  7  6 c   bc    kc    k          681   50    0 2s Ah
+JimR      986196718  6  4 c   f     -     -          631   10    0 
+JimR      986196748  6  3 cc  k     cc    f          621   60    0 
+JimR      986196787  6  2 Bk  k     b     -          561   30   50 
+JimR      986196812  6  1 Bc  b     b     k          581   40    0 Qh 3h
+JimR      986196834  6  6 cc  c     f     -          541   40    0 
+JimR      986196873  6  5 rr  rr    rr    rc         501  220  525 Kc Kd
+JimR      986196930  6  4 f   -     -     -          806    0    0 
+JimR      986196967  6  3 c   c     c     c          806   60  140 9h Js
+JimR      986196997  6  2 Bk  k     c     f          886   30    0 
+JimR      986197027  6  1 Bc  kc    kc    kf         856   40    0 
+JimR      986197060  6  6 c   r     r     r          816  120  330 Ks 3s
+JimR      986197116  6  5 cc  cf    -     -         1026   40    0 
+JimR      986197167  6  4 c   cc    c     f          986   60    0 
+JimR      986197206  6  3 c   k     r     b          926   70  180 
+JimR      986197232  5  2 Bk  c     k     b         1036   40   90 9s As
+JimR      986197256  5  1 Bc  kc    kc    kf        1086   40    0 
+JimR      986197291  5  5 f   -     -     -         1046    0    0 
+JimR      986197331  6  5 c   f     -     -         1046   10    0 
+JimR      986197384  6  4 c   br    b     b         1036   80  190 7h 8s
+JimR      986197426  6  3 c   r     b     b         1146   70  130 
+JimR      986197463  6  2 Bcc ccc   kc    kc        1206  110    0 Jh 6h
+JimR      986197517  6  1 Bc  kf    -     -         1096   10    0 
+JimR      986197586  6  6 c   c     rc    c         1086  110    0 Ks 3h
+JimR      986197647  6  5 c   f     -     -          976   10    0 
+JimR      986197677  7  4 cc  kc    kc    kf         966   50    0 
+JimR      986197766  7  3 cc  kc    kf    -          916   40    0 
+JimR      986197825  7  2 Bcc cc    kr    b          876  140  295 Qs 5d
+JimR      986197879  6  1 Bcc kc    kc    kc        1031  100  300 Kc 3h
+JimR      986197921  6  6 cc  f     -     -         1231   20    0 
+JimR      986198044  5  5 c   cc    c     f         1211   50    0 
+JimR      986198084  5  4 c   k     b     -         1161   30   65 
+JimR      986198115  5  3 c   c     f     -         1196   20    0 
+JimR      986198162  5  2 Bk  k     b     -         1176   30   60 
+JimR      986198197  5  1 Bcc kf    -     -         1206   20    0 
+JimR      986198241  5  5 c   k     f     -         1186   10    0 
+JimR      986198262  5  4 r   b     b     b         1176   70    0 Ac Ts
+JimR      986198303  5  3 c   br    b     -         1106   60  130 
+JimR      986198351  5  2 Bk  kcc   k     k         1176   40    0 Qh 3c
+JimR      986198404  5  1 Brc b     brc   b         1136  150    0 Qd Ad
+JimR      986198448  5  5 c   c     ccc   f          986  100    0 
+JimR      986198526  5  4 c   k     f     -          886   10    0 
+JimR      986198558  5  3 cc  k     kc    kc         876   60    0 2s 8s
+JimR      986198608  6  2 Brc k     cc    kc         816  100    0 Qs Qh
+JimR      986198676  6  1 Bc  kc    k     k          716   30    0 9c Qc
+JimR      986198726  7  7 r   b     brc   b          686  140    0 Ad As
+JimR      986198777  7  6 c   rr    rr    c          546  150    0 5h Jd
+JimR      986198859  7  5 c   b     b     c          396   60    0 Kh Jc
+JimR      986198948  6  4 ccc c     c     rr         336  170    0 8c Kc
+JimR      986199015  6  3 rr  brc   brc   bA         166  166    0 Qd Th
+JimR      986199091  7  7 c   f     -     -         1000   10    0 
+JimR      986199118  7  6 c   c     f     -          990   30    0 
+JimR      986199163  7  5 cc  b     -     -          960   30   60 
+JimR      986199179  7  4 r   r     r     b          990  100  240 
+JimR      986199229  7  3 cc  kf    -     -         1130   20    0 
+JimR      986199284  7  2 Bk  k     kf    -         1110   10    0 
+JimR      986199311  8  1 Bc  kc    kc    kcf       1100   70    0 
+JimR      986199416  8  8 f   -     -     -         1030    0    0 
+JimR      986199503  7  7 c   cc    ccc   c         1030  130  410 Tc Qd
+JimR      986199591  8  6 f   -     -     -         1310    0    0 
+JimR      986199632  8  5 c   k     f     -         1310   10    0 
+JimR      986199683  8  4 ccc k     f     -         1300   40    0 
+JimR      986199788 10  3 c   krc   kc    k         1260   60  140 6s 6h
+JimR      986199874 10  2 Bk  kc    k     b         1340   40   85 As 2d
+JimR      986199980  8  1 Bcc kc    kc    kc        1385   70    0 9h Kd
+JimR      986200014  9  9 c   cc    c     f         1315   70    0 
+JimR      986200088  9  8 f   -     -     -         1245    0    0 
+JimR      986200166  8  6 f   -     -     -         1245    0    0 
+JimR      986200251  8  5 c   k     kf    -         1245   10    0 
+JimR      986200301  8  4 c   kf    -     -         1235   10    0 
+JimR      986200378  8  3 c   b     b     b         1225   60    0 Qc 5h
+JimR      986200421  9  3 r   b     b     brc       1165  130  340 Ks Qh
+JimR      986200484  9  2 Bc  kf    -     -         1375   20    0 
+JimR      986200538  9  1 Bf  -     -     -         1355    5    0 
+JimR      986200640  9  9 f   -     -     -         1350    0    0 
+JimR      986200684  9  8 f   -     -     -         1350    0    0 
+JimR      986200729  9  7 f   -     -     -         1350    0    0 
+JimR      986200787  9  6 c   f     -     -         1350   20    0 
+JimR      986200821  8  4 f   -     -     -         1330    0    0 
+JimR      986200849  8  3 c   kf    -     -         1330   10    0 
+JimR      986200893  9  2 Bc  kc    kc    kf        1320   60    0 
+JimR      986200937  9  1 Bc  k     kc    kf        1260   30    0 
+JimR      986200977  9  9 f   -     -     -         1230    0    0 
+JimR      986201019  9  8 f   -     -     -         1230    0    0 
+JimR      986201054  9  7 cc  cc    cc    kc        1230  100  305 5d Qs
+JimR      986201099  9  6 ccc k     c     c         1435   80    0 Jc Js
+JimR      986201175  9  5 c   b     b     b         1355   70    0 Kc 5c
+JimR      986201228  9  4 rc  bc    br    bc        1285  240    0 9h 9c
+JimR      986201299  9  3 cc  kf    -     -         1045   20    0 
+JimR      986201409  8  2 Bf  -     -     -         1025   10    0 
+JimR      986201463  8  1 Bf  -     -     -         1015    5    0 
+JimR      986201489  8  8 cc  c     rr    c         1010  140    0 9c 8h
+JimR      986201546  7  6 cc  k     k     k          870   20    0 6h Kd
+JimR      986201583  7  5 c   f     -     -          850   10    0 
+JimR      986201639  7  4 cc  kc    k     k          840   30  100 7s Ah
+JimR      986201682  7  3 cc  f     -     -          910   20    0 
+JimR      986201764  7  2 Bk  c     c     kf         890   40    0 
+JimR      986201807  7  1 Bc  kf    -     -          850   20    0 
+JimR      986201840  7  7 cc  rr    c     c          830  100    0 8h Qc
+JimR      986201868  7  6 cc  kc    kc    br         730  110  280 Kd Jh
+JimR      986201924  8  6 f   -     -     -          900    0    0 
+JimR      986201976  8  5 c   kc    kf    -          900   20    0 
+JimR      986202014  9  4 cc  k     bc    k          880   60  165 Qh 7h
+JimR      986202063  9  3 c   k     k     k          985   10   40 5h 8c
+JimR      986202111  8  2 Bc  kc    k     kc        1015   50    0 8s 6c
+JimR      986202158  8  1 Bcc kc    kr    b          965   90  220 7d 9c
+JimR      986202222  9  8 f   -     -     -         1095    0    0 
+JimR      986202240  8  6 c   kc    kf    -         1095   20    0 
+JimR      986202277  8  5 c   c     c     f         1075   40    0 
+JimR      986202322  8  4 c   c     c     f         1035   40    0 
+JimR      986202351  8  3 f   -     -     -          995    0    0 
+JimR      986202373  8  2 Bc  kc    kc    k          995   70    0 Kc 4h
+JimR      986202428  8  1 Br  br    br    b          925  140  510 Qs Qd
+JimR      986202489  8  8 f   -     -     -         1295    0    0 
+JimR      986202526  8  7 c   f     -     -         1295   20    0 
+JimR      986202561  8  6 f   -     -     -         1275    0    0 
+JimR      986202590  7  5 c   k     b     b         1275   50  190 4h Kd
+JimR      986202655  7  4 c   k     k     b         1415   30   84 Qc 9s
+JimR      986202700  6  3 f   -     -     -         1469    0    0 
+JimR      986202770  6  2 Bk  kc    k     kc        1469   40    0 8s Qd
+JimR      986202850  6  1 Bc  kc    kcf   -         1429   50    0 
+JimR      986202910  6  6 c   k     k     k         1379   10    0 8d Jd
+JimR      986202971  6  5 c   r     bc    kf        1369   70    0 
+JimR      986203015  5  3 f   -     -     -         1299    0    0 
+JimR      986203045  5  2 Bc  k     kf    -         1299   30    0 
+JimR      986203079  5  1 Bf  -     -     -         1269    5    0 
+JimR      986203104  5  5 c   c     f     -         1264   30    0 
+JimR      986203121  5  4 c   c     c     k         1234   50    0 2h 2s
+JimR      986203141  5  3 f   -     -     -         1184    0    0 
+JimR      986203180  5  2 Bc  kc    kc    kf        1184   50    0 
+JimR      986203224  5  1 Bc  kf    -     -         1134   10    0 
+JimR      986203250  4  4 cc  cc    r     bc        1124  150  420 As 7d
+JimR      986203290  5  4 c   k     k     k         1394   10    0 8s Kc
+JimR      986203326  5  3 f   -     -     -         1384    0    0 
+JimR      986203350  6  2 Bc  kc    kf    -         1384   30    0 
+JimR      986203374  6  1 Bc  k     b     bc        1354   80    0 Jd Ks
+JimR      986203420  6  6 c   r     r     r         1274  110  240 Ad Js
+JimR      986203473  6  5 cc  cc    cc    f         1404  100    0 
+JimR      986203543  6  4 c   c     k     f         1304   20    0 
+JimR      986203592  7  3 cc  cc    br    b         1284  120  410 Qd 7d
+JimR      986203641  7  2 Bc  krr   b     brc       1574  160  300 5c Qd
+JimR      986203730  7  1 Br  br    br    b         1714  130  400 Qh Qs
+JimR      986203769  7  7 f   -     -     -         1984    0    0 
+JimR      986203807  7  6 c   f     -     -         1984   10    0 
+JimR      986203851  7  5 ccc c     k     c         1974   70    0 3d As
+JimR      986203901  7  4 ccc kc    k     b         1904   70  270 
+JimR      986203967  7  3 cc  c     k     f         2104   30    0 
+JimR      986204013  6  2 Bf  -     -     -         2074   10    0 
+JimR      986204071  6  1 Bc  kc    kc    kf        2064   40    0 
+JimR      986204113  6  6 c   r     bc    r         2024  140    0 5s Ks
+JimR      986204226  5  4 c   kc    k     br        1884   80  180 6d 2d
+JimR      986204293  5  3 c   b     b     -         1984   40   90 
+JimR      986204327  5  2 Bc  rr    b     b         2034  100  260 Kc 5d
+JimR      986204379  5  1 Bf  -     -     -         2194    5    0 
+JimR      986204387  5  5 c   k     k     k         2189   10    0 6s 7h
+JimR      986204411  4  4 c   c     k     f         2179   40    0 
+JimR      986204439  3  2 Bf  -     -     -         2139   10    0 
+JimR      986204469  4  1 Bc  k     k     k         2129   10   20 9h 6d
+JimR      986204494  4  4 cc  c     b     c         2139   70    0 6s Qc
+JimR      986204538  4  3 c   f     -     -         2069   10    0 
+JimR      986204566  4  2 Bk  b     b     b         2059   60   60 As 3d
+JimR      986204583  4  1 Bc  kc    kc    k         2059   50    0 Js 5h
+JimR      986204631  5  5 c   r     c     k         2009   50    0 4d 7c
+JimR      986204663  5  4 cc  kc    kc    kf        1959   50    0 
+JimR      986204702  5  3 f   -     -     -         1909    0    0 
+JimR      986204758  6  2 Bc  kc    k     kc        1909   50    0 3c As
+JimR      986204791  6  1 Bc  kf    -     -         1859   20    0 
+JimR      986204843  6  6 c   b     -     -         1839   20   45 
+JimR      986204875  6  5 c   br    r     c         1864  100  215 Ac 6c
+JimR      986204937  6  4 f   -     -     -         1979    0    0 
+JimR      986204992  6  3 f   -     -     -         1979    0    0 
+JimR      986205034  6  2 Bf  -     -     -         1979   10    0 
+JimR      986205102  6  1 Bc  kf    -     -         1969   10    0 
+JimR      986205121  5  5 c   k     k     f         1959   10    0 
+JimR      986205170  5  4 cc  kf    -     -         1949   30    0 
+JimR      986205213  5  3 f   -     -     -         1919    0    0 
+JimR      986205236  5  2 Bk  c     rr    rr        1919  180  370 6h 6c
+JimR      986205271  4  1 Bcc bc    kc    k         2109   60    0 6d Qc
+JimR      986205309  4  4 cc  k     k     k         2049   20   40 6s 4c
+JimR      986205349  4  3 cc  c     f     -         2069   30    0 
+JimR      986205385  4  2 Bk  kf    -     -         2039   10    0 
+JimR      986205409  4  1 Bc  k     b     -         2029   30   40 
+JimR      986205426  4  4 c   f     -     -         2039   10    0 
+JimR      986205440  4  3 f   -     -     -         2029    0    0 
+JimR      986205471  4  2 Bk  k     k     k         2029   10   13 Ks 3h
+JimR      986205493  4  1 Bc  kc    kc    kc        2032   80    0 As 9d
+JimR      986205545  4  4 c   b     b     b         1952   60  130 Jd Td
+JimR      986205576  4  3 c   c     c     k         2022   40  120 7c Qd
+JimR      986205621  4  2 Bf  -     -     -         2102   10    0 
+JimR      986205635  4  1 Bc  k     kf    -         2092   10    0 
+JimR      986205668  4  4 f   -     -     -         2082    0    0 
+JimR      986205691  4  3 f   -     -     -         2082    0    0 
+JimR      986205731  4  2 Bk  c     b     -         2082   40   70 
+JimR      986205751  4  1 Bc  kr    -     -         2112   30   50 
+JimR      986205767  4  4 c   k     k     k         2132   10    0 Qd 7c
+JimR      986205788  4  3 f   -     -     -         2122    0    0 
+JimR      986205826  4  2 Bc  k     f     -         2122   20    0 
+JimR      986205875  4  1 Br  brc   kc    kc        2102  100    0 Qs Qc
+JimR      986205921  4  4 f   -     -     -         2002    0    0 
+JimR      986205967  4  3 f   -     -     -         2002    0    0 
+JimR      986205993  4  2 Bf  -     -     -         2002   10    0 
+JimR      986205998  4  1 Bf  -     -     -         1992    5    0 
+JimR      986206011  5  5 f   -     -     -         1987    0    0 
+JimR      986206044  5  4 c   c     c     f         1987   40    0 
+JimR      986206074  5  3 f   -     -     -         1947    0    0 
+JimR      986206110  5  2 Bc  kc    kc    k         1947   50    0 5s Td
+JimR      986206141  5  1 Brc b     b     b         1897   90  190 7h 7d
+JimR      986206177  4  4 f   -     -     -         1997    0    0 
+JimR      986206199  4  3 c   k     c     f         1997   30    0 
+JimR      986206221  4  2 Bk  kf    -     -         1967   10    0 
+JimR      986206239  4  1 Bc  kc    k     k         1957   30    0 4d Ad
+JimR      986206260  4  4 c   c     k     rr        1927  100  310 2d 3h
+JimR      986206291  4  3 f   -     -     -         2137    0    0 
+JimR      986206312  4  2 Bk  k     k     k         2137   10   20 Ah 7d
+JimR      986206329  4  1 Bf  -     -     -         2147    5    0 
+JimR      986206355  4  4 c   k     k     k         2142   10    0 6d 7c
+JimR      986206386  4  3 f   -     -     -         2132    0    0 
+JimR      986206393  4  2 Bc  k     k     k         2132   20    0 Jc 2c
+JimR      986206410  4  1 Bc  kc    kf    -         2112   30    0 
+JimR      986206433  4  4 c   k     k     b         2082   30   75 Jd 5h
+JimR      986206459  4  3 c   k     c     f         2127   30    0 
+JimR      986206479  4  2 Bk  k     k     k         2097   10   20 Ts Qc
+JimR      986206496  4  1 Bc  kc    kc    k         2107   50    0 Kc 8c
+JimR      986206517  4  4 f   -     -     -         2057    0    0 
+JimR      986206538  4  3 cr  b     b     b         2057   80  240 As Ts
+JimR      986206568  4  2 Bk  kf    -     -         2217   10    0 
+JimR      986206585  4  1 Bf  -     -     -         2207    5    0 
+JimR      986206599  3  3 c   r     b     b         2202   70    0 Kd Ad
+JimR      986206620  3  2 Bf  -     -     -         2132   10    0 
+JimR      986206635  3  1 Bf  -     -     -         2122    5    0 
+JimR      986206638  3  3 r   r     b     b         2117   80  145 
+JimR      986206657  3  2 B   -     -     -         2182   10   15 
+JimR      986206660  3  1 Bf  -     -     -         2187    5    0 
+JimR      986206663  3  3 c   r     r     c         2182   90    0 5c 2c
+JimR      986206682  3  2 Br  b     b     b         2092   70  160 Kd Kc
+JimR      986206705  3  1 Bf  -     -     -         2182    5    0 
+JimR      986206718  3  3 f   -     -     -         2177    0    0 
+JimR      986206733  3  2 Br  brc   bc    k         2177  110    0 8h 8s
+JimR      986206761  3  1 Bc  kr    b     brc       2067  130    0 6d Qd
+JimR      986206788  3  3 c   k     k     k         1937   10   25 6d Qd
+JimR      986206807  3  2 Bk  kf    -     -         1952   10    0 
+JimR      986206820  3  1 Bc  k     k     bc        1942   50    0 Tc 6d
+JimR      986206842  3  3 rr  b     b     b         1892   90  185 8d As
+JimR      986206861  3  2 Bc  rr    b     -         1987   80  140 
+JimR      986206880  3  1 Bc  kf    -     -         2047   10    0 
+JimR      986206895  3  3 cr  rr    b     b         2037  110  250 Qd Qs
+JimR      986206918  3  2 Bc  k     bc    rr        2177  140    0 2d 9d
+JimR      986206942  3  1 Bf  -     -     -         2037    5    0 
+JimR      986206963  3  3 c   c     c     k         2032   40   45 Jc 3h
+JimR      986206990  3  2 Bk  c     f     -         2037   20    0 
+JimR      986207007  3  1 Bf  -     -     -         2017    5    0 
+JimR      986207011  3  3 cc  c     c     r         2012   90  200 5h 4h
+JimR      986207029  3  2 Br  b     -     -         2122   50  130 
+JimR      986207047  3  1 Br  b     -     -         2202   30   60 
+JimR      986207054  3  3 r   b     b     b         2232   70    0 Kh Qh
+JimR      986207069  3  2 Br  bc    k     c         2162   70    0 Ad 8c
+JimR      986207093  3  1 Bf  -     -     -         2092    5    0 
+JimR      986207100  3  3 f   -     -     -         2087    0    0 
+JimR      986207104  3  2 Br  b     -     -         2087   30   50 
+JimR      986207115  3  1 Bcr b     -     -         2107   40   70 
+JimR      986207127  3  3 f   -     -     -         2137    0    0 
+JimR      986207138  3  2 Bk  k     k     k         2137   10    0 Ts 3d
+JimR      986207169  3  1 Bf  -     -     -         2127    5    0 
+JimR      986207186  3  3 r   -     -     -         2122   20   35 
+JimR      986207191  3  2 Bc  k     b     -         2137   40   80 
+JimR      986207215  3  1 Br  -     -     -         2177   20   30 
+JimR      986207221  3  3 r   b     b     b         2187   70  140 
+JimR      986207250  3  2 B   -     -     -         2257   10   15 
+JimR      986207254  3  1 Bf  -     -     -         2262    5    0 
+JimR      986207268  3  3 f   -     -     -         2257    0    0 
+JimR      986207278  3  2 Bc  c     f     -         2257   30    0 
+JimR      986207288  3  1 Bf  -     -     -         2227    5    0 
+JimR      986207296  3  3 c   c     br    f         2222   80    0 
+JimR      986207328  3  2 Br  b     -     -         2142   50  130 
+JimR      986207344  3  1 Br  b     -     -         2222   30   60 
+JimR      986207353  3  3 r   b     c     c         2252   70    0 6s 7h
+JimR      986207372  3  2 Bk  k     kf    -         2182   10    0 
+JimR      986207393  3  1 Bc  br    b     b         2172   80  150 
+JimR      986207411  3  3 r   -     -     -         2242   20   35 
+JimR      986207415  3  2 Br  brc   kc    kc        2257  110    0 2d Ad
+JimR      986207446  3  1 Br  -     -     -         2147   20   30 
+JimR      986207457  3  3 r   c     r     b         2157   90    0 2d 2s
+JimR      986207486  3  2 Br  b     -     -         2067   40  100 
+JimR      986207513  3  1 Br  b     -     -         2127   30   50 
+JimR      986207525  3  3 f   -     -     -         2147    0    0 
+JimR      986207529  3  2 Bf  -     -     -         2147   10    0 
+JimR      986207534  3  1 Bf  -     -     -         2137    5    0 
+JimR      986207539  3  3 r   b     b     brc       2132  130    0 9d Jd
+JimR      986207559  3  2 Bk  k     k     k         2002   10   10 2h 8s
+JimR      986207592  3  1 Bf  -     -     -         2002    5    0 
+JimR      986207604  4  4 c   b     b     b         1997   60  135 Ac 4c
+JimR      986207628  4  3 rr  r     b     b         2072  100  210 Jh Js
+JimR      986207647  4  2 B   -     -     -         2182   10   15 
+JimR      986207652  4  1 Bf  -     -     -         2187    5    0 
+JimR      986207661  4  4 c   c     c     k         2182   40    0 2d 2c
+JimR      986207685  4  3 f   -     -     -         2142    0    0 
+JimR      986207708  4  2 B   -     -     -         2142   10   15 
+JimR      986207711  4  1 Bc  b     bf    -         2147   40    0 
+JimR      986207727  4  4 c   r     b     b         2107   70  125 
+JimR      986207750  4  3 f   -     -     -         2162    0    0 
+JimR      986207774  4  2 Bf  -     -     -         2162   10    0 
+JimR      986207793  4  1 Br  b     b     -         2152   50   80 
+JimR      986207810  4  4 c   b     brc   b         2182  120  255 Ac Qd
+JimR      986207838  4  3 r   b     b     b         2317   70  125 
+JimR      986207868  4  2 Bk  k     b     -         2372   30   50 
+JimR      986207892  4  1 Br  b     b     b         2392   70  140 
+JimR      986207909  4  4 f   -     -     -         2462    0    0 
+JimR      986207922  4  3 r   b     brc   kc        2462  130    0 8h 8c
+JimR      986207952  4  2 B   -     -     -         2332   10   15 
+JimR      986207958  4  1 Bc  b     -     -         2337   20   40 
+JimR      986207969  4  4 cc  cc    k     f         2357   40    0 
+JimR      986208003  4  3 r   b     bc    c         2317   90    0 Th Ts
+JimR      986208027  4  2 B   -     -     -         2227   10   15 
+JimR      986208032  4  1 Bf  -     -     -         2232    5    0 
+JimR      986208053  5  4 c   k     k     k         2227   10   25 6d Td
+JimR      986208073  5  3 f   -     -     -         2242    0    0 
+JimR      986208096  5  2 Bf  -     -     -         2242   10    0 
+JimR      986208139  5  1 Bc  k     kc    kf        2232   40    0 
+JimR      986208164  5  5 c   c     c     c         2192   60    0 9c 7d
+JimR      986208181  5  4 c   k     b     -         2132   30   55 
+JimR      986208200  5  3 c   kf    -     -         2157   10    0 
+JimR      986208221  5  2 Br  b     b     -         2147   50  120 
+JimR      986208245  5  1 Bc  k     k     k         2217   10    0 7s 6c
+JimR      986208264  5  5 c   k     b     b         2207   60  130 
+JimR      986208294  5  4 r   c     c     c         2277   70  145 Qh Qc
+JimR      986208312  4  3 f   -     -     -         2352    0    0 
+JimR      986208349  4  2 Bc  k     bc    kc        2352   80    0 8d Td
+JimR      986208378  4  1 Bc  b     b     -         2272   50   90 
+JimR      986208393  5  4 f   -     -     -         2312    0    0 
+JimR      986208409  5  3 cc  kc    kf    -         2312   30    0 
+JimR      986208443  5  2 Bc  kc    k     k         2282   30   80 Ad Qh
+JimR      986208467  5  1 Bcc kc    kf    -         2332   40    0 
+JimR      986208495  5  5 cc  k     k     f         2292   30    0 
+JimR      986208523  5  4 cc  brc   br    k         2262  120  275 Ah 7c
+JimR      986208561  6  3 f   -     -     -         2417    0    0 
+JimR      986208610  6  2 Bc  c     b     br        2417  110  310 Kc 9c
+JimR      986208657  6  1 Brc brc   b     b         2617  120  380 Ts As
+JimR      986208695  6  6 cc  k     c     k         2877   50    0 Kc Td
+JimR      986208721  6  5 f   -     -     -         2827    0    0 
+JimR      986208741  6  4 f   -     -     -         2827    0    0 
+JimR      986208786  6  3 f   -     -     -         2827    0    0 
+JimR      986208813  6  2 Bf  -     -     -         2827   10    0 
+JimR      986208827  6  1 Bf  -     -     -         2817    5    0 
+JimR      986208842  6  6 cc  cc    c     rc        2812  170    0 Ac Qd
+JimR      986208910  6  5 f   -     -     -         2642    0    0 
+JimR      986208959  5  4 c   f     -     -         2642   10    0 
+JimR      986208984  6  3 cc  kc    kc    k         2632   50  155 Tc Jc
+JimR      986209013  6  2 Bc  bcc   kc    kc        2737  100    0 Ac 2c
+JimR      986209059  6  1 Brr br    b     b         2637  110  260 8c 8d
+JimR      986209085  6  6 cc  c     k     k         2787   40    0 6d 6s
+JimR      986209122  7  6 cc  kc    kc    k         2747   50    0 2h 3h
+JimR      986209150  6  5 f   -     -     -         2697    0    0 
+JimR      986209179  6  4 cc  k     k     f         2697   20    0 
+JimR      986209209  6  3 f   -     -     -         2677    0    0 
+JimR      986209227  6  2 Bc  kc    k     b         2677   50  110 
+JimR      986209255  6  1 Bcc krc   br    kc        2737  170    0 Js Qs
+JimR      986209291  6  6 cc  r     b     b         2567   80  190 8d Jc
+JimR      986209317  6  5 cc  krr   brc   brc       2677  220  485 8h 4h
+JimR      986209362  6  4 f   -     -     -         2942    0    0 
+JimR      986209392  6  3 ccc cc    bc    brc       2942  180  470 8d As
+JimR      986209432  6  2 Bf  -     -     -         3232   10    0 
+JimR      986209462  5  1 Br  b     b     b         3222   80  240 Th Tc
+JimR      986209492  6  5 f   -     -     -         3382    0    0 
+JimR      986209535  6  4 f   -     -     -         3382    0    0 
+JimR      986209574  7  3 ccc kc    k     k         3382   50    0 5d 3d
+JimR      986209622  7  2 Bc  kc    brc   k         3332  120    0 3s 2s
+JimR      986209657  7  1 Bcc kc    kc    kc        3212   70    0 Ks 2c
+JimR      986209706  7  7 cc  r     bc    c         3142  100    0 Ks 8d
+JimR      986209746  7  6 cc  bc    kc    kc        3042   80    0 3d Qd
+JimR      986209780  7  5 f   -     -     -         2962    0    0 
+JimR      986209818  7  4 f   -     -     -         2962    0    0 
+JimR      986209849  7  3 ccc kf    -     -         2962   40    0 
+JimR      986209912  7  2 Bk  k     kf    -         2922   10    0 
+JimR      986209992  6  1 Bf  -     -     -         2912    5    0 
+JimR      986210026  6  6 f   -     -     -         2907    0    0 
+JimR      986210053  6  5 f   -     -     -         2907    0    0 
+JimR      986210079  6  4 cc  c     c     c         2907   90    0 2h Qh
+JimR      986210117  6  3 cc  kcc   kf    -         2817   50    0 
+JimR      986210177  6  2 Bf  -     -     -         2767   10    0 
+JimR      986210184  6  1 Bf  -     -     -         2757    5    0 
+JimR      986210215  6  6 f   -     -     -         2752    0    0 
+JimR      986210238  5  4 f   -     -     -         2752    0    0 
+JimR      986210260  5  3 f   -     -     -         2752    0    0 
+JimR      986210302  5  2 Bk  f     -     -         2752   10    0 
+JimR      986210322  5  1 Bf  -     -     -         2742    5    0 
+JimR      986210328  5  5 f   -     -     -         2737    0    0 
+JimR      986210343  5  4 f   -     -     -         2737    0    0 
+JimR      986210362  5  3 f   -     -     -         2737    0    0 
+JimR      986210375  5  2 Bc  kc    kc    kf        2737   50    0 
+JimR      986210424  5  1 Bf  -     -     -         2687    5    0 
+JimR      986210458  5  5 cc  k     bc    c         2682   80    0 6s Qc
+JimR      986210502  5  4 cc  bc    kc    kc        2602   80    0 3h Ks
+JimR      986210532  5  3 c   cc    krr   b         2522  140  420 Th Qh
+JimR      986210590  5  2 Bc  krc   brc   b         2802  160  385 Ac Jc
+JimR      986210633  5  1 Bf  -     -     -         3027    5    0 
+JimR      986210666  5  5 cc  f     -     -         3022   20    0 
+JimR      986210680  5  4 cc  c     c     c         3002   80    0 6c 6s
+JimR      986210719  5  3 f   -     -     -         2922    0    0 
+JimR      986210747  5  2 Bk  kc    kc    kc        2922   60    0 Ac Ts
+JimR      986210769  5  1 Bc  k     k     b         2862   30   40 
+JimR      986210791  5  5 c   c     c     b         2872   70  175 9s Ad
+JimR      986210822  5  4 f   -     -     -         2977    0    0 
+JimR      986210849  5  3 f   -     -     -         2977    0    0 
+JimR      986210886  5  2 Bk  k     b     b         2977   50  105 9s Ts
+JimR      986210908  5  1 Bf  -     -     -         3032    5    0 
+JimR      986210939  5  5 c   c     f     -         3027   30    0 
+JimR      986210960  5  4 c   kf    -     -         2997   10    0 
+JimR      986210995  5  3 f   -     -     -         2987    0    0 
+JimR      986211018  5  2 Bk  kc    k     k         2987   20   70 7h 8c
+JimR      986211062  6  1 Bc  kc    kf    -         3037   30    0 
+JimR      986211111  6  6 f   -     -     -         3007    0    0 
+JimR      986211134  6  5 c   kf    -     -         3007   10    0 
+JimR      986211181  6  4 f   -     -     -         2997    0    0 
+JimR      986211199  6  3 f   -     -     -         2997    0    0 
+JimR      986211227  5  2 Bk  c     c     c         2997   60    0 6h Kd
+JimR      986211251  5  1 Bf  -     -     -         2937    5    0 
+JimR      986211279  5  5 c   k     b     b         2932   50    0 6d 9d
+JimR      986211312  5  4 c   kc    f     -         2882   20    0 
+JimR      986211352  5  3 cc  kc    kc    kc        2862   70    0 Kc 4c
+JimR      986211396  5  2 Bk  k     k     b         2792   30   50 
+JimR      986211447  4  1 Bc  b     bc    kf        2812   70    0 
+JimR      986211484  4  4 f   -     -     -         2742    0    0 
+JimR      986211515  4  3 c   b     br    b         2742  100  220 5d 4h
+JimR      986211556  4  2 Bc  k     k     k         2862   20    0 Ah 3c
+JimR      986211585  4  1 Bf  -     -     -         2842    5    0 
+JimR      986211659  4  4 cc  c     c     k         2837   60  190 4h Qh
+JimR      986211705  4  3 cc  k     f     -         2967   20    0 
+JimR      986211723  4  2 Bf  -     -     -         2947   10    0 
+JimR      986211753  4  1 Bf  -     -     -         2937    5    0 
+JimR      986211758  4  4 c   cc    k     c         2932   60    0 3h 4h
+JimR      986211794  4  3 f   -     -     -         2872    0    0 
+JimR      986211822  4  2 Bk  c     c     kc        2872   60    0 Qd 6s
+JimR      986211852  4  1 Bc  kc    k     kf        2812   20    0 
+JimR      986211876  4  4 c   k     f     -         2792   20    0 
+JimR      986211915  4  3 c   c     c     k         2772   40  125 Jc Js
+JimR      986211944  4  2 Bc  c     c     bc        2857   90    0 2c Ac
+JimR      986211972  4  1 Bcc kc    kf    -         2767   30    0 
+JimR      986211992  4  4 c   rr    b     b         2737   90  260 Kd Jh
+JimR      986212036  4  3 f   -     -     -         2907    0    0 
+JimR      986212062  5  3 cc  krr   bc    kc        2907  120    0 Ac 7c
+JimR      986212103  5  2 Bf  -     -     -         2787   10    0 
+JimR      986212124  5  1 Bc  kc    kr    b         2777   80    0 7h 8d
+JimR      986212168  5  5 f   -     -     -         2697    0    0 
+JimR      986212205  5  4 c   k     kc    kc        2697   50   58 Ks 4s
+JimR      986212240  5  3 f   -     -     -         2705    0    0 
+JimR      986212263  5  2 Bk  k     k     k         2705   10    0 3c 2d
+JimR      986212295  6  1 Bcc kc    kc    kc        2695   70  210 Ah 5s
+JimR      986212333  6  6 c   c     cc    f         2835   80    0 
+JimR      986212400  6  5 cc  c     c     c         2755   70    0 9h 9d
+JimR      986212436  5  4 f   -     -     -         2685    0    0 
+JimR      986212462  5  3 f   -     -     -         2685    0    0 
+JimR      986212483  5  2 Bk  f     -     -         2685   10    0 
+JimR      986212508  5  1 Bf  -     -     -         2675    5    0 
+JimR      986212525  5  5 f   -     -     -         2670    0    0 
+JimR      986212551  5  4 c   k     r     b         2670   70  195 Ad Ah
+JimR      986212584  5  3 f   -     -     -         2795    0    0 
+JimR      986212617  5  2 Bk  k     k     k         2795   10    0 4c 3c
+JimR      986212646  5  1 Bf  -     -     -         2785    5    0 
+JimR      986212688  5  5 f   -     -     -         2780    0    0 
+JimR      986212717  5  4 f   -     -     -         2780    0    0 
+JimR      986212740  5  3 f   -     -     -         2780    0    0 
+JimR      986212770  5  2 Bc  kcc   kc    kf        2780   80    0 
+JimR      986212835  5  1 Bc  kc    kc    kc        2700   70  200 4s Th
+JimR      986212864  5  5 c   c     c     c         2830   60  130 Ts 7d
+JimR      986212891  5  4 c   k     k     k         2900   10   30 2h 6h
+JimR      986212918  5  3 c   cc    k     f         2920   30    0 
+JimR      986212962  5  2 Bc  k     bcc   kc        2890  120    0 5c Ah
+JimR      986213015  5  1 Bc  kf    -     -         2770   10    0 
+JimR      986213043  5  5 cc  c     c     f         2760   50    0 
+JimR      986213075  5  4 c   k     b     b         2710   50  100 
+JimR      986213119  5  3 c   k     kf    -         2760   10    0 
+JimR      986213148  5  2 Bk  k     b     b         2750   50  120 
+JimR      986213185  5  1 Bc  kc    kc    kr        2820   90  130 8c Ad
+JimR      986213216  5  5 c   k     b     b         2860   50  100 
+JimR      986213258  5  4 c   c     r     -         2910   60  115 
+JimR      986213283  5  3 cc  kf    -     -         2965   20    0 
+JimR      986213308  5  2 Bc  kc    k     b         2945   50  110 
+JimR      986213340  6  1 Bc  k     b     b         3005   60  180 
+JimR      986213376  6  6 f   -     -     -         3125    0    0 
+JimR      986213411  5  4 cc  rr    c     c         3125  100    0 5h Ah
+JimR      986213439  5  3 c   b     b     b         3025   60    0 Ks Qc
+JimR      986213467  5  2 Bk  c     k     b         2965   40   70 
+JimR      986213496  6  1 Bc  brc   b     b         2995  100  230 
+JimR      986213539  7  7 cc  f     -     -         3125   20    0 
+JimR      986213587  7  6 f   -     -     -         3105    0    0 
+JimR      986213626  7  5 cc  c     k     c         3105   60    0 As 2h
+JimR      986213663  6  3 c   k     f     -         3045   10    0 
+JimR      986213684  6  2 Bc  kc    kc    kc        3035   70    0 7h 7s
+JimR      986213709  6  1 Bc  kc    kf    -         2965   20    0 
+JimR      986213737  6  6 f   -     -     -         2945    0    0 
+JimR      986213762  6  5 cc  b     bc    kc        2945   90    0 2h 6h
+JimR      986213805  6  4 c   k     k     c         2855   30   40 7d Ad
+JimR      986213837  6  3 c   k     bcc   kf        2865   90    0 
+JimR      986213927  6  2 Bcc kc    kcc   kf        2775  110    0 
+JimR      986213978  6  1 Bf  -     -     -         2665    5    0 
+JimR      986214020  5  5 c   c     c     f         2660   40    0 
+JimR      986214111  5  5 f   -     -     -         2620    0    0 
+JimR      986214126  5  5 f   -     -     -         2620    0    0 
+JimR      986214166  5  4 c   k     bc    kc        2620   70    0 Qh As
+JimR      986214202  5  3 f   -     -     -         2550    0    0 
+JimR      986214240  5  2 Bf  -     -     -         2550   10    0 
+JimR      986214258  5  1 Bf  -     -     -         2540    5    0 
+JimR      986214276  5  5 c   c     b     b         2535   60  125 6h Ac
+JimR      986214300  5  4 cc  c     k     f         2600   30    0 
+JimR      986214370  5  3 cc  bc    k     b         2570   60  165 7d Ks
+JimR      986214398  5  2 Bc  kcc   kc    kf        2675   90    0 
+JimR      986214442  5  1 Bc  k     bf    -         2585   30    0 
+JimR      986214469  5  5 cc  r     b     rr        2555  150  330 Qh Js
+JimR      986214507  6  4 rr  b     b     b         2735   90  220 Kh As
+JimR      986214541  6  3 cc  f     -     -         2865   20    0 
+JimR      986214580  6  2 Bf  -     -     -         2845   10    0 
+JimR      986214627  6  1 Bf  -     -     -         2835    5    0 
+JimR      986214685  6  6 c   b     b     b         2830   70  190 9c Ac
+JimR      986214721  6  5 cc  c     k     c         2950   50    0 4d As
+JimR      986214762  6  4 ccc k     f     -         2900   40    0 
+JimR      986214813  6  3 cc  b     bc    kc        2860   90    0 Jd Td
+JimR      986214857  6  2 Bf  -     -     -         2770   10    0 
+JimR      986214883  6  1 Bc  kc    k     b         2760   40    0 5d 4c
+JimR      986214927  6  6 f   -     -     -         2720    0    0 
+JimR      986214964  6  5 f   -     -     -         2720    0    0 
+JimR      986215009  6  4 cc  k     k     k         2720   20   20 7c 7h
+JimR      986215040  6  3 ccc k     k     f         2720   40    0 
+JimR      986215084  6  2 Bc  kc    k     k         2680   30    0 As 7c
+JimR      986215107  5  1 Bf  -     -     -         2650    5    0 
+JimR      986215134  5  5 ccc rc    rc    f         2645  130    0 
+JimR      986215184  6  4 c   rr    bcc   kf        2515  130    0 
+JimR      986215244  6  3 f   -     -     -         2385    0    0 
+JimR      986215268  5  1 Bf  -     -     -         2385   10    0 
+JimR      986215281  5  1 Br  b     b     b         2375   70  140 Ac Kd
+JimR      986215305  5  5 f   -     -     -         2445    0    0 
+JimR      986215314  5  4 r   bc    kf    -         2445   40    0 
+JimR      986215331  5  3 c   k     kf    -         2405   10    0 
+JimR      986215354  5  2 Bc  r     brc   k         2395  120  380 7h 9d
+JimR      986215394  5  1 Bc  k     kc    kf        2655   40    0 
+JimR      986215424  6  6 c   k     k     k         2615   10    0 Ac 3d
+JimR      986215447  6  5 cc  k     b     -         2605   40  105 
+JimR      986215476  8  6 rr  b     b     bc        2670  110    0 Qd Ad
+JimR      986215539  8  5 r   rc    cc    kf        2560  110    0 
+JimR      986215591  8  5 c   r     r     rc        2450  170    0 Qd 9c
+JimR      986215643  7  3 cf  -     -     -         2280   10    0 
+JimR      986215690  7  2 Bc  k     kc    kf        2270   40    0 
+JimR      986215761  7  1 Bf  -     -     -         2230    5    0 
+JimR      986215807  7  7 f   -     -     -         2225    0    0 
+JimR      986215859  8  6 f   -     -     -         2225    0    0 
+JimR      986215919  9  6 cc  b     rc    kf        2225   90    0 
+JimR      986215992  9  5 c   f     -     -         2135   10    0 
+JimR      986216029  9  4 f   -     -     -         2125    0    0 
+JimR      986216062  9  3 c   k     f     -         2125   10    0 
+JimR      986216099  9  2 Bk  kf    -     -         2115   10    0 
+JimR      986216146  9  1 Bc  k     kc    kf        2105   30    0 
+JimR      986216188  9  9 f   -     -     -         2075    0    0 
+JimR      986216213  9  8 f   -     -     -         2075    0    0 
+JimR      986216242 10  8 c   k     k     k         2075   10    0 8d 2h
+JimR      986216276 10  7 cc  c     c     c         2065   70    0 Ks 6d
+JimR      986216335 10  6 c   c     brc   br        1995  160  400 Td 5c
+JimR      986216392  9  4 cc  kc    kc    kf        2235   50    0 
+JimR      986216463  9  3 f   -     -     -         2185    0    0 
+JimR      986216485  9  2 Bk  kc    kc    k         2185   50    0 7s 6d
+JimR      986216564  9  1 Br  br    b     b         2135  100  165 Ks Ad
+JimR      986216615  8  8 c   k     c     f         2200   30    0 
+JimR      986216652  8  7 f   -     -     -         2170    0    0 
+JimR      986216662  8  6 c   f     -     -         2170   10    0 
+JimR      986216692  8  5 cr  brc   brc   kc        2160  170    0 Th Ts
+JimR      986216736  8  4 f   Q     -     -         1990    0    0 
+JimR      986464163  2  2 Bk  c     b     b        13820   60  120 Ah 4c
+JimR      986464187  2  1 Bc  b     -     -        13880   20   30 
+JimR      986464196  2  2 Bc  c     b     b        13890   70    0 5c 9h
+JimR      986464223  2  1 Br  -     -     -        13820   20   30 
+JimR      986464229  2  2 B   -     -     -        13830   10   15 
+JimR      986464232  2  1 Br  -     -     -        13835   20   30 
+JimR      986464235  2  2 B   -     -     -        13845   10   15 
+JimR      986464238  2  1 Br  -     -     -        13850   20   30 
+JimR      986464245  2  2 Bc  f     -     -        13860   20    0 
+JimR      986464254  2  1 Bc  kf    -     -        13840   10    0 
+JimR      986464265  2  2 Bk  c     r     b        13830   80    0 Th 2s
+JimR      986464288  2  1 Bc  k     b     -        13750   30   40 
+JimR      986464306  2  2 B   -     -     -        13760   10   15 
+JimR      986464309  2  1 Bc  k     b     -        13765   30   40 
+JimR      986464322  2  2 Bc  k     c     k        13775   40    0 Js 7s
+JimR      986464340  2  1 Bc  kf    -     -        13735   10    0 
+JimR      986464351  2  2 B   -     -     -        13725   10   15 
+JimR      986464354  2  1 Br  b     b     b        13730   70    0 Ks Tc
+JimR      986464375  2  2 B   -     -     -        13660   10   15 
+JimR      986464383  2  1 Bc  kc    kr    b        13665   80  160 6d Qc
+JimR      986464428  2  2 Br  b     -     -        13745   30   50 
+JimR      986464449  2  1 Bcc kc    k     k        13765   30   60 3c Kd
+JimR      986464467  2  2 B   -     -     -        13795   10   15 
+JimR      986464473  2  1 Bc  k     kc    b        13800   50   80 
+JimR      986464500  2  2 B   -     -     -        13830   10   15 
+JimR      986464503  2  1 Bc  k     k     kf       13835   10    0 
+JimR      986464521  2  2 Bk  f     -     -        13825   10    0 
+JimR      986464531  2  1 Bc  k     k     k        13815   10   20 9h 5h
+JimR      986464543  2  2 B   -     -     -        13825   10   15 
+JimR      986464549  2  1 Bc  kf    -     -        13830   10    0 
+JimR      986464561  2  2 Bk  k     f     -        13820   10    0 
+JimR      986464575  2  1 Bc  kf    -     -        13810   10    0 
+JimR      986464587  2  2 Bc  c     b     -        13800   50   80 
+JimR      986464612  2  1 Bc  k     kr    -        13830   50   80 
+JimR      986464635  2  2 B   -     -     -        13860   10   15 
+JimR      986464639  2  1 Bc  kc    k     k        13865   20   40 2s 2h
+JimR      986464662  2  2 Bk  k     k     k        13885   10    0 Ts 9h
+JimR      986464705  2  1 Bc  kf    -     -        13875   10    0 
+JimR      986464723  2  2 Bk  k     r     c        13865   70  140 8d Kh
+JimR      986464746  2  1 Bc  k     k     kf       13935   10    0 
+JimR      986464784  2  2 Bf  -     -     -        13925   10    0 
+JimR      986464790  2  1 Bc  kf    -     -        13915   10    0 
+JimR      986464804  2  2 Bc  k     b     b        13905   60  120 6c Td
+JimR      986464831  2  1 Br  -     -     -        13965   20   30 
+JimR      986464837  2  2 B   -     -     -        13975   10   15 
+JimR      986464840  2  1 Br  -     -     -        13980   20   30 
+JimR      986464843  2  2 Bc  k     k     b        13990   40   60 
+JimR      986464863  2  1 Bc  k     b     -        14010   30   40 
+JimR      986464879  3  2 Bk  f     -     -        14020   10    0 
+JimR      986464907  3  1 Bc  k     k     k        14010   10   20 Ad 3h
+JimR      986464938  3  3 c   -     -     -        14020   10   25 
+JimR      986464945  2  1 Bk  k     kc    k        14035   30   60 Ah 6d
+JimR      986464969  2  1 Bc  k     k     br       14065   70  140 Kd Ks
+JimR      986464992  2  2 Bk  k     k     k        14135   10    0 4s Tc
+JimR      986465015  2  1 Bc  k     kf    -        14125   10    0 
+JimR      986465036  2  2 Bk  k     b     b        14115   50   80 
+JimR      986465057  3  1 Bc  kc    kf    -        14145   20    0 
+JimR      986465076  3  3 fQ  -     -     -        14125    0    0 
+JimR      986579975  8  6 c   f     -     -         9394   10    0 
+JimR      986580019  8  5 cc  c     c     f         9384   60    0 
+JimR      986580078  8  4 c   c     f     -         9324   30    0 
+JimR      986580123  8  3 cc  kf    -     -         9294   20    0 
+JimR      986580195  9  2 Bk  kc    kc    kr        9274   80  165 Qh 5s
+JimR      986580262  9  1 Bc  kc    kc    k         9359   40  100 5c 5h
+JimR      986580353  9  8 cc  r     c     f         9419   80    0 
+JimR      986580437 10  8 c   f     -     -         9339   10    0 
+JimR      986580521 10  7 c   c     rr    b         9329  120  127 9h Qh
+JimR      986580585 10  6 c   c     c     k         9336   40    0 Kc 2h
+JimR      986580638 10  5 r   b     b     b         9296   70    0 Qc Jh
+JimR      986580707 10  4 c   k     b     -         9226   30   50 
+JimR      986580779 10  3 cc  kc    kc    kc        9246   70    0 Td 8d
+JimR      986580905  9  1 Bf  -     -     -         9176   10    0 
+JimR      986580930  9  1 Bf  -     -     -         9166    5    0 
+JimR      986580968  9  9 c   c     k     b         9161   40    0 2d 2c
+JimR      986581031  9  8 c   r     b     b         9121   80    0 Tc Ks
+JimR      986581087 10  8 c   c     c     f         9041   50    0 
+JimR      986581146 10  7 cc  b     bc    k         8991   70    0 6d 7c
+JimR      986581227 10  6 c   k     k     k         8921   10    0 6h 5s
+JimR      986581280 10  5 c   f     -     -         8911   10    0 
+JimR      986581366 10  4 c   kc    kc    kc        8901   60    0 8c Ah
+JimR      986581435 10  3 cc  kc    kc    k         8841   50    0 7s 3s
+JimR      986581484  9  2 Bk  kc    kf    -         8791   20    0 
+JimR      986581540  9  1 Brc bc    b     b         8771  100    0 9d Tc
+JimR      986581587  9  9 c   Q     -     -         8671   10    0 
+JimR      986610235  8  4 f   -     -     -         6524    0    0 
+JimR      986610303  6  2 c   k     cc    cc        6524  110    0 Kd 5d
+JimR      986610369  7  2 Br  b     bc    f         6414   70    0 
+JimR      986610480  7  1 Bf  -     -     -         6344    5    0 
+JimR      986610596  7  7 r   b     b     -         6339   50  125 
+JimR      986610648  7  6 cc  c     c     c         6414   70    0 9c Ks
+JimR      986610699  7  5 cc  k     k     k         6344   20    0 Js 8h
+JimR      986610753  8  4 c   c     c     f         6324   40    0 
+JimR      986610795  8  3 cc  kf    -     -         6284   40    0 
+JimR      986610930  8  2 Bk  kc    kc    krc       6244  100    0 4c Ad
+JimR      986610992  6  1 Bcc kf    -     -         6144   20    0 
+JimR      986611030  6  6 c   c     k     c         6124   60    0 8d Jc
+JimR      986611093  7  6 c   f     -     -         6064   10    0 
+JimR      986611180  6  4 c   k     k     f         6054   10    0 
+JimR      986611232  8  4 c   b     b     b         6044   60  145 Ac Td
+JimR      986611278  8  3 c   f     -     -         6129   10    0 
+JimR      986611321  8  2 Bcc kc    kc    kf        6119   80    0 
+JimR      986611430  9  1 Bc  kc    kc    kf        6039   80    0 
+JimR      986611513  9  9 c   c     c     f         5959   40    0 
+JimR      986611599 10  9 c   k     c     r         5919   70  190 Ks 7c
+JimR      986611654  9  7 c   br    c     f         6039   60    0 
+JimR      986611744 10  7 c   kf    -     -         5979   10    0 
+JimR      986611842 10  6 c   c     f     -         5969   30    0 
+JimR      986611912 10  5 c   c     c     c         5939   70  250 Th 8h
+JimR      986611982 10  4 r   b     b     k         6119   50    0 Th Td
+JimR      986612038 10  3 f   -     -     -         6069    0    0 
+JimR      986612162  9  2 Bk  k     k     kf        6069   10    0 
+JimR      986612256  9  1 Bc  kc    kc    kf        6059   40    0 
+JimR      986612321  8  8 c   c     c     k         6019   40    0 2s Ks
+JimR      986612371  7  6 c   c     cc    k         5979   60    0 Ks 9c
+JimR      986612424  8  6 r   c     c     f         5919   60    0 
+JimR      986612475  8  5 c   b     -     -         5859   30  105 
+JimR      986612521  8  4 c   k     c     r         5934   70  132 4h 9c
+JimR      986612619  8  3 c   k     b     b         5996   50    0 5d Ah
+JimR      986612673  8  2 Bc  kf    -     -         5946   20    0 
+JimR      986612744  8  1 Br  b     -     -         5926   30   60 
+JimR      986612820  7  7 c   r     b     b         5956   70  200 Jh 6c
+JimR      986612923  7  6 c   cc    kc    c         6086   70    0 4h Jc
+JimR      986613002  7  5 c   f     -     -         6016   10    0 
+JimR      986613053  6  4 c   k     c     r         6006   80  205 8c 9s
+JimR      986613102  6  3 cc  k     k     k         6131   20    0 7c Jd
+JimR      986613170  6  2 Bk  kf    -     -         6111   10    0 
+JimR      986613220  7  1 Bf  -     -     -         6101    5    0 
+JimR      986613255  7  7 r   rc    c     c         6096  100    0 Kh Kd
+JimR      986613344  7  6 c   c     c     r         5996   80  265 Qs 8s
+JimR      986613408  6  4 c   k     f     -         6181   10    0 
+JimR      986613469  6  3 c   k     c     c         6171   50  140 Ks 8s
+JimR      986613509  6  2 Bk  c     k     f         6261   20    0 
+JimR      986613568  5  1 Bc  k     b     -         6241   30   50 
+JimR      986613601  5  5 c   c     c     c         6261  110    0 Jd 6s
+JimR      986613666  5  4 c   k     k     b         6151   30   85 9d Js
+JimR      986613743  5  3 c   b     b     b         6206   60  160 
+JimR      986613806  5  2 Br  b     b     -         6306   50   85 
+JimR      986613830  5  1 Br  b     b     b         6341   70  100 Ah Ad
+JimR      986613877  5  5 cc  c     c     b         6371   80  230 3s 6s
+JimR      986613917  5  4 c   b     b     rc        6521  100  225 Ah 5d
+JimR      986613962  5  3 f   -     -     -         6646    0    0 
+JimR      986613992  5  2 Bc  kf    -     -         6646   30    0 
+JimR      986614054  5  1 Bc  kf    -     -         6616   10    0 
+JimR      986614118  5  5 r   b     b     b         6606   70  135 
+JimR      986614160  5  4 r   -     -     -         6671   20   35 
+JimR      986614167  4  2 Bc  c     c     c         6686   70  190 As 3h
+JimR      986614216  4  1 Bc  k     b     -         6806   30   50 
+JimR      986614252  4  4 cc  k     f     -         6826   20    0 
+JimR      986614286  4  3 cc  f     -     -         6806   20    0 
+JimR      986614321  4  2 Bc  b     b     -         6786   50   80 
+JimR      986614366  4  1 Bc  b     b     b         6816   60  120 Kc 4d
+JimR      986614387  4  4 r   -     -     -         6876   20   35 
+JimR      986614399  4  3 r   k     k     k         6891   20    0 Tc Qh
+JimR      986614447  4  2 Bk  b     b     b         6871   60  100 
+JimR      986614493  5  1 Bf  -     -     -         6911    5    0 
+JimR      986614523  5  5 cc  c     k     k         6906   30    0 5c Kd
+JimR      986614548  5  4 c   kf    -     -         6876   10    0 
+JimR      986614584  5  3 c   c     c     c         6866   60  130 Kh Th
+JimR      986614614  6  3 c   f     -     -         6936   10    0 
+JimR      986614642  6  2 Bc  kf    -     -         6926   20    0 
+JimR      986614671  6  1 Br  br    b     b         6906   90  260 
+JimR      986614732  6  6 c   c     c     f         7076   40    0 
+JimR      986614782  6  5 c   f     -     -         7036   20    0 
+JimR      986614815  6  4 f   -     -     -         7016    0    0 
+JimR      986614876  6  3 cc  kf    -     -         7016   20    0 
+JimR      986614930  6  2 Bk  kc    kc    kc        6996   60  210 5d 4d
+JimR      986615000  6  1 Bf  -     -     -         7146    5    0 
+JimR      986615028  6  6 c   c     f     -         7141   20    0 
+JimR      986615094  7  6 r   -     -     -         7121   20   35 
+JimR      986615120  8  6 c   kf    -     -         7136   10    0 
+JimR      986615191  8  5 cc  kr    b     b         7126   90  215 
+JimR      986615240  8  4 cc  kc    b     bc        7251   90    0 3c Ad
+JimR      986615325  8  3 f   -     -     -         7161    0    0 
+JimR      986615363  7  2 Bc  kf    -     -         7161   20    0 
+JimR      986615434  8  1 Bc  kf    -     -         7141   10    0 
+JimR      986615479 10 10 c   c     c     f         7131   40    0 
+JimR      986615540 10  9 c   b     b     k         7091   50    0 4d Ad
+JimR      986615602 10  8 cc  kc    c     kf        7041   80    0 
+JimR      986615673 10  7 c   f     -     -         6961   10    0 
+JimR      986615737 10  6 c   c     c     r         6951   80    0 6d 6s
+JimR      986615835 10  6 cc  kc    kc    kf        6871   80    0 
+JimR      986615891  9  4 c   kf    -     -         6791   10    0 
+JimR      986615975  9  3 f   -     -     -         6781    0    0 
+JimR      986616017  9  2 Br  b     b     bc        6781   90    0 As Td
+JimR      986616071  9  1 Bf  -     -     -         6691    5    0 
+JimR      986616124  9  9 cc  f     -     -         6686   20    0 
+JimR      986616190  9  8 f   -     -     -         6666    0    0 
+JimR      986616247  9  7 f   -     -     -         6666    0    0 
+JimR      986616287  9  6 c   b     bc    k         6666   60    0 8s Kc
+JimR      986616334  8  5 f   -     -     -         6606    0    0 
+JimR      986616383  8  4 f   -     -     -         6606    0    0 
+JimR      986616417  8  3 c   kc    kf    -         6606   20    0 
+JimR      986616488  8  2 Bk  kc    k     b         6586   40  110 
+JimR      986616568  8  1 Brc kc    bc    k         6656   90    0 5d 5h
+JimR      986616660  8  8 c   f     -     -         6566   20    0 
+JimR      986616717  8  7 cc  cc    c     f         6546   60    0 
+JimR      986616809  8  6 rc  c     c     c         6486   90    0 7s 7d
+JimR      986616880  8  5 c   k     b     b         6396   60  170 
+JimR      986616943  8  4 c   c     cf    -         6506   50    0 
+JimR      986617025  9  3 c   kf    -     -         6456   10    0 
+JimR      986617119  9  2 Bc  k     b     b         6446   60  200 
+JimR      986617173  9  1 Bc  brc   br    b         6586  130  400 3h 9c
+JimR      986617215  9  9 c   k     b     b         6856   50  145 5c 2c
+JimR      986617288  9  8 c   c     c     f         6951   40    0 
+JimR      986617338  9  7 c   k     c     f         6911   30    0 
+JimR      986617381  8  5 f   -     -     -         6881    0    0 
+JimR      986617413  8  4 f   -     -     -         6881    0    0 
+JimR      986617475  9  3 c   k     f     -         6881   10    0 
+JimR      986617550  9  2 Br  cc    cc    f         6871   80    0 
+JimR      986617614  8  1 Bc  k     k     k         6791   10    0 6h Qd
+JimR      986617658  7  7 c   c     f     -         6781   20    0 
+JimR      986617743  7  6 f   -     -     -         6761    0    0 
+JimR      986617787  7  5 f   -     -     -         6761    0    0 
+JimR      986617802  7  4 c   k     kf    -         6761   10    0 
+JimR      986617844  7  3 f   -     -     -         6751    0    0 
+JimR      986617866  7  2 Bk  kc    k     k         6751   20    0 2d Td
+JimR      986617901  7  1 Bf  -     -     -         6731    5    0 
+JimR      986617953  7  7 f   -     -     -         6726    0    0 
+JimR      986617985  6  5 c   b     -     -         6726   20   35 
+JimR      986618003  6  4 r   b     b     b         6741   70  135 
+JimR      986618019  6  3 r   b     -     -         6806   30   55 
+JimR      986618034  6  2 Br  b     b     b         6831   70  125 
+JimR      986618059  6  1 Bc  kc    kc    kf        6886   50    0 
+JimR      986618125  6  6 c   b     -     -         6836   20   50 
+JimR      986618163  6  5 c   r     b     -         6866   50  100 
+JimR      986618189  6  4 cc  c     f     -         6916   30    0 
+JimR      986618226  6  3 cc  k     f     -         6886   20    0 
+JimR      986618266  6  2 Bk  k     k     k         6866   10    0 7d 8d
+JimR      986618307  6  1 Bc  brc   kc    kc        6856  100  210 9c Ks
+JimR      986618362  5  5 c   c     c     r         6966   80  190 7c 8h
+JimR      986618414  6  6 c   f     -     -         7076   10    0 
+JimR      986618438  6  5 r   r     b     b         7066   80    0 Ad Kh
+JimR      986618496  4  2 r   br    b     k         6986   70  140 9h 9s
+JimR      986618532  5  2 Bc  c     c     k         7056   50    0 Qs 3s
+JimR      986618562  5  1 Bc  k     k     k         7006   10    0 5s Qs
+JimR      986618589  5  5 f   -     -     -         6996    0    0 
+JimR      986618626  5  4 c   f     -     -         6996   20    0 
+JimR      986618646  5  3 f   -     -     -         6976    0    0 
+JimR      986618677  5  2 Bc  r     bc    c         6976  100    0 9s 8d
+JimR      986618708  5  1 Bc  k     k     k         6876   10    0 Ts 5s
+JimR      986618740  4  4 c   c     k     c         6866   40    0 9h 8c
+JimR      986618779  4  3 f   -     -     -         6826    0    0 
+JimR      986618799  4  2 Bk  k     b     bc        6826   70    0 2h 8d
+JimR      986618843  4  1 Bc  k     b     k         6756   30   60 7d 8c
+JimR      986618892  4  4 r   -     -     -         6786   20   35 
+JimR      986618907  6  4 r   bc    c     f         6801   60    0 
+JimR      986618948  7  3 c   k     k     b         6741   30   50 
+JimR      986619003  8  2 Bf  -     -     -         6761   10    0 
+JimR      986619044  9  1 Bc  kf    -     -         6751   10    0 
+JimR      986619121 10 10 cc  c     c     f         6741   60    0 
+JimR      986619184 10  9 r   b     -     -         6681   30   60 
+JimR      986619208 10  8 r   r     b     f         6711   60    0 
+JimR      986619296 10  7 c   c     f     -         6651   40    0 
+JimR      986619343 10  6 cc  f     -     -         6611   30    0 
+JimR      986619378 10  5 f   -     -     -         6581    0    0 
+JimR      986619435 10  4 rr  b     b     b         6581   90  325 4d Ad
+JimR      986619513 10  3 f   -     -     -         6816    0    0 
+JimR      986619565 10  2 Bc  k     b     k         6816   40  140 2h Jh
+JimR      986619626 10  1 Bc  kf    -     -         6916   10    0 
+JimR      986619708 10 10 c   c     k     k         6906   20    0 3h 2c
+JimR      986619770 10  9 f   -     -     -         6886    0    0 
+JimR      986619822 10  8 f   -     -     -         6886    0    0 
+JimR      986619865 10  7 cc  c     kf    -         6886   40    0 
+JimR      986619935 10  6 cc  c     k     f         6846   30    0 
+JimR      986620014 10  5 cc  b     kc    kf        6816   70    0 
+JimR      986620195  9  3 c   f     -     -         6746   10    0 
+JimR      986620264  9  3 c   kc    kf    -         6736   20    0 
+JimR      986620305  9  2 Bk  kf    -     -         6716   10    0 
+JimR      986620356  9  1 Bc  k     kf    -         6706   10    0 
+JimR      986620406 10 10 c   c     f     -         6696   20    0 
+JimR      986620474 10  9 c   c     c     f         6676   40    0 
+JimR      986620542 10  8 c   c     c     f         6636   40    0 
+JimR      986620602 10  7 c   c     f     -         6596   30    0 
+JimR      986620637 10  6 f   -     -     -         6566    0    0 
+JimR      986620709 10  5 cc  c     k     k         6566   30   95 4c Kh
+JimR      986620764 10  4 c   k     r     bf        6631   70    0 
+JimR      986620827  8  3 c   kc    kr    b         6561   80  235 5h 6c
+JimR      986620890  8  2 Bc  k     kf    -         6716   20    0 
+JimR      986620950  8  1 Bc  brc   kc    kf        6696   80    0 
+JimR      986621005  8  4 Q   -     -     -         6616    0    0 
+JimR      986690803 10  3 c   kc    kc    kf        6016   50    0 
+JimR      986690967  9  1 Bc  kc    kf    -         5966   30    0 
+JimR      986691042  8  1 Bc  kc    kc    kc        5936   60    0 9d Qs
+JimR      986691121  9  9 c   c     c     f         5876   70    0 
+JimR      986691207 10  9 c   f     -     -         5806   10    0 
+JimR      986691276 10  8 c   c     k     f         5796   20    0 
+JimR      986691349 10  7 c   f     -     -         5776   10    0 
+JimR      986691400 10  6 c   r     c     f         5766   50    0 
+JimR      986691463 10  5 c   c     r     c         5716   80    0 5s Ah
+JimR      986691546 10  4 f   -     -     -         5636    0    0 
+JimR      986691675 10  3 c   kc    f     -         5636   20    0 
+JimR      986691750 10  2 Bk  k     k     kf        5616   10    0 
+JimR      986691821 10  1 Bf  -     -     -         5606    5    0 
+JimR      986691873 10 10 c   c     c     c         5601   60    0 Qs 4s
+JimR      986691930  9  8 c   k     c     k         5541   30    0 6s 7s
+JimR      986691994 10  8 cc  f     -     -         5511   20    0 
+JimR      986692080 10  7 c   c     c     f         5491   40    0 
+JimR      986692146 10  6 r   c     c     k         5451   50    0 Jh Ac
+JimR      986692205 10  5 cc  rr    bc    kc        5401  120    0 7c Ac
+JimR      986692296 10  4 c   cc    cr    c         5281  110    0 Ts Kh
+JimR      986692377 10  3 cc  kc    kr    b         5171   90  163 Ah 7d
+JimR      986692466 10  2 Bc  cf    -     -         5244   30    0 
+JimR      986692548 10  1 Bf  -     -     -         5214    5    0 
+JimR      986692610 10 10 f   -     -     -         5209    0    0 
+JimR      986692674  9  8 c   f     -     -         5209   10    0 
+JimR      986692721 10  8 cc  f     -     -         5199   20    0 
+JimR      986692806 10  7 c   kf    -     -         5179   10    0 
+JimR      986692862 10  6 c   kc    kc    kc        5169   70    0 3c 4c
+JimR      986692953 10  5 r   c     c     f         5099   50    0 
+JimR      986693001 10  4 r   crc   brc   brc       5049  220  515 9d As
+JimR      986693069 10  3 c   k     kf    -         5344   10    0 
+JimR      986693134 10  2 Bc  kf    -     -         5334   20    0 
+JimR      986693204 10  1 Bc  kf    -     -         5314   10    0 
+JimR      986693276 10 10 f   -     -     -         5304    0    0 
+JimR      986693329 10  9 c   k     k     f         5304   10    0 
+JimR      986693407 10  8 cc  f     -     -         5294   20    0 
+JimR      986693499 10  7 f   Q     -     -         5274    0    0 
+JimR      986852558  7  4 c   k     b     k         1000   30    0 Kc 3d
+JimR      986852597  6  2 Bc  r     b     rf         970  100    0 
+JimR      986852632  5  1 Bcc kc    kf    -          870   30    0 
+JimR      986852655  5  5 cc  c     c     c          840   90    0 5h Ad
+JimR      986852692  5  4 r   -     -     -          750   20   35 
+JimR      986852698  5  3 f   -     -     -          765    0    0 
+JimR      986852706  5  2 B   -     -     -          765   10   15 
+JimR      986852711  5  1 Br  br    kf    -          770   60    0 
+JimR      986852767  4  4 c   k     k     k          710   10    0 5h 4c
+JimR      986852788  4  4 r   brc   f     -          700   60    0 
+JimR      986852813  4  3 c   b     -     -          640   20   35 
+JimR      986852826  4  2 Bk  k     kf    -          655   10    0 
+JimR      986852841  4  1 Bc  krr   br    b          645  130  260 6d 8h
+JimR      986852879  5  5 r   b     -     -          775   40  110 
+JimR      986852900  5  4 c   f     -     -          845   10    0 
+JimR      986852936  6  4 c   f     -     -          835   10    0 
+JimR      986852967  6  3 r   b     b     b          825   70  150 
+JimR      986852993  6  2 Bc  br    bc    kc         905  110    0 Qs Tc
+JimR      986853024  6  1 Bf  -     -     -          795    5    0 
+JimR      986853050  6  6 r   b     b     rf         790  100    0 
+JimR      986853083  6  5 r   k     bc    f          690   60    0 
+JimR      986853114  6  4 c   r     b     -          630   60  145 
+JimR      986853134  6  3 rc  k     bc    bc         715  110  300 Ad 8s
+JimR      986853169  6  2 Br  b     b     b          905   70  175 
+JimR      986853201  8  1 Bc  krr   b     b         1010  100  230 
+JimR      986853268  7  7 f   -     -     -         1140    0    0 
+JimR      986853299  9  6 f   -     -     -         1140    0    0 
+JimR      986853337  9  5 ccc kr    b     b         1140  110    0 Jc 8h
+JimR      986853404  9  4 c   f     -     -         1030   10    0 
+JimR      986853443  9  3 c   kf    -     -         1020   10    0 
+JimR      986853487  9  2 Bc  krr   b     b         1010  100  285 Kh 4h
+JimR      986853545  8  1 Bc  kf    -     -         1195   20    0 
+JimR      986853581  8  8 f   -     -     -         1175    0    0 
+JimR      986853621  8  7 rc  rc    c     f         1175  100    0 
+JimR      986853668  8  6 f   -     -     -         1075    0    0 
+JimR      986853707  8  5 f   -     -     -         1075    0    0 
+JimR      986853738  8  4 c   r     b     b         1075   80    0 Kd 7d
+JimR      986853771  8  3 cc  f     -     -          995   40    0 
+JimR      986853842  8  2 Br  c     c     f          955   70    0 
+JimR      986853891  9  1 Br  b     b     kf         885   50    0 
+JimR      986853933  8  8 c   f     -     -          835   10    0 
+JimR      986853977  9  8 c   r     bc    b          825   90  235 Ah 4c
+JimR      986854061  9  7 f   -     -     -          970    0    0 
+JimR      986854096  9  6 r   cf    -     -          970   30    0 
+JimR      986854150  9  5 r   b     brc   f          940  110    0 
+JimR      986854209  9  4 c   f     -     -          830   10    0 
+JimR      986854286  9  3 cr  rc    ccc   cr         820  220    0 Td Th
+JimR      986854367  9  2 Br  bf    -     -          600   30    0 
+JimR      986854445  9  1 Brc br    br    b          570  180    0 Qs 8s
+JimR      986854506  8  8 r   b     b     b          390   80  205 6c 7c
+JimR      986854548  8  7 r   b     b     -          515   50   95 
+JimR      986854581  8  6 rr  rr    r     r          560  160  450 Tc 6d
+JimR      986854634  8  5 f   -     -     -          850    0    0 
+JimR      986854659  8  4 rc  b     b     brc        850  150    0 Ah 7h
+JimR      986854700  9  4 f   -     -     -          700    0    0 
+JimR      986854731  9  3 r   b     b     b          700   70  160 
+JimR      986854765 10  2 Bc  kc    kf    -          790   30    0 
+JimR      986854791 10  1 Bf  -     -     -          760    5    0 
+JimR      986854873  9  9 c   r     k     k          755   30    0 4s Ts
+JimR      986854937  9  8 f   -     -     -          725    0    0 
+JimR      986854987  9  7 f   -     -     -          725    0    0 
+JimR      986855038  9  6 c   c     k     b          725   40  130 Ah 5s
+JimR      986855084  9  5 c   b     kc    k          815   40   95 Jc 2c
+JimR      986855132  9  4 c   k     k     bc         870   50    0 5d Qh
+JimR      986855180  9  3 cc  kc    kc    kf         820   70    0 
+JimR      986855246 10  2 Bc  kf    -     -          750   20    0 
+JimR      986855308 10  1 Bc  kf    -     -          730   10    0 
+JimR      986855368 10 10 c   f     -     -          720   10    0 
+JimR      986855420 10  9 c   k     r     f          710   50    0 
+JimR      986855510 10  8 r   Q     -     -          660   20    0 

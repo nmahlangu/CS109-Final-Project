@@ -1,0 +1,541 @@
+USABot    986260395  3  3 c   f     -     -         2135   10    0 
+USABot    986260414  3  2 Bk  b     -     -         2125   20   35 
+USABot    986260423  3  1 Bc  brc   b     b         2140   90  210 
+USABot    986260455  3  3 c   f     -     -         2260   10    0 
+USABot    986260493  3  2 Bc  c     c     c         2250   70    0 5s 7h
+USABot    986260507  3  1 Bc  b     -     -         2180   20   30 
+USABot    986260521  3  3 c   b     b     -         2190   40   70 
+USABot    986260542  3  2 BQ  -     -     -         2220   10    0 
+USABot    986260673  3  3 cc  f     -     Q         2210   20    0 
+USABot    986260735  3  3 cc  r     r     c         2190  110    0 Kh Qs
+USABot    986260760  3  2 Bc  cc    Q     -         2080   50    0 
+USABot    986260874  3  3 cc  r     r     b         2030  100  220 Kh Jd
+USABot    986260908  3  2 Bc  br    rc    rr        2150  210  630 Tc Js
+USABot    986260951  4  1 Bf  -     -     -         2570    5    0 
+USABot    986260969  4  4 f   -     -     -         2565    0    0 
+USABot    986261007  4  3 f   -     -     -         2565    0    0 
+USABot    986261018  4  2 Br  kc    kf    -         2565   40    0 
+USABot    986261062  4  1 Br  kfQ   -     -         2525   20    0 
+USABot    986261149  4  4 f   -     -     -         2505    0    0 
+USABot    986261188  4  3 f   -     -     -         2505    0    0 
+USABot    986261201  4  2 Bc  f     -     -         2505   20    0 
+USABot    986261211  4  1 Bc  k     b     bc        2485   80    0 Js Tc
+USABot    986261235  4  4 cc  f     -     -         2405   20    0 
+USABot    986261279  5  3 f   -     -     -         2385    0    0 
+USABot    986261301  5  2 Bk  f     -     -         2385   10    0 
+USABot    986261328  5  1 Bf  -     -     -         2375    5    0 
+USABot    986261352  5  5 c   k     k     c         2370   30   45 Kd Th
+USABot    986261390  5  4 c   f     -     -         2385   10    0 
+USABot    986261421  6  3 f   -     -     -         2375    0    0 
+USABot    986261460  6  2 Bk  Q     -     -         2375   10    0 
+USABot    986261556  6  6 f   -     -     -         2365    0    0 
+USABot    986261601  7  4 Q   -     -     -         2365    0    0 
+USABot    986261699  9  6 f   -     -     -         2365    0    0 
+USABot    986261787  9  5 f   -     -     -         2365    0    0 
+USABot    986261861  9  5 f   -     -     -         2365    0    0 
+USABot    986261908  8  3 f   -     -     -         2365    0    0 
+USABot    986261964  9  3 c   Q     -     -         2365   10    0 
+USABot    986262075  8  8 c   c     c     f         2355   50    0 
+USABot    986262152  8  7 f   -     -     -         2305    0    0 
+USABot    986262219  8  7 f   -     -     -         2305    0    0 
+USABot    986262245  8  6 f   -     -     -         2305    0    0 
+USABot    986262288  8  5 f   -     -     -         2305    0    0 
+USABot    986262334  8  4 c   kf    -     -         2305   10    0 
+USABot    986262407  8  3 f   -     -     -         2295    0    0 
+USABot    986262467  8  2 Bk  kf    -     -         2295   10    0 
+USABot    986262556  8  1 Bf  -     -     -         2285    5    0 
+USABot    986262665  8  8 f   -     -     -         2280    0    0 
+USABot    986262783  8  7 f   -     -     Q         2280    0    0 
+USABot    986942327 10  6 f   -     -     -         2280    0    0 
+USABot    986942424 10  5 f   -     -     -         2280    0    0 
+USABot    986942552 10  4 f   -     -     -         2280    0    0 
+USABot    986942659 10  3 f   -     -     -         2280    0    0 
+USABot    986942766 10  2 Bk  k     b     b         2280   50  210 6h 7d
+USABot    986942891 10  1 Br  kf    -     -         2440   20    0 
+USABot    986943002  8  8 f   -     -     -         2420    0    0 
+USABot    986943055  9  9 f   -     -     -         2420    0    0 
+USABot    986943115  8  7 f   -     -     -         2420    0    0 
+USABot    986943140  9  6 f   -     -     -         2420    0    0 
+USABot    986943236  9  5 f   -     -     -         2420    0    0 
+USABot    986943340  9  3 f   -     -     -         2420    0    0 
+USABot    986943418  9  2 Bk  f     -     -         2420   10    0 
+USABot    986943493  9  1 Bf  -     -     -         2410    5    0 
+USABot    986943576  8  8 f   -     -     -         2405    0    0 
+USABot    986943700  7  6 f   -     -     -         2405    0    0 
+USABot    986943744  7  5 rc  c     f     -         2405   40    0 
+USABot    986943773  8  5 f   -     -     -         2365    0    0 
+USABot    986943809  8  4 f   -     -     -         2365    0    0 
+USABot    986943864  8  3 f   -     -     -         2365    0    0 
+USABot    986943984  8  2 Bk  k     b     b         2365   50  115 
+USABot    986944029  8  1 Br  b     kf    -         2430   30    0 
+USABot    986944103  8  8 c   f     -     -         2400   20    0 
+USABot    986944167  8  7 f   -     -     -         2380    0    0 
+USABot    986944201  8  6 r   b     b     -         2380   50  135 
+USABot    986944286  8  5 f   -     -     -         2465    0    0 
+USABot    986944365  9  5 f   -     -     -         2465    0    0 
+USABot    986944491  9  4 cc  kf    -     -         2465   20    0 
+USABot    986944571  9  3 f   -     -     -         2445    0    0 
+USABot    986944617  9  2 Br  k     b     b         2445   60    0 Jd Js
+USABot    986944673  9  1 Bf  -     -     -         2385    5    0 
+USABot    986944708  9  9 f   -     -     -         2380    0    0 
+USABot    986944766  8  7 f   -     -     -         2380    0    0 
+USABot    986944841  9  7 c   k     k     k         2380   10    0 Ks Td
+USABot    986944887  9  6 f   -     -     -         2370    0    0 
+USABot    986944929  9  5 cc  r     c     c         2370   80  310 Ac 6c
+USABot    986944985 10  4 c   f     -     -         2600   20    0 
+USABot    986945055 10  3 c   kf    -     -         2580   10    0 
+USABot    986945124 10  2 Bk  kf    -     -         2570   10    0 
+USABot    986945193  9  1 Bc  k     k     b         2560   40  120 
+USABot    986945245  9  9 f   -     -     -         2640    0    0 
+USABot    986945314  9  8 f   -     -     -         2640    0    0 
+USABot    986945368 10  8 f   -     -     -         2640    0    0 
+USABot    986945450 10  7 f   -     -     -         2640    0    0 
+USABot    986945512 10  6 f   -     -     -         2640    0    0 
+USABot    986945585  9  5 c   f     -     -         2640   10    0 
+USABot    986945632  9  4 c   f     -     -         2630   10    0 
+USABot    986945690 10  3 cc  rc    b     bc        2620  120    0 7s Ks
+USABot    986945795  7  2 Bf  -     -     -         2500   10    0 
+USABot    986945875  6  1 Bf  -     -     -         2490    5    0 
+USABot    986945909  6  6 c   f     -     -         2485   20    0 
+USABot    986945946  6  5 c   rc    rc    c         2465  130    0 Ah Jc
+USABot    986945995  6  4 c   kf    -     -         2335   10    0 
+USABot    986946021  6  3 f   -     -     -         2325    0    0 
+USABot    986946057  6  2 Bk  k     k     k         2325   10    0 5s Ts
+USABot    986946090  8  1 Bf  -     -     -         2315    5    0 
+USABot    986946128  9  9 f   -     -     -         2310    0    0 
+USABot    986946170  9  8 f   -     -     -         2310    0    0 
+USABot    986946232  9  7 f   -     -     -         2310    0    0 
+USABot    986946268  9  6 f   -     -     -         2310    0    0 
+USABot    986946304  9  5 f   -     -     -         2310    0    0 
+USABot    986946364 10  4 f   -     -     -         2310    0    0 
+USABot    986946432  9  2 f   -     -     -         2310    0    0 
+USABot    986946476  9  2 Bk  f     -     -         2310   10    0 
+USABot    986946502  9  1 Bc  b     b     b         2300   60  150 
+USABot    986946552  9  9 c   f     -     -         2390   20    0 
+USABot    986946592 10  9 f   -     -     -         2370    0    0 
+USABot    986946640 10  8 f   -     -     -         2370    0    0 
+USABot    986946703  9  7 c   brc   bc    b         2370  110  150 Jd Ts
+USABot    986946767 10  6 c   f     -     -         2410   10    0 
+USABot    986946854 10  5 c   f     -     -         2400   10    0 
+USABot    986946896 10  4 f   -     -     -         2390    0    0 
+USABot    986946969 10  3 c   k     kf    -         2390   10    0 
+USABot    986947053  9  2 Bk  f     -     -         2380   10    0 
+USABot    986947113  9  1 Bc  brc   b     kf        2370   80    0 
+USABot    986947155  8  8 f   -     -     -         2290    0    0 
+USABot    986947210  7  6 fQ  -     -     -         2290    0    0 
+USABot    987017485  2  2 B   -     -     -         2290   10   15 
+USABot    987021676  4  1 Bf  -     -     -         2295    5    0 
+USABot    987021703  2  2 Bk  c     b     -         2290   40   60 
+USABot    987021728  2  1 Bc  k     k     b         2310   30   40 
+USABot    987021737  2  2 B   -     -     -         2320   10   15 
+USABot    987021740  2  1 Br  -     -     -         2325   20   30 
+USABot    987021742  2  2 Br  b     b     b         2335   70  140 Td As
+USABot    987021761  2  1 Br  b     b     b         2405   70    0 6s Ac
+USABot    987021776  2  2 B   -     -     -         2335   10   15 
+USABot    987021782  2  1 Br  -     -     -         2340   20   30 
+USABot    987021784  2  2 Br  b     -     -         2350   30   50 
+USABot    987021792  2  1 Bc  b     -     -         2370   20   30 
+USABot    987021797  2  2 B   -     -     -         2380   10   15 
+USABot    987021800  2  1 Br  -     -     -         2385   20   30 
+USABot    987021802  2  2 Br  c     c     c         2395   70   70 9d Ah
+USABot    987021818  2  1 Br  bc    bc    bc        2395  120    0 8s 8h
+USABot    987021832  2  2 B   -     -     -         2275   10   15 
+USABot    987021838  2  1 Bc  k     k     b         2280   30   40 
+USABot    987021846  2  2 Bk  k     k     b         2290   30   40 
+USABot    987021859  2  1 Bc  b     -     -         2300   20   30 
+USABot    987021863  2  2 Br  c     c     c         2310   70    0 Kd 8h
+USABot    987021879  2  1 Bc  k     kf    -         2240   10    0 
+USABot    987021891  2  2 Br  b     b     -         2230   50   80 
+USABot    987021906  2  1 Br  b     -     -         2260   30   50 
+USABot    987021911  2  2 B   -     -     -         2280   10   15 
+USABot    987021914  2  1 Bc  k     bc    bc        2285   90    0 9d 4c
+USABot    987021930  3  3 r   b     -     -         2195   30   70 
+USABot    987021946  3  2 Br  -     -     -         2235   20   30 
+USABot    987021959  3  1 Br  k     k     b         2245   40    0 As Tc
+USABot    987021975  3  3 f   -     -     -         2205    0    0 
+USABot    987021986  3  2 Bk  b     k     r         2205   60    0 3h Qc
+USABot    987022007  3  1 Bf  -     -     -         2145    5    0 
+USABot    987022027  3  3 f   -     -     -         2140    0    0 
+USABot    987022058  3  2 Bk  k     b     b         2140   50    0 8d 6c
+USABot    987022081  3  1 Br  kf    -     -         2090   20    0 
+USABot    987022095  3  3 f   -     -     -         2070    0    0 
+USABot    987022109  3  2 Bk  kf    -     -         2070   10    0 
+USABot    987022123  3  1 Bf  -     -     -         2060    5    0 
+USABot    987022144  3  3 f   -     -     -         2055    0    0 
+USABot    987022174  3  2 Bk  b     -     -         2055   20   30 
+USABot    987022195  3  1 Br  k     k     b         2065   40   60 
+USABot    987022207  3  3 f   -     -     -         2085    0    0 
+USABot    987022224  3  2 Bk  k     kf    -         2085   10    0 
+USABot    987022245  3  1 Br  k     b     -         2075   40   80 
+USABot    987022260  2  2 r   -     -     -         2115   20   30 
+USABot    987022264  2  2 B   -     -     -         2125   10   15 
+USABot    987022268  2  1 Br  -     -     -         2130   20   30 
+USABot    987022273  2  2 Brc c     c     b         2140   80    0 7h Kh
+USABot    987022292  3  1 Bf  -     -     -         2060    5    0 
+USABot    987022303  3  3 f   -     -     -         2055    0    0 
+USABot    987022312  3  2 Bk  k     k     b         2055   30   40 
+USABot    987022334  3  1 Bf  -     -     -         2065    5    0 
+USABot    987022357  3  3 r   c     b     b         2060   70    0 6s Ks
+USABot    987022390  3  2 Br  b     -     -         1990   30   70 
+USABot    987022412  3  1 Br  bc    kc    bc        2030  100    0 5h Ac
+USABot    987022433  3  3 f   -     -     -         1930    0    0 
+USABot    987022455  3  2 Bc  c     c     c         1930   70    0 8h Kh
+USABot    987022471  3  1 Bf  -     -     -         1860    5    0 
+USABot    987022490  3  3 f   -     -     -         1855    0    0 
+USABot    987022514  3  2 B   -     -     -         1855   10   15 
+USABot    987022520  3  1 Bf  -     -     -         1860    5    0 
+USABot    987022524  3  3 c   k     k     c         1855   30   70 Ts 8h
+USABot    987022550  3  2 Bk  k     k     b         1895   30    0 8s 2s
+USABot    987022570  3  1 Br  b     b     b         1865   70  130 
+USABot    987022594  3  3 r   c     f     -         1925   30    0 
+USABot    987022610  3  2 Br  bc    bc    b         1895  100  220 Kc Jd
+USABot    987022634  3  1 Bf  -     -     -         2015    5    0 
+USABot    987022641  3  3 f   -     -     -         2010    0    0 
+USABot    987022646  3  2 Bk  f     -     -         2010   10    0 
+USABot    987022655  3  1 Bc  bc    bc    bc        2000  120    0 6c 6d
+USABot    987022672  3  3 f   -     -     -         1880    0    0 
+USABot    987022686  3  2 Bc  br    b     b         1880   90  185 7c Ac
+USABot    987022704  3  1 Bf  -     -     -         1975    5    0 
+USABot    987022712  3  3 r   k     k     b         1970   40   65 
+USABot    987022726  3  2 Bk  b     b     b         1995   60  100 
+USABot    987022754  3  1 Br  k     k     b         2035   40    0 Ah Qd
+USABot    987022769  3  3 f   -     -     -         1995    0    0 
+USABot    987022793  3  2 Bk  k     b     -         1995   30   40 
+USABot    987022808  3  1 Br  -     -     -         2005   20   30 
+USABot    987022817  3  3 f   -     -     -         2015    0    0 
+USABot    987022825  3  2 Bk  b     b     b         2015   60    0 9d 2d
+USABot    987022852  3  1 Bf  -     -     -         1955    5    0 
+USABot    987022870  3  3 r   -     -     -         1950   20   35 
+USABot    987022874  3  2 B   -     -     -         1965   10   15 
+USABot    987022878  3  1 Br  b     bc    b         1970   90    0 Th Td
+USABot    987022899  3  3 f   -     -     -         1880    0    0 
+USABot    987022907  3  2 Bc  kc    kf    -         1880   30    0 
+USABot    987022936  3  1 Bf  -     -     -         1850    5    0 
+USABot    987022943  3  3 f   -     -     -         1845    0    0 
+USABot    987022948  3  2 Br  b     b     bc        1845   90    0 Ah Ac
+USABot    987022963  3  1 Bcf -     -     -         1755   20    0 
+USABot    987022994  4  4 c   f     -     -         1735   20    0 
+USABot    987023022  4  3 r   kc    kf    -         1715   30    0 
+USABot    987023037  4  2 Bk  kf    -     -         1685   10    0 
+USABot    987023069  4  1 Bc  kc    k     b         1675   50    0 Kd 9d
+USABot    987023093  4  4 c   b     -     -         1625   20   35 
+USABot    987023114  4  3 cc  b     b     b         1640   70  220 Jc Th
+USABot    987023153  4  2 Bk  b     b     b         1790   60  130 Qc 6d
+USABot    987023178  5  1 Bf  -     -     -         1860    5    0 
+USABot    987023210  5  5 c   b     c     b         1855   70  230 
+USABot    987023260  5  4 cc  br    b     b         2015   90  210 Ac 6h
+USABot    987023287  5  3 cf  -     -     -         2135   10    0 
+USABot    987023333  5  2 Bf  -     -     -         2125   10    0 
+USABot    987023357  5  1 Bf  -     -     -         2115    5    0 
+USABot    987023391  5  5 c   c     rc    b         2110  110  315 Qs Js
+USABot    987023424  6  5 f   -     -     -         2315    0    0 
+USABot    987023469  5  4 f   -     -     -         2315    0    0 
+USABot    987023502  5  3 c   b     c     c         2315   60    0 Qs Jc
+USABot    987023531  5  2 Bf  -     -     -         2255   10    0 
+USABot    987023567  4  1 Bf  -     -     -         2245    5    0 
+USABot    987023592  4  4 f   -     -     -         2240    0    0 
+USABot    987023598  4  3 r   b     b     b         2240   70  155 Qh Ah
+USABot    987023611  4  2 Bk  c     c     b         2325   60    0 Ts 7h
+USABot    987023636  4  1 Bf  -     -     -         2265    5    0 
+USABot    987023661  4  4 f   -     -     -         2260    0    0 
+USABot    987023696  4  3 c   b     r     b         2260   80  180 7s Ts
+USABot    987023740  4  2 Bk  kf    -     -         2360   10    0 
+USABot    987023762  4  1 Bc  bc    b     -         2350   60  110 
+USABot    987023788  5  5 f   -     -     -         2400    0    0 
+USABot    987023821  5  4 r   -     -     -         2400   20   35 
+USABot    987023830  6  4 f   -     -     -         2415    0    0 
+USABot    987023863  6  3 f   -     -     -         2415    0    0 
+USABot    987023899  6  2 Bc  f     -     -         2415   20    0 
+USABot    987023930  6  1 Bf  -     -     -         2395    5    0 
+USABot    987023971  5  5 f   -     -     -         2390    0    0 
+USABot    987024014  4  3 f   -     -     -         2390    0    0 
+USABot    987024048  3  2 Bk  b     -     -         2390   20   35 
+USABot    987024062  3  1 Bf  -     -     -         2405    5    0 
+USABot    987024103  4  4 c   k     f     -         2400   10    0 
+USABot    987024151  3  3 c   k     k     b         2390   30   32 As 3s
+USABot    987024175  3  2 Bf  -     -     -         2392   10    0 
+USABot    987024184  3  1 Bf  -     -     -         2382    5    0 
+USABot    987024201  3  3 r   b     -     -         2377   30   55 
+USABot    987024214  3  2 Bf  -     -     -         2402   10    0 
+USABot    987024221  3  1 Bcc kc    kf    -         2392   30    0 
+USABot    987024236  3  3 c   bc    c     c         2362   70  145 7c 7h
+USABot    987024249  3  2 Bc  c     c     rc        2437  110  220 Kd Ad
+USABot    987024269  2  1 Bc  k     k     bc        2547   50  100 4s Th
+USABot    987024287  2  2 Bk  k     k     b         2597   30   40 
+USABot    987024306  2  1 Br  b     bc    bc        2607  110    0 Kd Kh
+USABot    987024315  2  2 Bk  f     -     -         2497   10    0 
+USABot    987024328  2  1 Bcc bc    kc    b         2487   80  160 As 6d
+USABot    987024340  2  2 Bk  k     b     c         2567   50  100 Js 4d
+USABot    987024361  2  1 Bcc b     -     -         2617   30   50 
+USABot    987024372  2  2 B   -     -     -         2637   10   15 
+USABot    987024375  2  1 Bc  b     b     -         2642   40   60 
+USABot    987024383  2  2 B   -     -     -         2662   10   15 
+USABot    987024385  2  1 Bc  k     k     b         2667   30    0 Jc 5s
+USABot    987024393  2  2 B   -     -     -         2637   10   15 
+USABot    987024399  2  1 Bc  b     -     -         2642   20   30 
+USABot    987024404  2  2 Bk  c     c     c         2652   60    0 Ac Kc
+USABot    987024416  2  1 Bc  k     b     -         2592   30   40 
+USABot    987024430  2  2 Bk  k     k     b         2602   30   40 
+USABot    987024441  2  1 Bc  b     k     bc        2612   60    0 Jc As
+USABot    987024450  2  2 Bk  k     f     -         2552   10    0 
+USABot    987024462  2  1 Bc  kc    bc    bc        2542  100    0 6s 7s
+USABot    987024491  2  2 Bk  k     b     -         2442   30   40 
+USABot    987024507  2  1 Bc  kc    kc    bc        2452   80  160 Ks 9h
+USABot    987024516  2  2 Bc  c     c     c         2532   70    0 4c Qh
+USABot    987024529  2  1 Bcc bc    bc    bc        2462  120    0 6s Ac
+USABot    987024541  2  2 Bk  bc    bc    b         2342   90  180 6s 2d
+USABot    987024565  2  1 Bc  b     -     -         2432   20   30 
+USABot    987024582  2  2 Bk  c     f     -         2442   20    0 
+USABot    987024590  2  1 Bc  k     k     b         2422   30   40 
+USABot    987024604  2  2 Bk  k     b     -         2432   30   40 
+USABot    987024614  2  1 Bc  b     b     b         2442   60  100 
+USABot    987024625  2  2 Bk  c     c     c         2482   60  120 6h As
+USABot    987024641  3  1 Bf  -     -     -         2542    5    0 
+USABot    987024657  3  3 f   -     -     -         2537    0    0 
+USABot    987024679  3  2 Bk  k     k     br        2537   70    0 Qc 5s
+USABot    987024700  3  1 Bf  -     -     -         2467    5    0 
+USABot    987024726  3  3 f   -     -     -         2462    0    0 
+USABot    987024744  3  2 Bk  f     -     -         2462   10    0 
+USABot    987024755  3  1 Bc  b     b     b         2452   60  130 7d Ah
+USABot    987024786  3  3 f   -     -     -         2522    0    0 
+USABot    987024792  3  2 Bk  f     -     -         2522   10    0 
+USABot    987024809  3  1 Bf  -     -     -         2512    5    0 
+USABot    987024838  3  3 f   -     -     -         2507    0    0 
+USABot    987024853  3  2 Bf  -     -     -         2507   10    0 
+USABot    987024878  3  1 Bc  k     kf    -         2497   10    0 
+USABot    987024905  3  3 r   cc    bc    cc        2487  160    0 Tc Th
+USABot    987024942  3  2 Bk  b     -     -         2327   20   30 
+USABot    987024959  4  1 Bf  -     -     -         2337    5    0 
+USABot    987024982  4  4 f   -     -     -         2332    0    0 
+USABot    987025013  4  3 f   -     -     -         2332    0    0 
+USABot    987025017  3  2 Bk  rc    rc    b         2332  120  250 9d Tc
+USABot    987025048  3  1 Bf  -     -     -         2462    5    0 
+USABot    987025084  3  3 c   k     k     f         2457   10    0 
+USABot    987025112  3  2 Bk  b     k     r         2447   60    0 Kc Js
+USABot    987025134  4  1 Bc  b     -     -         2387   20   40 
+USABot    987025147  4  4 c   f     -     -         2407   20    0 
+USABot    987025179  4  3 c   b     -     -         2387   20   35 
+USABot    987025192  4  2 B   -     -     -         2402   10   15 
+USABot    987025199  4  1 Bc  kf    -     -         2407   10    0 
+USABot    987025211  4  4 c   c     f     -         2397   30    0 
+USABot    987025237  4  3 f   -     -     -         2367    0    0 
+USABot    987025254  4  2 Bk  k     f     -         2367   10    0 
+USABot    987025266  4  1 Bf  -     -     -         2357    5    0 
+USABot    987025274  4  4 f   -     -     -         2352    0    0 
+USABot    987025303  4  3 f   -     -     -         2352    0    0 
+USABot    987025340  4  2 Bk  f     -     -         2352   10    0 
+USABot    987025353  4  1 Bc  b     -     -         2342   20   30 
+USABot    987025369  5  5 c   c     c     c         2352   70  220 4d As
+USABot    987025402  5  4 c   b     k     b         2502   40   95 Qc 3c
+USABot    987025435  5  3 cc  kf    -     -         2557   20    0 
+USABot    987025473  6  2 Bk  kf    -     -         2537   10    0 
+USABot    987025501  6  1 Bc  bc    bc    b         2527   90  210 
+USABot    987025528  6  6 f   -     -     -         2647    0    0 
+USABot    987025541  6  5 f   -     -     -         2647    0    0 
+USABot    987025554  6  4 r   rc    rc    r         2647  150    0 Kc Ks
+USABot    987025600  6  3 f   -     -     -         2497    0    0 
+USABot    987025642  7  2 Bf  -     -     -         2497   10    0 
+USABot    987025653  7  1 Bf  -     -     -         2487    5    0 
+USABot    987025686  6  6 f   -     -     -         2482    0    0 
+USABot    987025731  7  5 f   -     -     -         2482    0    0 
+USABot    987025771  8  5 f   -     -     -         2482    0    0 
+USABot    987025854 10  6 c   f     -     -         2482   10    0 
+USABot    987025922  9  5 cc  kf    -     -         2472   20    0 
+USABot    987026017  8  4 f   -     -     -         2452    0    0 
+USABot    987026046  6  2 c   k     k     f         2452   10    0 
+USABot    987026087  3  2 Bc  c     c     c         2442   70    0 6c 6d
+USABot    987026116  2  1 Bc  k     k     b         2372   30    0 7s Ad
+USABot    987026134  2  2 B   -     -     -         2342   10   15 
+USABot    987026148  2  1 Bc  kf    -     -         2347   10    0 
+USABot    987026154  2  2 Bk  c     c     c         2337   60  120 Jd Qs
+USABot    987026165  2  1 Bcc kc    kc    bc        2397   90    0 2c 2h
+USABot    987026182  2  2 Bk  c     c     c         2307   60  120 6h 6s
+USABot    987026200  2  1 Bc  bc    bc    bc        2367  110    0 7c Ks
+USABot    987026216  2  2 Bc  c     c     c         2257   70  140 Qc Kh
+USABot    987026231  2  1 Bc  k     k     b         2327   30   30 4d Jd
+USABot    987026251  2  2 Bk  c     c     c         2327   60    0 Jh Jc
+USABot    987026267  2  1 Bc  k     k     b         2267   30    0 5d 8c
+USABot    987026280  2  2 Bk  b     -     -         2237   20   30 
+USABot    987026295  2  1 Bc  k     kf    -         2247   10    0 
+USABot    987026307  2  2 Bc  f     -     -         2237   20    0 
+USABot    987026313  2  1 Bcc kf    -     -         2217   20    0 
+USABot    987026319  2  2 B   -     -     -         2197   10   15 
+USABot    987026323  2  1 Bcc kc    kc    bc        2202   90   90 3h Ks
+USABot    987026333  2  2 B   -     -     -         2202   10   15 
+USABot    987026341  2  1 Bc  kf    -     -         2207   10    0 
+USABot    987026348  2  2 Bk  f     -     -         2197   10    0 
+USABot    987026357  2  1 Bc  kf    -     -         2187   10    0 
+USABot    987026363  2  2 Bk  c     c     c         2177   60    0 3c 3h
+USABot    987026374  2  1 Bc  b     -     -         2117   20   30 
+USABot    987026383  2  2 Bk  c     c     c         2127   60    0 7c 5c
+USABot    987026392  2  1 Bc  kf    -     -         2067   10    0 
+USABot    987026401  2  2 B   -     -     -         2057   10   15 
+USABot    987026405  2  1 Bc  b     -     -         2062   20   30 
+USABot    987026411  2  2 B   -     -     -         2072   10   15 
+USABot    987026417  2  1 Bc  kc    bc    bc        2077  100    0 3s 3c
+USABot    987026425  2  2 Bk  k     k     r         1977   50  100 8s 2c
+USABot    987026445  2  1 Bc  kc    kf    -         2027   20    0 
+USABot    987026454  2  2 Bc  c     c     c         2007   70    0 4s 7s
+USABot    987026463  2  1 Bc  kc    kc    bc        1937   80    0 7h Ac
+USABot    987026478  2  2 Bk  c     c     c         1857   60  120 Kd 9d
+USABot    987026492  2  1 Bc  kf    -     -         1917   10    0 
+USABot    987026502  2  2 Bk  f     -     -         1907   10    0 
+USABot    987026507  2  1 Bc  bc    b     -         1897   50   80 
+USABot    987026514  2  2 Bk  f     -     -         1927   10    0 
+USABot    987026519  2  1 Bcc kc    kc    bc        1917   90    0 7h Qc
+USABot    987026532  2  2 Bk  f     -     -         1827   10    0 
+USABot    987026544  2  1 Bc  bc    bc    b         1817   90  180 Jd Qc
+USABot    987026555  2  2 Bk  c     c     c         1907   60    0 6c 8h
+USABot    987026569  2  1 Bc  b     k     b         1847   40    0 6h 6s
+USABot    987026584  2  2 Bk  c     c     b         1807   60  100 
+USABot    987026602  2  1 Bc  kf    -     -         1847   10    0 
+USABot    987026607  2  2 Bk  f     -     -         1837   10    0 
+USABot    987026614  2  1 Bcc kc    kc    bc        1827   90    0 Qd 3c
+USABot    987026624  2  2 Bk  c     c     b         1737   60  100 
+USABot    987026641  2  1 Bc  b     -     -         1777   20   30 
+USABot    987026649  2  2 Bc  c     c     c         1787   70  140 7s 8c
+USABot    987026660  2  1 Bc  kc    k     b         1857   40   60 
+USABot    987026675  2  2 Bk  c     c     c         1877   60    0 6d 3d
+USABot    987026688  2  1 Bc  b     b     bc        1817   80    0 9h 8s
+USABot    987026704  2  2 Bk  f     -     -         1737   10    0 
+USABot    987026713  2  1 Bc  kf    -     -         1727   10    0 
+USABot    987026718  2  2 Bk  f     -     -         1717   10    0 
+USABot    987026724  2  1 Bc  kf    -     -         1707   10    0 
+USABot    987026729  2  2 Bk  c     b     -         1697   40   60 
+USABot    987026737  2  1 Bc  bc    brc   brc       1717  190  380 7h Ac
+USABot    987026753  2  2 Bk  c     b     -         1907   40   60 
+USABot    987026794  3  1 Bc  bc    br    b         1927  120  280 Kd 2d
+USABot    987026817  3  3 cc  b     -     -         2087   30   70 
+USABot    987026837  3  2 Bf  -     -     -         2127   10    0 
+USABot    987026843  3  1 Bc  bc    bc    bc        2117  120    0 Qc Qs
+USABot    987026855  3  3 f   -     -     -         1997    0    0 
+USABot    987026863  3  2 Bk  f     -     -         1997   10    0 
+USABot    987026871  3  1 Bf  -     -     -         1987    5    0 
+USABot    987026877  3  3 f   -     -     -         1982    0    0 
+USABot    987026889  3  2 Bf  -     -     -         1982   10    0 
+USABot    987026898  3  1 Bcc kf    -     -         1972   20    0 
+USABot    987026909  3  3 f   -     -     -         1952    0    0 
+USABot    987026912  3  2 Bk  c     c     c         1952   60    0 6s Ac
+USABot    987026945  2  1 Bc  kc    k     b         1892   40   60 
+USABot    987026962  2  2 Bk  b     b     b         1912   60  100 
+USABot    987026978  2  1 Bc  b     -     -         1952   20   30 
+USABot    987026985  2  2 Bk  c     b     b         1962   60  120 Kh 8c
+USABot    987026999  2  1 Bc  k     kf    -         2022   10    0 
+USABot    987027013  2  2 Bc  c     c     c         2012   70  140 4d 2c
+USABot    987027023  2  1 Bc  kf    -     -         2082   10    0 
+USABot    987027034  2  2 Bc  c     f     -         2072   30    0 
+USABot    987027041  2  1 Bcc bc    b     -         2042   60  100 
+USABot    987027053  2  2 Bk  f     -     -         2082   10    0 
+USABot    987027060  2  1 Bc  bc    bc    b         2072   90    0 2c Jc
+USABot    987027072  2  2 B   -     -     -         1982   10   15 
+USABot    987027079  2  1 Bcc kf    -     -         1987   20    0 
+USABot    987027085  2  2 Bk  c     c     b         1967   60  100 
+USABot    987027098  2  1 Bc  bc    b     -         2007   50   80 
+USABot    987027105  2  2 Bk  f     -     -         2037   10    0 
+USABot    987027112  2  1 Bc  b     -     -         2027   20   30 
+USABot    987027116  2  2 Bk  c     b     -         2037   40   60 
+USABot    987027124  2  1 Bc  kc    bc    bc        2057  100  200 6d Ah
+USABot    987027136  2  2 Bk  c     k     b         2157   40   60 
+USABot    987027160  2  1 Bc  bc    kc    bc        2177   90    0 4h 9h
+USABot    987027169  2  2 Bk  k     k     b         2087   30   40 
+USABot    987027192  2  1 Bcc kf    -     -         2097   20    0 
+USABot    987027200  3  2 Bk  c     b     b         2077   60  100 
+USABot    987027218  3  1 Bc  k     kf    -         2117   10    0 
+USABot    987027243  3  3 f   -     -     -         2107    0    0 
+USABot    987027256  3  2 Bk  f     -     -         2107   10    0 
+USABot    987027268  4  1 Bc  bc    b     bc        2097   90    0 Ad 9h
+USABot    987027287  4  4 c   f     -     -         2007   10    0 
+USABot    987027327  4  3 c   f     -     -         1997   10    0 
+USABot    987027345  4  2 Bk  f     -     -         1987   10    0 
+USABot    987027373  4  1 Bf  -     -     -         1977    5    0 
+USABot    987027411  4  4 f   -     -     -         1972    0    0 
+USABot    987027445  4  3 f   -     -     -         1972    0    0 
+USABot    987027497  5  2 Bc  kc    kf    -         1972   30    0 
+USABot    987027558  4  1 Bf  -     -     -         1942    5    0 
+USABot    987027582  4  4 f   -     -     -         1937    0    0 
+USABot    987027617  4  3 cc  kc    kf    -         1937   30    0 
+USABot    987027659  4  2 Bk  kf    -     -         1907   10    0 
+USABot    987027689  4  1 Bc  k     b     b         1897   50   90 
+USABot    987027718  4  4 f   -     -     -         1937    0    0 
+USABot    987027762  4  3 f   -     -     -         1937    0    0 
+USABot    987027803  4  2 Bc  ccc   kf    -         1937   70    0 
+USABot    987027842  4  1 Bf  -     -     -         1867    5    0 
+USABot    987027888  4  4 f   -     -     -         1862    0    0 
+USABot    987027898  4  3 f   -     -     -         1862    0    0 
+USABot    987027921  4  2 Bk  f     -     -         1862   10    0 
+USABot    987027960  4  1 Bc  brc   bc    bc        1852  140    0 Qs Js
+USABot    987028005  4  4 cc  brc   r     r         1712  140  330 As Ah
+USABot    987028048  3  2 cc  k     bc    bc        1902  100    0 Qs Kh
+USABot    987028086  3  2 Bk  f     -     -         1802   10    0 
+USABot    987028104  3  1 Bc  k     k     bc        1792   60    0 Ac 7s
+USABot    987028143  3  3 f   -     -     -         1732    0    0 
+USABot    987028173  3  2 Bc  brc   b     b         1732  100  220 Ts As
+USABot    987028213  3  1 Bc  bc    bc    bc        1852  110    0 9h 9s
+USABot    987028243  3  3 f   -     -     -         1742    0    0 
+USABot    987028261  3  2 Bk  k     k     b         1742   30   50 
+USABot    987028298  4  1 Bc  k     k     kf        1762   10    0 
+USABot    987028336  4  4 cc  b     c     c         1752   80    0 Kh Td
+USABot    987028361  4  3 f   -     -     -         1672    0    0 
+USABot    987028391  4  2 Bk  b     b     -         1672   40   70 
+USABot    987028409  4  1 Bf  -     -     -         1702    5    0 
+USABot    987028420  4  4 f   -     -     -         1697    0    0 
+USABot    987028460  3  2 f   -     -     -         1697    0    0 
+USABot    987028463  3  2 Bk  k     k     b         1697   30    0 Ac Js
+USABot    987028487  3  1 Bf  -     -     -         1667    5    0 
+USABot    987028501  3  3 f   -     -     -         1662    0    0 
+USABot    987028504  3  2 Bk  f     -     -         1662   10    0 
+USABot    987028511  3  1 Bf  -     -     -         1652    5    0 
+USABot    987028518  3  3 f   -     -     -         1647    0    0 
+USABot    987028531  3  2 Bk  c     c     b         1647   60  120 4s Jh
+USABot    987028555  4  1 Bf  -     -     -         1707    5    0 
+USABot    987028579  4  4 f   -     -     -         1702    0    0 
+USABot    987028594  3  2 c   c     f     -         1702   20    0 
+USABot    987028611  3  2 Bk  b     b     -         1682   40   70 
+USABot    987028627  4  1 Bf  -     -     -         1712    5    0 
+USABot    987028641  4  4 c   b     k     b         1707   40   95 5c 5d
+USABot    987028675  4  3 c   k     k     b         1762   30   45 
+USABot    987028693  4  2 Bk  kf    -     -         1777   10    0 
+USABot    987028706  4  1 Bc  br    b     b         1767   80  170 Qs Th
+USABot    987028731  4  4 f   -     -     -         1857    0    0 
+USABot    987028758  4  3 f   -     -     -         1857    0    0 
+USABot    987028765  4  2 Bk  f     -     -         1857   10    0 
+USABot    987028782  4  1 Bf  -     -     -         1847    5    0 
+USABot    987028790  4  4 c   c     f     -         1842   20    0 
+USABot    987028815  4  3 f   -     -     -         1822    0    0 
+USABot    987028848  4  2 Bk  b     b     -         1822   40   65 
+USABot    987028869  3  1 Bc  b     -     -         1847   20   30 
+USABot    987028883  3  3 f   -     -     -         1857    0    0 
+USABot    987028903  3  2 Bk  f     -     -         1857   10    0 
+USABot    987028914  3  1 Bc  brc   b     brc       1847  160    0 8d Ac
+USABot    987028931  3  3 c   b     k     b         1687   40   65 
+USABot    987028955  3  2 Bk  c     c     b         1712   60  100 
+USABot    987028968  3  1 Bc  k     k     bc        1752   50   55 Ac 4s
+USABot    987028983  3  3 c   c     f     -         1757   20    0 
+USABot    987028998  3  2 Bk  f     -     -         1737   10    0 
+USABot    987029007  3  1 Bf  -     -     -         1727    5    0 
+USABot    987029011  3  3 f   -     -     -         1722    0    0 
+USABot    987029019  3  2 Bc  c     f     -         1722   30    0 
+USABot    987029033  3  1 Bf  -     -     -         1692    5    0 
+USABot    987029045  3  3 f   -     -     -         1687    0    0 
+USABot    987029047  3  2 Bf  -     -     -         1687   10    0 
+USABot    987029066  3  1 Bc  k     k     b         1677   30    0 As 7h
+USABot    987029086  3  3 c   c     c     c         1647   60    0 6c 6s
+USABot    987029106  3  2 Bf  -     -     -         1587   10    0 
+USABot    987029116  3  1 Bf  -     -     -         1577    5    0 
+USABot    987029120  3  3 f   -     -     -         1572    0    0 
+USABot    987029131  3  2 Bk  k     k     b         1572   30   60 Tc Ac
+USABot    987029153  3  1 Bf  -     -     -         1602    5    0 
+USABot    987029175  3  3 f   -     -     -         1597    0    0 
+USABot    987029182  3  2 Bk  c     c     c         1597   60  130 3c Qh
+USABot    987029197  3  1 Bf  Q     -     -         1667    5    0 
+USABot    987201248  6  5 rc  rc    rc    bc        1512  160  500 Qh Qc
+USABot    987201329  4  2 Bc  r     r     b         1852  100  200 Ah 7d
+USABot    987201353  4  1 Bf  -     -     -         1952    5    0 
+USABot    987201384  4  4 rc  rc    b     -         1947   80  205 
+USABot    987201420  4  3 f   -     -     -         2072    0    0 
+USABot    987201430  4  2 Bf  -     -     -         2072   10    0 
+USABot    987201441  4  1 Bf  -     -     -         2062    5    0 
+USABot    987201464  4  4 cc  c     r     b         2057   90    0 6c Kc
+USABot    987201499  4  3 f   -     -     -         1967    0    0 
+USABot    987201520  6  4 rc  k     kc    b         1967   70  210 
+USABot    987201568  6  3 cQ  -     -     -         2107   10    0 

@@ -1,0 +1,352 @@
+Undergrnd 986149727 10  9 c   f     -     -         8742   10    0 
+Undergrnd 986149829 10  8 f   -     -     -         8732    0    0 
+Undergrnd 986149883  9  6 f   -     -     -         8732    0    0 
+Undergrnd 986149914  8  4 f   -     -     -         8732    0    0 
+Undergrnd 986150036  9  3 f   -     -     -         8732    0    0 
+Undergrnd 986150099 10  2 Bf  -     -     -         8732   10    0 
+Undergrnd 986150187 10  1 Bf  -     -     -         8722    5    0 
+Undergrnd 986150248 10 10 f   -     -     -         8717    0    0 
+Undergrnd 986150295 10  9 f   -     -     -         8717    0    0 
+Undergrnd 986150363 10  8 f   -     -     -         8717    0    0 
+Undergrnd 986150434 10  7 f   -     -     -         8717    0    0 
+Undergrnd 986150550 10  6 f   -     -     -         8717    0    0 
+Undergrnd 986150625  8  5 f   -     -     -         8717    0    0 
+Undergrnd 986150660  8  4 f   -     -     -         8717    0    0 
+Undergrnd 986150743  9  3 f   -     -     -         8717    0    0 
+Undergrnd 986150813  9  2 Bk  kf    -     -         8717   10    0 
+Undergrnd 986150879  9  1 Bf  -     -     -         8707    5    0 
+Undergrnd 986150930  9  9 f   -     -     -         8702    0    0 
+Undergrnd 986150978 10  9 c   b     b     c         8702   60    0 Qs Js
+Undergrnd 986151062 10  8 rc  bc    kc    kc        8642   90    0 Qs Qh
+Undergrnd 986151123 10  7 f   -     -     -         8552    0    0 
+Undergrnd 986151225 10  6 f   -     -     -         8552    0    0 
+Undergrnd 986151294  9  5 c   k     kf    -         8552   10    0 
+Undergrnd 986151375 10  4 f   -     -     -         8542    0    0 
+Undergrnd 986151580  8  2 Bk  k     kf    -         8542   10    0 
+Undergrnd 986151645 10  1 Bc  kc    kf    -         8532   40    0 
+Undergrnd 986151796 10 10 f   -     -     -         8492    0    0 
+Undergrnd 986151909 10  9 f   -     -     -         8492    0    0 
+Undergrnd 986152002 10  8 f   -     -     -         8492    0    0 
+Undergrnd 986152028 10  7 c   f     -     -         8492   10    0 
+Undergrnd 986152079 10  7 f   -     -     -         8482    0    0 
+Undergrnd 986152161 10  5 f   -     -     -         8482    0    0 
+Undergrnd 986152232 10  4 fQ  -     -     -         8482    0    0 
+Undergrnd 986164319 10  2 Bk  k     kf    -         8482   10    0 
+Undergrnd 986164378 10  1 Bf  -     -     -         8472    5    0 
+Undergrnd 986164451 10 10 f   -     -     -         8467    0    0 
+Undergrnd 986164497 10  9 cc  k     f     -         8467   20    0 
+Undergrnd 986164559 10  8 c   f     -     -         8447   10    0 
+Undergrnd 986164673  9  7 f   -     -     -         8437    0    0 
+Undergrnd 986164702 10  6 cc  k     k     f         8437   20    0 
+Undergrnd 986164741  9  4 cc  b     b     -         8417   50  175 
+Undergrnd 986164843  9  3 f   -     -     -         8542    0    0 
+Undergrnd 986164906 10  2 Bf  -     -     -         8542   10    0 
+Undergrnd 986165032 10  1 Bc  kc    kf    -         8532   30    0 
+Undergrnd 986165083  9  9 c   c     b     b         8502   60  160 Ts Qd
+Undergrnd 986165143  9  8 f   -     -     -         8602    0    0 
+Undergrnd 986165217  9  7 f   -     -     -         8602    0    0 
+Undergrnd 986165255  8  5 f   -     -     -         8602    0    0 
+Undergrnd 986165323  8  5 Q   -     -     -         8602    0    0 
+Undergrnd 986174844  9  7 c   k     k     k         8602   10   25 9d 6d
+Undergrnd 986174928  9  6 cc  kc    kc    kf        8617   50    0 
+Undergrnd 986174970  8  4 cc  k     bf    -         8567   40    0 
+Undergrnd 986175032  8  2 Bf  -     -     -         8527   10    0 
+Undergrnd 986175085  8  1 Bf  -     -     -         8517    5    0 
+Undergrnd 986175129  9  9 c   f     -     -         8512   10    0 
+Undergrnd 986175161  9  8 f   -     -     -         8502    0    0 
+Undergrnd 986175205  9  7 c   b     b     b         8502   60  135 Qc 4c
+Undergrnd 986175249  9  6 f   -     -     -         8577    0    0 
+Undergrnd 986175320  9  5 c   f     -     -         8577   10    0 
+Undergrnd 986175379  9  4 Q   -     -     -         8567    0    0 
+Undergrnd 986251633  7  7 f   -     -     -         8567    0    0 
+Undergrnd 986251667  7  4 Q   -     -     -         8567    0    0 
+Undergrnd 986682075  6  6 rr  r     c     c         6087  100    0 Ts Th
+Undergrnd 986682142  6  5 c   kf    -     -         5987   10    0 
+Undergrnd 986682171  6  4 f   -     -     -         5977    0    0 
+Undergrnd 986682220  6  3 f   -     -     -         5977    0    0 
+Undergrnd 986682275  6  2 Bk  k     k     k         5977   10    0 6h Kd
+Undergrnd 986682302  6  1 Bf  -     -     -         5967    5    0 
+Undergrnd 986682364  6  6 f   -     -     -         5962    0    0 
+Undergrnd 986682498  6  4 f   -     -     -         5962    0    0 
+Undergrnd 986682546  6  3 c   kc    b     b         5962   60  170 9c 7c
+Undergrnd 986682627  7  3 f   -     -     -         6072    0    0 
+Undergrnd 986682663  7  2 Bc  kf    -     -         6072   20    0 
+Undergrnd 986682731  8  1 Bc  kf    -     -         6052   10    0 
+Undergrnd 986682769  8  8 c   k     cc    f         6042   70    0 
+Undergrnd 986682832 10  9 f   -     -     -         5972    0    0 
+Undergrnd 986682875 10  8 f   -     -     -         5972    0    0 
+Undergrnd 986682933 10  7 c   b     b     b         5972   60  175 Ts Qh
+Undergrnd 986682995 10  6 f   -     -     -         6087    0    0 
+Undergrnd 986683054 10  5 f   -     -     -         6087    0    0 
+Undergrnd 986683146  9  4 f   -     -     -         6087    0    0 
+Undergrnd 986683242 10  3 f   -     -     -         6087    0    0 
+Undergrnd 986683328 10  2 BQ  -     -     -         6087   10    0 
+Undergrnd 986776671  8  6 f   -     -     -         6077    0    0 
+Undergrnd 986776735  8  5 f   -     -     -         6077    0    0 
+Undergrnd 986776815  8  4 cc  kc    k     b         6077   50  145 Jc Ah
+Undergrnd 986776847  8  3 f   -     -     -         6172    0    0 
+Undergrnd 986776899  8  2 Bf  -     -     -         6172   10    0 
+Undergrnd 986776953  8  1 Bc  kf    -     -         6162   20    0 
+Undergrnd 986777062  6  6 f   -     -     -         6142    0    0 
+Undergrnd 986777083  7  5 f   -     -     -         6142    0    0 
+Undergrnd 986777146  6  4 f   -     -     -         6142    0    0 
+Undergrnd 986777174  8  3 c   kf    -     -         6142   10    0 
+Undergrnd 986777224  8  2 Bk  b     b     -         6132   40   80 
+Undergrnd 986777275  8  1 Bc  kc    k     k         6172   20    0 Qs 8s
+Undergrnd 986777323  8  4 Q   -     -     -         6152    0    0 
+Undergrnd 987910335 10  2 Bk  bc    kc    b         6197   70  220 Ah 2h
+Undergrnd 987910426 10  1 Bf  -     -     -         6347    5    0 
+Undergrnd 987910496 10 10 f   -     -     -         6342    0    0 
+Undergrnd 987910545 10  9 f   -     -     -         6342    0    0 
+Undergrnd 987910629 10  8 cc  f     -     -         6342   40    0 
+Undergrnd 987910734 10  7 f   -     -     -         6302    0    0 
+Undergrnd 987910827 10  7 c   f     -     -         6302   10    0 
+Undergrnd 987910880  9  5 cc  c     f     -         6292   30    0 
+Undergrnd 987910991  9  4 f   -     -     -         6262    0    0 
+Undergrnd 987911041  9  3 f   -     -     -         6262    0    0 
+Undergrnd 987911088 10  2 Bk  kf    -     -         6262   10    0 
+Undergrnd 987911145 10  1 Bf  -     -     -         6252    5    0 
+Undergrnd 987911204 10 10 f   -     -     -         6247    0    0 
+Undergrnd 987911265 10  9 f   -     -     -         6247    0    0 
+Undergrnd 987911290 10  8 f   -     -     -         6247    0    0 
+Undergrnd 987911391 10  7 f   -     -     -         6247    0    0 
+Undergrnd 987911457 10  6 f   -     -     -         6247    0    0 
+Undergrnd 987911496 10  5 f   -     -     -         6247    0    0 
+Undergrnd 987911569 10  4 f   -     -     -         6247    0    0 
+Undergrnd 987911602 10  3 f   -     -     -         6247    0    0 
+Undergrnd 987911643 10  2 Bk  f     -     -         6247   10    0 
+Undergrnd 987911694 10  1 Bf  -     -     -         6237    5    0 
+Undergrnd 987911825 10 10 f   -     -     -         6232    0    0 
+Undergrnd 987911922  9  8 f   -     -     -         6232    0    0 
+Undergrnd 987912008 10  8 c   r     b     k         6232   50    0 8s 7s
+Undergrnd 987912094 10  7 c   f     -     -         6182   10    0 
+Undergrnd 987912172 10  6 f   -     -     -         6172    0    0 
+Undergrnd 987912241 10  5 fQ  -     -     -         6172    0    0 
+Undergrnd 987952199  8  7 c   k     f     -         6172   10    0 
+Undergrnd 987952232  8  6 f   -     -     -         6162    0    0 
+Undergrnd 987952264  8  5 f   -     -     -         6162    0    0 
+Undergrnd 987952296  9  5 rr  br    br    br        6162  190  565 Ah Ad
+Undergrnd 987952342 10  5 f   -     -     -         6537    0    0 
+Undergrnd 987952420 10  4 c   f     -     -         6537   20    0 
+Undergrnd 987952460 10  3 f   -     -     -         6517    0    0 
+Undergrnd 987952527 10  2 Bk  br    bc    b         6517  100  265 3h 3d
+Undergrnd 987952569 10  1 Bf  -     -     -         6682    5    0 
+Undergrnd 987952615 10 10 f   -     -     -         6677    0    0 
+Undergrnd 987952666 10  9 c   k     c     k         6677   40    0 Qc Tc
+Undergrnd 987952704 10  8 c   c     f     -         6637   20    0 
+Undergrnd 987952756 10  7 cc  c     f     -         6617   60    0 
+Undergrnd 987952815 10  6 f   -     -     -         6557    0    0 
+Undergrnd 987952858 10  5 f   -     -     -         6557    0    0 
+Undergrnd 987952922 10  4 f   -     -     -         6557    0    0 
+Undergrnd 987952965 10  3 f   -     -     -         6557    0    0 
+Undergrnd 987953027 10  2 Bf  -     -     -         6557   10    0 
+Undergrnd 987953058 10  1 Bf  -     -     -         6547    5    0 
+Undergrnd 987953099 10 10 c   k     k     f         6542   10    0 
+Undergrnd 987953150 10  9 f   -     -     -         6532    0    0 
+Undergrnd 987953198 10  8 c   f     -     -         6532   10    0 
+Undergrnd 987953236 10  7 cc  kc    c     c         6522   70    0 Kc 7c
+Undergrnd 987953278 10  6 f   -     -     -         6452    0    0 
+Undergrnd 987953337 10  5 f   -     -     -         6452    0    0 
+Undergrnd 987953401 10  4 f   -     -     -         6452    0    0 
+Undergrnd 987953458 10  3 f   -     -     -         6452    0    0 
+Undergrnd 987953518 10  2 Bc  kc    f     -         6452   30    0 
+Undergrnd 987953593 10  1 Bf  -     -     -         6422    5    0 
+Undergrnd 987953631 10 10 f   -     -     -         6417    0    0 
+Undergrnd 987953681 10  9 f   Q     -     -         6417    0    0 
+Undergrnd 987954690  8  8 f   -     Q     -         6447    0    0 
+Undergrnd 988324338  9  7 f   -     -     -         6060    0    0 
+Undergrnd 988324372  8  5 ccc c     f     -         6060   50    0 
+Undergrnd 988324437  8  5 c   bc    br    b         6010  110  245 7h 9h
+Undergrnd 988324524  8  4 f   -     -     -         6145    0    0 
+Undergrnd 988324550 10  4 f   -     -     -         6145    0    0 
+Undergrnd 988324579 10  3 f   -     -     -         6145    0    0 
+Undergrnd 988324643 10  2 Bf  -     -     -         6145   10    0 
+Undergrnd 988324669 10  1 Bf  -     -     -         6135    5    0 
+Undergrnd 988324732  9  9 f   -     -     -         6130    0    0 
+Undergrnd 988324787  9  9 f   -     -     -         6130    0    0 
+Undergrnd 988324834  9  8 f   -     -     -         6130    0    0 
+Undergrnd 988324855  9  7 c   c     c     c         6130   70    0 As Js
+Undergrnd 988324889  8  5 f   -     -     -         6060    0    0 
+Undergrnd 988324941  9  4 c   b     k     f         6060   30    0 
+Undergrnd 988324993  9  3 f   -     -     -         6030    0    0 
+Undergrnd 988325013  8  1 Bf  -     -     -         6030   10    0 
+Undergrnd 988325080 10  1 Bf  -     -     -         6020    5    0 
+Undergrnd 988325126 10 10 f   -     -     -         6015    0    0 
+Undergrnd 988325213 10  9 c   k     c     c         6015   70    0 8d Jd
+Undergrnd 988325285 10  8 f   -     -     -         5945    0    0 
+Undergrnd 988325363 10  7 rc  rc    rc    cc        5945  230  835 Kd Kh
+Undergrnd 988325447 10  6 f   -     -     -         6550    0    0 
+Undergrnd 988325517 10  6 rc  rc    rc    rc        6550  230  802 Ks Kd
+Undergrnd 988325639 10  4 c   kf    -     -         7122   10    0 
+Undergrnd 988325780 10  3 f   -     -     -         7112    0    0 
+Undergrnd 988325871 10  2 Bk  kc    k     kf        7112   20    0 
+Undergrnd 988325942 10  1 Bc  b     b     b         7092   60    0 8d 8c
+Undergrnd 988325993  9  9 f   -     -     -         7032    0    0 
+Undergrnd 988326028  9  8 f   -     -     -         7032    0    0 
+Undergrnd 988326065  9  7 c   f     -     -         7032   10    0 
+Undergrnd 988326128  8  5 f   -     -     -         7022    0    0 
+Undergrnd 988326159  8  4 c   k     k     k         7022   10    0 Tc 7c
+Undergrnd 988326214  8  3 rc  r     bc    c         7012  110    0 Ah Kd
+Undergrnd 988326311  8  2 Bk  b     k     b         6902   40   70 
+Undergrnd 988326362  8  1 BQ  -     -     -         6932    5    0 
+Undergrnd 988410025  4  2 Bc  c     c     c         6927   70  140 Qs Jc
+Undergrnd 988410077  6  1 Bf  -     -     -         6997    5    0 
+Undergrnd 988410096  6  6 r   k     b     -         6992   40   65 
+Undergrnd 988410125  6  5 cc  k     kc    kc        7017   60    0 8c Jd
+Undergrnd 988410160  6  4 f   -     -     -         6957    0    0 
+Undergrnd 988410173  6  3 f   -     -     -         6957    0    0 
+Undergrnd 988410197  6  2 Bk  kf    -     -         6957   10    0 
+Undergrnd 988410208  6  1 Bcf -     -     -         6947   10    0 
+Undergrnd 988410221  6  6 f   -     -     -         6937    0    0 
+Undergrnd 988410244  6  5 f   -     -     -         6937    0    0 
+Undergrnd 988410274  7  5 c   k     k     c         6937   40   95 2s 2h
+Undergrnd 988410293  7  4 cc  k     bc    rr        6992  140  360 Ts 7s
+Undergrnd 988410348  7  3 f   -     -     -         7212    0    0 
+Undergrnd 988410379  7  2 Bc  kcc   krc   bc        7212  180  545 3s Ad
+Undergrnd 988410426  6  1 Bc  k     k     k         7577   10    0 8s 6s
+Undergrnd 988410454  7  7 f   -     -     -         7567    0    0 
+Undergrnd 988410505  7  6 c   b     b     b         7567   60    0 8s 5s
+Undergrnd 988410535  7  5 f   -     -     -         7507    0    0 
+Undergrnd 988410579  8  5 c   c     c     c         7507   60    0 Th 9s
+Undergrnd 988410609  8  4 fQ  -     -     -         7447    0    0 
+Undergrnd 988493907  8  2 Bk  k     kf    -         7447   10    0 
+Undergrnd 988493944  7  1 Bf  -     -     -         7437    5    0 
+Undergrnd 988493986  7  7 c   k     f     -         7432   10    0 
+Undergrnd 988494032  7  6 f   -     -     -         7422    0    0 
+Undergrnd 988494062 10  8 c   k     bc    kc        7422   70  160 Jd Th
+Undergrnd 988494124 10  7 f   -     -     -         7512    0    0 
+Undergrnd 988494174 10  7 f   -     -     -         7512    0    0 
+Undergrnd 988494215 10  5 f   -     -     -         7512    0    0 
+Undergrnd 988494239 10  4 c   k     f     -         7512   10    0 
+Undergrnd 988494293 10  3 f   -     -     -         7502    0    0 
+Undergrnd 988494319 10  2 Bk  kf    -     -         7502   10    0 
+Undergrnd 988494358 10  1 Bf  -     -     -         7492    5    0 
+Undergrnd 988494424 10 10 c   b     -     -         7487   20   45 
+Undergrnd 988494479 10  9 f   -     -     -         7512    0    0 
+Undergrnd 988494568 10  8 c   f     -     -         7512   10    0 
+Undergrnd 988494635 10  8 f   -     -     -         7502    0    0 
+Undergrnd 988494683 10  6 c   kf    -     -         7502   10    0 
+Undergrnd 988494786 10  5 c   b     k     b         7492   40    0 9h 9s
+Undergrnd 988494857 10  4 f   -     -     -         7452    0    0 
+Undergrnd 988494940 10  4 f   -     -     -         7452    0    0 
+Undergrnd 988494966 10  2 Br  k     kc    kc        7452   70    0 Kd Ac
+Undergrnd 988495068 10  1 Bc  kf    -     -         7382   20    0 
+Undergrnd 988495134 10 10 f   -     -     -         7362    0    0 
+Undergrnd 988495169 10  9 c   c     b     b         7362   60  145 
+Undergrnd 988495248  8  6 f   -     -     -         7447    0    0 
+Undergrnd 988495280  9  6 f   -     -     -         7447    0    0 
+Undergrnd 988495391 10  6 f   -     -     -         7447    0    0 
+Undergrnd 988495447 10  5 f   -     -     -         7447    0    0 
+Undergrnd 988495500 10  4 f   -     -     -         7447    0    0 
+Undergrnd 988495559 10  3 cc  kf    -     -         7447   20    0 
+Undergrnd 988495601 10  2 Bk  c     f     -         7427   20    0 
+Undergrnd 988495672 10  1 Bf  -     -     -         7407    5    0 
+Undergrnd 988495726 10 10 f   -     -     -         7402    0    0 
+Undergrnd 988495780 10  9 f   -     -     -         7402    0    0 
+Undergrnd 988495866 10  8 r   b     -     -         7402   30   65 
+Undergrnd 988495917 10  7 f   -     -     -         7437    0    0 
+Undergrnd 988495974 10  6 f   -     -     -         7437    0    0 
+Undergrnd 988496044 10  5 f   -     -     -         7437    0    0 
+Undergrnd 988496086 10  4 f   -     -     -         7437    0    0 
+Undergrnd 988496171 10  3 f   -     -     -         7437    0    0 
+Undergrnd 988496237 10  2 Bf  -     -     -         7437   10    0 
+Undergrnd 988496321 10  1 Bf  -     -     -         7427    5    0 
+Undergrnd 988496382 10 10 f   -     -     -         7422    0    0 
+Undergrnd 988496466 10  9 cc  kf    -     -         7422   40    0 
+Undergrnd 988496597  9  8 f   -     -     -         7382    0    0 
+Undergrnd 988496665  9  8 c   k     k     k         7382   10    0 Jd Kc
+Undergrnd 988496713  9  6 f   -     -     -         7372    0    0 
+Undergrnd 988496770  8  4 fQ  -     -     -         7372    0    0 
+Undergrnd 988513315 10  7 f   -     -     -         6907    0    0 
+Undergrnd 988513384 10  6 f   -     -     -         6907    0    0 
+Undergrnd 988513489 10  5 f   -     -     -         6907    0    0 
+Undergrnd 988513528 10  4 f   -     -     -         6907    0    0 
+Undergrnd 988513596 10  3 f   -     -     -         6907    0    0 
+Undergrnd 988513655 10  2 Bk  k     f     -         6907   10    0 
+Undergrnd 988513722 10  1 Bf  -     -     -         6897    5    0 
+Undergrnd 988513755 10 10 c   c     c     c         6892   80    0 Js 9s
+Undergrnd 988513815 10  9 f   -     -     -         6812    0    0 
+Undergrnd 988513896 10  8 f   -     -     -         6812    0    0 
+Undergrnd 988513969 10  7 f   -     -     -         6812    0    0 
+Undergrnd 988514015 10  6 f   -     -     -         6812    0    0 
+Undergrnd 988514099 10  5 f   -     -     -         6812    0    0 
+Undergrnd 988514168 10  4 cf  -     -     -         6812   10    0 
+Undergrnd 988514231 10  3 f   -     -     -         6802    0    0 
+Undergrnd 988514297 10  2 Bk  kf    -     -         6802   10    0 
+Undergrnd 988514354 10  1 Bc  b     b     kf        6792   40    0 
+Undergrnd 988514417 10  7 Q   -     -     -         6752    0    0 
+Undergrnd 988559951  9  2 Br  rc    c     c         6752   90  180 9h 9d
+Undergrnd 988559984  9  1 Bf  -     -     -         6842    5    0 
+Undergrnd 988560045  7  7 f   -     -     -         6837    0    0 
+Undergrnd 988560090  7  6 fQ  -     -     -         6837    0    0 
+Undergrnd 988583999 10  5 cc  kc    cc    rc        6682  150    0 7d 8d
+Undergrnd 988584088 10  4 f   -     -     -         6522    0    0 
+Undergrnd 988584143  9  3 f   -     -     -         6522    0    0 
+Undergrnd 988584206  9  2 Bc  kf    -     -         6522   20    0 
+Undergrnd 988584260 10  1 BQ  -     -     -         6502    5    0 
+Undergrnd 988641424  4  4 f   -     -     -         6497    0    0 
+Undergrnd 988641450  4  3 f   -     -     -         6497    0    0 
+Undergrnd 988641457  4  2 B   -     -     -         6497   10   15 
+Undergrnd 988641463  4  1 Bf  -     -     -         6502    5    0 
+Undergrnd 988641468  4  4 cc  c     rr    rr        6497  190  500 7h Ah
+Undergrnd 988641507  4  3 f   -     -     -         6807    0    0 
+Undergrnd 988641532  4  2 Bk  k     k     f         6807   10    0 
+Undergrnd 988641559  6  1 Bf  -     -     -         6797    5    0 
+Undergrnd 988641590  6  6 c   k     k     k         6792   10    0 5c Kc
+Undergrnd 988641622  7  6 f   -     -     -         6782    0    0 
+Undergrnd 988641662  7  5 f   -     -     -         6782    0    0 
+Undergrnd 988641694  7  4 f   -     -     -         6782    0    0 
+Undergrnd 988641756  7  3 f   -     -     -         6782    0    0 
+Undergrnd 988641787  7  2 Bf  -     -     -         6782   10    0 
+Undergrnd 988641807  9  1 Bc  k     k     k         6772   20    0 Tc Qc
+Undergrnd 988641855  8  8 rc  c     c     rc        6752  120  320 Qs Ah
+Undergrnd 988641903  9  8 f   -     -     -         6952    0    0 
+Undergrnd 988641953  9  7 c   c     f     -         6952   20    0 
+Undergrnd 988642030  9  6 f   -     -     -         6932    0    0 
+Undergrnd 988642097  9  5 f   -     -     -         6932    0    0 
+Undergrnd 988642139  9  4 cc  k     kf    -         6932   30    0 
+Undergrnd 988642228  8  3 c   k     c     f         6902   30    0 
+Undergrnd 988642378  7  2 Bk  kc    kf    -         6872   20    0 
+Undergrnd 988642443  8  1 Bf  -     -     -         6852    5    0 
+Undergrnd 988642556  7  7 c   c     f     -         6847   30    0 
+Undergrnd 988642602  7  6 f   -     -     -         6817    0    0 
+Undergrnd 988642661  7  5 f   -     -     -         6817    0    0 
+Undergrnd 988642697  7  5 cc  b     b     -         6817   50  140 
+Undergrnd 988642749  7  3 f   Q     -     -         6907    0    0 
+Undergrnd 988645624  9  4 f   -     -     -         6907    0    0 
+Undergrnd 988645680  9  3 f   -     -     -         6907    0    0 
+Undergrnd 988645732  9  2 BQ  -     -     -         6907   10    0 
+Undergrnd 988677558 10  2 Bk  r     b     b         6897   70  160 6s 7c
+Undergrnd 988677625 10  1 Bcc kf    -     -         6987   20    0 
+Undergrnd 988677660 10 10 c   bc    f     -         6967   30    0 
+Undergrnd 988677746  9  8 f   -     -     -         6937    0    0 
+Undergrnd 988677793  9  7 f   -     -     -         6937    0    0 
+Undergrnd 988677812  9  6 f   -     -     -         6937    0    0 
+Undergrnd 988677839  9  5 f   -     -     -         6937    0    0 
+Undergrnd 988677855  9  4 c   k     kf    -         6937   10    0 
+Undergrnd 988677901  9  3 c   k     kf    -         6927   10    0 
+Undergrnd 988677946  9  2 Bf  -     -     -         6917   10    0 
+Undergrnd 988677984  9  1 Bf  -     -     -         6907    5    0 
+Undergrnd 988678013 10 10 f   -     -     -         6902    0    0 
+Undergrnd 988678056 10  9 r   b     b     -         6902   50  110 
+Undergrnd 988678122 10  8 f   -     -     -         6962    0    0 
+Undergrnd 988678161 10  7 c   k     kc    k         6962   30    0 Qd Ad
+Undergrnd 988678226 10  6 f   -     -     -         6932    0    0 
+Undergrnd 988678268 10  5 f   -     -     -         6932    0    0 
+Undergrnd 988678287 10  4 c   cc    f     -         6932   30    0 
+Undergrnd 988678353 10  3 f   -     -     -         6902    0    0 
+Undergrnd 988678393 10  2 Bc  bc    br    b         6902  120  245 
+Undergrnd 988678452 10  1 Bf  -     -     -         7027    5    0 
+Undergrnd 988678501 10 10 c   f     -     -         7022   10    0 
+Undergrnd 988678547 10  9 f   -     -     -         7012    0    0 
+Undergrnd 988678588 10  8 f   -     -     -         7012    0    0 
+Undergrnd 988678682 10  7 rr  bc    k     c         7012   80    0 Kd Kc
+Undergrnd 988678725 10  6 f   -     -     -         6932    0    0 
+Undergrnd 988678772 10  5 c   c     c     b         6932   60  105 
+Undergrnd 988678823 10  4 rr  k     b     b         6977   80  155 
+Undergrnd 988678865 10  3 f   -     -     -         7052    0    0 
+Undergrnd 988678916 10  2 Bc  c     c     c         7052   70  150 Kh As
+Undergrnd 988678946 10  1 Bf  -     -     -         7132    5    0 
+Undergrnd 988678995 10 10 c   f     -     -         7127   10    0 
+Undergrnd 988679047 10  9 f   -     -     -         7117    0    0 
+Undergrnd 988679096 10  8 c   kfQ   -     -         7117   10    0 

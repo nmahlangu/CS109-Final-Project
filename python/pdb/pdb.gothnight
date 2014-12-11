@@ -1,0 +1,768 @@
+gothnight 986115140  8  4 f   -     -     -         1973    0    0 
+gothnight 986115175  8  3 f   -     -     -         1973    0    0 
+gothnight 986115209  8  2 Bc  f     -     -         1973   20    0 
+gothnight 986115260  8  1 Bf  -     -     -         1953    5    0 
+gothnight 986115312  8  8 f   -     -     -         1948    0    0 
+gothnight 986115379  8  7 f   -     -     -         1948    0    0 
+gothnight 986115422  8  6 c   b     r     b         1948   80  190 Ac Tc
+gothnight 986115479  8  5 f   -     -     -         2058    0    0 
+gothnight 986115532  8  4 f   -     -     -         2058    0    0 
+gothnight 986115565  8  4 cc  f     -     -         2058   20    0 
+gothnight 986115600  7  2 Bf  -     -     -         2038   10    0 
+gothnight 986115636  7  1 Bc  kf    -     -         2028   20    0 
+gothnight 986115683  7  7 f   -     -     -         2008    0    0 
+gothnight 986115709  7  6 c   r     b     bc        2008  100    0 Kd Qd
+gothnight 986115765  7  5 f   -     -     -         1908    0    0 
+gothnight 986115791  7  4 c   b     -     -         1908   20   50 
+gothnight 986115840  7  3 cc  cc    cc    k         1938   80    0 3d Ac
+gothnight 986115903  7  2 Bf  -     -     -         1858   10    0 
+gothnight 986115954  5  1 Bc  krc   krc   b         1848  130    0 Kc 9h
+gothnight 986116010  5  4 Q   -     -     -         1718    0    0 
+gothnight 986203350  6  3 f   -     -     -         1718    0    0 
+gothnight 986203374  6  2 Bf  -     -     -         1718   10    0 
+gothnight 986203420  6  1 Bc  bc    bc    bc        1708  110    0 Qd Jh
+gothnight 986203473  6  6 cc  r     r     c         1598  120  480 4s As
+gothnight 986203543  6  5 f   -     -     -         1958    0    0 
+gothnight 986203592  7  4 f   -     -     -         1958    0    0 
+gothnight 986203641  7  3 cc  brc   c     ccc       1958  160    0 Kh Th
+gothnight 986203730  7  2 Bf  -     -     -         1798   10    0 
+gothnight 986203769  7  1 Bf  -     -     -         1788    5    0 
+gothnight 986203807  7  7 f   -     -     -         1783    0    0 
+gothnight 986203851  7  6 f   -     -     -         1783    0    0 
+gothnight 986203901  7  5 f   -     -     -         1783    0    0 
+gothnight 986203967  7  5 cc  f     -     -         1783   20    0 
+gothnight 986204013  6  3 cc  bc    brc   b         1763  150    0 Td Tc
+gothnight 986204071  6  2 Bk  b     b     b         1613   60  100 
+gothnight 986204113  6  1 Bc  bc    kcc   bc        1653  140    0 9d 9c
+gothnight 986204226  5  5 c   b     k     rc        1513   80    0 Kc Qh
+gothnight 986204293  5  4 c   f     -     -         1433   10    0 
+gothnight 986204327  5  3 cc  cc    c     c         1423  100    0 Th 9h
+gothnight 986204379  5  2 B   -     -     -         1323   10   15 
+gothnight 986204387  5  1 Bf  Q     -     -         1328    5    0 
+gothnight 986204631  5  4 f   -     -     -         1323    0    0 
+gothnight 986204663  5  3 f   -     -     -         1323    0    0 
+gothnight 986204702  5  2 Bk  r     bc    c         1323   90    0 6d Ad
+gothnight 986204758  6  1 Bf  -     -     -         1233    5    0 
+gothnight 986204791  6  6 c   c     f     -         1228   30    0 
+gothnight 986204843  6  5 f   -     -     -         1198    0    0 
+gothnight 986204875  6  4 c   krc   bc    b         1198  100    0 Ks Jc
+gothnight 986204937  6  3 c   b     bc    r         1098  100  200 
+gothnight 986204992  6  2 Bk  b     k     k         1198   20    0 Ad 4h
+gothnight 986205034  6  1 Bcc k     k     k         1178   40    0 7h Kh
+gothnight 986205102  6  6 f   Q     -     -         1138    0    0 
+gothnight 986715618  6  4 f   -     -     -         1228    0    0 
+gothnight 986715647  6  3 c   kc    bc    kc        1228   80    0 6c 6d
+gothnight 986715686  6  2 Bk  k     b     -         1148   30   40 
+gothnight 986715720  6  1 Bf  -     -     -         1158    5    0 
+gothnight 986715734  6  6 f   -     -     -         1153    0    0 
+gothnight 986715766  6  5 f   -     -     -         1153    0    0 
+gothnight 986715780  6  4 f   -     -     -         1153    0    0 
+gothnight 986715804  6  3 c   f     -     -         1153   10    0 
+gothnight 986715823  6  2 Bk  k     kc    kc        1143   50    0 Qd 6c
+gothnight 986715889  6  1 Bc  k     b     -         1093   30   70 
+gothnight 986715921  6  6 f   -     -     -         1133    0    0 
+gothnight 986715941  6  5 f   -     -     -         1133    0    0 
+gothnight 986715974  5  3 c   b     b     br        1133  100    0 7s Ac
+gothnight 986716009  5  2 Bk  b     b     -         1033   40   75 
+gothnight 986716038  5  1 Bf  -     -     -         1068    5    0 
+gothnight 986716069  5  5 f   -     -     -         1063    0    0 
+gothnight 986716091  4  3 f   -     -     -         1063    0    0 
+gothnight 986716097  4  3 f   -     -     -         1063    0    0 
+gothnight 986716112  4  2 B   -     -     -         1063   10   15 
+gothnight 986716116  4  1 Bf  -     -     -         1068    5    0 
+gothnight 986716130  4  4 f   -     -     -         1063    0    0 
+gothnight 986716157  4  3 cc  c     b     -         1063   50   90 
+gothnight 986716178  4  2 Bk  kf    -     -         1103   10    0 
+gothnight 986716202  4  1 Bc  b     bc    kc        1093   80    0 Ah Tc
+gothnight 986716230  4  4 cc  c     rc    c         1013  110    0 Kc Ah
+gothnight 986716261  4  3 f   -     -     -          903    0    0 
+gothnight 986716271  4  2 B   -     -     -          903   10   15 
+gothnight 986716275  4  1 Bf  -     -     -          908    5    0 
+gothnight 986716306  4  4 f   -     -     -          903    0    0 
+gothnight 986716328  4  3 c   b     -     -          903   20   45 
+gothnight 986716343  4  2 Bk  k     k     f          928   10    0 
+gothnight 986716368  4  1 Bc  b     -     -          918   20   30 
+gothnight 986716382  4  4 c   c     rc    c          928  100  310 3c 3h
+gothnight 986716420  4  3 c   kc    b     k         1138   40    0 Jd Kd
+gothnight 986716463  4  2 Bk  kc    b     b         1098   60    0 7h Jd
+gothnight 986716494  4  1 Bc  kf    -     -         1038   20    0 
+gothnight 986716525  4  4 f   -     -     -         1018    0    0 
+gothnight 986716543  4  3 f   -     -     -         1018    0    0 
+gothnight 986716567  4  2 Bf  -     -     -         1018   10    0 
+gothnight 986716590  4  1 Bc  k     k     k         1008   10   20 3d Jd
+gothnight 986716617  4  4 f   -     -     -         1018    0    0 
+gothnight 986716644  4  3 f   -     -     -         1018    0    0 
+gothnight 986716666  4  2 Bc  kf    -     -         1018   20    0 
+gothnight 986716704  4  1 Bc  b     -     -          998   20   40 
+gothnight 986716723  4  4 f   -     -     -         1018    0    0 
+gothnight 986716742  4  3 f   -     -     -         1018    0    0 
+gothnight 986716770  4  2 Bc  b     b     b         1018   70  140 Jh Kc
+gothnight 986716800  4  1 Bc  b     -     -         1088   20   30 
+gothnight 986716816  4  4 f   -     -     -         1098    0    0 
+gothnight 986716830  4  3 c   b     -     -         1098   20   45 
+gothnight 986716853  4  2 Bf  -     -     -         1123   10    0 
+gothnight 986716858  4  1 Bf  -     -     -         1113    5    0 
+gothnight 986716863  4  4 c   c     f     -         1108   30    0 
+gothnight 986716879  4  3 f   -     -     -         1078    0    0 
+gothnight 986716886  4  2 B   -     -     -         1078   10   15 
+gothnight 986716893  4  1 Bf  -     -     -         1083    5    0 
+gothnight 986716921  4  4 f   -     -     -         1078    0    0 
+gothnight 986716929  4  3 c   b     b     -         1078   40   65 
+gothnight 986716947  4  2 Bk  b     -     -         1103   20   40 
+gothnight 986716967  4  1 Bf  -     -     -         1123    5    0 
+gothnight 986716973  4  4 c   k     c     b         1118   50    0 7c Ah
+gothnight 986717013  4  3 cc  rc    c     rc        1068  130    0 6d Td
+gothnight 986717059  5  2 Bc  kf    -     -          938   20    0 
+gothnight 986717082  5  1 Bf  -     -     -          918    5    0 
+gothnight 986717113  5  5 c   b     b     b          913   60  160 9h Kc
+gothnight 986717148  5  4 f   -     -     -         1013    0    0 
+gothnight 986717189  5  3 f   -     -     -         1013    0    0 
+gothnight 986717224  5  2 Bf  -     -     -         1013   10    0 
+gothnight 986717254  5  1 Bf  -     -     -         1003    5    0 
+gothnight 986717285  5  5 cc  r     c     r          998  130  355 4h 4s
+gothnight 986717324  5  4 cc  k     f     -         1223   20    0 
+gothnight 986717386  5  3 f   -     -     -         1203    0    0 
+gothnight 986717395  5  2 Bk  c     kf    -         1203   20    0 
+gothnight 986717440  5  1 Bf  -     -     -         1183    5    0 
+gothnight 986717466  5  5 cc  c     rc    c         1178  110    0 7c Ad
+gothnight 986717501  5  4 cc  f     -     -         1068   20    0 
+gothnight 986717539  5  3 f   -     -     -         1048    0    0 
+gothnight 986717578  5  2 Bk  c     c     r         1048   80    0 Ac Tc
+gothnight 986717616  5  1 Bf  -     -     -          968    5    0 
+gothnight 986717640  5  5 c   c     c     b          963   80  240 Ad Kd
+gothnight 986717677  5  4 f   -     -     -         1123    0    0 
+gothnight 986717719  6  4 f   -     -     -         1123    0    0 
+gothnight 986717754  6  3 cc  f     -     -         1123   20    0 
+gothnight 986717804  6  2 Bf  -     -     -         1103   10    0 
+gothnight 986717814  6  1 Bc  b     bc    k         1093   70    0 Th Ts
+gothnight 986717849  6  6 c   c     b     r         1023   80  215 Js Qh
+gothnight 986717893  6  5 f   -     -     -         1158    0    0 
+gothnight 986717925  6  4 cc  bc    k     k         1158   40    0 Jc Qd
+gothnight 986717960  6  3 c   k     kf    -         1118   10    0 
+gothnight 986717996  6  2 Bk  k     b     -         1108   30   50 
+gothnight 986718054  6  1 Bf  -     -     -         1128    5    0 
+gothnight 986718077  6  6 f   -     -     -         1123    0    0 
+gothnight 986718131  6  5 cc  f     -     -         1123   20    0 
+gothnight 986718206  6  4 f   -     -     -         1103    0    0 
+gothnight 986718262  6  3 f   -     -     -         1103    0    0 
+gothnight 986718311  6  2 Bf  -     -     -         1103   10    0 
+gothnight 986718365  6  1 Bf  -     -     -         1093    5    0 
+gothnight 986718383  6  6 f   -     -     -         1088    0    0 
+gothnight 986718422  6  5 f   -     -     -         1088    0    0 
+gothnight 986718464  6  4 cc  f     -     -         1088   20    0 
+gothnight 986718517  6  3 f   -     -     -         1068    0    0 
+gothnight 986718593  6  2 Bk  b     b     b         1068   60    0 3h Kc
+gothnight 986718643  6  1 Bc  kf    -     -         1008   10    0 
+gothnight 986718686  6  6 f   -     -     -          998    0    0 
+gothnight 986718717  6  5 c   c     rc    c          998  100    0 5s Kd
+gothnight 986718765  6  4 cc  c     c     k          898   50    0 7s Ks
+gothnight 986718827  6  3 c   kQ    -     -          848   10    0 
+gothnight 986719311  6  6 c   c     b     r          838   80  220 Ad Kc
+gothnight 986719372  6  5 f   -     -     -          978    0    0 
+gothnight 986719419  6  4 f   -     -     -          978    0    0 
+gothnight 986719468  6  3 cc  kf    -     -          978   20    0 
+gothnight 986719496  6  2 Bf  -     -     -          958   10    0 
+gothnight 986719517  6  1 Bc  bc    bc    k          948   80  210 Qd Qs
+gothnight 986719581  6  6 f   -     -     -         1078    0    0 
+gothnight 986719615  5  4 f   -     -     -         1078    0    0 
+gothnight 986719665  5  3 f   -     -     -         1078    0    0 
+gothnight 986719708  5  2 Bk  f     -     -         1078   10    0 
+gothnight 986719756  5  1 Bf  -     -     -         1068    5    0 
+gothnight 986719776  5  5 f   -     -     -         1063    0    0 
+gothnight 986719806  5  4 f   -     -     -         1063    0    0 
+gothnight 986719838  5  3 f   -     -     -         1063    0    0 
+gothnight 986719858  5  2 Bf  -     -     -         1063   10    0 
+gothnight 986719864  5  1 Bf  -     -     -         1053    5    0 
+gothnight 986719894  5  5 f   -     -     -         1048    0    0 
+gothnight 986719928  5  4 c   c     b     b         1048   60  130 
+gothnight 986720010  6  4 f   -     -     -         1118    0    0 
+gothnight 986720041  6  3 f   -     -     -         1118    0    0 
+gothnight 986720101  6  2 Bk  k     kc    kf        1118   30    0 
+gothnight 986720160  6  1 Bf  -     -     -         1088    5    0 
+gothnight 986720196  6  6 f   -     -     -         1083    0    0 
+gothnight 986720239  6  5 f   -     -     -         1083    0    0 
+gothnight 986720265  6  4 f   -     -     -         1083    0    0 
+gothnight 986720300  6  3 cc  f     -     -         1083   20    0 
+gothnight 986720341  6  2 Bk  kf    -     -         1063   10    0 
+gothnight 986720362  6  1 Bc  b     b     b         1053   70  150 9s As
+gothnight 986720397  6  6 f   -     -     -         1133    0    0 
+gothnight 986720423  6  5 f   -     -     -         1133    0    0 
+gothnight 986720460  6  4 f   -     -     -         1133    0    0 
+gothnight 986720497  6  3 f   -     -     -         1133    0    0 
+gothnight 986720527  6  2 Bk  c     rc    bc        1133  120    0 2s 2c
+gothnight 986720569  6  1 Bf  -     -     -         1013    5    0 
+gothnight 986720612  6  6 f   -     -     -         1008    0    0 
+gothnight 986720633  6  5 f   -     -     -         1008    0    0 
+gothnight 986720666  6  4 f   -     -     -         1008    0    0 
+gothnight 986720696  6  3 f   -     -     -         1008    0    0 
+gothnight 986720742  6  2 Bk  c     c     b         1008   60    0 6d 9d
+gothnight 986720773  7  1 BQ  -     -     -          948    5    0 
+gothnight 986846126 10  2 Bf  -     -     -          673   10    0 
+gothnight 986846197  9  1 Bf  -     -     -          663    5    0 
+gothnight 986846237 10 10 f   -     -     -          658    0    0 
+gothnight 986846293 10 10 f   -     -     -          658    0    0 
+gothnight 986846337 10  8 f   -     -     -          658    0    0 
+gothnight 986846401 10  8 f   -     -     -          658    0    0 
+gothnight 986846441  9  6 f   -     -     -          658    0    0 
+gothnight 986846518 10  5 f   -     -     -          658    0    0 
+gothnight 986846579 10  4 f   -     -     -          658    0    0 
+gothnight 986846635 10  3 f   -     -     -          658    0    0 
+gothnight 986846690 10  2 Bk  k     bc    b          658   70    0 As 2s
+gothnight 986846758 10  1 Bf  -     -     -          588    5    0 
+gothnight 986846816 10 10 f   -     -     -          583    0    0 
+gothnight 986846892  9  8 f   -     -     -          583    0    0 
+gothnight 986846946  9  7 f   -     -     -          583    0    0 
+gothnight 986846984  9  6 f   -     -     -          583    0    0 
+gothnight 986847038 10  5 f   -     -     -          583    0    0 
+gothnight 986847068 10  4 f   Q     -     -          583    0    0 
+gothnight 986847145 10  2 Bc  kc    b     b          583   70  180 
+gothnight 986847213 10  1 Bf  -     -     -          693    5    0 
+gothnight 986847253  9  9 f   -     -     -          688    0    0 
+gothnight 986847275  9  8 f   -     -     -          688    0    0 
+gothnight 986847341 10  8 c   kf    -     -          688   10    0 
+gothnight 986847438 10  7 c   c     c     r          678   90    0 Jc Tc
+gothnight 986847479 10  5 Q   -     -     -          588    0    0 
+gothnight 986867047  8  6 c   kf    -     -          588   10    0 
+gothnight 986867102  8  5 f   -     -     -          578    0    0 
+gothnight 986867156 10  4 f   -     -     -          578    0    0 
+gothnight 986867209  9  3 f   -     -     -          578    0    0 
+gothnight 986867264  9  2 Bf  -     -     -          578   10    0 
+gothnight 986867299  9  1 Bc  bc    krc   b          568  110  250 Jd Kc
+gothnight 986867351 10 10 f   -     -     -          708    0    0 
+gothnight 986867417 10  9 f   -     -     -          708    0    0 
+gothnight 986867450 10  8 f   -     -     -          708    0    0 
+gothnight 986867493  9  6 f   -     -     -          708    0    0 
+gothnight 986867518  9  5 f   -     -     -          708    0    0 
+gothnight 986867603  9  5 c   kf    -     -          708   10    0 
+gothnight 986867694  8  3 f   -     -     -          698    0    0 
+gothnight 986867737  8  2 Bc  cc    f     -          698   60    0 
+gothnight 986867796  8  1 Bf  -     -     -          638    5    0 
+gothnight 986867839  8  8 f   -     -     -          633    0    0 
+gothnight 986867901  7  6 f   -     -     -          633    0    0 
+gothnight 986867946  8  5 f   -     -     -          633    0    0 
+gothnight 986867989  9  5 f   -     -     -          633    0    0 
+gothnight 986868066  9  4 cc  kf    -     -          633   20    0 
+gothnight 986868135 10  4 f   -     -     -          613    0    0 
+gothnight 986868196 10  3 f   -     -     -          613    0    0 
+gothnight 986868285 10  2 Bf  -     -     -          613   10    0 
+gothnight 986868376 10  1 Bcc bcc   krc   b          603  160  710 Qd Kh
+gothnight 986868485 10 10 f   -     -     -         1153    0    0 
+gothnight 986868634 10  9 c   f     -     -         1153   30    0 
+gothnight 986868747  8  6 f   -     -     -         1123    0    0 
+gothnight 986868787 10  7 f   -     -     -         1123    0    0 
+gothnight 986868855 10  6 cc  bc    brc   bc        1123  180    0 Ks Kh
+gothnight 986868955 10  5 cc  f     -     -          943   40    0 
+gothnight 986869020  9  3 cc  rcc   ccc   ccc        903  220    0 Ac 3c
+gothnight 986869079  9  3 f   -     -     -          683    0    0 
+gothnight 986869112  9  2 Bf  -     -     -          683   10    0 
+gothnight 986869162  9  1 Bf  -     -     -          673    5    0 
+gothnight 986869191  9  9 r   rc    r     r          668  160    0 Qh Qd
+gothnight 986869276  7  6 f   -     -     -          508    0    0 
+gothnight 986869302  7  6 cc  b     -     -          508   30  100 
+gothnight 986869334  5  3 f   -     -     -          578    0    0 
+gothnight 986869340  5  3 f   -     -     -          578    0    0 
+gothnight 986869357  5  2 Bf  -     -     -          578   10    0 
+gothnight 986869362  5  1 Bc  b     b     b          568   70    0 8c Ks
+gothnight 986869399  4  4 f   -     -     -          498    0    0 
+gothnight 986869407  4  3 f   -     -     -          498    0    0 
+gothnight 986869423  4  2 Bk  c     r     b          498   80  160 7d 7c
+gothnight 986869446  4  1 Bc  k     b     -          578   30   40 
+gothnight 986869463  4  4 f   -     -     -          588    0    0 
+gothnight 986869475  4  3 f   -     -     -          588    0    0 
+gothnight 986869479  4  2 Bf  -     -     -          588   10    0 
+gothnight 986869486  4  1 Bc  b     -     -          578   20   30 
+gothnight 986869495  4  4 f   -     -     -          588    0    0 
+gothnight 986869506  4  3 c   b     b     -          588   40   70 
+gothnight 986869526  4  2 Bk  k     r     b          618   70    0 9s 8h
+gothnight 986869563  4  1 Bf  -     -     -          548    5    0 
+gothnight 986869571  4  4 f   -     -     -          543    0    0 
+gothnight 986869578  4  3 f   -     -     -          543    0    0 
+gothnight 986869592  4  2 Bc  f     -     -          543   20    0 
+gothnight 986869613  4  1 Bc  br    b     -          523   70  130 
+gothnight 986869641  5  5 f   -     -     -          583    0    0 
+gothnight 986869661  4  3 f   -     -     -          583    0    0 
+gothnight 986869667  4  3 f   -     -     -          583    0    0 
+gothnight 986869682  4  2 Bk  c     rc    c          583  100  200 2s Jh
+gothnight 986869710  4  1 Bc  k     k     b          683   40   70 
+gothnight 986869737  4  4 f   -     -     -          713    0    0 
+gothnight 986869749  4  3 f   -     -     -          713    0    0 
+gothnight 986869759  4  2 B   -     -     -          713   10   15 
+gothnight 986869762  4  1 Bf  -     -     -          718    5    0 
+gothnight 986869773  4  4 f   -     -     -          713    0    0 
+gothnight 986869778  4  3 f   -     -     -          713    0    0 
+gothnight 986869790  4  2 B   -     -     -          713   10   15 
+gothnight 986869795  4  1 Bf  -     -     -          718    5    0 
+gothnight 986869813  4  4 Q   -     -     -          713    0    0 
+gothnight 987056187  5  5 f   -     -     -         1000    0    0 
+gothnight 987056228  4  3 f   -     -     -         1000    0    0 
+gothnight 987056257  4  2 Bk  k     k     k         1000   10   20 3s As
+gothnight 987056292  5  1 Bf  -     -     -         1010    5    0 
+gothnight 987056331  5  5 c   rc    rc    r         1005  150  325 9h Ac
+gothnight 987056364  6  5 f   -     -     -         1180    0    0 
+gothnight 987056386  6  4 f   -     -     -         1180    0    0 
+gothnight 987056428  7  3 c   f     -     -         1180   10    0 
+gothnight 987056472  7  2 Bk  k     b     b         1170   50  120 4d 2h
+gothnight 987056538  8  1 Bf  -     -     -         1240    5    0 
+gothnight 987056571  8  8 f   -     -     -         1235    0    0 
+gothnight 987056630 10  9 f   -     -     -         1235    0    0 
+gothnight 987056667 10  8 f   -     -     -         1235    0    0 
+gothnight 987056727 10  7 f   -     -     -         1235    0    0 
+gothnight 987056796 10  6 c   f     -     -         1235   10    0 
+gothnight 987056852 10  5 c   k     b     b         1225   50  120 
+gothnight 987056913 10  4 c   kf    -     -         1295   10    0 
+gothnight 987057007  9  3 f   -     -     -         1285    0    0 
+gothnight 987057057  9  2 Bf  -     -     -         1285   10    0 
+gothnight 987057114  9  1 Bf  -     -     -         1275    5    0 
+gothnight 987057150  9  9 cc  cc    c     k         1270   90  415 Ac Kc
+gothnight 987057222  9  8 f   -     -     -         1595    0    0 
+gothnight 987057280  8  6 f   -     -     -         1595    0    0 
+gothnight 987057322  9  5 f   -     -     -         1595    0    0 
+gothnight 987057363  9  4 cc  k     kc    b         1595   60  315 Kd Ad
+gothnight 987057453  8  3 f   -     -     -         1850    0    0 
+gothnight 987057507  9  2 Bf  -     -     -         1850   10    0 
+gothnight 987057548  9  1 Bf  -     -     -         1840    5    0 
+gothnight 987057591 10 10 c   r     rc    c         1835  110    0 3s 7s
+gothnight 987057638 10  9 f   -     -     -         1725    0    0 
+gothnight 987057702 10  8 c   cc    cc    c         1725  140  525 Th Kc
+gothnight 987057768 10  7 c   c     rr    ccc       2110  190    0 Ad 5d
+gothnight 987057837 10  6 f   -     -     -         1920    0    0 
+gothnight 987057897 10  5 f   -     -     -         1920    0    0 
+gothnight 987057938 10  4 f   -     -     -         1920    0    0 
+gothnight 987057978 10  3 f   -     -     -         1920    0    0 
+gothnight 987058003 10  2 Bk  kf    -     -         1920   10    0 
+gothnight 987058043 10  1 Bf  -     -     -         1910    5    0 
+gothnight 987058083 10 10 f   -     -     -         1905    0    0 
+gothnight 987058141 10  9 f   -     -     -         1905    0    0 
+gothnight 987058242  9  7 cc  r     b     b         1905   80  220 8d Ad
+gothnight 987058307  8  6 f   -     -     -         2045    0    0 
+gothnight 987058351  8  5 f   -     -     -         2045    0    0 
+gothnight 987058395  8  4 f   -     -     -         2045    0    0 
+gothnight 987058426  8  3 f   -     -     -         2045    0    0 
+gothnight 987058462  8  2 Bk  b     b     b         2045   60  140 9s Ks
+gothnight 987058499  8  1 Bc  b     b     b         2125   60  120 
+gothnight 987058533  8  8 f   -     -     -         2185    0    0 
+gothnight 987058562  7  6 f   -     -     -         2185    0    0 
+gothnight 987058590  7  5 f   -     -     -         2185    0    0 
+gothnight 987058681  7  4 f   -     -     -         2185    0    0 
+gothnight 987058719  7  3 f   -     -     -         2185    0    0 
+gothnight 987058725  7  2 Bk  kf    -     -         2185   10    0 
+gothnight 987058779  7  1 Bc  k     b     bc        2175   70    0 6s Ks
+gothnight 987058807  8  8 f   -     -     -         2105    0    0 
+gothnight 987058845  8  7 f   -     -     -         2105    0    0 
+gothnight 987058873  8  6 f   -     -     -         2105    0    0 
+gothnight 987058901  9  6 c   b     b     k         2105   40    0 3d 3c
+gothnight 987058989  8  4 f   -     -     -         2065    0    0 
+gothnight 987059026  8  3 f   -     -     -         2065    0    0 
+gothnight 987059079  8  2 Bf  -     -     -         2065   10    0 
+gothnight 987059124  8  1 Bf  -     -     -         2055    5    0 
+gothnight 987059153  8  8 cc  c     c     rc        2050  140    0 7s 7h
+gothnight 987059208  8  7 f   -     -     -         1910    0    0 
+gothnight 987059281  8  6 c   bc    bc    k         1910   70  170 9s 9d
+gothnight 987059360  7  4 f   -     -     -         2010    0    0 
+gothnight 987059412  7  4 f   -     -     -         2010    0    0 
+gothnight 987059472  7  3 f   -     -     -         2010    0    0 
+gothnight 987059529  7  2 Bk  c     b     b         2010   60  130 
+gothnight 987059580  7  1 Bf  -     -     -         2080    5    0 
+gothnight 987059606  7  7 f   -     -     -         2075    0    0 
+gothnight 987059645  7  6 f   -     -     -         2075    0    0 
+gothnight 987059666  7  5 f   -     -     -         2075    0    0 
+gothnight 987059714  8  5 f   -     -     -         2075    0    0 
+gothnight 987059758  8  4 f   -     -     -         2075    0    0 
+gothnight 987059783  8  3 f   -     -     -         2075    0    0 
+gothnight 987059817  8  2 Bk  b     kc    k         2075   40  110 9c Th
+gothnight 987059869  8  1 Bc  k     b     k         2145   30    0 Jc Kh
+gothnight 987059901  8  8 c   f     -     -         2115   20    0 
+gothnight 987059931  8  7 f   -     -     -         2095    0    0 
+gothnight 987059956  8  6 c   bc    k     b         2095   50  130 Kd Ac
+gothnight 987059996  8  5 f   -     -     -         2175    0    0 
+gothnight 987060028  8  4 f   -     -     -         2175    0    0 
+gothnight 987060089  8  3 f   -     -     -         2175    0    0 
+gothnight 987060133  8  2 Bk  k     bc    f         2175   50    0 
+gothnight 987060171  8  1 Bf  -     -     -         2125    5    0 
+gothnight 987060184  8  8 f   -     -     -         2120    0    0 
+gothnight 987060217  8  7 cc  bc    brc   b         2120  140  320 Ac 9c
+gothnight 987060260  8  6 f   -     -     -         2300    0    0 
+gothnight 987060319  8  5 f   -     -     -         2300    0    0 
+gothnight 987060358  8  4 f   -     -     -         2300    0    0 
+gothnight 987060385  8  3 c   kc    kc    b         2300   60    0 7c As
+gothnight 987060447  8  2 BQ  -     -     -         2240   10    0 
+gothnight 987062485 10  7 f   -     -     -         2230    0    0 
+gothnight 987062516  8  4 f   -     -     -         2230    0    0 
+gothnight 987062594  8  3 f   -     -     -         2230    0    0 
+gothnight 987062644  8  2 Bc  c     b     kc        2230   80    0 9s Ts
+gothnight 987062694  9  1 Bf  -     -     -         2150    5    0 
+gothnight 987062731  9  9 f   -     -     -         2145    0    0 
+gothnight 987062767  9  8 f   Q     -     -         2145    0    0 
+gothnight 987063023  8  6 cc  f     -     -         2145   40    0 
+gothnight 987063072  8  5 c   b     b     b         2105   60    0 Tc Td
+gothnight 987063112  8  4 f   -     -     -         2045    0    0 
+gothnight 987063170  8  3 Q   -     -     -         2045    0    0 
+gothnight 987138345  5  5 f   -     -     -         1930    0    0 
+gothnight 987138356  5  4 c   kf    -     -         1930   10    0 
+gothnight 987138389  5  3 c   c     r     r         1920  100    0 8d 7c
+gothnight 987138428  5  2 Bk  kf    -     -         1820   10    0 
+gothnight 987138457  5  1 Bc  b     b     bc        1810  100    0 Ad Jh
+gothnight 987138507  5  3 Q   -     -     -         1710    0    0 
+gothnight 987236680  3  3 f   -     -     -         2115    0    0 
+gothnight 987236691  3  2 Bk  k     b     -         2115   30   40 
+gothnight 987236712  3  1 Bf  -     -     -         2125    5    0 
+gothnight 987236717  3  3 c   c     b     -         2120   40   65 
+gothnight 987236739  3  2 Bk  kf    -     -         2145   10    0 
+gothnight 987236758  3  1 Bf  -     -     -         2135    5    0 
+gothnight 987236764  3  3 f   -     -     -         2130    0    0 
+gothnight 987236781  3  2 Bk  kf    -     -         2130   10    0 
+gothnight 987236798  3  1 Bc  k     k     b         2120   30   40 
+gothnight 987236822  3  3 f   -     -     -         2130    0    0 
+gothnight 987236831  3  2 Bf  -     -     -         2130   10    0 
+gothnight 987236840  3  1 Bc  b     kc    b         2120   60    0 6h 7h
+gothnight 987236874  3  3 cc  c     b     -         2060   50   90 
+gothnight 987236900  3  2 B   -     -     -         2100   10   15 
+gothnight 987236915  3  1 Bc  b     b     -         2105   40   60 
+gothnight 987236934  3  3 c   k     f     -         2125   10    0 
+gothnight 987236955  3  2 B   -     -     -         2115   10   15 
+gothnight 987236961  3  1 Bf  -     -     -         2120    5    0 
+gothnight 987236989  3  3 c   f     -     -         2115   10    0 
+gothnight 987237005  3  2 Bk  b     bc    c         2105   80    0 9c Js
+gothnight 987237036  3  1 Bf  -     -     -         2025    5    0 
+gothnight 987237043  3  3 cc  c     c     b         2020   70  145 Jh Qs
+gothnight 987237071  3  2 Bf  -     -     -         2095   10    0 
+gothnight 987237083  3  1 Bf  -     -     -         2085    5    0 
+gothnight 987237093  3  3 f   -     -     -         2080    0    0 
+gothnight 987237122  3  2 Bf  -     -     -         2080   10    0 
+gothnight 987237129  3  1 Bc  kf    -     -         2070   10    0 
+gothnight 987237152  3  3 f   -     -     -         2060    0    0 
+gothnight 987237157  3  2 Bk  c     r     b         2060   80  160 8s Tc
+gothnight 987237186  3  1 Bc  b     bc    kc        2140   80    0 Ks 2c
+gothnight 987237219  3  3 cc  c     r     -         2060   70  140 
+gothnight 987237250  3  2 Bk  k     f     -         2130   10    0 
+gothnight 987237270  3  1 Bf  -     -     -         2120    5    0 
+gothnight 987237273  3  3 c   b     -     -         2115   20   35 
+gothnight 987237290  3  2 Bf  -     -     -         2130   10    0 
+gothnight 987237309  3  1 Bc  b     -     -         2120   20   30 
+gothnight 987237322  3  3 f   -     -     -         2130    0    0 
+gothnight 987237371  3  2 Bk  b     -     -         2130   20   30 
+gothnight 987237393  3  1 Bc  kf    -     -         2140   10    0 
+gothnight 987237418  3  3 c   k     f     -         2130   10    0 
+gothnight 987237440  3  2 B   -     -     -         2120   10   15 
+gothnight 987237444  3  1 Bc  kf    -     -         2125   10    0 
+gothnight 987237472  3  3 f   -     -     -         2115    0    0 
+gothnight 987237480  3  2 Bf  -     -     -         2115   10    0 
+gothnight 987237487  3  1 Bf  -     -     -         2105    5    0 
+gothnight 987237493  3  3 c   f     -     -         2100   10    0 
+gothnight 987237507  3  2 Bk  b     -     -         2090   20   30 
+gothnight 987237520  3  1 Bc  b     -     -         2100   20   30 
+gothnight 987237531  3  3 c   c     rc    c         2110  100  205 Kh Js
+gothnight 987237558  3  2 Bf  -     -     -         2215   10    0 
+gothnight 987237568  3  1 Bf  -     -     -         2205    5    0 
+gothnight 987237576  3  3 f   -     -     -         2200    0    0 
+gothnight 987237583  3  2 Bf  -     -     -         2200   10    0 
+gothnight 987237590  3  1 Bf  -     -     -         2190    5    0 
+gothnight 987237599  3  3 f   -     -     -         2185    0    0 
+gothnight 987237604  3  2 Bf  -     -     -         2185   10    0 
+gothnight 987237611  3  1 Bf  -     -     -         2175    5    0 
+gothnight 987237628  3  3 f   -     -     -         2170    0    0 
+gothnight 987237635  3  2 Bk  c     r     b         2170   80  140 
+gothnight 987237658  3  1 Bc  kc    kf    -         2230   20    0 
+gothnight 987237684  3  3 c   k     c     c         2210   50  110 9c Ac
+gothnight 987237716  3  2 Bf  -     -     -         2270   10    0 
+gothnight 987237738  3  1 Bf  -     -     -         2260    5    0 
+gothnight 987237777  3  3 f   -     -     -         2255    0    0 
+gothnight 987237784  3  2 Bk  b     bc    kc        2255   80    0 3d Kd
+gothnight 987237830  3  1 Bc  b     -     -         2175   20   40 
+gothnight 987237854  3  3 cc  c     r     b         2195   90  190 
+gothnight 987237895  3  2 Bk  f     -     -         2295   10    0 
+gothnight 987237944  3  1 Bf  -     -     -         2285    5    0 
+gothnight 987237964  3  3 c   f     -     -         2280   10    0 
+gothnight 987237982  3  2 Bc  kf    -     -         2270   20    0 
+gothnight 987237997  3  1 Bf  -     -     -         2250    5    0 
+gothnight 987238004  3  3 f   -     -     -         2245    0    0 
+gothnight 987238012  3  2 Bf  -     -     -         2245   10    0 
+gothnight 987238020  3  1 Bf  -     -     -         2235    5    0 
+gothnight 987238052  3  3 f   -     -     -         2230    0    0 
+gothnight 987238063  3  2 Bc  c     c     c         2230   70    0 Qh Ah
+gothnight 987238081  3  1 Bc  kf    -     -         2160   10    0 
+gothnight 987238101  3  3 c   c     r     bc        2150  100  205 9s Ks
+gothnight 987238129  3  2 Bk  k     b     b         2255   50  110 9s 5c
+gothnight 987238170  3  1 Bc  kc    b     b         2315   60    0 8h Jh
+gothnight 987238197  3  3 f   -     -     -         2255    0    0 
+gothnight 987238223  3  2 Bc  kc    kf    -         2255   30    0 
+gothnight 987238275  3  1 Bf  -     -     -         2225    5    0 
+gothnight 987238300  3  3 c   b     -     -         2220   20   35 
+gothnight 987238316  3  2 Bk  k     f     -         2235   10    0 
+gothnight 987238332  3  1 Bc  bc    k     b         2225   60    0 Jc Kh
+gothnight 987238358  3  3 f   -     -     -         2165    0    0 
+gothnight 987238371  3  2 Bk  b     -     -         2165   20   30 
+gothnight 987238385  3  1 Bf  -     -     -         2175    5    0 
+gothnight 987238391  3  3 c   r     bc    r         2170  110    0 Jc Kh
+gothnight 987238427  3  2 Bf  -     -     -         2060   10    0 
+gothnight 987238437  3  1 Bf  Q     -     -         2050    5    0 
+gothnight 987392902 10  4 f   -     -     -         1985    0    0 
+gothnight 987392944 10  3 cc  r     b     b         1985   80    0 4c 4s
+gothnight 987393006 10  2 BQ  -     -     -         1905   10    0 
+gothnight 987393209  9  9 f   -     -     -         1895    0    0 
+gothnight 987393272  9  8 f   -     -     -         1895    0    0 
+gothnight 987393328  9  7 f   -     -     -         1895    0    0 
+gothnight 987393394  9  6 f   -     -     -         1895    0    0 
+gothnight 987393456  9  5 f   -     -     -         1895    0    0 
+gothnight 987393524 10  4 f   -     -     -         1895    0    0 
+gothnight 987393640  9  3 c   b     k     b         1895   40   95 Jh Tc
+gothnight 987393687  9  2 Bf  -     -     -         1950   10    0 
+gothnight 987393775  9  1 Bc  b     -     -         1940   20   30 
+gothnight 987393847  9  9 f   -     -     -         1950    0    0 
+gothnight 987393907 10  9 cc  c     rc    cc        1950  180  605 Tc Th
+gothnight 987394025 10  8 f   -     -     -         2375    0    0 
+gothnight 987394049 10  7 f   -     -     -         2375    0    0 
+gothnight 987394173 10  6 f   -     -     -         2375    0    0 
+gothnight 987394228 10  5 f   -     -     -         2375    0    0 
+gothnight 987394304 10  4 f   -     -     -         2375    0    0 
+gothnight 987394429 10  3 c   k     k     kf        2375   10    0 
+gothnight 987394524 10  2 Bk  c     bc    kc        2365   80    0 6c 4s
+gothnight 987394622 10  1 Bf  -     -     -         2285    5    0 
+gothnight 987394666 10 10 c   c     c     c         2280   70    0 7h Kc
+gothnight 987394741 10  3 Q   -     -     -         2210    0    0 
+gothnight 987405992  9  8 f   -     -     -         2180    0    0 
+gothnight 987406045  9  8 f   -     -     -         2180    0    0 
+gothnight 987406099  9  7 f   -     -     -         2180    0    0 
+gothnight 987406158  7  5 f   -     -     -         2180    0    0 
+gothnight 987406201  7  4 cc  f     -     -         2180   20    0 
+gothnight 987406241  7  3 f   -     -     -         2160    0    0 
+gothnight 987406262  7  2 Bf  -     -     -         2160   10    0 
+gothnight 987406296  8  1 Bf  -     -     -         2150    5    0 
+gothnight 987406333  8  8 c   ccc   c     c         2145   90    0 Ad 6c
+gothnight 987406412  8  7 c   k     f     -         2055   10    0 
+gothnight 987406465  8  6 f   -     -     -         2045    0    0 
+gothnight 987406527  8  5 f   -     -     -         2045    0    0 
+gothnight 987406582  8  4 cc  f     -     Q         2045   30    0 
+gothnight 987406757  8  3 f   -     -     -         2015    0    0 
+gothnight 987406812  8  2 Bk  k     k     k         2015   10   35 4s 9s
+gothnight 987406865  8  1 Bc  k     kc    bcc       2040  110    0 Jc Jd
+gothnight 987406954  8  8 c   Q     -     -         1930   10    0 
+gothnight 987485176 10  8 c   c     k     f         1920   20    0 
+gothnight 987485281 10  7 f   -     -     -         1900    0    0 
+gothnight 987485375 10  6 f   -     -     -         1900    0    0 
+gothnight 987485421 10  5 cc  kc    b     k         1900   50    0 Ts Jh
+gothnight 987485488 10  4 f   -     -     -         1850    0    0 
+gothnight 987485538 10  3 f   -     -     -         1850    0    0 
+gothnight 987485613 10  2 Bk  bc    bc    kf        1850   70    0 
+gothnight 987485674 10  1 Bf  -     -     -         1780    5    0 
+gothnight 987485748 10 10 f   -     -     -         1775    0    0 
+gothnight 987485837 10  9 f   -     -     -         1775    0    0 
+gothnight 987485887 10  8 c   b     br    b         1775  100  215 Ad 9h
+gothnight 987486018 10  7 f   -     -     -         1890    0    0 
+gothnight 987486077 10  6 c   k     f     -         1890   10    0 
+gothnight 987486149 10  5 f   -     -     -         1880    0    0 
+gothnight 987486215 10  4 c   bc    c     cc        1880  110    0 Ah 9c
+gothnight 987486323 10  3 c   k     kf    -         1770   10    0 
+gothnight 987486421 10  2 Bf  -     -     -         1760   10    0 
+gothnight 987486516 10  1 Bc  b     b     -         1750   50  130 
+gothnight 987486596  9  9 c   f     -     -         1830   20    0 
+gothnight 987486645  9  8 c   k     f     -         1810   10    0 
+gothnight 987486692  8  6 c   k     f     -         1800   10    0 
+gothnight 987486755  7  4 c   f     -     -         1790   10    0 
+gothnight 987486775  7  3 cc  bc    brc   b         1780  140  310 4s 9s
+gothnight 987486828  5  1 B   -     -     -         1950   10   10 
+gothnight 987486835  4  1 Bc  kr    kc    kc        1950   70    0 5d Kc
+gothnight 987486891  4  4 c   c     rc    c         1880  100    0 6c 6s
+gothnight 987486945  5  4 c   k     k     b         1780   30   35 4h 3h
+gothnight 987486979  5  3 c   rc    kc    kc        1785   80    0 Js 5d
+gothnight 987487024  5  2 Bk  b     r     b         1705   80  150 
+gothnight 987487067  5  1 Bc  kf    -     -         1775   10    0 
+gothnight 987487099  5  5 c   c     b     rc        1765  100    0 4s 4c
+gothnight 987487153  5  4 c   kf    -     -         1665   10    0 
+gothnight 987487194  5  3 c   f     -     -         1655   10    0 
+gothnight 987487251  5  2 Bk  cr    c     c         1645   90    0 Kc Td
+gothnight 987487290  4  1 BQ  -     -     -         1555    5    0 
+gothnight 987529154  5  5 f   -     -     -         1550    0    0 
+gothnight 987529194  5  4 cc  kf    -     -         1550   20    0 
+gothnight 987529215  5  3 cc  b     b     -         1530   50  150 
+gothnight 987529271  5  2 Bf  -     -     -         1630   10    0 
+gothnight 987529316  6  1 Bf  -     -     -         1620    5    0 
+gothnight 987529340  6  6 f   -     -     -         1615    0    0 
+gothnight 987529391  5  4 f   -     -     -         1615    0    0 
+gothnight 987529440  4  2 c   b     -     -         1615   20   30 
+gothnight 987529469  4  2 Bk  f     -     -         1625   10    0 
+gothnight 987529496  4  1 Bc  k     k     b         1615   30   50 
+gothnight 987529526  4  4 f   -     -     -         1635    0    0 
+gothnight 987529547  4  3 f   -     -     -         1635    0    0 
+gothnight 987529579  4  2 Bc  cc    c     b         1635   80  180 
+gothnight 987529666  4  1 Bc  bc    k     kc        1735   60    0 4h 4d
+gothnight 987529721  4  4 fQ  -     -     -         1675    0    0 
+gothnight 987533194  7  7 f   -     -     -         1675    0    0 
+gothnight 987533231  6  4 Q   -     -     -         1675    0    0 
+gothnight 987533641  6  2 Bk  k     k     k         1675   10   35 Tc Kh
+gothnight 987533694  6  1 Bc  b     b     b         1700   60  120 
+gothnight 987533763  6  6 f   -     -     -         1760    0    0 
+gothnight 987533828  6  5 f   -     -     -         1760    0    0 
+gothnight 987533862  6  4 f   -     -     -         1760    0    0 
+gothnight 987533914  5  2 f   -     -     -         1760    0    0 
+gothnight 987533926  5  2 Bk  bf    -     -         1760   20    0 
+gothnight 987534000  5  1 Bf  -     -     -         1740    5    0 
+gothnight 987534042  5  5 c   k     b     -         1735   30   65 
+gothnight 987534092  5  4 c   c     c     r         1770   90  285 Jh Jc
+gothnight 987534151  6  4 f   -     -     -         1965    0    0 
+gothnight 987534204  6  3 f   -     -     -         1965    0    0 
+gothnight 987534220  6  2 Bk  bc    bc    kc        1965   90  195 Ac Qs
+gothnight 987534263  6  1 Bf  -     -     -         2070    5    0 
+gothnight 987534315  7  6 f   -     -     -         2065    0    0 
+gothnight 987534374  7  5 c   f     -     -         2065   10    0 
+gothnight 987534511  6  4 f   -     -     -         2055    0    0 
+gothnight 987534548  6  3 f   -     -     -         2055    0    0 
+gothnight 987534558  7  2 Bf  -     -     -         2055   10    0 
+gothnight 987534612  7  1 Bc  k     k     b         2045   30    0 Kc 4h
+gothnight 987534666  7  7 f   Q     -     -         2015    0    0 
+gothnight 987646470 10  9 f   -     -     -         2510    0    0 
+gothnight 987646520  9  7 f   -     -     -         2510    0    0 
+gothnight 987646568 10  7 c   b     c     r         2510   80    0 Qc Kc
+gothnight 987646617 10  6 f   -     -     -         2430    0    0 
+gothnight 987646659 10  5 cc  c     c     rc        2430  110    0 Jh Jd
+gothnight 987646728 10  5 f   -     -     -         2320    0    0 
+gothnight 987646784 10  3 c   c     rr    rr        2320  180  580 8c Ah
+gothnight 987646864 10  2 Bk  kf    -     -         2720   10    0 
+gothnight 987646978  9  1 Bc  b     k     k         2710   30   45 Ad Td
+gothnight 987647009  8  8 c   f     -     -         2725   10    0 
+gothnight 987647066  8  7 f   -     -     -         2715    0    0 
+gothnight 987647101  7  5 cc  kc    kc    kc        2715   70    0 As 6s
+gothnight 987647157  7  4 c   b     b     -         2645   40   80 
+gothnight 987647187  6  2 f   -     -     -         2685    0    0 
+gothnight 987647209  8  2 BQ  -     -     -         2685   10    0 
+gothnight 987647848  6  4 c   k     b     b         2675   50  110 Ad 5s
+gothnight 987647877  6  4 f   -     -     -         2735    0    0 
+gothnight 987647907  6  3 c   k     kf    -         2735   10    0 
+gothnight 987647941  6  2 Bk  k     k     k         2725   10    0 Jc Ts
+gothnight 987647966  6  1 Bf  -     -     -         2715    5    0 
+gothnight 987647989  6  6 f   -     -     -         2710    0    0 
+gothnight 987648010  6  5 f   -     -     -         2710    0    0 
+gothnight 987648045  6  4 f   -     -     -         2710    0    0 
+gothnight 987648131  6  3 f   -     -     -         2710    0    0 
+gothnight 987648187  6  2 Bk  f     -     Q         2710   10    0 
+gothnight 987664303  9  6 cc  c     r     b         2650   90  270 Ah Kd
+gothnight 987664427  8  5 f   -     -     -         2830    0    0 
+gothnight 987664461  8  4 f   -     -     -         2830    0    0 
+gothnight 987664561  7  2 Bf  -     -     -         2830   10    0 
+gothnight 987664573  7  1 Bc  b     kr    bc        2820  100    0 9h 9c
+gothnight 987664617  7  7 f   -     -     -         2720    0    0 
+gothnight 987664646  7  6 f   -     -     -         2720    0    0 
+gothnight 987664674  7  5 c   f     -     -         2720   10    0 
+gothnight 987664703  8  4 f   -     -     -         2710    0    0 
+gothnight 987664744  8  3 c   c     r     r         2710  100    0 3d Qd
+gothnight 987664776  8  2 Bf  -     -     -         2610   10    0 
+gothnight 987664848  8  1 Bf  -     -     -         2600    5    0 
+gothnight 987664886  9  9 f   -     -     -         2595    0    0 
+gothnight 987664919  8  7 c   c     c     r         2595   80  215 Kd Ad
+gothnight 987664959  9  7 c   f     -     -         2730   10    0 
+gothnight 987665010  9  7 f   -     -     -         2720    0    0 
+gothnight 987665049  8  5 f   -     -     -         2720    0    0 
+gothnight 987665073  7  3 c   b     bc    rc        2720  120    0 7s As
+gothnight 987665116  7  2 Bf  -     -     -         2600   10    0 
+gothnight 987665165  6  1 Bf  -     -     -         2590    5    0 
+gothnight 987665191  6  6 f   -     -     -         2585    0    0 
+gothnight 987665217  6  5 c   c     r     b         2585   80  190 
+gothnight 987665259  7  4 f   -     -     -         2695    0    0 
+gothnight 987665292  7  3 f   -     -     -         2695    0    0 
+gothnight 987665340  7  2 Bc  kf    -     -         2695   20    0 
+gothnight 987665408  8  1 Bc  kc    kc    kc        2675   80  270 Th Ts
+gothnight 987665459  8  8 f   -     -     -         2865    0    0 
+gothnight 987665484  8  7 c   c     c     r         2865   80    0 Kh Qs
+gothnight 987665556  8  6 f   -     -     -         2785    0    0 
+gothnight 987665603  8  5 f   -     -     -         2785    0    0 
+gothnight 987665641  8  4 c   kc    kc    kc        2785   60    0 Td As
+gothnight 987665693  8  3 c   cc    kf    -         2725   30    0 
+gothnight 987665747  8  2 Bk  b     k     b         2695   40  115 3c Kc
+gothnight 987665781  8  1 Bf  -     -     -         2770    5    0 
+gothnight 987665843  8  8 f   -     -     -         2765    0    0 
+gothnight 987665864  8  7 c   b     b     b         2765   60  160 Jd Jc
+gothnight 987665896  8  6 f   -     -     -         2865    0    0 
+gothnight 987665913  9  6 f   -     -     -         2865    0    0 
+gothnight 987665945  9  5 c   k     b     k         2865   30    0 7h 8h
+gothnight 987665986  8  3 f   -     -     -         2835    0    0 
+gothnight 987666029  8  2 Bk  k     k     b         2835   30   47 Tc 4s
+gothnight 987666074  7  1 Bc  bc    kc    kc        2852   70    0 Kc Qc
+gothnight 987666113  7  7 c   c     c     c         2782   60    0 4d Ah
+gothnight 987666157  8  7 c   b     b     c         2722   60    0 2c Ac
+gothnight 987666193  8  6 f   -     -     -         2662    0    0 
+gothnight 987666225  8  5 c   b     b     b         2662   60  140 Ah Ac
+gothnight 987666250  8  4 f   -     -     -         2742    0    0 
+gothnight 987666289  7  3 f   -     -     -         2742    0    0 
+gothnight 987666322  7  2 Bc  kc    kcf   -         2742   70    0 
+gothnight 987666382  7  1 Bc  kf    -     -         2672   10    0 
+gothnight 987666410  7  7 f   -     -     -         2662    0    0 
+gothnight 987666450  7  6 f   -     -     -         2662    0    0 
+gothnight 987666472  7  5 c   b     -     -         2662   20   35 
+gothnight 987666493  7  4 c   c     b     b         2677   60    0 Qc Ts
+gothnight 987666556  7  3 f   -     -     -         2617    0    0 
+gothnight 987666595  7  2 Bk  kc    kc    kc        2617   60    0 6d 5c
+gothnight 987666649  7  1 Bc  kf    -     -         2557   10    0 
+gothnight 987666672  7  7 c   f     -     -         2547   20    0 
+gothnight 987666699  7  6 f   -     -     -         2527    0    0 
+gothnight 987666738  8  5 f   -     -     -         2527    0    0 
+gothnight 987666768  8  4 f   -     -     -         2527    0    0 
+gothnight 987666812  8  3 cc  f     -     -         2527   30    0 
+gothnight 987666839  8  2 B   -     -     -         2497   10   15 
+gothnight 987666850  8  1 Bf  -     -     -         2502    5    0 
+gothnight 987666880  8  8 c   c     c     c         2497   60    0 8c 6c
+gothnight 987666929  8  7 f   -     -     -         2437    0    0 
+gothnight 987666950  8  6 cc  k     f     -         2437   20    0 
+gothnight 987666982  8  5 f   -     -     -         2417    0    0 
+gothnight 987667005  8  4 f   -     -     -         2417    0    0 
+gothnight 987667031  8  3 cc  bc    bcc   br        2417  210    0 Ts Ks
+gothnight 987667103  8  2 BQ  -     -     -         2207   10    0 
+gothnight 987667257 10  7 c   b     -     -         2197   20   50 
+gothnight 987667286 10  6 f   -     -     -         2227    0    0 
+gothnight 987667337 10  5 f   -     -     -         2227    0    0 
+gothnight 987667384  9  4 c   b     -     -         2227   20   70 
+gothnight 987667413 10  3 f   -     -     -         2277    0    0 
+gothnight 987667473 10  2 Bk  kf    -     -         2277   10    0 
+gothnight 987667509 10  1 Bf  -     -     -         2267    5    0 
+gothnight 987667535 10 10 c   f     -     -         2262   20    0 
+gothnight 987667578 10  9 c   f     -     -         2242   10    0 
+gothnight 987667622 10  8 c   f     -     -         2232   10    0 
+gothnight 987667690 10  7 c   c     c     c         2222   70    0 9c 9h
+gothnight 987667725 10  6 f   -     -     -         2152    0    0 
+gothnight 987667757 10  5 f   -     -     -         2152    0    0 
+gothnight 987667794 10  4 f   -     -     -         2152    0    0 
+gothnight 987667827 10  3 f   -     -     -         2152    0    0 
+gothnight 987667859 10  2 Bf  Q     -     -         2152   10    0 
+gothnight 988014335  5  3 f   -     -     -         2142    0    0 
+gothnight 988014358  5  2 Bf  -     -     -         2142   10    0 
+gothnight 988014396  5  1 Bc  kf    -     -         2132   10    0 
+gothnight 988014432  5  5 c   b     b     -         2122   40   80 
+gothnight 988014466  5  4 f   -     -     -         2162    0    0 
+gothnight 988014512  5  3 c   f     -     -         2162   10    0 
+gothnight 988014539  5  2 Bf  -     -     -         2152   10    0 
+gothnight 988014560  5  1 Bc  bc    kc    kc        2142   70    0 Qs As
+gothnight 988014594  5  5 c   f     -     -         2072   20    0 
+gothnight 988014617  5  4 f   -     -     -         2052    0    0 
+gothnight 988014620  5  3 f   -     -     -         2052    0    0 
+gothnight 988014639  5  2 Bk  c     bc    rc        2052  120  240 Jh Jc
+gothnight 988014665  5  1 Bc  k     bc    kc        2172   80    0 9h 9c
+gothnight 988014702  5  5 c   b     -     -         2092   20   40 
+gothnight 988014723  5  4 f   -     -     -         2112    0    0 
+gothnight 988014763  5  3 f   -     -     -         2112    0    0 
+gothnight 988014798  5  2 Bk  kf    -     -         2112   10    0 
+gothnight 988014835  5  1 Bf  -     -     -         2102    5    0 
+gothnight 988014841  5  5 f   -     -     -         2097    0    0 
+gothnight 988014907  5  4 f   -     -     -         2097    0    0 
+gothnight 988014938  6  3 f   -     -     -         2097    0    0 
+gothnight 988014986  6  2 Bf  -     -     -         2097   10    0 
+gothnight 988015019  6  1 Bf  -     -     -         2087    5    0 
+gothnight 988015040  6  6 f   -     -     -         2082    0    0 
+gothnight 988015068  5  4 f   -     -     -         2082    0    0 
+gothnight 988015110  5  3 cc  b     -     -         2082   30   70 
+gothnight 988015153  5  2 Bf  -     -     -         2122   10    0 
+gothnight 988015178  5  1 Bc  kf    -     -         2112   10    0 
+gothnight 988015200  5  5 f   -     -     -         2102    0    0 
+gothnight 988015232  5  4 c   c     c     b         2102   70  145 
+gothnight 988015263  5  3 c   k     k     f         2177   10    0 
+gothnight 988015297  5  2 Bk  kf    -     -         2167   10    0 
+gothnight 988015323  5  1 Bf  -     -     -         2157    5    0 
+gothnight 988015358  5  5 f   -     -     -         2152    0    0 
+gothnight 988015398  5  4 f   -     -     -         2152    0    0 
+gothnight 988015441  5  3 f   -     -     -         2152    0    0 
+gothnight 988015454  5  2 Bk  b     kc    kc        2152   60  170 Jh 9c
+gothnight 988015504  5  1 Bf  -     -     -         2262    5    0 
+gothnight 988015572  6  5 f   -     -     -         2257    0    0 
+gothnight 988015594  6  4 f   -     -     -         2257    0    0 
+gothnight 988015598  6  3 f   -     -     -         2257    0    0 
+gothnight 988015624  6  2 Bk  f     -     -         2257   10    0 
+gothnight 988015673  6  1 Bf  -     -     -         2247    5    0 
+gothnight 988015724  6  4 Q   -     -     -         2242    0    0 

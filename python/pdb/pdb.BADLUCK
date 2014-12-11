@@ -1,0 +1,698 @@
+BADLUCK   986234703  8  1 Bc  kc    kf    -         1000   30    0 
+BADLUCK   986234749  7  1 Bf  -     -     -          970    5    0 
+BADLUCK   986234807  7  7 f   -     -     -          965    0    0 
+BADLUCK   986234890  7  6 f   -     -     -          965    0    0 
+BADLUCK   986234988  7  5 f   -     -     -          965    0    0 
+BADLUCK   986235016  8  5 c   c     b     b          965   70  200 9h Qh
+BADLUCK   986235082  9  4 c   b     b     bc        1095   80    0 Ac 9h
+BADLUCK   986235152  9  3 f   -     -     -         1015    0    0 
+BADLUCK   986235233  9  2 Bc  kf    -     -         1015   20    0 
+BADLUCK   986235284  9  1 Bc  kr    b     -          995   50  110 
+BADLUCK   986235365  9  9 c   c     c     k         1055   60    0 9s Th
+BADLUCK   986235423  9  8 f   -     -     -          995    0    0 
+BADLUCK   986235590  8  6 f   -     -     -          995    0    0 
+BADLUCK   986235643  8  5 rc  c     c     k          995   60  260 Ad Ks
+BADLUCK   986235701  8  4 f   -     -     -         1195    0    0 
+BADLUCK   986235766  8  3 c   kc    kc    kc        1195   60    0 5c 4c
+BADLUCK   986235829  8  2 Br  b     -     -         1135   30   95 
+BADLUCK   986235868  8  1 Bc  k     kf    -         1200   10    0 
+BADLUCK   986235946  8  8 f   -     -     -         1190    0    0 
+BADLUCK   986236006  8  7 f   -     -     -         1190    0    0 
+BADLUCK   986236047  8  6 f   -     -     -         1190    0    0 
+BADLUCK   986236128  9  5 c   b     b     c         1190   60  150 Jd Qd
+BADLUCK   986236176  9  5 f   -     -     -         1280    0    0 
+BADLUCK   986236229  9  4 c   k     f     -         1280   10    0 
+BADLUCK   986236307  9  3 f   -     -     -         1270    0    0 
+BADLUCK   986236452  9  2 Bf  -     -     -         1270   10    0 
+BADLUCK   986236481 10  1 Bf  -     -     -         1260    5    0 
+BADLUCK   986236563 10 10 f   -     -     -         1255    0    0 
+BADLUCK   986236603 10  9 c   f     -     -         1255   10    0 
+BADLUCK   986236662 10  8 f   -     -     -         1245    0    0 
+BADLUCK   986236726 10  7 c   b     b     b         1245   60  145 Qd Tc
+BADLUCK   986236801 10  6 cc  cc    cc    rc        1330  220    0 Jd Jh
+BADLUCK   986236905 10  5 cc  kc    kf    -         1110   30    0 
+BADLUCK   986237076 10  4 f   -     -     -         1080    0    0 
+BADLUCK   986237148  9  2 c   kc    kc    Q         1080   40    0 
+BADLUCK   986437004  8  8 f   -     -     -         1794    0    0 
+BADLUCK   986437084  9  8 f   -     -     -         1794    0    0 
+BADLUCK   986437149  9  7 c   f     -     -         1794   20    0 
+BADLUCK   986437188 10  6 c   f     -     -         1774   20    0 
+BADLUCK   986437226 10  5 f   -     -     -         1754    0    0 
+BADLUCK   986437288  9  3 f   -     -     -         1754    0    0 
+BADLUCK   986437365  9  2 Bf  -     -     -         1754   10    0 
+BADLUCK   986437439 10  1 Bc  k     k     kf        1744   10    0 
+BADLUCK   986437515 10 10 c   f     -     -         1734   30    0 
+BADLUCK   986437632 10  9 c   cc    kc    kf        1704   50    0 
+BADLUCK   986437718  7  5 f   -     -     -         1654    0    0 
+BADLUCK   986437739  8  6 f   -     -     -         1654    0    0 
+BADLUCK   986437762  7  4 f   -     -     -         1654    0    0 
+BADLUCK   986437780  8  4 f   -     -     -         1654    0    0 
+BADLUCK   986437825  7  3 f   -     -     -         1654    0    0 
+BADLUCK   986437874  6  2 Bk  b     c     cf        1654   60    0 
+BADLUCK   986437964  8  1 Bf  -     -     -         1594    5    0 
+BADLUCK   986438021  8  8 f   -     -     -         1589    0    0 
+BADLUCK   986438130  9  6 f   -     -     -         1589    0    0 
+BADLUCK   986438253  9  5 f   -     -     -         1589    0    0 
+BADLUCK   986438321  8  3 KQ  -     -     -         1589    0    0 
+BADLUCK   986449675 10  7 f   -     -     -         1794    0    0 
+BADLUCK   986449783 10  6 f   -     -     -         1794    0    0 
+BADLUCK   986449887 10  5 f   -     -     -         1794    0    0 
+BADLUCK   986449921 10  4 cc  kf    -     -         1794   30    0 
+BADLUCK   986449986 10  3 f   -     -     -         1764    0    0 
+BADLUCK   986450078 10  2 Bc  f     -     -         1764   20    0 
+BADLUCK   986450130 10  1 Bf  -     -     -         1744    5    0 
+BADLUCK   986450209 10 10 cc  c     f     -         1739   30    0 
+BADLUCK   986450291 10  9 c   k     c     c         1709   50  115 Kd Ac
+BADLUCK   986450355 10  8 f   -     -     -         1774    0    0 
+BADLUCK   986450420  9  7 f   -     -     -         1774    0    0 
+BADLUCK   986450481  9  6 f   -     -     -         1774    0    0 
+BADLUCK   986450568  9  5 c   b     kc    kc        1774   60  210 Jh Qd
+BADLUCK   986450657  9  4 c   kf    -     -         1924   10    0 
+BADLUCK   986450718  9  3 f   -     -     -         1914    0    0 
+BADLUCK   986450746  9  2 Bc  kc    kf    -         1914   40    0 
+BADLUCK   986450791  9  1 Bf  -     -     -         1874    5    0 
+BADLUCK   986450837  9  9 f   -     -     -         1869    0    0 
+BADLUCK   986450888  9  9 c   c     f     -         1869   20    0 
+BADLUCK   986450954 10  8 f   -     -     -         1849    0    0 
+BADLUCK   986451034 10  8 cc  kf    -     -         1849   20    0 
+BADLUCK   986451096  8  5 f   -     -     -         1829    0    0 
+BADLUCK   986451147  8  4 f   -     -     -         1829    0    0 
+BADLUCK   986451211  8  3 f   -     -     -         1829    0    0 
+BADLUCK   986451271  8  2 Bk  kc    kcf   -         1829   40    0 
+BADLUCK   986451344  8  1 Bc  kf    -     -         1789   10    0 
+BADLUCK   986451418  8  8 c   c     f     -         1779   20    0 
+BADLUCK   986451468  8  7 f   -     -     -         1759    0    0 
+BADLUCK   986451494  8  6 c   k     k     f         1759   10    0 
+BADLUCK   986451597  8  5 c   c     c     c         1749   70    0 Jh Kh
+BADLUCK   986451641  8  4 f   -     -     -         1679    0    0 
+BADLUCK   986451690  8  3 f   -     -     -         1679    0    0 
+BADLUCK   986451737  8  2 Bk  kc    c     f         1679   50    0 
+BADLUCK   986451787  8  1 Bf  -     -     -         1629    5    0 
+BADLUCK   986451807  8  8 f   -     -     -         1624    0    0 
+BADLUCK   986451862  7  7 f   -     -     -         1624    0    0 
+BADLUCK   986451914  6  5 f   -     -     -         1624    0    0 
+BADLUCK   986451947  5  3 c   k     c     c         1624   50  110 As 8s
+BADLUCK   986451983  5  2 Bk  kf    -     -         1684   10    0 
+BADLUCK   986452010  5  1 Bc  kf    -     -         1674   10    0 
+BADLUCK   986452027  5  5 f   -     -     -         1664    0    0 
+BADLUCK   986452053  6  5 cc  c     c     b         1664   70  150 
+BADLUCK   986452088  7  5 f   -     -     -         1744    0    0 
+BADLUCK   986452136  7  4 f   -     -     -         1744    0    0 
+BADLUCK   986452191  7  3 cc  kf    -     -         1744   20    0 
+BADLUCK   986452246  7  2 Bf  -     -     -         1724   10    0 
+BADLUCK   986452281  7  1 Bf  -     -     -         1714    5    0 
+BADLUCK   986452312  7  7 f   -     -     -         1709    0    0 
+BADLUCK   986452343  7  6 f   -     -     -         1709    0    0 
+BADLUCK   986452378  7  5 f   -     -     -         1709    0    0 
+BADLUCK   986452412  7  4 f   -     -     -         1709    0    0 
+BADLUCK   986452481  6  2 Bf  -     -     -         1709   10    0 
+BADLUCK   986452497  6  1 Bf  -     -     -         1699    5    0 
+BADLUCK   986452528  6  6 f   -     -     -         1694    0    0 
+BADLUCK   986452560  6  5 cc  k     f     -         1694   20    0 
+BADLUCK   986452673  6  4 f   -     -     -         1674    0    0 
+BADLUCK   986452721  6  3 f   -     -     -         1674    0    0 
+BADLUCK   986452790  5  2 Bk  kf    -     -         1674   10    0 
+BADLUCK   986452884  4  1 Bf  -     -     -         1664    5    0 
+BADLUCK   986452898  4  4 f   -     -     -         1659    0    0 
+BADLUCK   986452905  4  3 c   k     k     f         1659   10    0 
+BADLUCK   986452934  4  2 Bk  kf    -     -         1649   10    0 
+BADLUCK   986452959  4  1 Bc  Q     -     -         1639   10    0 
+BADLUCK   986611232  8  8 f   -     -     -         1284    0    0 
+BADLUCK   986611278  8  7 f   -     -     -         1284    0    0 
+BADLUCK   986611321  8  5 ccc kc    b     b         1284  100  445 Jd Ks
+BADLUCK   986611430  9  5 f   -     -     -         1629    0    0 
+BADLUCK   986611513  9  4 c   c     c     f         1629   40    0 
+BADLUCK   986611599 10  4 f   -     -     -         1589    0    0 
+BADLUCK   986611654  9  2 Bk  kcc   c     r         1589  100  310 9c Td
+BADLUCK   986611744 10  1 Bc  kc    kf    -         1799   20    0 
+BADLUCK   986611842 10 10 f   -     -     -         1779    0    0 
+BADLUCK   986611912 10  9 f   -     -     -         1779    0    0 
+BADLUCK   986611982 10  8 f   -     -     -         1779    0    0 
+BADLUCK   986612038 10  7 f   -     -     -         1779    0    0 
+BADLUCK   986612162  9  6 f   -     -     -         1779    0    0 
+BADLUCK   986612256  9  6 c   b     b     c         1779   60  110 9c Th
+BADLUCK   986612321  8  4 c   c     f     -         1829   20    0 
+BADLUCK   986612371  7  3 f   -     -     -         1809    0    0 
+BADLUCK   986612424  8  2 Bf  -     -     -         1809   10    0 
+BADLUCK   986612475  8  1 Bf  -     -     -         1799    5    0 
+BADLUCK   986612521  8  8 c   k     f     -         1794   10    0 
+BADLUCK   986612619  8  7 f   -     -     -         1784    0    0 
+BADLUCK   986612673  8  6 f   -     -     -         1784    0    0 
+BADLUCK   986612744  8  5 f   -     -     -         1784    0    0 
+BADLUCK   986612820  7  3 f   -     -     -         1784    0    0 
+BADLUCK   986612923  7  2 Bk  kf    -     -         1784   10    0 
+BADLUCK   986613002  7  1 Bf  -     -     -         1774    5    0 
+BADLUCK   986613053  6  6 f   -     -     -         1769    0    0 
+BADLUCK   986613102  6  5 f   -     -     -         1769    0    0 
+BADLUCK   986613170  6  4 f   -     -     -         1769    0    0 
+BADLUCK   986613220  7  3 f   -     -     -         1769    0    0 
+BADLUCK   986613255  7  2 Bf  -     -     -         1769   10    0 
+BADLUCK   986613344  7  1 Bf  -     -     -         1759    5    0 
+BADLUCK   986613408  6  6 f   -     -     -         1754    0    0 
+BADLUCK   986613469  6  5 c   k     c     f         1754   30    0 
+BADLUCK   986613509  6  5 c   f     -     -         1724   10    0 
+BADLUCK   986613568  5  3 f   -     -     -         1714    0    0 
+BADLUCK   986613601  5  2 Bk  f     -     -         1714   10    0 
+BADLUCK   986613666  5  1 Bf  -     -     -         1704    5    0 
+BADLUCK   986613743  5  5 f   -     -     -         1699    0    0 
+BADLUCK   986613806  5  4 f   -     -     -         1699    0    0 
+BADLUCK   986613830  5  3 cc  c     c     c         1699   70  100 As Ac
+BADLUCK   986613877  5  2 Bf  -     -     -         1729   10    0 
+BADLUCK   986613917  5  1 Bf  -     -     -         1719    5    0 
+BADLUCK   986613962  5  5 c   f     -     -         1714   10    0 
+BADLUCK   986613992  5  4 cc  kc    f     -         1704   40    0 
+BADLUCK   986614054  5  3 c   c     cc    bc        1664  100  310 Kh Qc
+BADLUCK   986614118  5  2 Bf  -     -     -         1874   10    0 
+BADLUCK   986614160  5  1 Bf  -     -     -         1864    5    0 
+BADLUCK   986614167  4  4 f   -     -     -         1859    0    0 
+BADLUCK   986614216  4  3 c   k     f     -         1859   10    0 
+BADLUCK   986614252  4  2 Bf  -     -     -         1849   10    0 
+BADLUCK   986614286  4  1 Br  bc    kc    kc        1839   80    0 Ah As
+BADLUCK   986614321  4  4 f   -     -     -         1759    0    0 
+BADLUCK   986614366  4  3 f   -     -     -         1759    0    0 
+BADLUCK   986614387  4  2 Bf  -     -     -         1759   10    0 
+BADLUCK   986614399  4  1 Bc  k     k     k         1749   20    0 9d Kd
+BADLUCK   986614447  4  4 f   -     -     -         1729    0    0 
+BADLUCK   986614493  5  3 cc  kf    -     -         1729   20    0 
+BADLUCK   986614523  5  2 Bf  -     -     -         1709   10    0 
+BADLUCK   986614548  5  1 Bc  kf    -     -         1699   10    0 
+BADLUCK   986614584  5  5 f   -     -     -         1689    0    0 
+BADLUCK   986614614  6  5 f   -     -     -         1689    0    0 
+BADLUCK   986614642  6  4 c   c     f     -         1689   30    0 
+BADLUCK   986614671  6  3 cc  cf    -     -         1659   30    0 
+BADLUCK   986614732  6  2 Bk  b     b     b         1629   60  140 
+BADLUCK   986614782  6  1 Bf  -     -     -         1709    5    0 
+BADLUCK   986614815  6  6 c   c     c     rc        1704  100    0 Qs Kc
+BADLUCK   986614876  6  5 c   c     f     -         1604   30    0 
+BADLUCK   986614930  6  4 c   b     b     b         1574   60    0 Kc Ad
+BADLUCK   986615000  6  3 f   -     -     -         1514    0    0 
+BADLUCK   986615028  6  2 Bk  f     -     -         1514   10    0 
+BADLUCK   986615094  7  1 Bf  -     -     -         1504    5    0 
+BADLUCK   986615120  8  8 c   b     k     b         1499   40  120 Ks Ah
+BADLUCK   986615191  8  7 f   -     -     -         1579    0    0 
+BADLUCK   986615240  8  6 cc  c     c     r         1579   90  370 Jd Kd
+BADLUCK   986615325  8  5 c   f     -     -         1859   10    0 
+BADLUCK   986615363  7  4 f   -     -     -         1849    0    0 
+BADLUCK   986615434  8  3 c   c     f     -         1849   20    0 
+BADLUCK   986615479 10  4 f   -     -     -         1829    0    0 
+BADLUCK   986615540 10  3 f   -     -     -         1829    0    0 
+BADLUCK   986615602 10  2 Bf  -     -     -         1829   10    0 
+BADLUCK   986615673 10  1 Bc  kf    -     -         1819   10    0 
+BADLUCK   986615737 10 10 f   -     -     -         1809    0    0 
+BADLUCK   986615835 10 10 f   -     -     -         1809    0    0 
+BADLUCK   986615891  9  8 c   b     c     f         1809   40    0 
+BADLUCK   986615975  9  7 c   c     f     -         1769   20    0 
+BADLUCK   986616017  9  6 f   -     -     -         1749    0    0 
+BADLUCK   986616071  9  5 f   -     -     -         1749    0    0 
+BADLUCK   986616124  9  4 f   -     -     -         1749    0    0 
+BADLUCK   986616190  9  3 f   -     -     -         1749    0    0 
+BADLUCK   986616247  9  2 Bf  -     -     -         1749   10    0 
+BADLUCK   986616287  9  1 Bf  -     -     -         1739    5    0 
+BADLUCK   986616334  8  8 f   -     -     -         1734    0    0 
+BADLUCK   986616383  8  7 f   -     -     -         1734    0    0 
+BADLUCK   986616417  8  6 c   kc    kf    -         1734   20    0 
+BADLUCK   986616488  8  5 c   b     k     f         1714   20    0 
+BADLUCK   986616568  8  4 f   -     -     -         1694    0    0 
+BADLUCK   986616660  8  3 f   -     -     -         1694    0    0 
+BADLUCK   986616717  8  2 Bc  bc    b     b         1694   80  310 Ts 7s
+BADLUCK   986616809  8  1 Bf  -     -     -         1924    5    0 
+BADLUCK   986616880  8  8 f   -     -     -         1919    0    0 
+BADLUCK   986616943  8  7 f   -     -     -         1919    0    0 
+BADLUCK   986617025  9  7 f   -     -     -         1919    0    0 
+BADLUCK   986617119  9  6 cc  k     f     -         1919   20    0 
+BADLUCK   986617173  9  5 f   -     -     -         1899    0    0 
+BADLUCK   986617215  9  4 c   k     kf    -         1899   10    0 
+BADLUCK   986617288  9  3 f   -     -     -         1889    0    0 
+BADLUCK   986617338  9  2 Bk  k     kf    -         1889   10    0 
+BADLUCK   986617381  8  1 Bf  -     -     -         1879    5    0 
+BADLUCK   986617413  8  8 f   -     -     -         1874    0    0 
+BADLUCK   986617475  9  7 c   k     f     -         1874   10    0 
+BADLUCK   986617550  9  6 cc  f     -     -         1864   20    0 
+BADLUCK   986617614  8  4 f   -     -     -         1844    0    0 
+BADLUCK   986617658  7  3 c   kf    -     -         1844   10    0 
+BADLUCK   986617743  7  2 Bk  k     k     k         1834   10    0 Ad 4c
+BADLUCK   986617787  7  1 Bf  -     -     -         1824    5    0 
+BADLUCK   986617802  7  7 f   -     -     -         1819    0    0 
+BADLUCK   986617844  7  6 f   -     -     -         1819    0    0 
+BADLUCK   986617866  7  5 c   b     k     k         1819   20   65 Ad 5d
+BADLUCK   986617901  7  4 f   -     -     -         1864    0    0 
+BADLUCK   986617953  7  3 c   k     b     -         1864   30   50 
+BADLUCK   986617985  6  2 Bk  kf    -     -         1884   10    0 
+BADLUCK   986618003  6  1 Bf  -     -     -         1874    5    0 
+BADLUCK   986618019  6  6 f   -     -     -         1869    0    0 
+BADLUCK   986618034  6  5 f   -     -     -         1869    0    0 
+BADLUCK   986618059  6  4 f   -     -     -         1869    0    0 
+BADLUCK   986618125  6  3 c   kf    -     -         1869   10    0 
+BADLUCK   986618163  6  2 Bk  kf    -     -         1859   10    0 
+BADLUCK   986618189  6  1 Bcc kc    kf    -         1849   30    0 
+BADLUCK   986618226  6  6 f   -     -     -         1819    0    0 
+BADLUCK   986618266  6  5 f   -     -     -         1819    0    0 
+BADLUCK   986618307  6  3 f   -     -     -         1819    0    0 
+BADLUCK   986618362  5  1 Bk  kf    -     -         1819   10    0 
+BADLUCK   986618414  6  1 Bc  b     -     -         1809   20   40 
+BADLUCK   986618438  6  6 f   -     -     -         1829    0    0 
+BADLUCK   986618496  4  3 f   -     -     -         1829    0    0 
+BADLUCK   986618532  5  3 f   -     -     -         1829    0    0 
+BADLUCK   986618562  5  2 Bk  k     k     k         1829   10   20 2c Ah
+BADLUCK   986618589  5  1 Bf  -     -     -         1839    5    0 
+BADLUCK   986618626  5  5 f   -     -     -         1834    0    0 
+BADLUCK   986618646  5  4 f   -     -     -         1834    0    0 
+BADLUCK   986618677  5  3 f   -     -     -         1834    0    0 
+BADLUCK   986618708  5  2 Bk  k     k     k         1834   10   20 7s 6s
+BADLUCK   986618740  4  1 Bc  kf    -     -         1844   10    0 
+BADLUCK   986618779  4  4 f   -     -     -         1834    0    0 
+BADLUCK   986618799  4  3 c   k     c     r         1834   70  160 Ad Jd
+BADLUCK   986618843  4  2 Bk  k     c     k         1924   30    0 9s Ac
+BADLUCK   986618892  4  1 Bf  -     -     -         1894    5    0 
+BADLUCK   986618907  6  5 f   -     -     -         1889    0    0 
+BADLUCK   986618948  7  5 f   -     -     -         1889    0    0 
+BADLUCK   986619003  8  5 f   -     -     -         1889    0    0 
+BADLUCK   986619044  9  5 c   kf    -     -         1889   10    0 
+BADLUCK   986619121 10  4 f   -     -     -         1879    0    0 
+BADLUCK   986619184 10  3 f   -     -     -         1879    0    0 
+BADLUCK   986619208 10  2 Bc  kf    -     -         1879   20    0 
+BADLUCK   986619296 10  1 Bf  -     -     -         1859    5    0 
+BADLUCK   986619343 10 10 f   -     -     -         1854    0    0 
+BADLUCK   986619378 10  9 f   -     -     -         1854    0    0 
+BADLUCK   986619435 10  8 f   -     -     -         1854    0    0 
+BADLUCK   986619513 10  7 f   -     -     -         1854    0    0 
+BADLUCK   986619565 10  6 f   -     -     -         1854    0    0 
+BADLUCK   986619626 10  5 c   cc    c     c         1854   80  340 5c 6c
+BADLUCK   986619708 10  4 f   -     -     -         2114    0    0 
+BADLUCK   986619770 10  3 f   -     -     -         2114    0    0 
+BADLUCK   986619822 10  2 Bf  -     -     -         2114   10    0 
+BADLUCK   986619865 10  1 Bf  -     -     -         2104    5    0 
+BADLUCK   986619935 10 10 f   -     -     -         2099    0    0 
+BADLUCK   986620014 10  9 f   -     -     -         2099    0    0 
+BADLUCK   986620195  9  7 c   f     -     -         2099   10    0 
+BADLUCK   986620264  9  7 f   -     -     -         2089    0    0 
+BADLUCK   986620305  9  6 f   -     -     -         2089    0    0 
+BADLUCK   986620356  9  5 f   -     -     -         2089    0    0 
+BADLUCK   986620406 10  4 c   kf    -     -         2089   10    0 
+BADLUCK   986620474 10  3 f   -     -     -         2079    0    0 
+BADLUCK   986620542 10  2 Bk  kf    -     -         2079   10    0 
+BADLUCK   986620602 10  1 Bf  -     -     -         2069    5    0 
+BADLUCK   986620637 10 10 f   -     -     -         2064    0    0 
+BADLUCK   986620709 10  9 f   -     -     -         2064    0    0 
+BADLUCK   986620764 10  8 f   -     -     -         2064    0    0 
+BADLUCK   986620827  8  6 c   f     -     -         2064   10    0 
+BADLUCK   986620890  8  5 c   k     c     f         2054   40    0 
+BADLUCK   986620950  8  4 f   -     -     -         2014    0    0 
+BADLUCK   986621005  8  3 fQ  -     -     -         2014    0    0 
+BADLUCK   986681726  5  2 Bf  -     -     -         2014   10    0 
+BADLUCK   986681773  5  1 Bf  -     -     -         2004    5    0 
+BADLUCK   986681833  5  5 c   k     k     k         1999   10   30 6d 7d
+BADLUCK   986681875  5  4 c   c     c     f         2019   40    0 
+BADLUCK   986681916  5  3 c   c     f     -         1979   20    0 
+BADLUCK   986681977  5  2 Bf  -     -     -         1959   10    0 
+BADLUCK   986682032  5  1 Bf  -     -     -         1949    5    0 
+BADLUCK   986682075  6  5 f   -     -     -         1944    0    0 
+BADLUCK   986682142  6  4 f   -     -     -         1944    0    0 
+BADLUCK   986682171  6  3 cc  k     k     kc        1944   40   95 Jd Kd
+BADLUCK   986682220  6  2 Bk  kf    -     -         1999   10    0 
+BADLUCK   986682275  6  1 Bf  -     -     -         1989    5    0 
+BADLUCK   986682302  6  6 cc  c     c     b         1984   70  145 
+BADLUCK   986682364  6  5 f   -     -     -         2059    0    0 
+BADLUCK   986682498  6  3 f   Q     -     -         2059    0    0 
+BADLUCK   986688276  9  8 f   -     -     -         2059    0    0 
+BADLUCK   986688310 10  8 f   -     -     -         2059    0    0 
+BADLUCK   986688359 10  7 cc  k     k     k         2059   30   31 Qh 7h
+BADLUCK   986688398  9  5 f   -     -     -         2060    0    0 
+BADLUCK   986688445  9  4 f   -     -     -         2060    0    0 
+BADLUCK   986688506  9  3 f   -     -     -         2060    0    0 
+BADLUCK   986688551  9  2 Bf  -     -     -         2060   10    0 
+BADLUCK   986688595  8  1 Bf  -     -     -         2050    5    0 
+BADLUCK   986688643  8  8 f   -     -     -         2045    0    0 
+BADLUCK   986688684  8  7 cc  bc    k     k         2045   40  160 Jh Kc
+BADLUCK   986688748  8  6 f   -     -     -         2165    0    0 
+BADLUCK   986688774  8  5 f   -     -     -         2165    0    0 
+BADLUCK   986688874  7  4 f   -     -     -         2165    0    0 
+BADLUCK   986688945  7  4 f   -     -     -         2165    0    0 
+BADLUCK   986688963  7  3 c   f     -     -         2165   10    0 
+BADLUCK   986689003  7  2 Bk  kf    -     -         2155   10    0 
+BADLUCK   986689048  7  1 Bc  kc    kc    kf        2145   40    0 
+BADLUCK   986689084  7  7 f   -     -     -         2105    0    0 
+BADLUCK   986689122  8  7 c   f     -     -         2105   20    0 
+BADLUCK   986689177 10  7 f   -     -     -         2085    0    0 
+BADLUCK   986689250 10  6 c   f     Q     -         2085   10    0 
+BADLUCK   986700815  6  5 f   -     -     -         2300    0    0 
+BADLUCK   986700852  6  4 f   -     -     -         2345    0    0 
+BADLUCK   986700895  6  2 Bf  -     -     -         2345   10    0 
+BADLUCK   986700922  6  1 Bc  k     kc    k         2335   30    0 9s 8c
+BADLUCK   986700960  6  6 c   k     c     f         2305   40    0 
+BADLUCK   986701003  6  6 c   c     r     b         2265   90  360 8s As
+BADLUCK   986701071  8  6 f   -     -     -         2535    0    0 
+BADLUCK   986701112  8  5 f   -     -     -         2535    0    0 
+BADLUCK   986701150  8  4 f   -     -     -         2535    0    0 
+BADLUCK   986701191  8  3 f   -     -     -         2535    0    0 
+BADLUCK   986701236  8  2 Bk  kf    -     -         2535   10    0 
+BADLUCK   986701260  8  1 Bf  -     -     -         2525    5    0 
+BADLUCK   986701287  8  8 f   -     -     -         2520    0    0 
+BADLUCK   986701320  8  7 f   -     -     -         2520    0    0 
+BADLUCK   986701351  8  6 f   -     -     -         2520    0    0 
+BADLUCK   986701393  9  6 f   -     -     -         2520    0    0 
+BADLUCK   986701457 10  6 f   -     -     -         2520    0    0 
+BADLUCK   986701501  9  5 f   -     -     -         2520    0    0 
+BADLUCK   986701538 10  4 f   -     -     -         2520    0    0 
+BADLUCK   986701605 10  3 f   -     -     -         2520    0    0 
+BADLUCK   986701661 10  2 Bc  kf    -     -         2520   20    0 
+BADLUCK   986701749 10  1 Bf  -     -     -         2500    5    0 
+BADLUCK   986701814 10 10 f   -     -     -         2495    0    0 
+BADLUCK   986701863 10  9 f   -     -     -         2495    0    0 
+BADLUCK   986701892 10  8 f   -     -     -         2495    0    0 
+BADLUCK   986701961 10  7 f   -     -     -         2495    0    0 
+BADLUCK   986702044  9  5 f   -     -     -         2495    0    0 
+BADLUCK   986702096 10  5 f   -     -     -         2495    0    0 
+BADLUCK   986702157 10  4 f   -     -     -         2495    0    0 
+BADLUCK   986702218 10  3 cc  kf    -     -         2495   20    0 
+BADLUCK   986702264 10  2 Bf  -     -     -         2475   10    0 
+BADLUCK   986702313 10  1 Bf  -     -     -         2465    5    0 
+BADLUCK   986702379 10 10 c   c     k     f         2460   20    0 
+BADLUCK   986702461  9  8 f   -     -     -         2440    0    0 
+BADLUCK   986702512  8  6 cc  b     c     r         2440  110  330 Ad As
+BADLUCK   986702597  9  5 cc  kcc   kc    kc        2660  110    0 Kc Qc
+BADLUCK   986702673  9  4 f   -     -     -         2550    0    0 
+BADLUCK   986702786  8  2 f   -     -     -         2550    0    0 
+BADLUCK   986702836  8  2 Bk  kc    kf    -         2550   20    0 
+BADLUCK   986702883  8  1 Bf  -     -     -         2530    5    0 
+BADLUCK   986702930  8  8 f   -     -     -         2525    0    0 
+BADLUCK   986702981  7  6 f   -     -     -         2525    0    0 
+BADLUCK   986703016  7  5 f   -     -     -         2525    0    0 
+BADLUCK   986703076  9  6 c   f     -     -         2525   10    0 
+BADLUCK   986703118  9  5 f   -     -     -         2515    0    0 
+BADLUCK   986703149  9  4 f   -     -     -         2515    0    0 
+BADLUCK   986703206 10  4 f   -     -     -         2515    0    0 
+BADLUCK   986703283 10  3 f   -     -     -         2515    0    0 
+BADLUCK   986703358 10  2 Bc  kf    -     -         2515   30    0 
+BADLUCK   986703438 10  1 Bf  -     -     -         2485    5    0 
+BADLUCK   986703494 10 10 f   -     -     -         2480    0    0 
+BADLUCK   986703531 10  9 f   -     -     -         2480    0    0 
+BADLUCK   986703574 10  8 cc  c     c     c         2480   70    0 Tc Td
+BADLUCK   986703658 10  7 f   -     -     -         2410    0    0 
+BADLUCK   986703733 10  6 f   -     -     -         2410    0    0 
+BADLUCK   986703806 10  5 f   -     -     -         2410    0    0 
+BADLUCK   986703846 10  4 f   -     -     -         2410    0    0 
+BADLUCK   986703921 10  4 c   kf    -     -         2410   10    0 
+BADLUCK   986703997  9  2 Bf  -     -     -         2400   10    0 
+BADLUCK   986704087  9  1 Bf  -     -     -         2390    5    0 
+BADLUCK   986704176  7  7 c   c     c     r         2385   80  275 Qh Ad
+BADLUCK   986704257  7  6 f   -     -     -         2580    0    0 
+BADLUCK   986704302  6  4 f   -     -     -         2580    0    0 
+BADLUCK   986704318  6  4 c   k     cc    kf        2580   50    0 
+BADLUCK   986704365  6  3 f   -     -     -         2530    0    0 
+BADLUCK   986704433  6  2 Bk  k     kf    -         2530   10    0 
+BADLUCK   986704471  7  1 Bf  -     -     -         2520    5    0 
+BADLUCK   986704527  7  7 c   b     b     -         2515   40   90 
+BADLUCK   986704575  9  8 f   -     -     -         2565    0    0 
+BADLUCK   986704636  9  7 f   -     -     -         2565    0    0 
+BADLUCK   986704688  9  6 f   -     -     -         2565    0    0 
+BADLUCK   986704741  9  5 c   c     c     k         2565   40    0 As Td
+BADLUCK   986704809  9  4 f   -     -     -         2525    0    0 
+BADLUCK   986704853  9  3 f   -     -     -         2525    0    0 
+BADLUCK   986704897  9  2 Bk  kf    -     -         2525   10    0 
+BADLUCK   986704918  9  1 Bf  -     -     -         2515    5    0 
+BADLUCK   986704951  9  9 f   -     -     -         2510    0    0 
+BADLUCK   986704990  9  8 c   f     -     -         2510   10    0 
+BADLUCK   986705040  9  7 f   -     -     -         2500    0    0 
+BADLUCK   986705106  9  6 f   -     -     -         2500    0    0 
+BADLUCK   986705163  9  5 f   -     -     -         2500    0    0 
+BADLUCK   986705207  8  4 f   -     -     -         2500    0    0 
+BADLUCK   986705242  8  3 f   -     -     -         2500    0    0 
+BADLUCK   986705284  8  2 Bk  kc    kc    kr        2500   80  185 2d Jd
+BADLUCK   986705340  8  1 Bf  -     -     -         2605    5    0 
+BADLUCK   986705369  8  8 f   -     -     -         2600    0    0 
+BADLUCK   986705410  8  7 f   -     -     -         2600    0    0 
+BADLUCK   986705509  8  6 f   -     -     -         2600    0    0 
+BADLUCK   986705538  8  5 f   -     -     -         2600    0    0 
+BADLUCK   986705616  8  4 f   -     -     -         2600    0    0 
+BADLUCK   986705646  8  3 f   -     -     -         2600    0    0 
+BADLUCK   986705703  8  2 Bk  k     k     kf        2600   10    0 
+BADLUCK   986705790  8  1 Bf  -     -     -         2590    5    0 
+BADLUCK   986705808  9  9 c   f     -     -         2585   10    0 
+BADLUCK   986705857  9  8 f   -     -     -         2575    0    0 
+BADLUCK   986705950  9  7 c   c     c     c         2575   80    0 Js Qc
+BADLUCK   986705997  9  6 f   -     -     -         2495    0    0 
+BADLUCK   986706024  9  5 c   kc    kc    kf        2495   40    0 
+BADLUCK   986706113 10  4 cc  cc    r     b         2455  100  245 
+BADLUCK   986706166 10  3 c   f     -     -         2600   10    0 
+BADLUCK   986706241 10  2 Bk  b     b     b         2590   60  165 Qs Qc
+BADLUCK   986706295 10  1 Bf  -     -     -         2695    5    0 
+BADLUCK   986706323 10 10 f   -     -     -         2690    0    0 
+BADLUCK   986706359 10  9 f   -     -     -         2690    0    0 
+BADLUCK   986706400 10  8 f   -     -     -         2690    0    0 
+BADLUCK   986706477 10  7 f   -     -     -         2690    0    0 
+BADLUCK   986706571  9  5 f   -     -     -         2690    0    0 
+BADLUCK   986706632  9  4 f   -     -     -         2690    0    0 
+BADLUCK   986706705  9  3 f   -     -     -         2690    0    0 
+BADLUCK   986706751  9  2 Bk  k     k     k         2690   10   25 Ts Th
+BADLUCK   986706775 10  1 Bc  kc    kc    k         2705   40  180 8s As
+BADLUCK   986706826 10 10 c   c     c     c         2845   80  350 Ad As
+BADLUCK   986706887 10  9 f   -     -     -         3115    0    0 
+BADLUCK   986706931 10  8 c   b     f     Q         3115   20    0 
+BADLUCK   986871059  7  2 Bf  -     -     -         3018   10    0 
+BADLUCK   986871088  7  1 Bf  -     -     -         3008    5    0 
+BADLUCK   986871114  6  6 f   -     -     -         3003    0    0 
+BADLUCK   986871130  6  6 f   -     -     -         3003    0    0 
+BADLUCK   986871172  6  5 c   k     k     k         3003   10   40 7c 7d
+BADLUCK   986871218  7  4 f   -     -     -         3033    0    0 
+BADLUCK   986871249  6  2 B   -     -     -         3033   10   15 
+BADLUCK   986871260  5  1 Bf  -     -     -         3038    5    0 
+BADLUCK   986871302  5  5 f   -     -     -         3033    0    0 
+BADLUCK   986871341  5  4 f   -     -     -         3033    0    0 
+BADLUCK   986871353  5  3 f   -     -     -         3033    0    0 
+BADLUCK   986871371  5  2 Bk  kf    -     -         3033   10    0 
+BADLUCK   986871391  5  1 Bf  -     -     -         3023    5    0 
+BADLUCK   986871400  5  5 f   -     -     -         3018    0    0 
+BADLUCK   986871426  5  4 f   -     -     -         3018    0    0 
+BADLUCK   986871445  5  3 c   c     f     -         3018   20    0 
+BADLUCK   986871465  6  3 f   -     -     -         2998    0    0 
+BADLUCK   986871478  6  2 Bk  k     f     -         2998   10    0 
+BADLUCK   986871498  6  1 Bc  b     b     b         2988   60  100 
+BADLUCK   986871527  8  7 f   -     -     -         3028    0    0 
+BADLUCK   986871573  9  6 f   -     -     -         3028    0    0 
+BADLUCK   986871607  9  5 f   -     -     -         3028    0    0 
+BADLUCK   986871647  9  4 c   k     k     k         3028   10   25 Qh 8h
+BADLUCK   986871711  8  3 f   -     -     -         3043    0    0 
+BADLUCK   986871732  8  2 Bf  -     -     -         3043   10    0 
+BADLUCK   986871743  8  1 Bf  -     -     -         3033    5    0 
+BADLUCK   986871781  8  8 f   -     -     -         3028    0    0 
+BADLUCK   986871824  8  7 c   c     r     b         3028   90  280 Jc Ts
+BADLUCK   986871877  8  6 c   k     k     k         3218   10    0 Jd Qs
+BADLUCK   986871925  8  5 f   -     -     -         3208    0    0 
+BADLUCK   986871960  8  3 f   -     -     -         3208    0    0 
+BADLUCK   986871991  8  2 Bk  kf    -     -         3208   10    0 
+BADLUCK   986872042 10  1 Bf  -     -     -         3198    5    0 
+BADLUCK   986872068  9  9 f   -     -     -         3193    0    0 
+BADLUCK   986872104  9  9 f   -     -     -         3193    0    0 
+BADLUCK   986872119  9  8 c   c     c     f         3193   40    0 
+BADLUCK   986872170 10  7 f   -     -     -         3153    0    0 
+BADLUCK   986872218 10  6 c   f     -     -         3153   10    0 
+BADLUCK   986872269 10  5 f   -     -     -         3143    0    0 
+BADLUCK   986872303 10  4 c   k     f     -         3143   10    0 
+BADLUCK   986872343 10  3 f   -     -     -         3133    0    0 
+BADLUCK   986872378 10  2 Bk  k     kf    -         3133   10    0 
+BADLUCK   986872423 10  1 Bf  -     -     -         3123    5    0 
+BADLUCK   986872461 10 10 f   -     -     -         3118    0    0 
+BADLUCK   986872494 10  9 f   -     -     -         3118    0    0 
+BADLUCK   986872505 10  8 f   -     -     -         3118    0    0 
+BADLUCK   986872531 10  7 f   -     -     -         3118    0    0 
+BADLUCK   986872575 10  6 f   -     -     -         3118    0    0 
+BADLUCK   986872609 10  5 f   -     -     -         3118    0    0 
+BADLUCK   986872689 10  4 c   f     -     -         3118   10    0 
+BADLUCK   986872731 10  3 f   -     -     -         3108    0    0 
+BADLUCK   986872764 10  2 Bk  k     k     k         3108   10   25 8s As
+BADLUCK   986872792 10  1 Bf  -     -     -         3123    5    0 
+BADLUCK   986872825 10 10 c   c     c     c         3118   70  225 Jd Td
+BADLUCK   986872880 10  9 f   -     -     -         3273    0    0 
+BADLUCK   986872927 10  8 f   -     -     -         3273    0    0 
+BADLUCK   986872969 10  7 cc  c     c     f         3273   50    0 
+BADLUCK   986873077 10  6 c   k     k     k         3223   10    0 7h 8d
+BADLUCK   986873120 10  5 f   -     -     -         3213    0    0 
+BADLUCK   986873153 10  4 c   k     f     -         3213   10    0 
+BADLUCK   986873187 10  3 f   -     -     -         3203    0    0 
+BADLUCK   986873245 10  2 Bf  -     -     -         3203   10    0 
+BADLUCK   986873271 10  1 Bc  kc    kc    kr        3193   80  280 8c 6d
+BADLUCK   986873335 10 10 f   -     -     -         3393    0    0 
+BADLUCK   986873352 10  9 c   kc    k     f         3393   30    0 
+BADLUCK   986873424 10  8 c   kc    k     k         3363   20    0 Th 8h
+BADLUCK   986873479 10  7 f   -     -     -         3343    0    0 
+BADLUCK   986873512 10  6 f   -     -     -         3343    0    0 
+BADLUCK   986873573 10  5 f   -     -     -         3343    0    0 
+BADLUCK   986873635 10  4 f   -     -     -         3343    0    0 
+BADLUCK   986873678 10  4 f   -     -     -         3343    0    0 
+BADLUCK   986873747  9  2 Bk  kc    k     kf        3343   20    0 
+BADLUCK   986873800 10  1 Bf  -     -     -         3323    5    0 
+BADLUCK   986873840 10 10 c   bc    f     -         3318   30    0 
+BADLUCK   986873889 10  9 f   -     -     -         3288    0    0 
+BADLUCK   986873940 10  8 c   k     k     k         3288   10    0 Th Jd
+BADLUCK   986873981 10  7 f   -     -     -         3278    0    0 
+BADLUCK   986874025 10  7 f   -     -     -         3278    0    0 
+BADLUCK   986874041 10  5 c   k     k     f         3278   10    0 
+BADLUCK   986874072 10  4 f   -     -     -         3268    0    0 
+BADLUCK   986874116 10  3 f   -     -     -         3268    0    0 
+BADLUCK   986874171 10  2 Bk  k     f     -         3268   10    0 
+BADLUCK   986874211  9  1 Bf  -     -     -         3258    5    0 
+BADLUCK   986874255  9  9 f   -     -     -         3253    0    0 
+BADLUCK   986874333 10  9 c   cc    k     f         3253   30    0 
+BADLUCK   986874408 10  8 f   -     -     -         3223    0    0 
+BADLUCK   986874433 10  7 c   f     -     -         3223   10    0 
+BADLUCK   986874482 10  6 f   -     -     -         3213    0    0 
+BADLUCK   986874505  9  4 c   br    b     b         3213   80  180 Kc Kh
+BADLUCK   986874549 10  3 f   -     -     -         3313    0    0 
+BADLUCK   986874598 10  2 Bk  bc    kc    k         3313   50    0 9s 8s
+BADLUCK   986874658 10  1 Bf  -     -     -         3263    5    0 
+BADLUCK   986874738 10 10 f   -     -     -         3258    0    0 
+BADLUCK   986874788 10  9 f   -     -     -         3258    0    0 
+BADLUCK   986874849 10  8 c   k     b     -         3258   30   45 
+BADLUCK   986874917  8  5 f   -     -     -         3273    0    0 
+BADLUCK   986874925  8  4 f   -     -     -         3273    0    0 
+BADLUCK   986874998  8  3 f   -     -     -         3273    0    0 
+BADLUCK   986875015  8  2 Bk  kf    -     -         3273   10    0 
+BADLUCK   986875055  7  1 Bf  -     -     -         3263    5    0 
+BADLUCK   986875063  7  7 f   -     -     -         3258    0    0 
+BADLUCK   986875098  7  6 f   -     -     -         3258    0    0 
+BADLUCK   986875110  8  6 f   -     -     -         3258    0    0 
+BADLUCK   986875156  8  5 f   -     -     -         3258    0    0 
+BADLUCK   986875176  8  4 c   c     c     k         3258   40    0 As 8s
+BADLUCK   986875224  8  3 f   -     -     -         3218    0    0 
+BADLUCK   986875244  8  2 Bk  kf    -     -         3218   10    0 
+BADLUCK   986875276  8  1 Bc  kc    kf    -         3208   30    0 
+BADLUCK   986875333  8  8 f   -     -     -         3178    0    0 
+BADLUCK   986875408  8  7 f   -     -     -         3178    0    0 
+BADLUCK   986875431  8  6 c   f     -     -         3178   10    0 
+BADLUCK   986875484  8  5 f   -     -     -         3168    0    0 
+BADLUCK   986875523  8  4 c   kf    -     -         3168   10    0 
+BADLUCK   986875562  8  3 f   -     -     -         3158    0    0 
+BADLUCK   986875601  9  2 Bk  k     b     k         3158   30    0 8h Qd
+BADLUCK   986875648 10  1 Bc  k     kc    kf        3128   30    0 
+BADLUCK   986875709 10 10 f   -     -     -         3098    0    0 
+BADLUCK   986875754 10  9 f   -     -     -         3098    0    0 
+BADLUCK   986875800  9  7 f   -     -     -         3098    0    0 
+BADLUCK   986875883  8  5 r   b     b     -         3098   50   95 
+BADLUCK   986875913  8  4 f   -     -     -         3143    0    0 
+BADLUCK   986875957  8  3 c   c     c     kf        3143   40    0 
+BADLUCK   986876002  8  2 Bc  kc    kf    -         3103   30    0 
+BADLUCK   986876041  8  1 Bf  -     -     -         3073    5    0 
+BADLUCK   986876094  8  8 f   -     -     -         3068    0    0 
+BADLUCK   986876167  8  7 f   -     -     -         3068    0    0 
+BADLUCK   986876252  8  6 f   -     -     -         3068    0    0 
+BADLUCK   986876297  8  5 f   -     -     -         3068    0    0 
+BADLUCK   986876364  7  3 f   -     -     -         3068    0    0 
+BADLUCK   986876405  8  3 c   c     c     c         3068   60  130 Qh Ks
+BADLUCK   986876429  9  2 Bf  -     -     -         3138   10    0 
+BADLUCK   986876511  9  1 Bf  -     -     -         3128    5    0 
+BADLUCK   986876569  8  8 f   -     -     -         3123    0    0 
+BADLUCK   986876641  9  8 f   -     -     -         3123    0    0 
+BADLUCK   986876694  9  7 c   k     f     -         3123   10    0 
+BADLUCK   986876743  9  6 f   -     -     -         3113    0    0 
+BADLUCK   986876817  8  5 f   -     -     -         3113    0    0 
+BADLUCK   986876842  8  4 c   kf    -     -         3113   10    0 
+BADLUCK   986876894 10  3 f   -     -     -         3103    0    0 
+BADLUCK   986876946 10  2 Bk  k     kf    -         3103   10    0 
+BADLUCK   986877004 10  1 Bc  k     kc    kf        3093   30    0 
+BADLUCK   986877114 10 10 f   -     -     -         3063    0    0 
+BADLUCK   986877186 10  9 f   -     -     -         3063    0    0 
+BADLUCK   986877272 10  8 f   -     -     -         3063    0    0 
+BADLUCK   986877322 10  7 f   -     -     -         3063    0    0 
+BADLUCK   986877378 10  6 KQ  -     -     -         3063    0    0 
+BADLUCK   986882187  9  7 c   k     k     c         3063   30  105 As Kc
+BADLUCK   986882233  9  6 f   -     -     -         3138    0    0 
+BADLUCK   986882292 10  5 c   c     kc    k         3138   50    0 4h Ah
+BADLUCK   986882342 10  4 f   -     -     -         3088    0    0 
+BADLUCK   986882389 10  3 c   k     c     k         3088   30    0 Ks Ts
+BADLUCK   986882461 10  2 Bk  k     b     kf        3058   30    0 
+BADLUCK   986882510 10  1 Bf  -     -     -         3028    5    0 
+BADLUCK   986882567 10 10 c   b     b     k         3023   50    0 Ac Ah
+BADLUCK   986882683 10  9 f   -     -     -         2973    0    0 
+BADLUCK   986882787 10  8 f   -     -     -         2973    0    0 
+BADLUCK   986882854 10  7 c   c     f     -         2973   20    0 
+BADLUCK   986882945 10  6 f   -     -     -         2953    0    0 
+BADLUCK   986882993 10  5 f   -     -     -         2953    0    0 
+BADLUCK   986883101  9  3 f   -     -     -         2953    0    0 
+BADLUCK   986883147 10  3 cc  kf    -     -         2953   20    0 
+BADLUCK   986883207 10  2 Bk  k     k     kf        2933   10    0 
+BADLUCK   986883302 10  1 Bc  kf    -     -         2923   20    0 
+BADLUCK   986883347 10 10 f   -     -     -         2903    0    0 
+BADLUCK   986883403 10  9 c   b     b     f         2903   50    0 
+BADLUCK   986883479 10  8 f   -     -     -         2853    0    0 
+BADLUCK   986883595 10  7 c   k     k     k         2853   10    0 Qc 9c
+BADLUCK   986883685 10  6 f   -     -     -         2843    0    0 
+BADLUCK   986883766 10  5 c   k     f     -         2843   10    0 
+BADLUCK   986883851 10  4 c   bc    kc    b         2833   70  175 
+BADLUCK   986883909 10  3 ccc kf    -     -         2938   40    0 
+BADLUCK   986884036 10  2 Bf  -     -     -         2898   10    0 
+BADLUCK   986884127 10  1 Bc  kf    -     -         2888   20    0 
+BADLUCK   986884183 10 10 f   -     -     -         2868    0    0 
+BADLUCK   986884234 10  9 f   -     -     -         2868    0    0 
+BADLUCK   986884268 10  8 f   -     -     -         2868    0    0 
+BADLUCK   986884326 10  7 f   -     -     -         2868    0    0 
+BADLUCK   986884408 10  6 cc  f     -     -         2868   20    0 
+BADLUCK   986884464 10  5 f   -     -     -         2848    0    0 
+BADLUCK   986884518  9  3 f   -     -     -         2848    0    0 
+BADLUCK   986884582 10  3 f   -     -     -         2848    0    0 
+BADLUCK   986884650 10  2 Bc  kc    cc    kr        2848  110  340 Ah Kd
+BADLUCK   986884706 10  1 Bc  kc    kc    kc        3078   60  230 7s 7h
+BADLUCK   986884785 10 10 f   -     -     -         3248    0    0 
+BADLUCK   986884833 10  9 f   -     -     -         3248    0    0 
+BADLUCK   986884867 10  8 f   -     -     -         3248    0    0 
+BADLUCK   986884935 10  7 f   -     -     -         3248    0    0 
+BADLUCK   986885018 10  6 c   k     k     f         3248   10    0 
+BADLUCK   986885074 10  5 f   -     -     -         3238    0    0 
+BADLUCK   986885125  9  4 f   -     -     -         3238    0    0 
+BADLUCK   986885177  8  2 Bf  -     -     -         3238   10    0 
+BADLUCK   986885217  8  1 Bc  k     k     b         3228   30   40 
+BADLUCK   986885258  8  8 f   -     -     -         3238    0    0 
+BADLUCK   986885286  9  8 c   f     -     -         3238   10    0 
+BADLUCK   986885315  9  7 f   -     -     -         3228    0    0 
+BADLUCK   986885350  9  6 f   -     -     -         3228    0    0 
+BADLUCK   986885394  9  5 f   -     -     -         3228    0    0 
+BADLUCK   986885447  9  4 f   -     -     -         3228    0    0 
+BADLUCK   986885496  9  3 c   k     c     r         3228   70  175 Ah Qh
+BADLUCK   986885536  9  2 Bk  k     f     -         3333   10    0 
+BADLUCK   986885567  9  1 Bf  -     -     -         3323    5    0 
+BADLUCK   986885582  9  9 f   -     -     -         3318    0    0 
+BADLUCK   986885589  9  8 f   -     -     -         3318    0    0 
+BADLUCK   986885607  9  7 c   kf    -     -         3318   10    0 
+BADLUCK   986885647  9  6 f   -     -     -         3308    0    0 
+BADLUCK   986885689  9  5 f   -     -     -         3308    0    0 
+BADLUCK   986885731  9  4 f   -     -     -         3308    0    0 
+BADLUCK   986885794  9  3 cc  kc    kc    kf        3308   50    0 
+BADLUCK   986885852  9  2 Bf  -     -     -         3258   10    0 
+BADLUCK   986885886  9  1 Bf  -     -     -         3248    5    0 
+BADLUCK   986885921  8  8 f   -     -     -         3243    0    0 
+BADLUCK   986885967  8  7 cc  cc    kc    kc        3243  100  315 Jc Ah
+BADLUCK   986886017  8  6 c   f     -     -         3458   20    0 
+BADLUCK   986886061  8  5 f   -     -     -         3438    0    0 
+BADLUCK   986886087  8  4 c   k     k     k         3438   10    0 5c 6h
+BADLUCK   986886131  8  3 f   -     -     -         3428    0    0 
+BADLUCK   986886176  8  2 Bf  -     -     -         3428   10    0 
+BADLUCK   986886201  8  1 Bc  kc    kc    kf        3418   50    0 
+BADLUCK   986886234  8  8 c   f     -     -         3368   20    0 
+BADLUCK   986886275  9  8 c   k     k     r         3348   50  160 Jd Th
+BADLUCK   986886316  9  7 f   -     -     -         3458    0    0 
+BADLUCK   986886409  7  4 f   -     -     -         3458    0    0 
+BADLUCK   986886440  7  4 c   f     -     -         3458   10    0 
+BADLUCK   986886485  7  3 f   -     -     -         3448    0    0 
+BADLUCK   986886559  6  2 Bc  kf    -     -         3448   20    0 
+BADLUCK   986886600  7  1 Bf  -     -     -         3428    5    0 
+BADLUCK   986886645  7  7 c   c     c     f         3423   40    0 
+BADLUCK   986886695  7  6 f   -     -     -         3383    0    0 
+BADLUCK   986886713  7  5 f   -     -     -         3383    0    0 
+BADLUCK   986886750  7  4 c   k     f     -         3383   10    0 
+BADLUCK   986886774  7  3 c   cr    rr    brc       3373  210  570 6c 6d
+BADLUCK   986886832  7  2 Bc  k     k     kf        3733   20    0 
+BADLUCK   986886880  7  1 Bf  -     -     -         3713    5    0 
+BADLUCK   986886918  7  7 f   -     -     -         3708    0    0 
+BADLUCK   986886961  7  6 f   -     -     -         3708    0    0 
+BADLUCK   986886993  7  5 f   -     -     -         3708    0    0 
+BADLUCK   986887026  7  4 c   kc    kc    kc        3708   60  135 6d Qd
+BADLUCK   986887069  7  3 c   c     f     -         3783   20    0 
+BADLUCK   986887104  4  2 Bk  k     k     k         3763   10    0 9d Tc
+BADLUCK   986887126  4  1 Bf  -     -     -         3753    5    0 
+BADLUCK   986887139  4  4 f   -     -     -         3748    0    0 
+BADLUCK   986887144  4  3 c   k     k     k         3748   10    0 8d Jd
+BADLUCK   986887162  5  2 Bf  -     -     -         3738   10    0 
+BADLUCK   986887187  5  1 Bc  k     kf    -         3728   10    0 
+BADLUCK   986887211  5  5 f   -     -     -         3718    0    0 
+BADLUCK   986887219  5  4 f   -     -     -         3718    0    0 
+BADLUCK   986887243  5  3 Q   -     -     -         3718    0    0 

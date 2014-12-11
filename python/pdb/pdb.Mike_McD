@@ -1,0 +1,940 @@
+Mike_McD  986531538 10  8 f   -     -     -         4341    0    0 
+Mike_McD  986531618 10  7 f   -     -     -         4341    0    0 
+Mike_McD  986531676 10  6 f   -     -     -         4341    0    0 
+Mike_McD  986531766 10  5 f   -     -     -         4341    0    0 
+Mike_McD  986531836 10  5 cc  kf    -     -         4341   20    0 
+Mike_McD  986531888 10  3 f   -     -     -         4321    0    0 
+Mike_McD  986531978  9  2 Bf  -     -     -         4321   10    0 
+Mike_McD  986532034  9  1 Bf  -     -     -         4311    5    0 
+Mike_McD  986532073  9  9 f   -     -     -         4306    0    0 
+Mike_McD  986532117  9  8 f   -     -     -         4306    0    0 
+Mike_McD  986532154  9  7 f   -     -     -         4306    0    0 
+Mike_McD  986532227  9  6 c   f     -     -         4306   10    0 
+Mike_McD  986532313 10  5 f   -     -     -         4296    0    0 
+Mike_McD  986532402 10  4 cc  kf    -     -         4296   20    0 
+Mike_McD  986532487 10  3 f   -     -     -         4276    0    0 
+Mike_McD  986532523 10  2 Bk  b     cf    -         4276   40    0 
+Mike_McD  986532575 10  1 Bf  -     -     -         4236    5    0 
+Mike_McD  986532634 10 10 c   c     r     b         4231   80  150 
+Mike_McD  986532682 10  9 c   c     k     rr        4301  100    0 Js 8s
+Mike_McD  986532786 10  8 c   k     k     k         4201   10    0 Qc 8c
+Mike_McD  986532856 10  7 f   -     -     -         4191    0    0 
+Mike_McD  986532908 10  6 cc  kf    -     -         4191   20    0 
+Mike_McD  986533007  9  5 f   -     -     -         4171    0    0 
+Mike_McD  986533074 10  4 f   -     -     -         4171    0    0 
+Mike_McD  986533170 10  3 f   -     -     -         4171    0    0 
+Mike_McD  986533219 10  2 Bk  c     c     c         4171   60  120 Jh 8s
+Mike_McD  986533274 10  1 Bf  -     -     -         4231    5    0 
+Mike_McD  986533330 10 10 c   rr    r     r         4226  130  300 9c Kc
+Mike_McD  986533384 10  9 f   -     -     -         4396    0    0 
+Mike_McD  986533436 10  8 f   -     -     -         4396    0    0 
+Mike_McD  986533483 10  7 r   bc    c     c         4396   80  245 Qd Qc
+Mike_McD  986533527 10  7 f   -     -     -         4561    0    0 
+Mike_McD  986533616 10  5 f   -     -     -         4561    0    0 
+Mike_McD  986533725 10  4 cc  kf    -     -         4561   20    0 
+Mike_McD  986533806  9  3 f   -     -     -         4541    0    0 
+Mike_McD  986533872 10  2 Bk  kf    -     -         4541   10    0 
+Mike_McD  986533948  9  1 Bf  -     -     -         4531    5    0 
+Mike_McD  986533974  8  8 f   -     -     -         4526    0    0 
+Mike_McD  986533997  8  7 c   c     c     r         4526   80  180 Jc Jd
+Mike_McD  986534053  9  6 f   -     -     -         4626    0    0 
+Mike_McD  986534100  9  5 f   -     -     -         4626    0    0 
+Mike_McD  986534213  9  4 f   -     -     -         4626    0    0 
+Mike_McD  986534275  9  3 f   -     -     -         4626    0    0 
+Mike_McD  986534297  8  2 Bc  kf    -     -         4626   20    0 
+Mike_McD  986534346  8  1 Bf  -     -     -         4606    5    0 
+Mike_McD  986534378  6  6 f   -     -     -         4601    0    0 
+Mike_McD  986534425  7  5 cc  bc    kc    kc        4601   80    0 6c 9c
+Mike_McD  986534474  6  3 f   -     -     -         4521    0    0 
+Mike_McD  986534513  6  2 Bk  k     kf    -         4521   10    0 
+Mike_McD  986534543  6  1 Bc  bc    k     b         4511   50  110 
+Mike_McD  986534663  6  6 c   k     f     -         4571   10    0 
+Mike_McD  986534759  6  5 f   -     -     -         4561    0    0 
+Mike_McD  986534817  5  3 c   f     -     -         4561   10    0 
+Mike_McD  986534838  5  2 Bk  k     b     f         4551   30    0 
+Mike_McD  986534891  5  1 Bf  -     -     -         4521    5    0 
+Mike_McD  986534933  5  5 c   c     k     c         4516   50    0 Js Kd
+Mike_McD  986534982  5  4 f   -     -     -         4466    0    0 
+Mike_McD  986535032  5  3 c   k     k     k         4466   10    0 Ks 3s
+Mike_McD  986535079  5  2 Bf  -     -     -         4456   10    0 
+Mike_McD  986535103  5  1 Bc  krr   b     -         4446   80  150 
+Mike_McD  986535146  5  5 c   f     -     -         4516   10    0 
+Mike_McD  986535173  4  3 f   -     -     -         4506    0    0 
+Mike_McD  986535212  4  2 B   -     -     -         4506   10   15 
+Mike_McD  986535347  2  1 BQ  -     -     -         4511    5    0 
+Mike_McD  986578541  5  5 f   -     -     -         4506    0    0 
+Mike_McD  986578557  5  4 f   -     -     -         4506    0    0 
+Mike_McD  986578582  5  3 f   -     -     -         4506    0    0 
+Mike_McD  986578600  5  2 Bc  kr    b     b         4506   80  160 
+Mike_McD  986578626  5  1 Bc  kr    -     -         4586   30   50 
+Mike_McD  986578684  4  4 f   -     -     -         4606    0    0 
+Mike_McD  986578699  4  3 f   -     -     -         4606    0    0 
+Mike_McD  986578731  4  2 Bc  kc    kc    kr        4606   90  185 9c 7h
+Mike_McD  986578756  4  1 Bc  kc    kc    kc        4701   60    0 Ac 3h
+Mike_McD  986578784  5  5 c   b     -     -         4641   20   40 
+Mike_McD  986578799  5  4 f   -     -     -         4661    0    0 
+Mike_McD  986578825  5  3 f   -     -     -         4661    0    0 
+Mike_McD  986578848  5  2 Bf  -     -     -         4661   10    0 
+Mike_McD  986578872  5  1 Bc  kc    k     k         4651   30    0 Kd Th
+Mike_McD  986578901  6  5 c   kf    -     -         4621   10    0 
+Mike_McD  986578955  6  4 f   -     -     -         4611    0    0 
+Mike_McD  986578984  6  3 rr  b     b     -         4611   70  135 
+Mike_McD  986579009  6  2 Bc  c     r     b         4676   90  240 6h 5s
+Mike_McD  986579053  6  1 Bf  -     -     -         4826    5    0 
+Mike_McD  986579079  6  6 f   -     -     -         4821    0    0 
+Mike_McD  986579111  8  5 f   -     -     -         4821    0    0 
+Mike_McD  986579144  8  4 f   -     -     -         4821    0    0 
+Mike_McD  986579159  8  3 f   -     -     -         4821    0    0 
+Mike_McD  986579192  8  2 Bc  kc    kc    k         4821   70  235 4c 6c
+Mike_McD  986579248  7  1 Bc  kc    kc    kf        4986   40    0 
+Mike_McD  986579300  8  8 f   -     -     -         4946    0    0 
+Mike_McD  986579356  8  7 f   -     -     -         4946    0    0 
+Mike_McD  986579374  8  6 f   -     -     -         4946    0    0 
+Mike_McD  986579406  8  5 f   -     -     -         4946    0    0 
+Mike_McD  986579452  8  4 c   c     k     br        4946   80  200 As Tc
+Mike_McD  986579503  9  3 c   b     b     b         5066   60  280 6s 6h
+Mike_McD  986579568  8  2 Bc  kf    -     -         5286   20    0 
+Mike_McD  986579606  8  1 Bf  -     -     -         5266    5    0 
+Mike_McD  986579652  8  8 f   -     -     -         5261    0    0 
+Mike_McD  986579693  8  7 f   -     -     -         5261    0    0 
+Mike_McD  986579753  8  6 f   -     -     -         5261    0    0 
+Mike_McD  986579795  8  5 cc  kc    kf    -         5261   30    0 
+Mike_McD  986579866  8  4 c   c     c     c         5231   60    0 Ad Ts
+Mike_McD  986579908  8  3 f   -     -     -         5171    0    0 
+Mike_McD  986579975  8  2 Bk  kf    -     -         5171   10    0 
+Mike_McD  986580019  8  1 Bf  -     -     -         5161    5    0 
+Mike_McD  986580078  8  8 f   -     -     -         5156    0    0 
+Mike_McD  986580123  8  7 r   kc    k     kf        5156   30    0 
+Mike_McD  986580195  9  7 f   -     -     -         5126    0    0 
+Mike_McD  986580262  9  6 f   -     -     -         5126    0    0 
+Mike_McD  986580353  9  5 cc  kf    -     -         5126   20    0 
+Mike_McD  986580437 10  4 f   -     -     -         5106    0    0 
+Mike_McD  986580521 10  3 f   -     -     -         5106    0    0 
+Mike_McD  986580585 10  2 Bk  b     b     k         5106   40  100 Qs Jc
+Mike_McD  986580638 10  1 Bf  -     -     -         5166    5    0 
+Mike_McD  986580707 10 10 f   -     -     -         5161    0    0 
+Mike_McD  986580779 10  9 f   -     -     -         5161    0    0 
+Mike_McD  986580905  9  7 f   -     -     -         5161    0    0 
+Mike_McD  986580930  9  7 f   -     -     -         5161    0    0 
+Mike_McD  986580968  9  6 c   f     -     -         5161   10    0 
+Mike_McD  986581031  9  5 f   -     -     -         5151    0    0 
+Mike_McD  986581087 10  4 cc  b     b     bc        5151   90  135 Td Ah
+Mike_McD  986581146 10  3 cc  kf    -     -         5196   20    0 
+Mike_McD  986581227 10  2 Bk  k     k     k         5176   10    0 Kh 7h
+Mike_McD  986581280 10  1 Bc  kf    -     -         5166   10    0 
+Mike_McD  986581366 10 10 c   c     f     -         5156   20    0 
+Mike_McD  986581435 10  9 f   -     -     -         5136    0    0 
+Mike_McD  986581484  9  7 f   -     -     -         5136    0    0 
+Mike_McD  986581540  9  6 cc  c     c     f         5136   80    0 
+Mike_McD  986581587  9  5 f   -     -     -         5056    0    0 
+Mike_McD  986581670  8  4 f   -     -     -         5056    0    0 
+Mike_McD  986581716  8  3 f   -     -     -         5056    0    0 
+Mike_McD  986581768  8  2 Bf  -     -     -         5056   10    0 
+Mike_McD  986581815  8  1 Bf  -     -     -         5046    5    0 
+Mike_McD  986581841  8  8 f   -     -     -         5041    0    0 
+Mike_McD  986581877  9  8 f   -     -     -         5041    0    0 
+Mike_McD  986582013  8  6 c   kf    -     -         5041   10    0 
+Mike_McD  986582084  8  5 c   kf    -     -         5031   10    0 
+Mike_McD  986582145  9  5 f   -     -     -         5021    0    0 
+Mike_McD  986582194 10  5 f   -     -     -         5021    0    0 
+Mike_McD  986582259 10  4 f   -     -     -         5021    0    0 
+Mike_McD  986582352 10  3 f   -     -     -         5021    0    0 
+Mike_McD  986582433 10  2 Bk  k     kf    -         5021   10    0 
+Mike_McD  986582503 10  1 Bcc k     bc    b         5011   80  293 As 9s
+Mike_McD  986582572 10 10 c   f     -     -         5224   20    0 
+Mike_McD  986582646 10  9 f   -     -     -         5204    0    0 
+Mike_McD  986582702 10  8 c   k     f     -         5204   20    0 
+Mike_McD  986582761 10  7 c   rr    c     f         5184   80    0 
+Mike_McD  986582816 10  6 f   -     -     -         5104    0    0 
+Mike_McD  986582857 10  5 c   kf    -     -         5104   10    0 
+Mike_McD  986582954 10  4 f   -     -     -         5094    0    0 
+Mike_McD  986582998 10  3 fQ  -     -     -         5094    0    0 
+Mike_McD  986681632  4  2 Bk  b     c     b         5119   60  100 
+Mike_McD  986681676  4  1 Bf  -     -     -         5159    5    0 
+Mike_McD  986681726  5  5 r   b     b     b         5154   70  150 
+Mike_McD  986681773  5  4 f   -     -     -         5234    0    0 
+Mike_McD  986681833  5  3 f   -     -     -         5234    0    0 
+Mike_McD  986681875  5  2 Bk  b     b     b         5234   60  140 
+Mike_McD  986681916  5  1 Bc  b     bc    brc       5314  140  370 Ad Ac
+Mike_McD  986681977  5  5 cc  c     f     -         5544   30    0 
+Mike_McD  986682032  5  4 f   -     -     -         5514    0    0 
+Mike_McD  986682075  6  3 ccc cc    c     f         5514   80    0 
+Mike_McD  986682142  6  2 Bk  kf    -     -         5434   10    0 
+Mike_McD  986682171  6  1 Bf  -     -     -         5424    5    0 
+Mike_McD  986682220  6  6 f   -     -     -         5419    0    0 
+Mike_McD  986682275  6  5 c   k     k     k         5419   10   35 7c 7h
+Mike_McD  986682302  6  4 f   -     -     -         5444    0    0 
+Mike_McD  986682364  6  3 f   -     -     -         5444    0    0 
+Mike_McD  986682498  6  1 Bk  kf    -     -         5444   10    0 
+Mike_McD  986682546  6  1 Bc  kf    -     -         5434   10    0 
+Mike_McD  986682627  7  7 f   -     -     -         5424    0    0 
+Mike_McD  986682663  7  6 f   -     -     -         5424    0    0 
+Mike_McD  986682731  8  6 f   -     -     -         5424    0    0 
+Mike_McD  986682769  8  5 f   -     -     -         5424    0    0 
+Mike_McD  986682832 10  6 f   -     -     -         5424    0    0 
+Mike_McD  986682875 10  5 f   -     -     -         5424    0    0 
+Mike_McD  986682933 10  4 f   -     -     -         5424    0    0 
+Mike_McD  986682995 10  3 f   -     -     -         5424    0    0 
+Mike_McD  986683054 10  2 Bf  -     -     -         5424   10    0 
+Mike_McD  986683146  9  1 Bf  -     -     -         5414    5    0 
+Mike_McD  986683242 10 10 f   -     -     -         5409    0    0 
+Mike_McD  986683328 10  9 c   f     -     -         5409   20    0 
+Mike_McD  986683413  9  7 f   -     -     -         5389    0    0 
+Mike_McD  986683514  8  6 cc  c     k     f         5389   30    0 
+Mike_McD  986683593  9  5 f   -     -     -         5359    0    0 
+Mike_McD  986683628 10  4 cc  k     k     k         5359   20    0 9s Tc
+Mike_McD  986683668 10  3 f   -     -     -         5339    0    0 
+Mike_McD  986683739  9  2 Bk  kf    -     -         5339   10    0 
+Mike_McD  986683802  7  1 Bf  -     -     -         5329    5    0 
+Mike_McD  986683830  7  7 f   -     -     -         5324    0    0 
+Mike_McD  986683863  9  8 c   k     k     f         5324   10    0 
+Mike_McD  986683913  9  7 f   -     -     -         5314    0    0 
+Mike_McD  986684017 10  7 f   -     -     -         5314    0    0 
+Mike_McD  986684074 10  6 f   -     -     -         5314    0    0 
+Mike_McD  986684093  9  4 f   -     -     -         5314    0    0 
+Mike_McD  986684173  9  3 f   -     -     -         5314    0    0 
+Mike_McD  986684260  9  2 Brr b     b     b         5314   90  180 Ah Kc
+Mike_McD  986684312 10  1 Bc  k     k     k         5404   10   30 9c 5c
+Mike_McD  986684353 10 10 c   f     -     -         5424   20    0 
+Mike_McD  986684409 10  9 f   -     -     -         5404    0    0 
+Mike_McD  986684471 10  8 f   -     -     -         5404    0    0 
+Mike_McD  986684532 10  7 f   -     -     -         5404    0    0 
+Mike_McD  986684578 10  7 f   -     -     -         5404    0    0 
+Mike_McD  986684634 10  5 cc  kc    kc    kf        5404   50    0 
+Mike_McD  986684694 10  5 fQ  -     -     -         5354    0    0 
+Mike_McD  986720010  6  2 Bf  -     -     -         5354   10    0 
+Mike_McD  986720041  6  1 Bf  -     -     -         5344    5    0 
+Mike_McD  986720101  6  6 c   k     b     b         5339   50  120 
+Mike_McD  986720160  6  5 r   b     b     -         5409   50   95 
+Mike_McD  986720196  6  4 f   -     -     -         5454    0    0 
+Mike_McD  986720239  6  3 f   -     -     -         5454    0    0 
+Mike_McD  986720265  6  2 Br  b     b     bc        5454   90    0 Jc Js
+Mike_McD  986720300  6  1 Br  b     b     b         5364   70    0 Kd Jd
+Mike_McD  986720341  6  6 f   -     -     -         5294    0    0 
+Mike_McD  986720362  6  5 f   -     -     -         5294    0    0 
+Mike_McD  986720397  6  4 c   k     k     k         5294   20   65 9d Td
+Mike_McD  986720423  6  3 f   -     -     -         5339    0    0 
+Mike_McD  986720460  6  2 Bc  cc    krr   bc        5339  160    0 Qd Js
+Mike_McD  986720497  6  1 Bf  -     -     -         5179    5    0 
+Mike_McD  986720527  6  6 f   -     -     -         5174    0    0 
+Mike_McD  986720569  6  5 f   -     -     -         5174    0    0 
+Mike_McD  986720612  6  4 f   -     -     -         5174    0    0 
+Mike_McD  986720633  6  3 f   -     -     -         5174    0    0 
+Mike_McD  986720666  6  2 Bc  k     kc    kc        5174   60  145 9c Qh
+Mike_McD  986720696  6  1 Br  b     -     -         5259   30   60 
+Mike_McD  986720742  6  6 c   f     -     -         5289   10    0 
+Mike_McD  986720773  7  6 f   -     -     -         5279    0    0 
+Mike_McD  986720809  6  5 f   -     -     -         5279    0    0 
+Mike_McD  986720862  6  4 f   -     -     -         5279    0    0 
+Mike_McD  986720902  6  3 cc  f     -     -         5279   20    0 
+Mike_McD  986720951  7  2 Bk  kc    kc    kc        5259   60    0 Ad Th
+Mike_McD  986721015  6  1 Bf  -     -     -         5199    5    0 
+Mike_McD  986721025  6  6 f   -     -     -         5194    0    0 
+Mike_McD  986721056  6  5 f   -     -     -         5194    0    0 
+Mike_McD  986721095  6  4 f   -     -     -         5194    0    0 
+Mike_McD  986721122  6  3 f   -     -     -         5194    0    0 
+Mike_McD  986721159  6  2 Bk  kf    -     -         5194   10    0 
+Mike_McD  986721194  6  1 Bf  -     -     -         5184    5    0 
+Mike_McD  986721212  7  7 f   -     -     -         5179    0    0 
+Mike_McD  986721234  7  6 f   -     -     -         5179    0    0 
+Mike_McD  986721283  7  5 f   -     -     -         5179    0    0 
+Mike_McD  986721356  6  3 f   -     -     -         5179    0    0 
+Mike_McD  986721402  6  3 cc  f     -     -         5179   20    0 
+Mike_McD  986721444  6  2 Bc  kc    k     k         5159   30    0 Qh 7h
+Mike_McD  986721500  6  1 Bf  -     -     -         5129    5    0 
+Mike_McD  986721548  7  7 f   -     -     -         5124    0    0 
+Mike_McD  986721593  7  6 f   -     -     -         5124    0    0 
+Mike_McD  986721634  7  5 r   rr    rr    b         5124  160  490 Ad Kd
+Mike_McD  986721696  7  4 f   -     -     -         5454    0    0 
+Mike_McD  986721750  7  3 f   -     -     -         5454    0    0 
+Mike_McD  986721785  7  2 Bk  k     kf    -         5454   10    0 
+Mike_McD  986721825  7  1 Bf  -     -     -         5444    5    0 
+Mike_McD  986721895  7  7 f   -     -     -         5439    0    0 
+Mike_McD  986721935  7  6 f   -     -     -         5439    0    0 
+Mike_McD  986721970  7  5 f   -     -     -         5439    0    0 
+Mike_McD  986722001  7  4 cc  kc    kf    -         5439   30    0 
+Mike_McD  986722051  7  3 Q   -     -     -         5409    0    0 
+Mike_McD  986851512 10  5 KQ  -     -     -         5194    0    0 
+Mike_McD  986855246 10  5 f   -     -     -         5194    0    0 
+Mike_McD  986855308 10  4 f   -     -     -         5194    0    0 
+Mike_McD  986855368 10  3 c   f     -     -         5194   10    0 
+Mike_McD  986855420 10  2 Bk  k     f     -         5184   10    0 
+Mike_McD  986855510 10  1 Bc  kc    kf    -         5174   30    0 
+Mike_McD  986855571 10 10 r   c     cc    f         5144  100    0 
+Mike_McD  986855647 10  9 c   f     -     -         5044   10    0 
+Mike_McD  986855718 10  8 f   -     -     -         5034    0    0 
+Mike_McD  986855763 10  7 f   -     -     -         5034    0    0 
+Mike_McD  986855843 10  6 f   -     -     -         5034    0    0 
+Mike_McD  986855926  9  5 f   -     -     -         5034    0    0 
+Mike_McD  986856021  8  3 f   -     -     -         5034    0    0 
+Mike_McD  986856105  7  1 Brr bc    kr    b         5034  120  280 Kc Ad
+Mike_McD  986856148  7  1 Bc  kc    k     kf        5194   20    0 
+Mike_McD  986856206  7  7 f   -     -     -         5174    0    0 
+Mike_McD  986856268  7  6 f   -     -     -         5174    0    0 
+Mike_McD  986856318  8  6 cc  k     f     -         5174   20    0 
+Mike_McD  986856376  8  5 f   -     -     -         5154    0    0 
+Mike_McD  986856449  8  4 f   -     -     -         5154    0    0 
+Mike_McD  986856502  8  3 f   -     -     -         5154    0    0 
+Mike_McD  986856562 10  2 Bk  kc    kc    kf        5154   40    0 
+Mike_McD  986856616 10  1 Bf  -     -     -         5114    5    0 
+Mike_McD  986856724 10 10 c   f     -     -         5109   10    0 
+Mike_McD  986856792 10  9 f   -     -     -         5099    0    0 
+Mike_McD  986856849  9  7 f   -     -     -         5099    0    0 
+Mike_McD  986856899  9  6 f   -     -     -         5099    0    0 
+Mike_McD  986856954  9  5 cc  k     f     -         5099   20    0 
+Mike_McD  986857010  9  4 c   c     kf    -         5079   20    0 
+Mike_McD  986857064  9  3 f   -     -     -         5059    0    0 
+Mike_McD  986857109 10  2 Bf  -     -     -         5059   10    0 
+Mike_McD  986857172  9  1 Bc  kc    kf    -         5049   20    0 
+Mike_McD  986857236  9  9 f   -     -     -         5029    0    0 
+Mike_McD  986857269  9  8 f   -     -     -         5029    0    0 
+Mike_McD  986857307  8  6 c   b     b     b         5029   60   88 8h As
+Mike_McD  986857382  8  5 f   -     -     -         5057    0    0 
+Mike_McD  986857432  9  4 rr  b     bc    kc        5057  110    0 Ad As
+Mike_McD  986857475  9  3 f   -     -     -         4947    0    0 
+Mike_McD  986857530  9  2 Bf  -     -     -         4947   10    0 
+Mike_McD  986857590  9  1 Bf  -     -     -         4937    5    0 
+Mike_McD  986857646  8  8 f   -     -     -         4932    0    0 
+Mike_McD  986857711 10  9 c   c     c     c         4932   70    0 8s As
+Mike_McD  986857768 10  8 f   -     -     -         4862    0    0 
+Mike_McD  986857823 10  7 f   -     -     -         4862    0    0 
+Mike_McD  986857861 10  6 f   -     -     -         4862    0    0 
+Mike_McD  986857932 10  5 f   -     -     -         4862    0    0 
+Mike_McD  986857990 10  4 cc  cc    kc    k         4862   60  162 Ah Ts
+Mike_McD  986858057 10  3 f   -     -     -         4964    0    0 
+Mike_McD  986858124 10  2 Bc  kc    kf    -         4964   30    0 
+Mike_McD  986858208 10  1 Bf  -     -     -         4934    5    0 
+Mike_McD  986858267 10 10 f   -     -     -         4929    0    0 
+Mike_McD  986858298 10  9 f   -     -     -         4929    0    0 
+Mike_McD  986858342 10  8 f   -     -     -         4929    0    0 
+Mike_McD  986858440 10  7 f   -     -     -         4929    0    0 
+Mike_McD  986858515 10  6 f   -     -     -         4929    0    0 
+Mike_McD  986858591 10  5 f   -     -     -         4929    0    0 
+Mike_McD  986858649 10  4 f   -     -     -         4929    0    0 
+Mike_McD  986858732 10  3 cc  bc    kc    kf        4929   60    0 
+Mike_McD  986858835 10  2 Bf  -     -     -         4869   10    0 
+Mike_McD  986858899 10  1 Bf  -     -     -         4859    5    0 
+Mike_McD  986858917 10 10 f   -     -     -         4854    0    0 
+Mike_McD  986858946 10  9 c   c     c     f         4854   40    0 
+Mike_McD  986859025 10  3 Q   -     -     -         4814    0    0 
+Mike_McD  987538287  3  1 Bk  kc    kc    b         4484   60  130 Qd 4c
+Mike_McD  987538323  2  1 B   -     -     -         4554    5   15 
+Mike_McD  987560595 10  2 Bk  kf    -     -         4014   10    0 
+Mike_McD  987560648 10  1 Bc  kf    -     -         4004   10    0 
+Mike_McD  987560731 10 10 f   -     -     -         3994    0    0 
+Mike_McD  987560797 10  9 f   -     -     -         3994    0    0 
+Mike_McD  987560861 10  8 f   -     -     -         3994    0    0 
+Mike_McD  987560898 10  7 f   -     -     -         3994    0    0 
+Mike_McD  987560940 10  6 f   -     -     -         3994    0    0 
+Mike_McD  987560971 10  5 f   -     -     -         3994    0    0 
+Mike_McD  987561025 10  4 f   -     -     -         3994    0    0 
+Mike_McD  987561075 10  3 f   -     -     -         3994    0    0 
+Mike_McD  987561122 10  2 Bf  -     -     -         3994   10    0 
+Mike_McD  987561178 10  1 Bf  -     -     -         3984    5    0 
+Mike_McD  987561231 10 10 f   -     -     -         3979    0    0 
+Mike_McD  987561281 10  9 f   -     -     -         3979    0    0 
+Mike_McD  987561352 10  8 f   -     -     -         3979    0    0 
+Mike_McD  987561399 10  7 f   -     -     -         3979    0    0 
+Mike_McD  987561453 10  6 f   -     -     -         3979    0    0 
+Mike_McD  987561485 10  5 c   cc    kc    k         3979   50  260 Jh 8h
+Mike_McD  987561541 10  4 f   -     -     -         4189    0    0 
+Mike_McD  987561572 10  3 f   -     -     -         4189    0    0 
+Mike_McD  987561590 10  2 Bk  kf    -     -         4189   10    0 
+Mike_McD  987561626 10  1 Bc  bc    brc   bc        4179  150  340 Jd Kh
+Mike_McD  987561678 10 10 r   b     b     -         4369   50   95 
+Mike_McD  987561748 10  9 f   -     -     -         4414    0    0 
+Mike_McD  987561792 10  8 f   -     -     -         4414    0    0 
+Mike_McD  987561850 10  7 f   -     -     -         4414    0    0 
+Mike_McD  987561886 10  6 f   -     -     -         4414    0    0 
+Mike_McD  987561929 10  5 f   -     -     -         4414    0    0 
+Mike_McD  987561965 10  4 f   -     -     -         4414    0    0 
+Mike_McD  987562025 10  3 f   -     -     -         4414    0    0 
+Mike_McD  987562044 10  2 Bc  kc    kr    b         4414   90  255 Qd 8c
+Mike_McD  987562098 10  1 Bc  kf    -     -         4579   10    0 
+Mike_McD  987562181 10 10 c   c     c     f         4569   40    0 
+Mike_McD  987562309 10  9 c   f     -     -         4529   10    0 
+Mike_McD  987562355 10  8 f   -     -     -         4519    0    0 
+Mike_McD  987562401 10  7 cc  kf    -     -         4519   20    0 
+Mike_McD  987562461 10  6 f   -     -     -         4499    0    0 
+Mike_McD  987562489 10  5 f   -     -     -         4499    0    0 
+Mike_McD  987562534 10  4 c   b     b     -         4499   40   95 
+Mike_McD  987562582 10  3 c   kf    -     -         4554   10    0 
+Mike_McD  987562632 10  2 Bk  b     b     bc        4544   80  165 Js 2s
+Mike_McD  987562669 10  1 Bc  k     k     k         4629   10   20 6h 9c
+Mike_McD  987562701 10 10 f   -     -     -         4639    0    0 
+Mike_McD  987562722 10  9 f   -     -     -         4639    0    0 
+Mike_McD  987562789 10  8 f   -     -     -         4639    0    0 
+Mike_McD  987562836 10  7 f   -     -     -         4639    0    0 
+Mike_McD  987562907 10  6 c   kf    -     -         4639   10    0 
+Mike_McD  987562994 10  5 f   -     -     -         4629    0    0 
+Mike_McD  987563087 10  4 f   -     -     -         4629    0    0 
+Mike_McD  987563140 10  3 f   -     -     -         4629    0    0 
+Mike_McD  987563164 10  2 Bk  k     k     kf        4629   10    0 
+Mike_McD  987563227 10  1 Bf  -     -     -         4619    5    0 
+Mike_McD  987563257 10 10 f   -     -     -         4614    0    0 
+Mike_McD  987563309 10  9 f   -     -     -         4614    0    0 
+Mike_McD  987563379 10  8 f   -     -     -         4614    0    0 
+Mike_McD  987563439 10  7 f   -     -     -         4614    0    0 
+Mike_McD  987563472 10  6 r   b     b     k         4614   50    0 Qh Jh
+Mike_McD  987563508 10  5 cc  kc    k     k         4564   30  125 6s 6d
+Mike_McD  987563579 10  4 f   -     -     -         4659    0    0 
+Mike_McD  987563619 10  3 f   -     -     -         4659    0    0 
+Mike_McD  987563672 10  2 Bk  kf    -     -         4659   10    0 
+Mike_McD  987563717 10  1 Bc  kf    -     -         4649   10    0 
+Mike_McD  987563775 10 10 f   -     -     -         4639    0    0 
+Mike_McD  987563818 10  9 cc  f     -     -         4639   20    0 
+Mike_McD  987563902 10  8 r   k     f     -         4619   20    0 
+Mike_McD  987563972 10  7 f   -     -     -         4599    0    0 
+Mike_McD  987564020 10  6 f   -     -     -         4599    0    0 
+Mike_McD  987564047 10  5 f   -     -     -         4599    0    0 
+Mike_McD  987564123 10  4 c   k     kf    -         4599   10    0 
+Mike_McD  987564169 10  3 f   -     -     -         4589    0    0 
+Mike_McD  987564215 10  2 Bk  kf    -     -         4589   10    0 
+Mike_McD  987564298 10  1 Bc  kf    -     -         4579   10    0 
+Mike_McD  987564354 10 10 c   k     k     k         4569   10   45 Ac 2d
+Mike_McD  987564429 10  9 f   -     -     -         4604    0    0 
+Mike_McD  987564469 10  8 c   k     f     -         4604   10    0 
+Mike_McD  987564541 10  7 f   -     -     -         4594    0    0 
+Mike_McD  987564586 10  6 c   c     c     f         4594   40    0 
+Mike_McD  987564653 10  5 cc  kQ    -     -         4554   20    0 
+Mike_McD  987819950  8  7 f   -     -     -         4364    0    0 
+Mike_McD  987819966  8  6 f   -     -     -         4364    0    0 
+Mike_McD  987819998  8  5 cc  c     c     rc        4364  110    0 Kh Ac
+Mike_McD  987820053  9  4 f   -     -     -         4254    0    0 
+Mike_McD  987820136  9  3 f   -     -     -         4254    0    0 
+Mike_McD  987820244  8  2 Bk  kc    kc    kf        4254   50    0 
+Mike_McD  987820295  9  1 Bc  kf    -     -         4204   20    0 
+Mike_McD  987820351 10 10 f   -     -     -         4184    0    0 
+Mike_McD  987820413  9  8 f   -     -     -         4184    0    0 
+Mike_McD  987820483  9  7 c   k     f     -         4184   10    0 
+Mike_McD  987820528  8  5 f   -     -     -         4174    0    0 
+Mike_McD  987820570  8  5 f   -     -     -         4174    0    0 
+Mike_McD  987820604  9  4 f   -     -     -         4174    0    0 
+Mike_McD  987820665  8  2 c   kc    k     k         4174   20   60 7d 7c
+Mike_McD  987820706  9  2 Bk  kf    -     -         4214   10    0 
+Mike_McD  987820743  9  1 Bf  -     -     -         4204    5    0 
+Mike_McD  987820787  9  9 rr  rc    c     c         4199  110  380 Ac As
+Mike_McD  987820860  9  8 f   -     -     -         4469    0    0 
+Mike_McD  987820918  9  7 c   c     f     -         4469   20    0 
+Mike_McD  987820980  9  6 f   -     -     -         4449    0    0 
+Mike_McD  987821089  9  6 f   -     -     -         4449    0    0 
+Mike_McD  987821138  8  4 c   f     -     -         4449   10    0 
+Mike_McD  987821161  7  3 f   -     -     -         4439    0    0 
+Mike_McD  987821215  7  2 Bk  kf    -     -         4439   10    0 
+Mike_McD  987821269  7  1 Bc  k     kf    -         4429   20    0 
+Mike_McD  987821336  8  7 c   c     c     c         4409   60  155 Jc Kd
+Mike_McD  987821397  8  6 f   -     -     -         4504    0    0 
+Mike_McD  987821427  8  5 c   k     k     b         4504   30   60 
+Mike_McD  987821495  7  5 f   -     -     -         4534    0    0 
+Mike_McD  987821501  6  3 cc  kc    kc    kc        4534   70    0 8d 9d
+Mike_McD  987821547  6  2 Bf  -     -     -         4464   10    0 
+Mike_McD  987821585  7  1 Bf  -     -     -         4454    5    0 
+Mike_McD  987821628  7  7 f   -     -     -         4449    0    0 
+Mike_McD  987821649  9  8 f   -     -     -         4449    0    0 
+Mike_McD  987821691  8  6 f   -     -     -         4449    0    0 
+Mike_McD  987821770 10  6 f   -     -     -         4449    0    0 
+Mike_McD  987821851 10  5 Q   -     -     -         4449    0    0 
+Mike_McD  988065785 10  7 f   -     -     -         4919    0    0 
+Mike_McD  988065846 10  6 f   -     -     -         4919    0    0 
+Mike_McD  988065904 10  5 r   b     b     b         4919   70    0 Kh Kd
+Mike_McD  988065945 10  5 f   -     -     -         4849    0    0 
+Mike_McD  988066002 10  3 f   -     -     -         4849    0    0 
+Mike_McD  988066107  9  2 Bk  bc    k     kf        4849   30    0 
+Mike_McD  988066147  9  1 Bf  -     -     -         4819    5    0 
+Mike_McD  988066253  8  8 c   f     -     -         4814   10    0 
+Mike_McD  988066320  8  7 cf  -     -     -         4804   10    0 
+Mike_McD  988066436  8  6 c   c     c     c         4794   60    0 As 2s
+Mike_McD  988066486  7  4 cc  f     -     -         4734   20    0 
+Mike_McD  988066540  8  3 f   -     -     -         4714    0    0 
+Mike_McD  988066633  7  2 Bk  b     b     bc        4714   80    0 7s Qs
+Mike_McD  988066683  7  1 Bf  -     -     -         4634    5    0 
+Mike_McD  988066717  8  8 f   -     -     -         4629    0    0 
+Mike_McD  988066805  9  8 c   f     -     -         4629   20    0 
+Mike_McD  988066868  9  8 c   kc    kf    -         4609   20    0 
+Mike_McD  988066937  9  7 f   -     -     -         4589    0    0 
+Mike_McD  988067022  8  5 r   br    -     -         4589   50  100 
+Mike_McD  988067065  8  5 c   kf    -     -         4639   10    0 
+Mike_McD  988067108  9  4 c   kf    -     -         4629   10    0 
+Mike_McD  988067142  9  3 cc  k     kc    kf        4619   40    0 
+Mike_McD  988067196  9  2 Bf  -     -     -         4579   10    0 
+Mike_McD  988067224  9  1 Bf  -     -     -         4569    5    0 
+Mike_McD  988067292  9  9 f   -     -     -         4564    0    0 
+Mike_McD  988067329  9  8 f   -     -     -         4564    0    0 
+Mike_McD  988067391  9  7 f   -     -     -         4564    0    0 
+Mike_McD  988067429  9  6 c   cc    kc    k         4564   50    0 Tc Jc
+Mike_McD  988067474 10  5 f   -     -     -         4514    0    0 
+Mike_McD  988067558  9  4 c   k     k     kf        4514   10    0 
+Mike_McD  988067651  9  3 c   k     kf    -         4504   10    0 
+Mike_McD  988067726  9  2 Bk  k     k     k         4494   10    0 Qh 7h
+Mike_McD  988067829 10  1 Bf  -     -     -         4484    5    0 
+Mike_McD  988067904  9  9 f   -     -     -         4479    0    0 
+Mike_McD  988068014  8  7 f   -     -     -         4479    0    0 
+Mike_McD  988068073  8  6 r   b     -     -         4479   30   65 
+Mike_McD  988068133  9  6 cc  kf    -     -         4514   20    0 
+Mike_McD  988068242 10  5 f   -     -     -         4494    0    0 
+Mike_McD  988068287 10  4 f   -     -     -         4494    0    0 
+Mike_McD  988068379 10  3 rr  b     k     k         4494   50  205 Ad Kh
+Mike_McD  988068435 10  2 Bk  kf    -     -         4649   10    0 
+Mike_McD  988068505  9  1 Bf  -     -     -         4639    5    0 
+Mike_McD  988068548 10 10 f   -     -     -         4634    0    0 
+Mike_McD  988068613 10  9 f   -     -     -         4634    0    0 
+Mike_McD  988068706 10  8 f   -     -     -         4634    0    0 
+Mike_McD  988068780  8  7 f   -     -     -         4634    0    0 
+Mike_McD  988068841  9  6 f   -     -     -         4634    0    0 
+Mike_McD  988068885  9  5 r   b     b     b         4634   70  165 
+Mike_McD  988068917  9  4 f   -     -     -         4729    0    0 
+Mike_McD  988068969  9  3 f   -     -     -         4729    0    0 
+Mike_McD  988069015  9  2 Bk  kf    -     -         4729   10    0 
+Mike_McD  988069066  9  1 Bf  -     -     -         4719    5    0 
+Mike_McD  988069149  9  9 f   -     -     -         4714    0    0 
+Mike_McD  988069221 10  9 c   f     -     -         4714   10    0 
+Mike_McD  988069259 10  8 f   -     -     -         4704    0    0 
+Mike_McD  988069339  9  6 cc  kc    k     f         4704   30    0 
+Mike_McD  988069400  9  5 cc  kc    c     f         4674   50    0 
+Mike_McD  988069458  9  4 f   -     -     -         4624    0    0 
+Mike_McD  988069503 10  3 f   -     -     -         4624    0    0 
+Mike_McD  988069572 10  2 Br  bc    kc    k         4624   70    0 Qd Qh
+Mike_McD  988069620 10  1 Bf  -     -     -         4554    5    0 
+Mike_McD  988069686 10 10 f   -     -     -         4549    0    0 
+Mike_McD  988069752 10  9 r   k     f     -         4549   20    0 
+Mike_McD  988069796 10  8 f   -     -     -         4529    0    0 
+Mike_McD  988069871 10  7 c   rc    rc    c         4529  130  420 Qs 6s
+Mike_McD  988069940 10  6 f   -     -     -         4819    0    0 
+Mike_McD  988070025 10  5 f   -     -     -         4819    0    0 
+Mike_McD  988070114 10  4 r   bc    kc    k         4819   60  240 Ad Kd
+Mike_McD  988070172 10  4 f   -     -     -         4999    0    0 
+Mike_McD  988070218 10  2 Bk  kf    -     -         4999   10    0 
+Mike_McD  988070278  9  1 Bf  -     -     -         4989    5    0 
+Mike_McD  988070321 10 10 f   -     -     -         4984    0    0 
+Mike_McD  988070394 10  9 r   f     -     -         4984   20    0 
+Mike_McD  988070489 10  8 f   -     -     -         4964    0    0 
+Mike_McD  988070536 10  7 f   -     -     -         4964    0    0 
+Mike_McD  988070614 10  6 f   -     -     -         4964    0    0 
+Mike_McD  988070679 10  5 r   k     r     b         4964   80  245 Ah Qc
+Mike_McD  988070716 10  4 f   -     -     -         5129    0    0 
+Mike_McD  988070769 10  3 f   -     -     -         5129    0    0 
+Mike_McD  988070821 10  2 BKQ -     -     -         5129   10    0 
+Mike_McD  988144303  9  7 c   c     r     b         4434   80  335 Jh 9h
+Mike_McD  988144381  9  6 f   -     -     -         4689    0    0 
+Mike_McD  988144465  9  5 c   f     -     -         4689   20    0 
+Mike_McD  988144509 10  4 f   -     -     -         4669    0    0 
+Mike_McD  988144594 10  3 f   -     -     -         4669    0    0 
+Mike_McD  988144664 10  2 Bk  k     kf    -         4669   10    0 
+Mike_McD  988144714 10  1 Bc  kc    k     kf        4659   30    0 
+Mike_McD  988144771 10 10 f   -     -     -         4629    0    0 
+Mike_McD  988144823 10  9 c   b     k     f         4629   30    0 
+Mike_McD  988144933 10  8 f   -     -     -         4599    0    0 
+Mike_McD  988145033 10  7 f   -     -     -         4599    0    0 
+Mike_McD  988145079 10  6 r   r     b     b         4599   80    0 As Ks
+Mike_McD  988145141 10  5 fQ  -     -     -         4519    0    0 
+Mike_McD  988182511  7  4 f   -     -     -         4519    0    0 
+Mike_McD  988182533  7  2 Bk  kf    -     -         4519   10    0 
+Mike_McD  988182576  7  1 Bf  -     -     -         4509    5    0 
+Mike_McD  988182613  7  7 c   k     k     k         4504   10   40 Tc Kd
+Mike_McD  988182640  8  6 f   -     -     -         4534    0    0 
+Mike_McD  988182667  8  5 cc  kf    -     -         4534   20    0 
+Mike_McD  988182697  8  4 f   -     -     -         4514    0    0 
+Mike_McD  988182732  8  3 c   f     -     -         4514   10    0 
+Mike_McD  988182769  8  2 Bf  -     -     -         4504   10    0 
+Mike_McD  988182812  8  1 Bc  brc   b     b         4494  100  370 5h 5c
+Mike_McD  988182865  9  9 f   -     -     -         4764    0    0 
+Mike_McD  988182929  9  8 f   -     -     -         4764    0    0 
+Mike_McD  988182985  9  7 f   -     -     -         4764    0    0 
+Mike_McD  988183043  9  6 c   k     c     f         4764   30    0 
+Mike_McD  988183102  9  5 f   -     -     -         4734    0    0 
+Mike_McD  988183160  9  4 cc  k     k     kf        4734   20    0 
+Mike_McD  988183204  9  3 c   b     b     b         4714   60    0 Jd Qc
+Mike_McD  988183261  9  2 Bk  kf    Q     -         4654   10    0 
+Mike_McD  988236663  7  3 f   -     -     -         4644    0    0 
+Mike_McD  988236689  7  2 Bk  k     kf    -         4644   10    0 
+Mike_McD  988236799  7  1 Bc  b     b     -         4634   40   60 
+Mike_McD  988236840  7  7 f   -     -     -         4654    0    0 
+Mike_McD  988236864  6  5 c   k     f     -         4654   10    0 
+Mike_McD  988236895  7  4 f   -     -     -         4644    0    0 
+Mike_McD  988236930  6  2 Bk  kf    Q     -         4644   10    0 
+Mike_McD  988261533 10  7 f   -     -     -         4634    0    0 
+Mike_McD  988261566 10  6 f   -     -     -         4634    0    0 
+Mike_McD  988261694 10  5 f   -     -     -         4634    0    0 
+Mike_McD  988261737 10  4 f   -     -     -         4634    0    0 
+Mike_McD  988261834 10  3 c   k     f     -         4634   10    0 
+Mike_McD  988261922 10  2 Bc  kf    -     -         4624   20    0 
+Mike_McD  988261993 10  1 Bf  -     -     -         4604    5    0 
+Mike_McD  988262054 10 10 f   -     -     -         4599    0    0 
+Mike_McD  988262146  9  8 f   -     -     -         4599    0    0 
+Mike_McD  988262218  9  7 c   f     -     -         4599   10    0 
+Mike_McD  988262252  7  4 f   -     -     -         4589    0    0 
+Mike_McD  988262287  7  3 f   -     -     -         4589    0    0 
+Mike_McD  988262292  7  2 Bk  k     kf    -         4589   10    0 
+Mike_McD  988262337  7  1 Bc  b     -     -         4579   20   30 
+Mike_McD  988262356  7  7 c   f     -     -         4589   10    0 
+Mike_McD  988262395  6  5 f   -     -     -         4579    0    0 
+Mike_McD  988262428  6  4 f   -     -     -         4579    0    0 
+Mike_McD  988262472  8  4 f   -     -     -         4579    0    0 
+Mike_McD  988262519  9  5 f   -     -     -         4579    0    0 
+Mike_McD  988262540  8  3 f   -     -     -         4579    0    0 
+Mike_McD  988262603  9  2 Bk  k     k     k         4579   10    0 3h Jd
+Mike_McD  988262649  9  1 Br  bc    kc    kc        4569   80  170 9h Jh
+Mike_McD  988262722  6  6 c   f     -     -         4659   20    0 
+Mike_McD  988262750  5  5 f   -     -     -         4639    0    0 
+Mike_McD  988262773  5  4 cc  c     c     f         4639   50    0 
+Mike_McD  988262806  5  3 f   -     -     -         4589    0    0 
+Mike_McD  988262815  5  2 Bk  b     b     kf        4589   40    0 
+Mike_McD  988262837  5  1 Bf  -     -     -         4549    5    0 
+Mike_McD  988262856  5  5 rr  rr    r     b         4544  140  285 As Jc
+Mike_McD  988262899  5  4 rr  c     c     c         4689   90  225 Td Qh
+Mike_McD  988262940  6  3 c   k     k     k         4824   10    0 9s Jh
+Mike_McD  988262970  7  2 B   -     -     -         4814   10   15 
+Mike_McD  988262982  7  1 Bc  bc    kc    b         4819   70    0 3d Ah
+Mike_McD  988263013  7  7 f   -     -     -         4749    0    0 
+Mike_McD  988263049  7  6 f   -     -     -         4749    0    0 
+Mike_McD  988263074  7  5 c   k     f     -         4749   10    0 
+Mike_McD  988263115  7  4 r   c     c     f         4739   50    0 
+Mike_McD  988263153  7  3 f   -     -     -         4689    0    0 
+Mike_McD  988263166  7  2 Bk  kf    -     -         4689   10    0 
+Mike_McD  988263196  7  1 Bf  -     -     -         4679    5    0 
+Mike_McD  988263219  7  7 c   b     -     -         4674   20   35 
+Mike_McD  988263236  7  6 f   -     -     -         4689    0    0 
+Mike_McD  988263255  7  5 c   kc    f     -         4689   20    0 
+Mike_McD  988263329  8  4 f   -     -     -         4669    0    0 
+Mike_McD  988263348  8  3 f   -     -     -         4669    0    0 
+Mike_McD  988263402  8  2 Bk  kf    -     -         4669   10    0 
+Mike_McD  988263429 10  1 Bc  b     b     b         4659   60  210 
+Mike_McD  988263482 10 10 c   f     -     -         4809   10    0 
+Mike_McD  988263518 10  9 f   -     -     -         4799    0    0 
+Mike_McD  988263586 10  8 f   -     -     -         4799    0    0 
+Mike_McD  988263631 10  7 f   -     -     -         4799    0    0 
+Mike_McD  988263687 10  6 f   -     -     -         4799    0    0 
+Mike_McD  988263752 10  5 f   -     -     -         4799    0    0 
+Mike_McD  988263800 10  4 cc  kc    k     k         4799   30    0 Qs Kd
+Mike_McD  988263860 10  3 f   -     -     -         4769    0    0 
+Mike_McD  988263924 10  2 Bk  cc    f     -         4769   30    0 
+Mike_McD  988263994 10  1 Bc  kf    -     -         4739   20    0 
+Mike_McD  988264087 10 10 c   r     f     -         4719   30    0 
+Mike_McD  988264170 10  9 f   -     -     -         4689    0    0 
+Mike_McD  988264221 10  8 f   -     -     -         4689    0    0 
+Mike_McD  988264259 10  7 f   -     -     -         4689    0    0 
+Mike_McD  988264311 10  6 c   f     -     -         4689   10    0 
+Mike_McD  988264406 10  5 f   -     -     -         4679    0    0 
+Mike_McD  988264458 10  4 c   b     b     kc        4679   60    0 8h 7h
+Mike_McD  988264504 10  3 cc  kc    kc    k         4619   50  200 Ts Th
+Mike_McD  988264550 10  2 Bc  kf    -     -         4769   20    0 
+Mike_McD  988264604 10  1 Bf  -     -     -         4749    5    0 
+Mike_McD  988264701 10 10 f   -     -     -         4744    0    0 
+Mike_McD  988264768 10  9 cc  r     b     b         4744   80    0 Qd Ks
+Mike_McD  988264848  9  7 r   c     cc    f         4664  110    0 
+Mike_McD  988264912  9  6 f   -     -     -         4554    0    0 
+Mike_McD  988264975  9  5 c   b     -     -         4554   20   45 
+Mike_McD  988264998  9  4 cc  cc    r     b         4579  100  330 Td Jd
+Mike_McD  988265050  8  2 Bk  f     -     -         4809   10    0 
+Mike_McD  988265124  9  1 Bc  br    b     bf        4799   80    0 
+Mike_McD  988265179  7  7 c   f     -     -         4719   10    0 
+Mike_McD  988265212  7  7 f   -     -     -         4709    0    0 
+Mike_McD  988265267  8  7 c   f     -     -         4709   20    0 
+Mike_McD  988265296  7  6 f   -     -     -         4689    0    0 
+Mike_McD  988265334  8  5 f   -     -     -         4689    0    0 
+Mike_McD  988265367  8  4 f   -     -     -         4689    0    0 
+Mike_McD  988265409  8  3 rr  bc    kcc   kc        4689  140    0 Kh Ks
+Mike_McD  988265494  8  2 Bk  kf    -     -         4549   10    0 
+Mike_McD  988265541  7  1 BQ  -     -     -         4539    5    0 
+Mike_McD  988317992 10  6 f   -     -     -         4534    0    0 
+Mike_McD  988318067 10  5 f   -     -     -         4534    0    0 
+Mike_McD  988318113  9  4 c   c     c     b         4534   60  210 Ac Qd
+Mike_McD  988318165  9  3 f   -     -     -         4684    0    0 
+Mike_McD  988318224  9  2 Bc  kf    -     -         4684   20    0 
+Mike_McD  988318275  8  1 Bc  kf    -     -         4664   10    0 
+Mike_McD  988318322  9  9 f   -     -     -         4654    0    0 
+Mike_McD  988318377  9  8 f   -     -     -         4654    0    0 
+Mike_McD  988318445  8  6 f   -     -     -         4654    0    0 
+Mike_McD  988318473  8  5 f   -     -     -         4654    0    0 
+Mike_McD  988318504  9  5 r   rr    r     c         4654  120    0 Ts Tc
+Mike_McD  988318550  8  3 fQ  -     -     -         4534    0    0 
+Mike_McD  988349373  8  6 f   -     -     -         4534    0    0 
+Mike_McD  988349463  8  5 r   bc    bc    b         4534  100  235 As Kd
+Mike_McD  988349520  8  4 f   -     -     -         4669    0    0 
+Mike_McD  988349691  9  3 f   -     -     -         4669    0    0 
+Mike_McD  988349740 10  2 Bk  k     k     kf        4669   10    0 
+Mike_McD  988349835 10  1 Bf  -     -     -         4659    5    0 
+Mike_McD  988349918 10 10 f   -     -     -         4654    0    0 
+Mike_McD  988350023 10  9 f   -     -     -         4654    0    0 
+Mike_McD  988350114  7  5 f   -     -     -         4654    0    0 
+Mike_McD  988350132  7  4 f   -     -     -         4654    0    0 
+Mike_McD  988350165  7  3 f   -     -     -         4654    0    0 
+Mike_McD  988350224  8  3 f   -     -     -         4654    0    0 
+Mike_McD  988350262  8  2 Bf  -     -     -         4654   10    0 
+Mike_McD  988350335  9  1 Bc  kf    -     -         4644   10    0 
+Mike_McD  988350415  9  9 f   -     -     -         4634    0    0 
+Mike_McD  988350482  9  8 f   -     -     -         4634    0    0 
+Mike_McD  988350600  8  6 f   -     -     -         4634    0    0 
+Mike_McD  988350640  8  5 f   -     -     -         4634    0    0 
+Mike_McD  988350741  7  4 f   -     -     -         4634    0    0 
+Mike_McD  988350799  8  3 f   -     -     -         4634    0    0 
+Mike_McD  988350870  8  2 Bf  -     -     -         4634   10    0 
+Mike_McD  988350940  8  1 Bf  -     -     -         4624    5    0 
+Mike_McD  988350996  8  8 f   -     -     -         4619    0    0 
+Mike_McD  988351097  7  6 f   -     -     -         4619    0    0 
+Mike_McD  988351147  8  6 f   -     -     -         4619    0    0 
+Mike_McD  988351236  9  6 c   kf    -     -         4619   10    0 
+Mike_McD  988351365 10  6 f   -     -     -         4609    0    0 
+Mike_McD  988351472 10  5 f   -     -     -         4609    0    0 
+Mike_McD  988351525  9  4 f   -     -     -         4609    0    0 
+Mike_McD  988351594  9  2 Bk  k     k     b         4609   30   85 Ad 8s
+Mike_McD  988351628  9  1 Bf  -     -     -         4664    5    0 
+Mike_McD  988351667  9  9 f   -     -     -         4659    0    0 
+Mike_McD  988351724  9  8 cc  kc    kc    kf        4659   70    0 
+Mike_McD  988351813  8  6 f   -     -     -         4589    0    0 
+Mike_McD  988351894 10  6 f   -     -     -         4589    0    0 
+Mike_McD  988351918 10  5 r   b     b     -         4589   50  110 
+Mike_McD  988351945 10  4 f   -     -     -         4649    0    0 
+Mike_McD  988352007 10  3 f   -     -     -         4649    0    0 
+Mike_McD  988352099 10  2 Bk  br    b     bf        4649   80    0 
+Mike_McD  988352186 10  1 Bc  kc    kf    -         4569   30    0 
+Mike_McD  988352267  9  9 f   -     -     -         4539    0    0 
+Mike_McD  988352339  9  8 f   -     -     -         4539    0    0 
+Mike_McD  988352387  9  7 f   -     -     -         4539    0    0 
+Mike_McD  988352448  9  6 f   -     -     -         4539    0    0 
+Mike_McD  988352520  9  5 cc  f     -     -         4539   20    0 
+Mike_McD  988352567  9  4 f   -     -     -         4519    0    0 
+Mike_McD  988352616  9  3 c   brc   brc   b         4519  150  440 Kd Ad
+Mike_McD  988352662  9  2 Bc  kc    kc    k         4809   50    0 6s Ah
+Mike_McD  988352733 10  1 Bf  -     -     -         4759    5    0 
+Mike_McD  988352809 10 10 f   -     -     -         4754    0    0 
+Mike_McD  988352899 10  9 f   -     -     -         4754    0    0 
+Mike_McD  988352969 10  8 r   b     b     -         4754   50  185 
+Mike_McD  988353039 10  7 c   k     b     rc        4889   90    0 Qh Ac
+Mike_McD  988353134  9  6 c   k     r     b         4799   70  260 As Qh
+Mike_McD  988353232  8  4 cc  kc    kc    kf        4989   50    0 
+Mike_McD  988353281  8  4 f   -     -     -         4939    0    0 
+Mike_McD  988353346  9  3 f   -     -     -         4939    0    0 
+Mike_McD  988353381  9  2 Bf  -     -     -         4939   10    0 
+Mike_McD  988353450  9  1 Bc  k     b     -         4929   30   70 
+Mike_McD  988353489  9  9 c   f     -     -         4969   20    0 
+Mike_McD  988353549  9  8 f   -     -     -         4949    0    0 
+Mike_McD  988353631  7  6 f   -     -     -         4949    0    0 
+Mike_McD  988353679  7  5 f   -     -     -         4949    0    0 
+Mike_McD  988353693  7  4 f   -     -     -         4949    0    0 
+Mike_McD  988353744  7  3 cc  kf    -     -         4949   20    0 
+Mike_McD  988353792  9  3 f   -     -     -         4929    0    0 
+Mike_McD  988353831  9  2 Br  b     b     -         4929   50   90 
+Mike_McD  988353858 10  1 Bc  b     b     k         4969   50    0 2d Ad
+Mike_McD  988353908 10 10 f   -     -     -         4919    0    0 
+Mike_McD  988353938 10  9 ccc f     -     -         4919   40    0 
+Mike_McD  988353984 10  8 f   -     -     -         4879    0    0 
+Mike_McD  988354022 10  7 f   -     -     -         4879    0    0 
+Mike_McD  988354083 10  6 f   -     -     -         4879    0    0 
+Mike_McD  988354137 10  5 c   kf    -     -         4879   10    0 
+Mike_McD  988354214 10  4 f   -     -     -         4869    0    0 
+Mike_McD  988354296 10  3 ccc k     k     f         4869   30    0 
+Mike_McD  988354361 10  2 Bk  k     f     -         4839   10    0 
+Mike_McD  988354390 10  1 Bcc kc    kf    -         4829   30    0 
+Mike_McD  988354451 10 10 c   f     -     -         4799   10    0 
+Mike_McD  988354526 10  9 f   -     -     -         4789    0    0 
+Mike_McD  988354582  9  8 r   c     c     c         4789   70    0 Qh Jh
+Mike_McD  988354626  9  7 c   b     b     b         4719   60  190 
+Mike_McD  988354693  9  6 f   -     -     -         4849    0    0 
+Mike_McD  988354756  9  5 f   -     -     -         4849    0    0 
+Mike_McD  988354839  9  4 f   -     -     -         4849    0    0 
+Mike_McD  988354869  9  3 c   kf    -     -         4849   10    0 
+Mike_McD  988354894  9  2 Bf  -     -     -         4839   10    0 
+Mike_McD  988354930  8  1 Bc  kc    kc    k         4829   50    0 Kh Jd
+Mike_McD  988354977  8  8 f   -     -     -         4779    0    0 
+Mike_McD  988355015  8  7 f   -     -     -         4779    0    0 
+Mike_McD  988355055  8  6 f   -     -     -         4779    0    0 
+Mike_McD  988355089  9  5 f   -     -     -         4779    0    0 
+Mike_McD  988355126  9  4 c   kf    -     -         4779   10    0 
+Mike_McD  988355155  8  3 f   -     -     -         4769    0    0 
+Mike_McD  988355179  8  2 Bk  k     k     k         4769   10    0 8h Ts
+Mike_McD  988355212  8  1 Bf  -     -     -         4759    5    0 
+Mike_McD  988355251  9  9 f   -     -     -         4754    0    0 
+Mike_McD  988355308  9  8 c   k     k     b         4754   40   75 
+Mike_McD  988355403  9  7 c   f     -     -         4789   10    0 
+Mike_McD  988355453  9  6 c   k     kc    br        4779   90  225 8h Ts
+Mike_McD  988355529  9  5 f   -     -     -         4914    0    0 
+Mike_McD  988355578 10  5 f   -     -     -         4914    0    0 
+Mike_McD  988355612 10  4 f   -     -     -         4914    0    0 
+Mike_McD  988355650 10  3 f   -     -     -         4914    0    0 
+Mike_McD  988355686  9  2 Bk  f     -     -         4914   10    0 
+Mike_McD  988355699  8  1 Bf  -     -     -         4904    5    0 
+Mike_McD  988355719  9  9 f   -     -     -         4899    0    0 
+Mike_McD  988355763  9  8 c   kf    -     -         4899   10    0 
+Mike_McD  988355822 10  8 f   -     -     -         4889    0    0 
+Mike_McD  988355880  8  5 c   f     -     -         4889   10    0 
+Mike_McD  988355926  9  4 f   -     -     -         4879    0    0 
+Mike_McD  988355958  9  3 f   -     -     -         4879    0    0 
+Mike_McD  988355998  9  2 Bc  kc    k     b         4879   50  260 Jd Ah
+Mike_McD  988356059  9  1 BQ  -     -     -         5089    5    0 
+Mike_McD  988395845  2  1 Bc  b     b     -         5084   40   60 
+Mike_McD  988395857  2  2 Bk  k     k     k         5104   10    0 4h Js
+Mike_McD  988395868  2  1 Bc  b     -     -         5094   20   30 
+Mike_McD  988395877  2  2 B   -     -     -         5104   10   15 
+Mike_McD  988395879  2  1 Br  -     -     -         5109   20   30 
+Mike_McD  988395881  2  2 B   -     -     -         5119   10   15 
+Mike_McD  988395883  2  1 Br  b     b     -         5124   50   80 
+Mike_McD  988395891  2  2 Br  f     -     -         5154   30    0 
+Mike_McD  988395898  2  1 Bc  k     k     b         5124   30   60 Ah 3c
+Mike_McD  988395911  2  2 Bk  b     -     -         5154   20   30 
+Mike_McD  988395920  2  1 Br  -     -     -         5164   20   30 
+Mike_McD  988395922  2  2 Bk  k     k     k         5174   10   10 Ts 4c
+Mike_McD  988395932  2  1 Br  -     -     -         5174   20   30 
+Mike_McD  988395938  2  2 Br  b     -     -         5184   30   50 
+Mike_McD  988395946  2  1 Br  -     -     -         5204   20   30 
+Mike_McD  988395949  2  2 B   -     -     -         5214   10   15 
+Mike_McD  988395954  2  1 Bc  b     b     brc       5219  120    0 9s 4d
+Mike_McD  988395975  2  2 B   -     -     -         5099   10   15 
+Mike_McD  988395980  2  1 Br  b     b     b         5104   70  120 
+Mike_McD  988395991  2  2 Bf  -     -     -         5154   10    0 
+Mike_McD  988395995  2  1 Br  b     b     k         5144   50    0 As Js
+Mike_McD  988396007  2  2 B   -     -     -         5094   10   15 
+Mike_McD  988396011  2  1 Bc  k     k     k         5099   10   20 As 3s
+Mike_McD  988396021  2  2 Bk  f     -     -         5109   10    0 
+Mike_McD  988396029  2  1 Bc  kf    -     -         5099   10    0 
+Mike_McD  988396035  2  2 Bk  k     k     f         5089   10    0 
+Mike_McD  988396047  2  1 Bc  kc    kc    k         5079   40   80 Td 9h
+Mike_McD  988396064  2  2 B   -     -     -         5119   10   15 
+Mike_McD  988396068  3  1 Bc  bc    kf    -         5124   30    0 
+Mike_McD  988396097  3  3 f   -     -     -         5094    0    0 
+Mike_McD  988396118  3  2 Bk  k     k     k         5094   10   30 Js 7h
+Mike_McD  988396141  3  1 Br  b     k     kf        5114   30    0 
+Mike_McD  988396167  3  3 f   -     -     -         5084    0    0 
+Mike_McD  988396169  3  2 Bk  k     k     k         5084   10   20 2s As
+Mike_McD  988396189  3  1 Bf  -     -     -         5094    5    0 
+Mike_McD  988396204  3  3 f   -     -     -         5089    0    0 
+Mike_McD  988396218  4  3 f   -     -     -         5089    0    0 
+Mike_McD  988396237  4  2 Br  b     b     b         5089   70  125 
+Mike_McD  988396264  4  1 Bf  -     -     -         5144    5    0 
+Mike_McD  988396289  4  4 f   -     -     -         5139    0    0 
+Mike_McD  988396310  4  3 r   b     b     c         5139   70   72 Ac Jh
+Mike_McD  988396343  4  2 Bk  k     k     f         5141   10    0 
+Mike_McD  988396379  4  1 Bc  kf    -     -         5131   10    0 
+Mike_McD  988396401  4  4 f   -     -     -         5121    0    0 
+Mike_McD  988396421  5  4 c   b     b     b         5121   60  130 Td Js
+Mike_McD  988396461  5  3 f   -     -     -         5191    0    0 
+Mike_McD  988396504  5  2 Bk  f     -     -         5191   10    0 
+Mike_McD  988396540  5  1 Bc  kf    -     -         5181   10    0 
+Mike_McD  988396586  5  5 f   -     -     -         5171    0    0 
+Mike_McD  988396617  5  4 c   f     -     -         5171   10    0 
+Mike_McD  988396631  5  3 f   -     -     -         5161    0    0 
+Mike_McD  988396679  6  2 Bk  b     b     b         5161   60  115 
+Mike_McD  988396716  6  1 Bf  -     -     -         5216    5    0 
+Mike_McD  988396789  6  6 c   k     f     -         5211   10    0 
+Mike_McD  988396825  7  6 c   b     b     k         5201   40   90 Kh Jc
+Mike_McD  988396889  6  4 f   -     -     -         5251    0    0 
+Mike_McD  988396921  6  3 cc  f     -     -         5251   20    0 
+Mike_McD  988396953  7  2 Bk  kc    kf    -         5231   20    0 
+Mike_McD  988396995  7  1 Bf  -     -     -         5211    5    0 
+Mike_McD  988397041  6  6 f   -     -     -         5206    0    0 
+Mike_McD  988397082  7  7 f   -     -     -         5206    0    0 
+Mike_McD  988397122  6  5 f   -     -     -         5206    0    0 
+Mike_McD  988397153  6  4 f   -     -     -         5206    0    0 
+Mike_McD  988397184  7  3 f   -     -     -         5206    0    0 
+Mike_McD  988397226  7  2 Bk  k     kf    -         5206   10    0 
+Mike_McD  988397263  7  1 Bf  -     -     -         5196    5    0 
+Mike_McD  988397301  7  7 f   -     -     -         5191    0    0 
+Mike_McD  988397328  7  6 f   -     -     -         5191    0    0 
+Mike_McD  988397379  8  6 f   -     -     -         5191    0    0 
+Mike_McD  988397421  8  5 c   kf    -     -         5191   10    0 
+Mike_McD  988397487  8  4 f   -     -     -         5181    0    0 
+Mike_McD  988397538  7  2 Bk  kQ    -     -         5181   10    0 
+Mike_McD  988424089  5  4 f   -     -     -         5171    0    0 
+Mike_McD  988424134  5  3 f   -     -     -         5171    0    0 
+Mike_McD  988424152  6  2 Bc  kf    -     -         5171   20    0 
+Mike_McD  988424207  6  1 Bf  -     -     -         5151    5    0 
+Mike_McD  988424238  6  6 f   -     -     -         5146    0    0 
+Mike_McD  988424282  6  5 cc  c     f     -         5146   30    0 
+Mike_McD  988424314  6  4 f   -     -     -         5116    0    0 
+Mike_McD  988424345  7  4 f   -     -     -         5116    0    0 
+Mike_McD  988424382  7  3 f   -     -     -         5116    0    0 
+Mike_McD  988424437  7  2 Bc  kc    k     kf        5116   40    0 
+Mike_McD  988424493  8  1 Bf  -     -     -         5076    5    0 
+Mike_McD  988424565  8  8 f   -     -     -         5071    0    0 
+Mike_McD  988424605  9  8 f   -     -     -         5071    0    0 
+Mike_McD  988424651 10  8 c   rr    r     b         5071  110  300 9h 9s
+Mike_McD  988424710  9  6 c   k     f     -         5261   10    0 
+Mike_McD  988424762  9  5 f   -     -     -         5251    0    0 
+Mike_McD  988424806  8  3 c   c     c     c         5251   60  150 Qd As
+Mike_McD  988424839  8  2 Bk  kf    -     -         5341   10    0 
+Mike_McD  988424894  9  1 Bf  -     -     -         5331    5    0 
+Mike_McD  988424962  9  9 c   f     -     -         5326   10    0 
+Mike_McD  988425051  9  8 f   -     -     -         5316    0    0 
+Mike_McD  988425153  9  7 f   -     -     -         5316    0    0 
+Mike_McD  988425229  9  6 cc  c     r     b         5316  100  335 Ad Qd
+Mike_McD  988425293  8  4 c   kf    -     -         5551   10    0 
+Mike_McD  988425387  9  4 cc  kc    k     kf        5541   40    0 
+Mike_McD  988425469 10  4 f   -     -     -         5501    0    0 
+Mike_McD  988425546 10  3 cc  kc    kc    kf        5501   50    0 
+Mike_McD  988425621 10  2 Bf  -     -     -         5451   10    0 
+Mike_McD  988425695 10  1 Bf  -     -     -         5441    5    0 
+Mike_McD  988425754 10 10 f   -     -     -         5436    0    0 
+Mike_McD  988425825 10  9 c   k     f     -         5436   10    0 
+Mike_McD  988425904 10  8 cc  c     c     c         5426   90  430 As Tc
+Mike_McD  988426000 10  7 f   -     -     -         5766    0    0 
+Mike_McD  988426094 10  6 r   f     -     -         5766   20    0 
+Mike_McD  988426165 10  5 f   -     -     -         5746    0    0 
+Mike_McD  988426282  9  4 f   -     -     -         5746    0    0 
+Mike_McD  988426349  8  3 c   k     f     -         5746   10    0 
+Mike_McD  988426429  8  2 BKQ -     -     -         5736   10    0 
+Mike_McD  988658132 10  3 f   -     -     -         5726    0    0 
+Mike_McD  988658157  9  2 Bk  kf    -     -         5726   10    0 
+Mike_McD  988658225 10  1 Bc  kc    kc    k         5716   50    0 7c 9c
+Mike_McD  988658285 10  4 Q   -     -     -         5666    0    0 
+Mike_McD  988667364 10 10 f   -     -     -         5666    0    0 
+Mike_McD  988667426 10  9 f   -     -     -         5666    0    0 
+Mike_McD  988667472 10  8 f   -     -     -         5666    0    0 
+Mike_McD  988667547 10  7 c   b     b     b         5666   60  120 
+Mike_McD  988667599 10  6 cf  -     -     -         5726   10    0 
+Mike_McD  988667703 10  5 f   -     -     -         5716    0    0 
+Mike_McD  988667789 10  4 f   -     -     -         5716    0    0 
+Mike_McD  988667856 10  3 c   kc    kc    kc        5716   60  190 9d 9s
+Mike_McD  988667984 10  2 Bf  -     -     -         5846   10    0 
+Mike_McD  988668060 10  1 Bf  -     -     -         5836    5    0 
+Mike_McD  988668107 10 10 f   -     -     -         5831    0    0 
+Mike_McD  988668198 10  9 f   -     -     -         5831    0    0 
+Mike_McD  988668376 10  8 f   -     -     -         5831    0    0 
+Mike_McD  988668414 10  7 f   -     -     -         5831    0    0 
+Mike_McD  988668449 10  6 f   -     -     -         5831    0    0 
+Mike_McD  988668530 10  5 f   -     -     -         5831    0    0 
+Mike_McD  988668585 10  5 f   -     -     -         5831    0    0 
+Mike_McD  988668637 10  3 rc  b     b     b         5831   90  450 
+Mike_McD  988668747 10  2 Bcc kf    -     -         6191   40    0 
+Mike_McD  988668795 10  1 Bf  -     -     -         6151    5    0 
+Mike_McD  988668852 10 10 cc  c     f     -         6146   50    0 
+Mike_McD  988668926 10  9 c   cc    cc    cc        6096  220    0 Ac Jh
+Mike_McD  988668995 10  8 c   f     -     -         5876   10    0 
+Mike_McD  988669095 10  7 f   -     -     -         5866    0    0 
+Mike_McD  988669136 10  6 cc  f     -     -         5866   20    0 
+Mike_McD  988669185 10  5 c   kf    -     -         5846   10    0 
+Mike_McD  988669268 10  4 f   -     -     -         5836    0    0 
+Mike_McD  988669347 10  3 f   -     -     -         5836    0    0 
+Mike_McD  988669379 10  2 Bf  -     -     -         5836   10    0 
+Mike_McD  988669452 10  1 Bf  -     -     -         5826    5    0 
+Mike_McD  988669530 10 10 f   -     -     -         5821    0    0 
+Mike_McD  988669599 10  9 f   -     -     -         5821    0    0 
+Mike_McD  988669640 10  8 f   -     -     -         5821    0    0 
+Mike_McD  988669687 10  7 f   -     -     -         5821    0    0 
+Mike_McD  988669777 10  6 f   -     -     -         5821    0    0 
+Mike_McD  988669860 10  5 f   -     -     -         5821    0    0 
+Mike_McD  988669917 10  4 f   -     -     -         5821    0    0 
+Mike_McD  988669984 10  3 f   -     -     -         5821    0    0 
+Mike_McD  988670031 10  2 Bk  b     b     -         5821   40   60 
+Mike_McD  988670065 10  1 Bc  k     kc    kf        5841   30    0 
+Mike_McD  988670159 10 10 f   -     -     -         5811    0    0 
+Mike_McD  988670226 10  9 f   -     -     -         5811    0    0 
+Mike_McD  988670358 10  8 f   -     -     -         5811    0    0 
+Mike_McD  988670384 10  7 cc  k     kc    f         5811   40    0 
+Mike_McD  988670488 10  7 cc  kc    k     kr        5771   80    0 Jc As
+Mike_McD  988670565 10  5 r   b     b     b         5691   70  215 Qs Qd
+Mike_McD  988670651  9  4 f   -     -     -         5836    0    0 
+Mike_McD  988670699 10  3 f   -     -     -         5836    0    0 
+Mike_McD  988670760 10  2 Bk  k     k     kf        5836   10    0 
+Mike_McD  988670799 10  1 Bf  -     -     -         5826    5    0 
+Mike_McD  988670851 10 10 f   -     -     -         5821    0    0 
+Mike_McD  988670867 10  9 f   -     -     -         5821    0    0 
+Mike_McD  988670945 10  8 f   -     -     -         5821    0    0 
+Mike_McD  988670988 10  7 f   -     -     -         5821    0    0 
+Mike_McD  988671066  9  5 f   -     -     -         5821    0    0 
+Mike_McD  988671082  9  5 r   b     b     k         5821   50   78 Qh Kh
+Mike_McD  988671134  9  4 f   -     -     -         5849    0    0 
+Mike_McD  988671197  9  3 c   f     -     -         5849   10    0 
+Mike_McD  988671235  9  2 Bk  k     b     b         5839   50  120 
+Mike_McD  988671285  8  1 Bf  -     -     -         5909    5    0 
+Mike_McD  988671348  8  8 c   f     -     -         5904   10    0 
+Mike_McD  988671418 10  9 cc  f     -     Q         5894   20    0 

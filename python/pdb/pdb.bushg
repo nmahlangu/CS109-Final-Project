@@ -1,0 +1,89 @@
+bushg     986428165  2  2 Brc rr    rr    rr        1000  240    0 3s Td
+bushg     986428201  2  1 Brr brc   brc   brf        760  220    0 
+bushg     986428235  2  2 Brc rr    c     f          540  100    0 
+bushg     986428262  2  1 Brr brc   brc   brf        440  220    0 
+bushg     986428285  2  2 BQ  -     -     -          220   10    0 
+bushg     986503057  4  4 r   c     rr    f          210  120    0 
+bushg     986503106  2  2 rf  -     -     -           90   20    0 
+bushg     986503112  2  2 Brf -     -     -           70   30    0 
+bushg     986503120  2  1 Brc bA    -     -           40   40    0 Kc 2c
+bushg     986503144  2  1 Brc brc   kc    brc       1000  170    0 Ah 8d
+bushg     986503184  3  2 Br  br    b     b          830   90  200 As 3c
+bushg     986503222  3  1 Br  b     b     b          940   70  160 Qc Ac
+bushg     986503250  3  3 r   -     -     -         1030   20   35 
+bushg     986503258  3  2 Br  b     b     b         1045   70  150 
+bushg     986503297  3  1 Br  b     b     brc       1125  130    0 Qc 8d
+bushg     986503347  3  3 r   b     -     -          995   30   60 
+bushg     986503363  3  2 Brc b     b     rf        1025  100    0 
+bushg     986503396  3  1 Br  b     bc    bc         925  110    0 6c 8c
+bushg     986503427  3  3 rr  r     rr    c          815  170    0 As 5s
+bushg     986503487  3  2 B   -     -     -          645   10   15 
+bushg     986503495  3  1 Brr brc   brc   brc        650  240    0 7h Jc
+bushg     986503549  2  2 Br  b     rr    f          410  110    0 
+bushg     986503593  2  1 Br  bc    b     b          300   80  140 
+bushg     986503618  2  2 Br  rr    c     b          360  100    0 7s 2h
+bushg     986503652  2  1 Br  b     -     -          260   30   50 
+bushg     986503668  2  2 Brc b     b     -          280   70  120 
+bushg     986503690  2  1 Brr b     br    b          330  130    0 6s 5h
+bushg     986503718  2  2 Br  rr    b     -          200   80  140 
+bushg     986503744  2  1 Brr brc   br    b          260  160  320 5d 9d
+bushg     986503781  2  2 Br  rf    -     -          420   40    0 
+bushg     986503802  2  1 Br  b     -     -          380   30   50 
+bushg     986503812  2  2 Br  rr    r     b          400  120  220 
+bushg     986503848  2  1 Brf -     -     -          500   20    0 
+bushg     986503859  2  2 Brc b     b     b          480   90  180 Kc Ad
+bushg     986503892  2  1 Brr brc   kf    -          570   80    0 
+bushg     986503945  2  2 Brc br    -     -          490   70  130 
+bushg     986503964  2  1 Br  br    br    brc        550  190    0 Kc Qs
+bushg     986503997  2  2 Brc r     b     -          360   80  140 
+bushg     986504023  2  1 Brr kf    -     -          420   40    0 
+bushg     986504046  2  2 Br  k     b     r          380   80  160 9d 3d
+bushg     986504068  2  1 Br  b     b     -          460   50   80 
+bushg     986504086  2  2 B   -     -     -          490   10   15 
+bushg     986504091  2  1 Bf  -     -     -          495    5    0 
+bushg     986504093  2  2 Bf  -     -     -          490   10    0 
+bushg     986504107  2  1 Bf  -     -     -          480    5    0 
+bushg     986504109  2  2 Bf  -     -     -          475   10    0 
+bushg     986504113  2  1 Bf  -     -     -          465    5    0 
+bushg     986504115  2  2 Bf  -     -     -          460   10    0 
+bushg     986504117  2  1 Bf  -     -     -          450    5    0 
+bushg     986504118  2  2 Bf  -     -     -          445   10    0 
+bushg     986504124  2  1 Bf  -     -     -          435    5    0 
+bushg     986504126  2  2 Bf  -     -     -          430   10    0 
+bushg     986504130  2  1 Bf  -     -     -          420    5    0 
+bushg     986504133  2  2 Bf  -     -     -          415   10    0 
+bushg     986504139  2  1 BQ  -     -     -          405    5    0 
+bushg     986505382  2  2 Brc rr    rr    rr         400  240  460 
+bushg     986505407  2  1 Brc brc   b     -          620   90  160 
+bushg     986505434  2  2 B   -     -     -          690   10   15 
+bushg     986505438  2  1 Br  -     -     -          695   20   30 
+bushg     986505443  2  2 B   -     -     -          705   10   15 
+bushg     986505447  2  1 Bf  -     -     -          710    5    0 
+bushg     986505453  2  2 Br  -     -     -          705   25   40 5s Th
+bushg     986505475  2  2 Brc rr    rr    rf         720  200    0 
+bushg     986505497  2  1 Brr brc   brc   b          520  180  360 8c 2s
+bushg     986505521  2  2 Brc rr    rr    rf         700  200    0 
+bushg     986505547  2  1 Brr brc   b     brc        500  180    0 Kd Jh
+bushg     986505575  2  2 Br  rr    rr    rr         320  230    0 7h 4d
+bushg     986505601  2  1 Brc bc    bcA   -           90   90    0 4s Jh
+bushg     986667566  2  2 Brc rr    r     rr        1000  200    0 8c 5c
+bushg     986667607  2  1 Brr brc   brc   bf         800  180    0 
+bushg     986667635  2  2 Brc rr    rf    -          620  120    0 
+bushg     986667651  2  1 Brr brc   brc   bf         500  180    0 
+bushg     986667677  2  2 Brc rr    rr    rr         320  240    0 Kc Qs
+bushg     986667708  2  1 Brr br    bA    -           80   80    0 9h 3h
+bushg     986667749  2  2 Brc rr    rr    rr        1000  240    0 6c 3c
+bushg     986667777  2  1 Brr brc   brc   brf        760  220    0 
+bushg     986667799  2  2 Brc rr    rf    -          540  120    0 
+bushg     986667815  2  1 Brr brc   brc   bf         420  180    0 
+bushg     986667836  2  2 Brc rr    rr    rf         240  200    0 
+bushg     986667860  2  1 BrrA -     -     -           40   40   80 Kd 4c
+bushg     986667866  2  2 Brc f     -     -           80   40    0 
+bushg     986667882  2  1 BrrA -     -     -           40   40    0 9d Qd
+bushg     986667904  2  2 Brc rr    rr    rf        1000  200    0 
+bushg     986667926  2  1 Brr krr   brc   brf        800  220    0 
+bushg     986667956  2  2 Brc rr    rr    rf         580  200    0 
+bushg     986667988  2  1 Brr br    brc   brf        380  210    0 
+bushg     986668022  2  2 Br  rr    rr    f          170  150    0 
+bushg     986668045  2  1 Bc  kf    -     -           20   10    0 
+bushg     986668059  2  2 BA  -     -     -           10   10    0 9c 2s

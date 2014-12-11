@@ -1,0 +1,153 @@
+paradox   988061280  8  1 Bf  -     -     -         1000   10    0 
+paradox   988061317  8  1 Bc  k     kf    -          990   10    0 
+paradox   988061359  9  9 c   f     -     -          980   10    0 
+paradox   988061428  9  8 f   -     -     -          970    0    0 
+paradox   988061498  9  7 c   k     f     -          970   10    0 
+paradox   988061534 10  6 f   -     -     -          960    0    0 
+paradox   988061565 10  5 f   -     -     -          960    0    0 
+paradox   988061634 10  4 cc  f     -     -          960   20    0 
+paradox   988061727 10  3 c   kf    -     -          940   10    0 
+paradox   988061791  8  2 Bk  c     c     b          930   60  160 Ac 9c
+paradox   988061849  9  1 Bc  bcc   kc    kf        1030   60    0 
+paradox   988061913  9  9 c   c     c     b          970   70  175 7d Qd
+paradox   988061958  9  8 f   -     -     -         1075    0    0 
+paradox   988061991  9  7 f   -     -     -         1075    0    0 
+paradox   988062040  9  6 c   f     -     -         1075   10    0 
+paradox   988062080  9  5 cc  kc    kc    b         1065   70  155 Jc Ts
+paradox   988062130 10  4 cc  c     c     c         1150   70  170 Jc Qc
+paradox   988062193 10  3 f   -     -     -         1250    0    0 
+paradox   988062245  9  2 Bk  k     cf    -         1250   30    0 
+paradox   988062334 10  1 Bc  b     bc    k         1220   60  150 Ah Ac
+paradox   988062442 10 10 f   -     -     -         1310    0    0 
+paradox   988062497 10  9 f   -     -     -         1310    0    0 
+paradox   988062572 10  8 c   c     k     f         1310   20    0 
+paradox   988062686 10  7 f   -     -     -         1290    0    0 
+paradox   988062732 10  6 c   k     k     k         1290   10   10 Th 3h
+paradox   988062778 10  5 f   -     -     -         1290    0    0 
+paradox   988062829 10  4 c   c     kf    -         1290   20    0 
+paradox   988062890 10  3 f   -     -     -         1270    0    0 
+paradox   988062959 10  2 Bc  kf    -     -         1270   20    0 
+paradox   988063009 10  1 Bf  -     -     -         1250    5    0 
+paradox   988063112 10 10 c   k     f     -         1245   10    0 
+paradox   988063233 10  9 c   Q     -     -         1235   10    0 
+paradox   988065135 10  2 Bf  -     -     -         1225   10    0 
+paradox   988065187 10  1 Bc  k     k     b         1215   40  150 Ks Jh
+paradox   988065302  9  9 c   f     -     -         1325   10    0 
+paradox   988065374 10  9 f   -     -     -         1315    0    0 
+paradox   988065422 10  8 fQ  -     -     -         1315    0    0 
+paradox   988152029  8  7 f   -     -     -         1315    0    0 
+paradox   988152081  8  6 f   -     -     -         1315    0    0 
+paradox   988152129  8  5 c   k     c     c         1315   50    0 Qh 4d
+paradox   988152161  8  4 c   b     k     b         1265   40  100 
+paradox   988152204  7  3 c   kf    -     -         1325   10    0 
+paradox   988152226  7  2 Bc  c     c     r         1315   90  180 Ks 5d
+paradox   988152255  7  1 Bc  k     k     k         1405   10    0 9h Js
+paradox   988152306  7  7 f   -     -     -         1395    0    0 
+paradox   988152314  6  6 cc  f     -     -         1395   20    0 
+paradox   988152376  7  5 f   -     -     -         1375    0    0 
+paradox   988152399  7  4 f   -     -     -         1375    0    0 
+paradox   988152408  7  3 f   -     -     -         1375    0    0 
+paradox   988152428  7  2 Bf  -     -     -         1375   10    0 
+paradox   988152436  7  1 Bc  kf    -     -         1365   10    0 
+paradox   988152476  7  7 rc  cc    f     -         1355   70    0 
+paradox   988152537  7  6 c   k     k     k         1285   10   40 Qc 3c
+paradox   988152575  7  5 rc  kc    k     b         1315   60    0 Th Ad
+paradox   988152634  7  4 rr  bc    k     b         1255   80  225 Kh Ad
+paradox   988152668  7  3 c   k     f     -         1400   10    0 
+paradox   988152708  6  2 Bc  kf    -     -         1390   20    0 
+paradox   988152735  6  1 Bf  -     -     -         1370    5    0 
+paradox   988152753  6  6 f   -     -     -         1365    0    0 
+paradox   988152798  6  5 f   -     -     -         1365    0    0 
+paradox   988152823  6  4 f   -     -     -         1365    0    0 
+paradox   988152841  5  2 Bc  kc    f     -         1365   30    0 
+paradox   988152874  5  1 Bc  k     b     b         1335   50    0 Td 2d
+paradox   988152897  5  5 c   k     c     b         1285   50  140 Td Ac
+paradox   988152958  5  4 f   -     -     -         1375    0    0 
+paradox   988152991  5  3 c   c     rc    c         1375  100  210 As Jc
+paradox   988153038  5  2 Bf  -     -     -         1485   10    0 
+paradox   988153061  5  1 Bc  kc    kc    bc        1475   90    0 Qd Qs
+paradox   988153104  5  5 c   k     f     -         1385   10    0 
+paradox   988153179  5  4 f   -     -     -         1375    0    0 
+paradox   988153192  5  3 f   -     -     -         1375    0    0 
+paradox   988153230  6  3 f   -     -     -         1375    0    0 
+paradox   988153254  6  2 Bf  -     -     -         1375   10    0 
+paradox   988153295  6  1 Bf  -     -     -         1365    5    0 
+paradox   988153332  6  6 f   -     -     -         1360    0    0 
+paradox   988153374  6  5 f   -     -     -         1360    0    0 
+paradox   988153423  7  4 f   -     -     -         1360    0    0 
+paradox   988153434  7  3 c   kf    -     -         1360   10    0 
+paradox   988153464  7  2 Bk  kf    -     -         1350   10    0 
+paradox   988153484  7  1 Bc  kf    -     -         1340   10    0 
+paradox   988153532  7  7 f   -     -     -         1330    0    0 
+paradox   988153568  7  6 c   k     b     -         1330   30   45 
+paradox   988153601  7  5 c   b     c     k         1345   40    0 8d Qd
+paradox   988153635  7  4 f   -     -     -         1305    0    0 
+paradox   988153655  7  3 f   -     -     -         1305    0    0 
+paradox   988153678  7  2 Bk  kc    k     kf        1305   20    0 
+paradox   988153724  8  1 Bf  -     -     -         1285    5    0 
+paradox   988153811  8  8 c   b     k     b         1280   40   95 Kd Jd
+paradox   988153854  8  7 f   Q     -     -         1335    0    0 
+paradox   988258831  8  5 f   -     -     -         1335    0    0 
+paradox   988258853  8  4 r   kc    kf    -         1335   30    0 
+paradox   988258886  8  3 c   kf    -     -         1305   10    0 
+paradox   988258933  8  2 Bcf -     -     -         1295   30    0 
+paradox   988258985  8  1 Bf  -     -     -         1265    5    0 
+paradox   988259015  8  8 c   c     b     b         1260   70  175 Kh Td
+paradox   988259054  8  7 c   f     -     -         1365   20    0 
+paradox   988259073  8  6 cc  kQ    -     -         1345   20    0 
+paradox   988260893 10  4 f   -     -     -         1325    0    0 
+paradox   988260927 10  3 cc  f     -     -         1325   20    0 
+paradox   988260983 10  2 Bf  -     -     -         1305   10    0 
+paradox   988261045 10  1 Bf  -     -     -         1295    5    0 
+paradox   988261097 10 10 f   -     -     -         1290    0    0 
+paradox   988261184 10  9 c   f     -     -         1290   10    0 
+paradox   988261260 10  8 f   -     -     -         1280    0    0 
+paradox   988261324 10  8 r   f     -     -         1280   20    0 
+paradox   988261347  9  6 c   bc    kr    b         1260   90  350 Tc Th
+paradox   988261456  9  5 c   kf    -     -         1520   10    0 
+paradox   988261533 10  4 f   -     -     -         1510    0    0 
+paradox   988261566 10  3 cc  bcc   krr   b         1510  160  253 Jd Ts
+paradox   988261694 10  2 Bc  kf    -     -         1603   20    0 
+paradox   988261737 10  1 Bf  -     -     -         1583    5    0 
+paradox   988261834 10 10 f   -     -     -         1578    0    0 
+paradox   988261922 10  9 f   -     -     -         1578    0    0 
+paradox   988261993 10  8 c   k     k     k         1578   10    0 Kh Th
+paradox   988262054 10  7 c   cc    c     f         1568   70    0 
+paradox   988262146  9  5 rc  kc    bc    kc        1498  100  315 As Qs
+paradox   988262218  9  6 f   -     -     -         1713    0    0 
+paradox   988262252  7  3 f   -     -     -         1713    0    0 
+paradox   988262287  7  2 B   -     -     -         1713   10   15 
+paradox   988262292  7  1 Bf  -     -     -         1718    5    0 
+paradox   988262337  7  7 f   -     -     -         1713    0    0 
+paradox   988262356  7  6 f   -     -     -         1713    0    0 
+paradox   988262395  6  4 f   -     -     -         1713    0    0 
+paradox   988262428  6  3 cc  f     -     -         1713   20    0 
+paradox   988262472  8  2 Bf  -     -     -         1693   10    0 
+paradox   988262519  9  1 Bf  -     -     -         1683    5    0 
+paradox   988262540  8  8 c   c     c     f         1678   40    0 
+paradox   988262603  9  8 f   -     -     -         1638    0    0 
+paradox   988262649  9  7 f   -     -     -         1638    0    0 
+paradox   988262722  6  3 r   b     -     -         1638   30  100 
+paradox   988262750  5  2 B   -     -     -         1708   10   15 
+paradox   988262773  5  1 Br  b     b     b         1713   70  130 
+paradox   988262806  5  5 f   -     -     -         1773    0    0 
+paradox   988262815  5  4 f   -     -     -         1773    0    0 
+paradox   988262837  5  3 f   -     -     -         1773    0    0 
+paradox   988262856  5  2 Brc brc   bc    kc        1773  140    0 Qh Qd
+paradox   988262899  5  1 Bf  -     -     -         1633    5    0 
+paradox   988262940  6  6 f   -     -     -         1628    0    0 
+paradox   988262970  7  6 f   -     -     -         1628    0    0 
+paradox   988262982  7  5 f   -     -     -         1628    0    0 
+paradox   988263013  7  4 f   -     -     -         1628    0    0 
+paradox   988263049  7  3 f   -     -     -         1628    0    0 
+paradox   988263074  7  2 Bk  k     f     -         1628   10    0 
+paradox   988263115  7  1 Bc  kf    -     -         1618   20    0 
+paradox   988263153  7  7 f   -     -     -         1598    0    0 
+paradox   988263166  7  6 f   -     -     -         1598    0    0 
+paradox   988263196  7  5 f   -     -     -         1598    0    0 
+paradox   988263219  7  4 f   -     -     -         1598    0    0 
+paradox   988263236  7  3 f   -     -     -         1598    0    0 
+paradox   988263255  7  2 Bk  kf    -     -         1598   10    0 
+paradox   988263329  8  1 Bf  -     -     -         1588    5    0 
+paradox   988263348  8  8 f   Q     -     -         1583    0    0 
+paradox   988408920 10 10 KQ  -     -     -         1583    0    0 

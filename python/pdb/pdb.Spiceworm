@@ -1,0 +1,487 @@
+Spiceworm 987384233 10  3 f   -     -     -         1000    0    0 
+Spiceworm 987384273 10  2 Bk  k     k     b         1000   30   50 
+Spiceworm 987384320 10  1 Bf  -     -     -         1020    5    0 
+Spiceworm 987384407 10 10 f   -     -     -         1015    0    0 
+Spiceworm 987384466 10  9 f   -     -     -         1015    0    0 
+Spiceworm 987384543 10  8 f   Q     -     -         1015    0    0 
+Spiceworm 987397325  7  2 Bk  k     k     k         1015   10   35 Ad 4h
+Spiceworm 987397377  8  1 Bc  k     b     b         1040   50    0 Jc 5s
+Spiceworm 987397430  7  7 f   -     -     -          990    0    0 
+Spiceworm 987397480  7  6 r   c     f     -          990   30    0 
+Spiceworm 987397531  7  5 f   -     -     -          960    0    0 
+Spiceworm 987397584  7  4 f   -     -     -          960    0    0 
+Spiceworm 987397647  7  3 cc  c     kf    -          960   30    0 
+Spiceworm 987397701  7  2 Bf  -     -     -          930   10    0 
+Spiceworm 987397781  6  1 Bc  kc    k     k          920   20   50 7h 5h
+Spiceworm 987397824  5  5 f   -     -     -          950    0    0 
+Spiceworm 987397853  5  5 f   -     -     -          950    0    0 
+Spiceworm 987397866  5  4 c   b     b     k          950   40  130 Tc Jd
+Spiceworm 987397942  5  3 f   -     -     -         1040    0    0 
+Spiceworm 987397998  5  2 Bf  -     -     -         1040   10    0 
+Spiceworm 987398008  5  1 Bf  -     -     -         1030    5    0 
+Spiceworm 987398012  5  5 f   -     -     -         1025    0    0 
+Spiceworm 987398047  6  5 f   -     -     -         1025    0    0 
+Spiceworm 987398077  7  4 cc  c     kf    -         1025   50    0 
+Spiceworm 987398214  6  3 f   -     -     -          975    0    0 
+Spiceworm 987398277  6  2 Bc  f     -     -          975   20    0 
+Spiceworm 987398323  6  1 Bf  -     -     -          955    5    0 
+Spiceworm 987398369  6  6 c   b     k     k          950   30    0 3c 4c
+Spiceworm 987398417  6  5 rc  r     b     -          920   80  185 
+Spiceworm 987398481  7  4 f   -     -     -         1025    0    0 
+Spiceworm 987398541  6  2 Bk  kf    -     -         1025   10    0 
+Spiceworm 987398608  5  1 Bf  -     -     -         1015    5    0 
+Spiceworm 987398677  5  5 f   -     -     -         1010    0    0 
+Spiceworm 987398736  5  3 Q   -     -     -         1010    0    0 
+Spiceworm 987566220  8  2 Bc  kc    kc    b          970   70  145 
+Spiceworm 987566268  7  1 Bf  -     -     -         1045    5    0 
+Spiceworm 987566283  7  7 c   b     -     -         1040   20   50 
+Spiceworm 987566315  8  7 f   -     -     -         1070    0    0 
+Spiceworm 987566349  8  6 r   -     -     -         1070   20   35 
+Spiceworm 987566367  9  5 cc  br    b     k         1085   70  195 9h Kh
+Spiceworm 987566418  9  4 c   kf    -     -         1210   10    0 
+Spiceworm 987566452  9  3 c   k     k     f         1200   10    0 
+Spiceworm 987566505  9  2 Bk  b     b     -         1190   40   75 
+Spiceworm 987566530  9  1 Bc  kc    kc    kcf       1225   60    0 
+Spiceworm 987566576  9  9 r   bc    bc    b         1165  120  465 2h 2c
+Spiceworm 987566648  9  8 f   -     -     -         1510    0    0 
+Spiceworm 987566696  8  6 f   -     -     -         1510    0    0 
+Spiceworm 987566744  8  5 f   -     -     -         1510    0    0 
+Spiceworm 987566807  7  4 f   -     -     -         1510    0    0 
+Spiceworm 987566853  7  3 f   Q     -     -         1510    0    0 
+Spiceworm 987707975  9  5 f   -     -     -         1510    0    0 
+Spiceworm 987708008  9  4 f   -     -     -         1510    0    0 
+Spiceworm 987708047  8  2 Bf  -     -     -         1510   10    0 
+Spiceworm 987708132  8  1 Bf  -     -     -         1500    5    0 
+Spiceworm 987708212  8  8 c   b     k     k         1495   20    0 2c Ah
+Spiceworm 987708268  7  6 f   -     -     -         1475    0    0 
+Spiceworm 987708347  9  7 r   b     b     b         1475   70  200 Ad Jc
+Spiceworm 987708431  7  6 f   -     -     -         1605    0    0 
+Spiceworm 987708466  6  4 f   -     -     -         1605    0    0 
+Spiceworm 987708492  6  3 f   -     -     -         1605    0    0 
+Spiceworm 987708525  6  2 Bf  -     -     -         1605   10    0 
+Spiceworm 987708577  5  1 Bc  kf    -     -         1595   10    0 
+Spiceworm 987708634  6  6 f   -     -     -         1585    0    0 
+Spiceworm 987708702  6  5 c   kc    kf    -         1585   20    0 
+Spiceworm 987708758  6  4 c   bc    k     k         1565   30    0 Ad Qs
+Spiceworm 987708799  6  3 f   -     -     -         1535    0    0 
+Spiceworm 987708848  6  2 Bc  bc    b     -         1535   60  105 
+Spiceworm 987708883  6  1 Bc  kc    kf    -         1580   30    0 
+Spiceworm 987708925  5  5 f   -     -     -         1550    0    0 
+Spiceworm 987708949  5  4 r   rc    k     k         1550   50  180 Ad 9d
+Spiceworm 987708985  4  2 Bk  k     b     b         1680   50  105 8s Ts
+Spiceworm 987709012  4  1 Bf  -     -     -         1735    5    0 
+Spiceworm 987709050  4  4 cc  f     -     -         1730   20    0 
+Spiceworm 987709072  4  3 f   -     -     -         1710    0    0 
+Spiceworm 987709102  5  3 f   Q     -     -         1710    0    0 
+Spiceworm 987772742  5  3 f   -     -     -         1710    0    0 
+Spiceworm 987772776  5  2 B   -     -     -         1710   10   15 
+Spiceworm 987772781  5  1 Bc  kf    -     -         1715   10    0 
+Spiceworm 987772799  5  5 f   -     -     -         1705    0    0 
+Spiceworm 987772822  6  4 f   -     -     -         1705    0    0 
+Spiceworm 987772835  6  3 f   -     -     -         1705    0    0 
+Spiceworm 987772857  6  2 Bk  k     k     k         1705   10    0 3h 4d
+Spiceworm 987772881  6  1 Bc  kf    -     -         1695   10    0 
+Spiceworm 987772908  6  6 c   b     b     b         1685   60  130 
+Spiceworm 987772934  6  5 f   -     -     -         1755    0    0 
+Spiceworm 987772938  6  4 f   -     -     -         1755    0    0 
+Spiceworm 987772958  6  3 f   -     -     -         1755    0    0 
+Spiceworm 987772972  6  2 Bk  kf    -     -         1755   10    0 
+Spiceworm 987772985  6  1 Bc  k     k     k         1745   10   40 2s 2c
+Spiceworm 987773008  6  6 f   -     -     -         1775    0    0 
+Spiceworm 987773029  7  5 f   -     -     -         1775    0    0 
+Spiceworm 987773054  7  4 f   -     -     -         1775    0    0 
+Spiceworm 987773086  7  3 f   -     -     -         1775    0    0 
+Spiceworm 987773125  7  2 Bk  c     cc    krc       1775  120    0 6s 9d
+Spiceworm 987773176  7  1 Bc  k     kf    -         1655   10    0 
+Spiceworm 987773204  7  7 f   -     -     -         1645    0    0 
+Spiceworm 987773234  7  6 f   -     -     -         1645    0    0 
+Spiceworm 987773246  7  5 f   -     -     -         1645    0    0 
+Spiceworm 987773293  7  4 f   -     -     -         1645    0    0 
+Spiceworm 987773317  7  3 f   -     -     -         1645    0    0 
+Spiceworm 987773337  7  2 Bc  kf    -     -         1645   20    0 
+Spiceworm 987773374  7  1 Bc  kf    -     -         1625   10    0 
+Spiceworm 987773427  8  8 f   -     -     -         1615    0    0 
+Spiceworm 987773475  8  7 f   -     -     -         1615    0    0 
+Spiceworm 987773569  8  6 f   -     -     -         1615    0    0 
+Spiceworm 987773597  8  5 r   bc    bc    kc        1615  100    0 Qd Td
+Spiceworm 987773655  9  4 f   -     -     -         1515    0    0 
+Spiceworm 987773698  9  3 f   -     -     -         1515    0    0 
+Spiceworm 987773773 10  2 Bk  k     kf    -         1515   10    0 
+Spiceworm 987773813 10  1 Bf  -     -     -         1505    5    0 
+Spiceworm 987773871 10 10 f   Q     -     -         1500    0    0 
+Spiceworm 987888184  7  7 f   -     -     -         1670    0    0 
+Spiceworm 987888247  7  7 f   -     -     -         1670    0    0 
+Spiceworm 987888312  7  6 f   -     -     -         1670    0    0 
+Spiceworm 987888340  7  5 f   -     -     -         1670    0    0 
+Spiceworm 987888434  6  4 f   -     -     -         1670    0    0 
+Spiceworm 987888506  7  3 f   -     -     -         1670    0    0 
+Spiceworm 987888562  7  2 Bk  b     b     b         1670   60  130 Ah 6s
+Spiceworm 987888608  5  1 Bc  b     b     k         1740   40  110 Js 8s
+Spiceworm 987888649  5  5 f   -     -     -         1810    0    0 
+Spiceworm 987888693  5  4 fQ  -     -     -         1810    0    0 
+Spiceworm 987920912  9  8 c   k     k     f         1810   20    0 
+Spiceworm 987920959  9  7 f   -     -     -         1790    0    0 
+Spiceworm 987920986  8  5 f   -     -     -         1790    0    0 
+Spiceworm 987921021  8  4 f   -     -     -         1790    0    0 
+Spiceworm 987921032  8  3 f   -     -     -         1790    0    0 
+Spiceworm 987921069  8  2 Bc  f     -     -         1790   20    0 
+Spiceworm 987921110  8  1 Bc  kf    -     -         1770   10    0 
+Spiceworm 987921141  8  8 cc  f     -     -         1760   20    0 
+Spiceworm 987921222  7  6 f   -     -     -         1740    0    0 
+Spiceworm 987921252  7  5 f   -     -     -         1740    0    0 
+Spiceworm 987921287  7  4 f   -     -     -         1740    0    0 
+Spiceworm 987921356  7  3 f   -     -     -         1740    0    0 
+Spiceworm 987921377  7  2 Bc  br    b     bc        1740  130    0 7c 7d
+Spiceworm 987921450  7  1 Bc  kf    -     -         1610   20    0 
+Spiceworm 987921486  7  7 f   -     -     -         1590    0    0 
+Spiceworm 987921532  7  6 f   -     -     -         1590    0    0 
+Spiceworm 987921556  7  5 f   -     -     -         1590    0    0 
+Spiceworm 987921600  7  4 c   b     k     kf        1590   20    0 
+Spiceworm 987921638  7  3 f   -     -     -         1570    0    0 
+Spiceworm 987921714  7  2 Bk  k     kf    -         1570   10    0 
+Spiceworm 987921769  7  1 Bcc kcc   kf    -         1560   70    0 
+Spiceworm 987921825  7  7 f   -     -     -         1490    0    0 
+Spiceworm 987921867  8  7 r   c     c     f         1490   50    0 
+Spiceworm 987921900  8  6 r   -     -     -         1440   20   35 
+Spiceworm 987921914  8  5 c   f     -     -         1455   10    0 
+Spiceworm 987921964  9  5 f   -     -     -         1445    0    0 
+Spiceworm 987922001  9  4 f   -     -     -         1445    0    0 
+Spiceworm 987922067  9  3 f   -     -     -         1445    0    0 
+Spiceworm 987922117  8  2 Bc  b     b     -         1445   50  145 
+Spiceworm 987922152  8  1 Bc  kc    k     b         1540   40   90 
+Spiceworm 987922207  8  8 f   -     -     -         1590    0    0 
+Spiceworm 987922235  9  8 f   -     -     -         1590    0    0 
+Spiceworm 987922267  9  7 f   -     -     -         1590    0    0 
+Spiceworm 987922296  9  6 c   cc    cf    -         1590   50    0 
+Spiceworm 987922363  9  5 f   -     -     -         1540    0    0 
+Spiceworm 987922426  9  4 f   -     -     -         1540    0    0 
+Spiceworm 987922495  9  3 f   -     -     -         1540    0    0 
+Spiceworm 987922543  9  2 Bk  kc    kc    kf        1540   40    0 
+Spiceworm 987922583  9  1 Bc  kf    -     -         1500   10    0 
+Spiceworm 987922624  9  9 f   -     -     -         1490    0    0 
+Spiceworm 987922671  9  8 c   f     -     -         1490   10    0 
+Spiceworm 987922705  9  7 f   -     -     -         1480    0    0 
+Spiceworm 987922717  9  6 f   -     -     -         1480    0    0 
+Spiceworm 987922746  9  5 f   -     -     -         1480    0    0 
+Spiceworm 987922778  9  4 f   -     -     -         1480    0    0 
+Spiceworm 987922807  9  3 f   -     -     -         1480    0    0 
+Spiceworm 987922841  9  2 Bc  c     c     r         1480   90  310 As 7s
+Spiceworm 987922895  9  1 Bc  kr    bc    kc        1700   90    0 2h 7s
+Spiceworm 987922947  9  9 r   c     b     b         1610   70   92 Ad 9d
+Spiceworm 987922993  9  8 r   b     b     b         1632   70  175 8s 8h
+Spiceworm 987923042  9  7 r   b     b     b         1737   70   75 5h Ah
+Spiceworm 987923083  9  6 cc  c     f     -         1742   30    0 
+Spiceworm 987923126  9  5 f   -     -     -         1712    0    0 
+Spiceworm 987923196  9  4 f   -     -     -         1712    0    0 
+Spiceworm 987923227  9  3 f   -     -     -         1712    0    0 
+Spiceworm 987923262  9  2 Bk  b     -     -         1712   20   40 
+Spiceworm 987923369  8  1 Bc  k     kf    -         1732   10    0 
+Spiceworm 987923410  8  8 f   -     -     -         1722    0    0 
+Spiceworm 987923437  9  8 f   -     -     -         1722    0    0 
+Spiceworm 987923447  9  7 f   -     -     -         1722    0    0 
+Spiceworm 987923508  9  6 f   -     -     -         1722    0    0 
+Spiceworm 987923559 10  5 f   -     -     -         1722    0    0 
+Spiceworm 987923596 10  4 r   b     b     -         1722   50   85 
+Spiceworm 987923615 10  3 c   k     b     k         1757   30    0 Td Qs
+Spiceworm 987923677 10  2 Bk  brc   bc    kc        1727  110  275 Kc Ad
+Spiceworm 987923714 10  1 Bc  k     k     kf        1892   10    0 
+Spiceworm 987923785 10 10 f   -     -     -         1882    0    0 
+Spiceworm 987923845 10  9 f   -     -     -         1882    0    0 
+Spiceworm 987923890  9  7 c   k     f     -         1882   20    0 
+Spiceworm 987923937  9  6 f   -     -     -         1862    0    0 
+Spiceworm 987924027 10  6 rc  br    bc    k         1862  100    0 Js Jd
+Spiceworm 987924085 10  5 f   -     -     -         1762    0    0 
+Spiceworm 987924137 10  4 f   -     -     -         1762    0    0 
+Spiceworm 987924170 10  3 f   -     -     -         1762    0    0 
+Spiceworm 987924293 10  2 Bc  kcf   -     -         1762   30    0 
+Spiceworm 987924390 10  1 Bc  k     kf    -         1732   10    0 
+Spiceworm 987924471 10 10 f   -     -     -         1722    0    0 
+Spiceworm 987924554 10  9 f   -     -     -         1722    0    0 
+Spiceworm 987924613 10  8 c   k     f     -         1722   10    0 
+Spiceworm 987924665 10  7 f   -     -     -         1712    0    0 
+Spiceworm 987924734 10  6 cc  kf    -     -         1712   20    0 
+Spiceworm 987924777 10  5 f   -     -     -         1692    0    0 
+Spiceworm 987924873 10  4 f   -     -     -         1692    0    0 
+Spiceworm 987924911 10  3 f   -     -     -         1692    0    0 
+Spiceworm 987924939 10  2 Bk  kf    -     -         1692   10    0 
+Spiceworm 987924974 10  1 Bf  -     -     -         1682    5    0 
+Spiceworm 987925022 10 10 r   b     -     -         1677   30   70 
+Spiceworm 987925043 10  9 f   -     -     -         1717    0    0 
+Spiceworm 987925068  9  7 r   -     -     -         1717   20   35 
+Spiceworm 987925078  9  6 f   -     -     -         1732    0    0 
+Spiceworm 987925133  9  5 f   -     -     -         1732    0    0 
+Spiceworm 987925169  9  4 r   b     -     -         1732   30   55 
+Spiceworm 987925190  9  3 f   -     -     -         1757    0    0 
+Spiceworm 987925214  9  2 Bk  kc    kf    -         1757   20    0 
+Spiceworm 987925257  9  1 Bc  bc    k     k         1737   30    0 Jh 8h
+Spiceworm 987925283  9  9 f   -     -     -         1707    0    0 
+Spiceworm 987925316  9  8 f   -     -     -         1707    0    0 
+Spiceworm 987925347  9  7 f   -     -     -         1707    0    0 
+Spiceworm 987925365  9  6 f   -     -     -         1707    0    0 
+Spiceworm 987925411  9  5 f   -     -     -         1707    0    0 
+Spiceworm 987925439  8  3 r   r     bc    c         1707  100    0 Kd Kh
+Spiceworm 987925478  8  2 Bk  b     -     -         1607   20   35 
+Spiceworm 987925497  8  1 Bc  b     b     -         1622   40   90 
+Spiceworm 987925515  8  8 f   -     -     -         1672    0    0 
+Spiceworm 987925541  8  7 cr  c     cc    f         1672  110    0 
+Spiceworm 987925595  8  6 rc  k     k     k         1562   30    0 4d 3d
+Spiceworm 987925619  8  5 f   -     -     -         1532    0    0 
+Spiceworm 987925684  8  4 f   -     -     -         1532    0    0 
+Spiceworm 987925705  7  3 c   kc    bc    kc        1532   80    0 Jd Kh
+Spiceworm 987925747  7  2 Bk  kc    bc    kc        1452   80    0 Kh As
+Spiceworm 987925790  7  1 Br  b     -     -         1372   30   50 
+Spiceworm 987925804  7  7 f   -     -     -         1392    0    0 
+Spiceworm 987925871  6  5 f   -     -     -         1392    0    0 
+Spiceworm 987925893  6  4 f   -     -     -         1392    0    0 
+Spiceworm 987925919  5  2 Br  b     -     -         1392   30   70 
+Spiceworm 987925944  5  1 Bc  k     k     k         1432   10    0 3c As
+Spiceworm 987925978  6  6 f   -     -     -         1422    0    0 
+Spiceworm 987925990  6  5 f   -     -     -         1422    0    0 
+Spiceworm 987926010  6  4 r   b     bc    c         1422   90    0 Kd Ks
+Spiceworm 987926050  6  3 r   b     -     -         1332   30   55 
+Spiceworm 987926080  6  2 Bf  -     -     -         1357   10    0 
+Spiceworm 987926111  6  1 Bf  -     -     -         1347    5    0 
+Spiceworm 987926143  6  6 f   -     -     -         1342    0    0 
+Spiceworm 987926154  6  5 f   -     -     -         1342    0    0 
+Spiceworm 987926160  6  4 f   -     -     -         1342    0    0 
+Spiceworm 987926175  6  3 f   -     -     -         1342    0    0 
+Spiceworm 987926185  6  2 Bk  k     k     k         1342   10   25 3h 4d
+Spiceworm 987926238  6  1 Bc  k     b     -         1357   30   50 
+Spiceworm 987926264  6  6 rc  c     c     f         1377   60    0 
+Spiceworm 987926293  6  5 f   -     -     -         1317    0    0 
+Spiceworm 987926299  6  4 r   bc    kc    kc        1317   80    0 6d 6s
+Spiceworm 987926326  6  3 r   k     kf    -         1237   20    0 
+Spiceworm 987926358  6  2 Bc  kf    -     -         1217   20    0 
+Spiceworm 987926375  6  1 Bc  kc    kc    kc        1197   60    0 Tc 9d
+Spiceworm 987926414  6  6 r   bc    b     b         1137   80  220 Ac Ah
+Spiceworm 987926461  6  5 rc  c     c     c         1277   90    0 Th 9h
+Spiceworm 987926494  6  4 f   -     -     -         1187    0    0 
+Spiceworm 987926541  7  4 f   -     -     -         1187    0    0 
+Spiceworm 987926586  6  3 f   -     -     -         1187    0    0 
+Spiceworm 987926674  6  2 Bc  b     -     -         1187   30   75 
+Spiceworm 987926695  6  1 Bc  b     k     kf        1232   20    0 
+Spiceworm 987926724  6  6 r   b     -     -         1212   30   65 
+Spiceworm 987926747  6  5 f   -     -     -         1247    0    0 
+Spiceworm 987926757  6  4 f   -     -     -         1247    0    0 
+Spiceworm 987926779  6  3 r   b     -     -         1247   30   55 
+Spiceworm 987926796  6  2 Bk  c     c     c         1272   60    0 2c 2d
+Spiceworm 987926817  6  1 Bf  -     -     -         1212    5    0 
+Spiceworm 987926848  6  6 c   f     -     -         1207   10    0 
+Spiceworm 987926873  6  5 f   -     -     -         1197    0    0 
+Spiceworm 987926891  6  4 c   cr    kc    bc        1197  100  295 Jd Qh
+Spiceworm 987926981  7  4 f   -     -     -         1392    0    0 
+Spiceworm 987927021  7  3 f   -     -     -         1392    0    0 
+Spiceworm 987927064  7  2 Bk  bc    kc    k         1392   50    0 Jh 3c
+Spiceworm 987927115  7  1 Bc  krr   b     -         1342   70  160 
+Spiceworm 987927177  7  7 cc  k     f     -         1432   20    0 
+Spiceworm 987927209  7  6 f   -     -     -         1412    0    0 
+Spiceworm 987927289  4  3 rc  kc    k     f         1412   40    0 
+Spiceworm 987927357  6  3 f   -     -     -         1372    0    0 
+Spiceworm 987927423  6  2 Br  b     b     c         1372   70    0 9d 9s
+Spiceworm 987927476  6  1 Bc  kf    -     -         1302   10    0 
+Spiceworm 987927587  6  6 f   -     -     -         1292    0    0 
+Spiceworm 987927644  7  6 c   c     r     r         1292  140  445 8h Js
+Spiceworm 987927708  7  5 f   -     -     -         1597    0    0 
+Spiceworm 987927751  7  4 c   b     b     b         1597   60  190 Tc Jc
+Spiceworm 987927802  7  3 f   -     -     -         1727    0    0 
+Spiceworm 987927851  7  2 Bk  f     -     -         1727   10    0 
+Spiceworm 987927883  7  1 Bc  kc    kc    brc       1717  120  300 2d 5d
+Spiceworm 987927928  7  7 c   c     f     -         1897   20    0 
+Spiceworm 987927968  6  5 c   k     bc    kc        1877   70    0 9d 7h
+Spiceworm 987928013  7  5 Q   -     -     -         1807    0    0 
+Spiceworm 987958434 10  2 Bk  kf    -     -         1807   10    0 
+Spiceworm 987958491 10  1 Bf  -     -     -         1797    5    0 
+Spiceworm 987958529 10 10 c   cc    f     -         1792   60    0 
+Spiceworm 987958614 10  9 c   f     -     -         1732   20    0 
+Spiceworm 987958644 10  8 f   -     -     -         1712    0    0 
+Spiceworm 987958693 10  7 f   -     -     -         1712    0    0 
+Spiceworm 987958732 10  6 f   -     -     -         1712    0    0 
+Spiceworm 987958800 10  5 f   -     -     -         1712    0    0 
+Spiceworm 987958868 10  4 f   -     -     -         1712    0    0 
+Spiceworm 987958952 10  3 f   -     -     -         1712    0    0 
+Spiceworm 987959005 10  2 Bk  f     -     -         1712   10    0 
+Spiceworm 987959074 10  1 Bc  kf    -     -         1702   10    0 
+Spiceworm 987959126 10 10 f   -     -     -         1692    0    0 
+Spiceworm 987959165 10  9 f   -     -     -         1692    0    0 
+Spiceworm 987959196 10  8 c   c     rr    c         1692  130    0 2s 2h
+Spiceworm 987959299 10  7 f   -     -     -         1562    0    0 
+Spiceworm 987959350 10  6 c   c     c     k         1562   50  135 6d 5d
+Spiceworm 987959390 10  5 f   -     -     -         1647    0    0 
+Spiceworm 987959428 10  4 f   -     -     -         1647    0    0 
+Spiceworm 987959461 10  3 f   -     -     -         1647    0    0 
+Spiceworm 987959531 10  2 Bc  kf    -     -         1722   20    0 
+Spiceworm 987959598 10  1 Bf  -     -     -         1722    5    0 
+Spiceworm 987959647 10 10 c   f     -     -         1717   20    0 
+Spiceworm 987959737  9  8 cc  f     -     -         1672   20    0 
+Spiceworm 987959797  9  7 f   -     -     -         1782    0    0 
+Spiceworm 987959873  9  6 f   -     -     -         1722    0    0 
+Spiceworm 987959942 10  6 c   c     c     c         1722   60    0 5s As
+Spiceworm 987959994 10  5 c   f     -     -         1602   10    0 
+Spiceworm 987960029 10  4 f   -     -     -         1592    0    0 
+Spiceworm 987960074 10  3 f   -     -     -         1742    0    0 
+Spiceworm 987960097 10  2 Bk  kf    -     -         1742   10    0 
+Spiceworm 987960183 10  1 Bc  kc    kc    kc        1712   70  200 Ad 5d
+Spiceworm 987960248 10 10 f   -     -     -         1722    0    0 
+Spiceworm 987960294 10  9 f   -     -     -         1722    0    0 
+Spiceworm 987960349 10  8 f   -     -     -         1722    0    0 
+Spiceworm 987960389 10  7 c   r     rr    r         1712  150  325 Js Ah
+Spiceworm 987960450  9  5 f   -     -     -         1882    0    0 
+Spiceworm 987960507  9  4 c   rc    c     c         1882   80    0 Tc Jd
+Spiceworm 987960598 10  3 f   -     -     -         1802    0    0 
+Spiceworm 987960661 10  2 Bk  f     -     -         1782   10    0 
+Spiceworm 987960712 10  1 Br  bc    kc    kc        1732   80    0 Jc Js
+Spiceworm 987960787 10 10 r   b     b     k         1742   60    0 7s As
+Spiceworm 987960855  9  8 f   -     -     -         1682    0    0 
+Spiceworm 987960921  9  7 c   rc    f     -         1667   50    0 
+Spiceworm 987961009 10  7 cc  b     b     k         1617   50   85 6c 8c
+Spiceworm 987961101 10  6 c   kc    kc    b         1602   60  155 Qc Ks
+Spiceworm 987961157  9  5 f   -     -     -         1697    0    0 
+Spiceworm 987961220  9  4 f   -     -     -         1697    0    0 
+Spiceworm 987961237  9  3 f   -     -     -         1697    0    0 
+Spiceworm 987961271  9  2 Bk  kf    -     -         1697   10    0 
+Spiceworm 987961307  9  1 Bc  kc    kc    kf        1687   50    0 
+Spiceworm 987961387 10  9 f   -     -     -         1637    0    0 
+Spiceworm 987961454 10  8 cc  f     -     -         1637   20    0 
+Spiceworm 987961518 10  7 f   -     -     -         1617    0    0 
+Spiceworm 987961561 10  6 c   k     f     -         1617   20    0 
+Spiceworm 987961626  9  4 f   -     -     -         1597    0    0 
+Spiceworm 987961679  9  3 rc  bc    b     b         1597   90  215 
+Spiceworm 987961724  9  2 Bc  f     -     -         1722   20    0 
+Spiceworm 987961776  9  1 Bc  kc    kf    -         1702   20    0 
+Spiceworm 987961829  9  9 r   b     -     -         1682   30   60 
+Spiceworm 987961857  9  8 f   -     -     -         1712    0    0 
+Spiceworm 987961890  9  7 f   -     -     -         1712    0    0 
+Spiceworm 987961926 10  7 f   -     -     -         1712    0    0 
+Spiceworm 987961985 10  6 rc  c     c     bc        1712  100    0 Qs As
+Spiceworm 987962056 10  5 f   -     -     -         1612    0    0 
+Spiceworm 987962117 10  4 c   kc    k     kf        1612   20    0 
+Spiceworm 987962188 10  3 f   -     -     -         1592    0    0 
+Spiceworm 987962221 10  2 Bc  f     -     -         1592   20    0 
+Spiceworm 987962261 10  1 Bc  k     b     kc        1572   50    0 Jc Qs
+Spiceworm 987962319 10 10 cr  k     f     -         1522   30    0 
+Spiceworm 987962415 10  9 c   f     -     -         1492   20    0 
+Spiceworm 987962491 10  8 f   -     -     -         1472    0    0 
+Spiceworm 987962558 10  7 f   -     -     -         1472    0    0 
+Spiceworm 987962598 10  6 f   -     -     -         1472    0    0 
+Spiceworm 987962625  9  4 f   -     -     -         1472    0    0 
+Spiceworm 987962646  9  4 f   -     -     -         1472    0    0 
+Spiceworm 987962680  9  3 f   -     -     -         1472    0    0 
+Spiceworm 987962716  9  2 B   -     -     -         1472   10   15 
+Spiceworm 987962724  9  1 Bc  k     kf    -         1477   10    0 
+Spiceworm 987962760  9  9 f   -     -     -         1467    0    0 
+Spiceworm 987962798  9  8 f   -     -     -         1467    0    0 
+Spiceworm 987962845  9  7 f   -     -     -         1467    0    0 
+Spiceworm 987962923  9  6 f   -     -     -         1467    0    0 
+Spiceworm 987962963  9  5 f   -     -     -         1467    0    0 
+Spiceworm 987963040  9  4 cc  kc    kf    -         1467   30    0 
+Spiceworm 987963115  9  3 f   -     -     -         1437    0    0 
+Spiceworm 987963188  9  2 Bf  -     -     -         1437   10    0 
+Spiceworm 987963228  9  1 Bc  kc    kf    -         1427   20    0 
+Spiceworm 987963263  9  9 c   f     -     -         1407   20    0 
+Spiceworm 987963360  8  7 f   -     -     -         1387    0    0 
+Spiceworm 987963383  8  6 f   -     -     -         1387    0    0 
+Spiceworm 987963438  8  5 f   -     -     -         1387    0    0 
+Spiceworm 987963467  7  4 f   -     -     -         1387    0    0 
+Spiceworm 987963475  7  3 Q   -     -     -         1387    0    0 
+Spiceworm 988005560 10  5 f   -     -     -         1527    0    0 
+Spiceworm 988005598  9  3 f   -     -     -         1527    0    0 
+Spiceworm 988005611  9  2 Bk  k     f     -         1527   10    0 
+Spiceworm 988005648  9  1 Bc  k     k     kf        1517   10    0 
+Spiceworm 988005685  9  9 f   -     -     -         1507    0    0 
+Spiceworm 988005720  9  9 f   -     -     -         1507    0    0 
+Spiceworm 988005748  9  8 f   -     -     -         1507    0    0 
+Spiceworm 988005781  9  7 c   k     f     -         1507   10    0 
+Spiceworm 988005812  8  6 c   c     c     f         1497   40    0 
+Spiceworm 988005882  7  4 c   b     b     kc        1457   60    0 8c Qc
+Spiceworm 988005936  7  3 f   -     -     -         1397    0    0 
+Spiceworm 988005970  7  2 Bc  b     r     b         1397   90  180 Ks 4c
+Spiceworm 988006004  7  1 Bc  kc    k     k         1487   20    0 6s 7c
+Spiceworm 988006059  7  7 f   -     -     -         1467    0    0 
+Spiceworm 988006092  7  6 r   -     -     -         1467   20   35 
+Spiceworm 988006108  7  5 cc  kc    k     kf        1482   30    0 
+Spiceworm 988006155  6  3 f   -     -     -         1452    0    0 
+Spiceworm 988006170  6  3 f   -     -     -         1452    0    0 
+Spiceworm 988006192  6  2 Bk  kc    kf    -         1452   20    0 
+Spiceworm 988006225  6  1 Bf  -     -     -         1432    5    0 
+Spiceworm 988006249  6  6 f   -     -     -         1427    0    0 
+Spiceworm 988006262  6  5 r   c     b     -         1427   50   85 
+Spiceworm 988006280  6  4 f   -     -     -         1462    0    0 
+Spiceworm 988006303  6  3 f   -     -     -         1462    0    0 
+Spiceworm 988006322  6  2 Bk  b     k     k         1462   20   60 6h 2h
+Spiceworm 988006352  6  1 Bf  -     -     -         1502    5    0 
+Spiceworm 988006370  6  6 f   -     -     -         1497    0    0 
+Spiceworm 988006381  6  5 f   -     -     -         1497    0    0 
+Spiceworm 988006389  6  4 f   -     -     -         1497    0    0 
+Spiceworm 988006398  6  3 f   -     -     -         1497    0    0 
+Spiceworm 988006402  6  2 Bk  c     r     b         1497   80  170 4h Kh
+Spiceworm 988006435  6  1 Bf  -     -     -         1587    5    0 
+Spiceworm 988006466  7  7 f   -     -     -         1582    0    0 
+Spiceworm 988006478  7  6 f   -     -     -         1582    0    0 
+Spiceworm 988006501  7  5 f   -     -     -         1582    0    0 
+Spiceworm 988006512  7  4 f   -     -     -         1582    0    0 
+Spiceworm 988006546  7  3 f   -     -     -         1582    0    0 
+Spiceworm 988006572  7  2 Bf  -     -     -         1582   10    0 
+Spiceworm 988006591  7  1 Bcc kf    -     -         1572   20    0 
+Spiceworm 988006618  8  8 c   c     c     k         1552   40  140 Qs 9s
+Spiceworm 988006694  8  7 f   -     -     -         1652    0    0 
+Spiceworm 988006723  9  7 f   -     -     -         1652    0    0 
+Spiceworm 988006764  9  6 f   -     -     -         1652    0    0 
+Spiceworm 988006796  9  5 c   bc    k     f         1652   30    0 
+Spiceworm 988006852  9  4 f   -     -     -         1622    0    0 
+Spiceworm 988006888  9  3 f   -     -     -         1622    0    0 
+Spiceworm 988006921  9  2 Bc  kc    kc    kf        1622   70    0 
+Spiceworm 988006985  8  1 Bf  -     -     -         1552    5    0 
+Spiceworm 988007034  8  8 f   -     -     -         1547    0    0 
+Spiceworm 988007089  9  8 f   -     -     -         1547    0    0 
+Spiceworm 988007119  9  7 f   -     -     -         1547    0    0 
+Spiceworm 988007158  9  6 f   -     -     -         1547    0    0 
+Spiceworm 988007213  9  5 f   -     -     -         1547    0    0 
+Spiceworm 988007257  9  4 f   -     -     -         1547    0    0 
+Spiceworm 988007309  9  3 f   -     -     -         1547    0    0 
+Spiceworm 988007360  9  2 Bk  k     b     kc        1547   50    0 7c Td
+Spiceworm 988007412  9  1 Bc  kcc   kc    k         1497   70    0 Ah 5h
+Spiceworm 988007479 10  9 f   -     -     -         1427    0    0 
+Spiceworm 988007532 10  8 f   -     -     -         1427    0    0 
+Spiceworm 988007590 10  7 f   -     -     -         1427    0    0 
+Spiceworm 988007623 10  6 cc  kc    kc    kc        1427   80    0 6d 8d
+Spiceworm 988007699 10  5 fQ  -     -     -         1347    0    0 
+Spiceworm 988049458 10  9 f   -     -     -         1347    0    0 
+Spiceworm 988049492 10  8 cc  ccc   kc    kf        1347   80    0 
+Spiceworm 988049567 10  7 f   -     -     -         1267    0    0 
+Spiceworm 988049624 10  6 f   -     -     -         1267    0    0 
+Spiceworm 988049665 10  5 c   c     f     -         1267   20    0 
+Spiceworm 988049723 10  4 f   -     -     -         1247    0    0 
+Spiceworm 988049767 10  3 f   -     -     -         1247    0    0 
+Spiceworm 988049840 10  2 Bf  -     -     -         1247   10    0 
+Spiceworm 988049884 10  1 Bf  -     -     -         1237    5    0 
+Spiceworm 988049936 10 10 f   -     -     -         1232    0    0 
+Spiceworm 988049976 10  9 f   -     -     -         1232    0    0 
+Spiceworm 988050026 10  8 f   -     -     -         1232    0    0 
+Spiceworm 988050102 10  7 f   -     -     -         1232    0    0 
+Spiceworm 988050165 10  6 f   -     -     -         1232    0    0 
+Spiceworm 988050218 10  5 c   b     kf    -         1232   20    0 
+Spiceworm 988050267 10  4 f   -     -     -         1212    0    0 
+Spiceworm 988050332 10  3 f   -     -     -         1212    0    0 
+Spiceworm 988050399 10  2 Bk  f     -     -         1212   10    0 
+Spiceworm 988050479 10  1 Bf  -     Q     -         1202    5    0 
+Spiceworm 988123136  7  5 f   -     -     -         1197    0    0 
+Spiceworm 988123184  7  4 f   -     -     -         1197    0    0 
+Spiceworm 988123236  8  3 KQ  -     -     -         1197    0    0 
+Spiceworm 988124473  8  5 f   -     -     -         1197    0    0 
+Spiceworm 988124528  9  4 c   k     b     b         1197   50  110 
+Spiceworm 988124581  8  3 cc  k     k     k         1257   20    0 Kd Tc
+Spiceworm 988124609  8  2 Bc  bc    k     k         1237   40    0 6s Qd
+Spiceworm 988124665  8  1 Bf  -     -     -         1197    5    0 
+Spiceworm 988124699  8  8 r   k     k     k         1192   20    0 Ad 8d
+Spiceworm 988124779  8  7 c   k     f     Q         1172   10    0 
+Spiceworm 988326652  8  8 f   -     -     -         1315    0    0 
+Spiceworm 988326682  8  7 cc  cc    f     -         1315   50    0 
+Spiceworm 988326753  8  6 f   -     -     -         1265    0    0 
+Spiceworm 988326784  8  5 f   -     -     -         1265    0    0 
+Spiceworm 988326818  8  4 c   r     c     c         1265   80    0 5h Ah
+Spiceworm 988326885  8  3 c   f     -     -         1185   10    0 
+Spiceworm 988326912  8  2 Bc  kc    kc    k         1175   50    0 7h 4h
+Spiceworm 988326944  8  1 Bc  kc    b     kf        1125   40    0 
+Spiceworm 988326990  9  9 rc  k     k     f         1085   40    0 
+Spiceworm 988327042 10  9 r   f     -     -         1045   20    0 
+Spiceworm 988327085 10  4 Q   -     -     -         1025    0    0 

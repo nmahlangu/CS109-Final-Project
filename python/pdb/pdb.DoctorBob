@@ -1,0 +1,361 @@
+DoctorBob 986870325  3  2 Bc  c     bc    f         1000   70    0 
+DoctorBob 986870342  3  1 Bf  -     -     -          930    5    0 
+DoctorBob 986870351  3  3 f   -     -     -          925    0    0 
+DoctorBob 986870354  3  2 B   -     -     -          925   10   15 
+DoctorBob 986870356  3  1 Bc  k     b     -          930   30   40 
+DoctorBob 986870366  3  3 f   -     -     -          940    0    0 
+DoctorBob 986870369  3  2 B   -     -     -          940   10   15 
+DoctorBob 986870370  3  1 Bc  kf    -     -          945   20    0 
+DoctorBob 986870380  3  3 f   -     -     -          925    0    0 
+DoctorBob 986870384  3  2 B   -     -     -          925   10   15 
+DoctorBob 986870388  3  1 Br  -     -     -          930   20   30 
+DoctorBob 986870392  3  3 c   rc    c     c          940   80    0 2h 2d
+DoctorBob 986870407  3  2 Bk  k     f     -          860   10    0 
+DoctorBob 986870419  3  1 Bc  k     b     -          850   30   40 
+DoctorBob 986870429  3  3 c   r     -     -          860   30   55 
+DoctorBob 986870437  3  2 Bk  c     b     -          885   40   60 
+DoctorBob 986870448  3  1 Bf  -     -     -          905    5    0 
+DoctorBob 986870452  3  3 cc  b     -     -          900   30   55 
+DoctorBob 986870462  5  3 f   -     -     -          925    0    0 
+DoctorBob 986870486  5  2 Bf  -     -     -          925   10    0 
+DoctorBob 986870505  5  1 Bf  -     -     -          915    5    0 
+DoctorBob 986870552  5  5 f   -     -     -          910    0    0 
+DoctorBob 986870558  5  4 f   -     -     -          910    0    0 
+DoctorBob 986870589  5  3 c   bc    kf    -          910   30    0 
+DoctorBob 986870631  5  2 Bk  bc    krc   b          880  110  250 Ah Kh
+DoctorBob 986870660  6  1 Bf  -     -     -         1020    5    0 
+DoctorBob 986870690  6  6 f   -     -     -         1015    0    0 
+DoctorBob 986870716  6  5 f   -     -     -         1015    0    0 
+DoctorBob 986870761  6  4 f   -     -     -         1015    0    0 
+DoctorBob 986870783  6  4 c   b     -     -         1015   20   40 
+DoctorBob 986870831  5  2 Bk  k     b     k         1035   30   65 As 4h
+DoctorBob 986870852  5  1 Bf  -     -     -         1070    5    0 
+DoctorBob 986870876  6  6 f   -     -     -         1065    0    0 
+DoctorBob 986870940  6  5 f   -     -     -         1065    0    0 
+DoctorBob 986870981  6  4 f   -     -     -         1065    0    0 
+DoctorBob 986871019  6  3 r   b     k     k         1065   30   70 Ah Ks
+DoctorBob 986871059  7  3 f   -     -     -         1105    0    0 
+DoctorBob 986871088  7  2 BQ  -     -     -         1105   10    0 
+DoctorBob 986936344  3  2 Bk  bf    -     -         1095   20    0 
+DoctorBob 986936385  3  1 Bf  -     -     -         1075    5    0 
+DoctorBob 986936409  3  3 f   -     -     -         1070    0    0 
+DoctorBob 986936434  3  2 Bk  b     bc    kc        1070   80  220 Ts 3c
+DoctorBob 986936468  3  1 Bf  -     -     -         1210    5    0 
+DoctorBob 986936479  3  3 c   f     -     -         1205   10    0 
+DoctorBob 986936505  3  2 Bf  -     -     -         1195   10    0 
+DoctorBob 986936545  3  1 Bf  -     -     -         1185    5    0 
+DoctorBob 986936579  3  3 cc  f     -     -         1180   20    0 
+DoctorBob 986936601  3  2 Bk  bc    kc    kc        1160   70    0 9d 8s
+DoctorBob 986936638  3  1 Bc  k     k     b         1090   30   40 
+DoctorBob 986936667  3  3 f   -     -     -         1100    0    0 
+DoctorBob 986936716  3  2 Bk  k     f     -         1100   10    0 
+DoctorBob 986936753  3  1 Bf  -     -     -         1090    5    0 
+DoctorBob 986936792  3  3 r   c     f     -         1085   40    0 
+DoctorBob 986936845  3  2 Bk  b     k     k         1045   20   60 8s 4c
+DoctorBob 986936883  3  1 Bf  -     -     -         1085    5    0 
+DoctorBob 986936933  3  3 f   -     -     -         1080    0    0 
+DoctorBob 986936961  3  2 Bk  k     kf    -         1080   10    0 
+DoctorBob 986936988  3  1 Bf  -     -     -         1070    5    0 
+DoctorBob 986937025  3  3 cc  rc    k     b         1065   80    0 6h 5h
+DoctorBob 986937080  4  2 Bk  k     k     k          985   10    0 Ah 3c
+DoctorBob 986937116  5  1 Bf  -     -     -          975    5    0 
+DoctorBob 986937170  4  4 f   -     -     -          970    0    0 
+DoctorBob 986937200  4  3 f   -     -     -          970    0    0 
+DoctorBob 986937237  4  2 Bk  k     f     -          970   10    0 
+DoctorBob 986937276  4  1 Bc  bc    k     kf         960   30    0 
+DoctorBob 986937315  5  5 c   c     b     k          930   40  115 7c 9c
+DoctorBob 986937380  6  4 f   -     -     -         1005    0    0 
+DoctorBob 986937427  7  3 c   r     c     c         1005   70    0 As 9d
+DoctorBob 986937468  7  2 Bc  kf    -     -          935   20    0 
+DoctorBob 986937518  7  1 Bf  -     -     -          915    5    0 
+DoctorBob 986937581  7  7 c   k     k     k          910   10    0 3d 3s
+DoctorBob 986937657  7  6 f   -     -     -          900    0    0 
+DoctorBob 986937702  7  5 f   -     -     -          900    0    0 
+DoctorBob 986937759  7  4 f   -     -     -          900    0    0 
+DoctorBob 986937819  7  3 cc  f     -     -          900   20    0 
+DoctorBob 986937982  6  2 Bk  kf    -     -          880   10    0 
+DoctorBob 986938027  6  1 Bf  -     -     -          870    5    0 
+DoctorBob 986938056  5  5 f   -     -     -          865    0    0 
+DoctorBob 986938088  5  4 f   -     -     -          865    0    0 
+DoctorBob 986938109  5  3 f   -     -     -          865    0    0 
+DoctorBob 986938226  4  1 Bk  kf    -     -          865   10    0 
+DoctorBob 986938249  3  1 Bf  -     -     -          855    5    0 
+DoctorBob 986938281  3  3 f   -     -     -          850    0    0 
+DoctorBob 986938332  4  3 f   -     -     -          850    0    0 
+DoctorBob 986938363  4  2 Bk  k     b     b          850   50    0 6s 8d
+DoctorBob 986938398  4  1 Bf  -     -     -          800    5    0 
+DoctorBob 986938427  4  4 c   c     c     c          795   60  135 9d 9c
+DoctorBob 986938474  4  3 f   -     -     -          870    0    0 
+DoctorBob 986938539  4  2 Bf  -     -     -          870   10    0 
+DoctorBob 986938569  4  1 Bc  k     kc    kc         860   50  110 9s Qs
+DoctorBob 986938624  5  5 f   -     -     -          920    0    0 
+DoctorBob 986938660  5  4 f   -     -     -          920    0    0 
+DoctorBob 986938711  5  3 f   -     -     -          920    0    0 
+DoctorBob 986938760  5  2 Bk  b     -     -          920   20   35 
+DoctorBob 986938786  5  1 Bf  -     -     -          935    5    0 
+DoctorBob 986938849  6  6 f   -     -     -          930    0    0 
+DoctorBob 986938861  6  5 c   f     -     -          930   10    0 
+DoctorBob 986938904  6  4 f   -     -     -          920    0    0 
+DoctorBob 986938932  6  3 c   f     -     -          920   10    0 
+DoctorBob 986938978  6  2 Bk  b     k     k          910   20    0 9c 5h
+DoctorBob 986939053  5  1 Bf  -     -     -          890    5    0 
+DoctorBob 986939077  5  5 f   -     -     -          885    0    0 
+DoctorBob 986939230  6  4 KQ  -     -     -          885    0    0 
+DoctorBob 987115907  7  3 f   -     -     -          885    0    0 
+DoctorBob 987115982  7  2 Bf  -     -     -          885   10    0 
+DoctorBob 987116019  7  1 Bc  kc    k     b          875   40  110 As Kh
+DoctorBob 987116111  7  7 c   b     bf    -          945   40    0 
+DoctorBob 987116163  7  6 rc  kf    -     -          905   30    0 
+DoctorBob 987116226  6  4 f   -     -     -          875    0    0 
+DoctorBob 987116257  6  3 r   bc    k     b          875   60  130 
+DoctorBob 987116292  6  2 Bk  b     b     k          945   40  105 6c 9d
+DoctorBob 987116348  6  1 Bf  -     -     -         1010    5    0 
+DoctorBob 987116373  6  6 f   -     -     -         1005    0    0 
+DoctorBob 987116428  6  5 f   -     -     -         1005    0    0 
+DoctorBob 987116478  7  5 c   b     f     -         1005   20    0 
+DoctorBob 987116568  9  6 f   -     -     -          985    0    0 
+DoctorBob 987116612 10  5 r   bc    b     c          985   80    0 As Kh
+DoctorBob 987116688  9  4 c   kf    -     -          905   10    0 
+DoctorBob 987116758 10  3 f   -     -     -          895    0    0 
+DoctorBob 987116870 10  2 Bk  b     kc    f          895   40    0 
+DoctorBob 987116928 10  1 BQ  -     -     -          855    5    0 
+DoctorBob 987466682  2  2 BQ  -     -     -          850   10    0 
+DoctorBob 987556546  3  2 Bk  k     f     -          830   10    0 
+DoctorBob 987556573  4  1 Bc  kc    kf    -          820   20    0 
+DoctorBob 987556594  4  4 f   -     -     -          800    0    0 
+DoctorBob 987556640  6  5 c   b     b     b          800   60  135 Kc 7c
+DoctorBob 987556678  6  4 f   -     -     -          875    0    0 
+DoctorBob 987556743  6  3 f   -     -     -          875    0    0 
+DoctorBob 987556773  6  2 Bk  k     k     kf         875   10    0 
+DoctorBob 987556822  6  1 Bc  k     kf    -          865   10    0 
+DoctorBob 987556864  5  5 f   -     -     -          855    0    0 
+DoctorBob 987556876  5  4 r   kc    kr    b          855   90  210 Qc Qs
+DoctorBob 987556908  5  3 c   f     -     -          975   10    0 
+DoctorBob 987557038  4  2 Bk  kf    -     -          965   10    0 
+DoctorBob 987557070  4  1 Bc  b     -     -          955   20   30 
+DoctorBob 987557085  4  4 r   b     k     k          965   30    0 Ah Kd
+DoctorBob 987557121  4  3 f   -     -     -          935    0    0 
+DoctorBob 987557183  4  2 Bk  k     k     kf         935   10    0 
+DoctorBob 987557212  5  1 Bc  k     k     kf         925   10    0 
+DoctorBob 987557249  6  6 f   -     -     -          915    0    0 
+DoctorBob 987557328  5  4 f   -     -     -          915    0    0 
+DoctorBob 987557370  5  4 f   -     -     -          915    0    0 
+DoctorBob 987557449  6  3 f   -     -     -          915    0    0 
+DoctorBob 987557496  6  2 Bk  k     k     k          915   10    0 2s 5d
+DoctorBob 987557533  6  1 Bf  -     -     -          905    5    0 
+DoctorBob 987557556  6  6 f   -     -     -          900    0    0 
+DoctorBob 987557577  6  5 f   -     -     -          900    0    0 
+DoctorBob 987557598  6  4 c   f     -     -          900   20    0 
+DoctorBob 987557658  6  3 f   -     -     -          880    0    0 
+DoctorBob 987557772  6  2 Bf  -     -     -          880   10    0 
+DoctorBob 987557817  6  1 Bf  -     -     -          870    5    0 
+DoctorBob 987557844  7  7 c   b     -     -          865   30   65 
+DoctorBob 987557885  7  6 f   -     -     -          900    0    0 
+DoctorBob 987557893  7  5 f   -     -     -          900    0    0 
+DoctorBob 987557944  7  3 Q   -     -     -          900    0    0 
+DoctorBob 987732863 10  5 f   -     -     -          900    0    0 
+DoctorBob 987732940 10  4 c   k     b     kc         900   50    0 2d 2h
+DoctorBob 987732990 10  3 f   -     -     -          850    0    0 
+DoctorBob 987733083 10  2 Bk  f     -     -          850   10    0 
+DoctorBob 987733118 10  1 Br  -     -     -          840   20   30 
+DoctorBob 987733149 10 10 c   c     c     c          850   60    0 Ts Qc
+DoctorBob 987733204 10  9 c   bc    r     b          790   90  185 4c 4s
+DoctorBob 987733262 10  8 c   bc    c     c          885   70  160 Td Tc
+DoctorBob 987733334 10  7 f   -     -     -          975    0    0 
+DoctorBob 987733415 10  6 c   cc    f     -          975   30    0 
+DoctorBob 987733468 10  5 f   -     -     -          945    0    0 
+DoctorBob 987733557 10  4 f   -     -     -          945    0    0 
+DoctorBob 987733625 10  3 cc  k     rr    b          945  120  345 Td Ts
+DoctorBob 987733674 10  2 Bk  k     f     -         1170   10    0 
+DoctorBob 987733710 10  1 Bf  -     -     -         1160    5    0 
+DoctorBob 987733775 10 10 f   -     -     -         1155    0    0 
+DoctorBob 987733888 10  9 c   f     -     -         1155   20    0 
+DoctorBob 987734032 10  8 f   -     -     -         1135    0    0 
+DoctorBob 987734115 10  7 f   -     -     -         1135    0    0 
+DoctorBob 987734199 10  6 f   -     -     -         1135    0    0 
+DoctorBob 987734237 10  5 f   -     -     -         1135    0    0 
+DoctorBob 987734293 10  4 cc  f     -     -         1135   20    0 
+DoctorBob 987734425 10  3 f   -     -     -         1115    0    0 
+DoctorBob 987734518 10  2 Bf  -     -     -         1115   10    0 
+DoctorBob 987734555  9  1 Bf  -     -     -         1105    5    0 
+DoctorBob 987734612  9  9 f   -     -     -         1100    0    0 
+DoctorBob 987734670  9  8 f   -     -     -         1100    0    0 
+DoctorBob 987734731  9  7 f   -     -     -         1100    0    0 
+DoctorBob 987734756  9  6 f   -     -     -         1100    0    0 
+DoctorBob 987734826  9  5 cc  kc    kc    kf        1100   50    0 
+DoctorBob 987734893  9  4 f   -     -     -         1050    0    0 
+DoctorBob 987734974  9  3 rc  bc    kc    k         1050   80    0 Jd As
+DoctorBob 987735038  9  2 Bf  -     -     -          970   10    0 
+DoctorBob 987735106  9  1 Bf  -     -     -          960    5    0 
+DoctorBob 987735194  9  9 f   -     -     -          955    0    0 
+DoctorBob 987735243  9  8 cc  f     -     -          955   20    0 
+DoctorBob 987735348  9  7 f   -     -     -          935    0    0 
+DoctorBob 987735422  9  6 f   -     -     -          935    0    0 
+DoctorBob 987735493 10  6 f   -     -     -          935    0    0 
+DoctorBob 987735544 10  5 cc  kf    -     -          935   20    0 
+DoctorBob 987735654 10  4 f   -     -     -          915    0    0 
+DoctorBob 987735701 10  3 f   -     -     -          915    0    0 
+DoctorBob 987735748 10  2 Bf  -     -     -          915   10    0 
+DoctorBob 987735803 10  1 Bcrc bcc   kf    -          905   80    0 
+DoctorBob 987735888 10 10 f   -     -     -          825    0    0 
+DoctorBob 987735977 10  9 f   -     -     -          825    0    0 
+DoctorBob 987736142  8  7 f   -     -     -          825    0    0 
+DoctorBob 987736243  8  6 f   -     -     -          825    0    0 
+DoctorBob 987736290  8  5 f   -     -     -          825    0    0 
+DoctorBob 987736357  8  4 c   k     k     k          825   10   45 Td As
+DoctorBob 987736443  8  3 f   -     -     -          860    0    0 
+DoctorBob 987736562  8  2 Bc  b     b     bf         860   70    0 
+DoctorBob 987736633  8  1 Bf  -     -     -          790    5    0 
+DoctorBob 987736699  9  9 f   -     -     -          785    0    0 
+DoctorBob 987736717  9  8 r   rc    rc    c          785  130    0 Kh Ac
+DoctorBob 987736772 10  7 c   k     f     -          655   10    0 
+DoctorBob 987736831 10  6 c   k     f     -          645   10    0 
+DoctorBob 987736885 10  5 f   -     -     -          635    0    0 
+DoctorBob 987736999  9  4 c   kf    -     -          635   10    0 
+DoctorBob 987737079 10  3 f   -     -     -          625    0    0 
+DoctorBob 987737123 10  2 Bk  kf    -     -          625   10    0 
+DoctorBob 987737222 10  1 Bf  -     -     -          615    5    0 
+DoctorBob 987737269 10 10 c   c     rc    c          610  120    0 9h As
+DoctorBob 987737330 10  9 f   -     -     -          490    0    0 
+DoctorBob 987737370 10  8 f   -     -     -          490    0    0 
+DoctorBob 987737432 10  7 f   -     -     -          490    0    0 
+DoctorBob 987737451 10  6 r   b     -     -          490   30   70 
+DoctorBob 987737485 10  5 f   -     -     -          530    0    0 
+DoctorBob 987737573 10  4 f   -     -     -          530    0    0 
+DoctorBob 987737624 10  3 f   -     -     -          530    0    0 
+DoctorBob 987737695 10  2 Bc  kf    -     -          530   20    0 
+DoctorBob 987737745 10  1 Bf  -     -     -          510    5    0 
+DoctorBob 987737771 10 10 c   rc    r     b          505  110  235 Ac Qs
+DoctorBob 987737814 10  9 f   -     -     -          630    0    0 
+DoctorBob 987737902 10  8 f   -     -     -          630    0    0 
+DoctorBob 987737971 10  7 f   -     -     -          630    0    0 
+DoctorBob 987738033 10  6 f   -     -     -          630    0    0 
+DoctorBob 987738059 10  5 f   -     -     -          630    0    0 
+DoctorBob 987738126 10  4 f   -     -     -          630    0    0 
+DoctorBob 987738239 10  3 cc  ccc   kf    -          630   60    0 
+DoctorBob 987738320  9  2 Bf  -     -     -          570   10    0 
+DoctorBob 987738389  9  1 Bf  -     -     -          560    5    0 
+DoctorBob 987738444  9  9 f   -     -     -          555    0    0 
+DoctorBob 987738469  9  8 c   k     c     f          555   30    0 
+DoctorBob 987738518  9  7 f   -     -     -          525    0    0 
+DoctorBob 987738563  9  6 f   -     -     -          525    0    0 
+DoctorBob 987738611  8  4 f   -     -     -          525    0    0 
+DoctorBob 987738638  8  3 f   -     -     -          525    0    0 
+DoctorBob 987738677  7  2 Bf  -     -     -          525   10    0 
+DoctorBob 987738705  7  1 Bc  bc    k     kc         515   60    0 Qh Ks
+DoctorBob 987738757  7  7 c   rc    c     b          455  120  335 
+DoctorBob 987738808  7  6 f   -     -     -          670    0    0 
+DoctorBob 987738833  8  5 c   f     -     -          670   20    0 
+DoctorBob 987738878  8  4 f   -     -     -          650    0    0 
+DoctorBob 987738926  8  3 cc  bc    b     b          650   80  215 2d 2h
+DoctorBob 987738985  9  2 Bf  -     -     -          785   10    0 
+DoctorBob 987739057  8  1 Bf  -     -     -          775    5    0 
+DoctorBob 987739100  8  8 c   c     b     -          770   50  110 
+DoctorBob 987739138  8  7 c   f     -     -          830   10    0 
+DoctorBob 987739184  8  6 c   kf    -     -          820   10    0 
+DoctorBob 987739229  8  5 f   -     -     -          810    0    0 
+DoctorBob 987739300  6  3 r   b     kc    k          810   50  110 Ac Kd
+DoctorBob 987739334  6  3 f   -     -     -          870    0    0 
+DoctorBob 987739368  6  2 BQ  -     -     -          870   10    0 
+DoctorBob 987869468  8  5 f   -     -     -          800    0    0 
+DoctorBob 987869511  8  4 f   -     -     -          800    0    0 
+DoctorBob 987869564  9  3 cc  bc    kr    br         800  140    0 6d 6c
+DoctorBob 987869611  9  2 Bc  kf    -     -          660   20    0 
+DoctorBob 987869645  9  1 Bc  kc    kr    b          640   80  140 
+DoctorBob 987869680  9  9 c   f     -     -          700   10    0 
+DoctorBob 987869714 10  9 f   -     -     -          690    0    0 
+DoctorBob 987869748 10  8 f   -     -     -          690    0    0 
+DoctorBob 987869827 10  7 f   -     -     -          690    0    0 
+DoctorBob 987869875 10  6 f   -     -     -          690    0    0 
+DoctorBob 987869907 10  5 f   -     -     -          690    0    0 
+DoctorBob 987869952  9  3 f   -     -     -          690    0    0 
+DoctorBob 987869977  9  2 Bk  kf    -     -          690   10    0 
+DoctorBob 987870012  9  1 Bf  -     -     -          680    5    0 
+DoctorBob 987870043 10 10 f   -     -     -          675    0    0 
+DoctorBob 987870084 10  9 f   -     -     -          675    0    0 
+DoctorBob 987870122 10  8 c   kf    -     -          675   10    0 
+DoctorBob 987870162 10  7 f   -     -     -          665    0    0 
+DoctorBob 987870224 10  6 f   -     -     -          665    0    0 
+DoctorBob 987870321  8  5 f   -     -     -          665    0    0 
+DoctorBob 987870360  8  4 f   -     -     -          665    0    0 
+DoctorBob 987870393  8  3 f   -     -     -          665    0    0 
+DoctorBob 987870448  8  2 Bf  -     -     -          665   10    0 
+DoctorBob 987870501  8  1 Bf  -     -     -          655    5    0 
+DoctorBob 987870528  9  8 f   -     -     -          650    0    0 
+DoctorBob 987870555  9  7 f   -     -     -          650    0    0 
+DoctorBob 987870590  8  5 f   -     -     -          650    0    0 
+DoctorBob 987870630  8  4 f   -     -     -          650    0    0 
+DoctorBob 987870648  6  2 f   -     -     -          650    0    0 
+DoctorBob 987870714  6  2 Bc  kf    -     -          650   20    0 
+DoctorBob 987870736  5  1 Bc  b     -     -          630   20   30 
+DoctorBob 987870756  5  5 f   -     -     -          640    0    0 
+DoctorBob 987870777  5  4 f   -     -     -          640    0    0 
+DoctorBob 987870806  5  3 f   -     -     -          640    0    0 
+DoctorBob 987870824  5  2 Bk  f     -     -          640   10    0 
+DoctorBob 987870850  5  1 Bf  -     -     -          630    5    0 
+DoctorBob 987870873  6  6 c   k     b     b          625   50  110 
+DoctorBob 987870929  6  5 f   -     -     -          685    0    0 
+DoctorBob 987870979  7  5 f   -     -     -          685    0    0 
+DoctorBob 987871022  7  3 f   -     -     -          685    0    0 
+DoctorBob 987871046  7  2 Bf  -     -     -          685   10    0 
+DoctorBob 987871104  7  1 Bf  -     -     -          675    5    0 
+DoctorBob 987871137  7  7 c   k     f     -          670   10    0 
+DoctorBob 987871176  7  6 f   -     -     -          660    0    0 
+DoctorBob 987871225  7  5 f   -     -     -          660    0    0 
+DoctorBob 987871248  8  5 f   -     -     -          660    0    0 
+DoctorBob 987871283  8  4 cc  bc    f     -          660   40    0 
+DoctorBob 987871330 10  3 f   -     -     -          620    0    0 
+DoctorBob 987871415 10  2 Bc  k     b     kc         620   60    0 Th Ts
+DoctorBob 987871461 10  1 Bf  -     -     -          560    5    0 
+DoctorBob 987871490 10 10 f   -     -     -          555    0    0 
+DoctorBob 987871530 10  9 c   b     b     k          555   40    0 Th 9h
+DoctorBob 987871610  9  7 c   c     c     f          515   40    0 
+DoctorBob 987871652  9  6 f   -     -     -          475    0    0 
+DoctorBob 987871683  9  5 f   -     -     -          475    0    0 
+DoctorBob 987871756 10  4 f   -     -     -          475    0    0 
+DoctorBob 987871828 10  3 f   -     -     -          475    0    0 
+DoctorBob 987871887  9  2 Bf  -     -     -          475   10    0 
+DoctorBob 987871941 10  1 Bf  -     -     -          465    5    0 
+DoctorBob 987872014 10 10 f   -     -     -          460    0    0 
+DoctorBob 987872101  7  6 f   -     -     -          460    0    0 
+DoctorBob 987872140  8  7 f   -     -     -          460    0    0 
+DoctorBob 987872167  8  6 f   -     -     -          460    0    0 
+DoctorBob 987872184  9  5 f   -     -     -          460    0    0 
+DoctorBob 987872233  7  4 f   -     -     -          460    0    0 
+DoctorBob 987872270  7  3 f   -     -     -          460    0    0 
+DoctorBob 987872306  8  2 Bcc k     kf    -          460   40    0 
+DoctorBob 987872377  9  1 Bf  -     -     -          420    5    0 
+DoctorBob 987872415  9  9 c   c     c     k          415   50    0 4h Ah
+DoctorBob 987872522  7  6 f   -     -     -          365    0    0 
+DoctorBob 987872562  8  6 c   kf    -     -          365   10    0 
+DoctorBob 987872605  8  5 cf  -     -     -          355   10    0 
+DoctorBob 987872678  8  4 f   -     -     -          345    0    0 
+DoctorBob 987872736  8  3 f   -     -     -          345    0    0 
+DoctorBob 987872784  7  2 Bk  f     -     -          345   10    0 
+DoctorBob 987872836  8  1 Bc  b     b     kc         335   60    0 Js Kh
+DoctorBob 987872872  8  8 c   bc    b     b          275   80  245 Js 8s
+DoctorBob 987872918  8  7 c   f     -     -          440   10    0 
+DoctorBob 987872961  8  6 r   bc    f     -          430   40    0 
+DoctorBob 987873010  8  5 f   -     -     -          390    0    0 
+DoctorBob 987873060  9  4 f   -     -     -          390    0    0 
+DoctorBob 987873088  9  3 f   -     -     -          390    0    0 
+DoctorBob 987873143  9  2 Bk  k     kf    -          390   10    0 
+DoctorBob 987873179  9  1 Bf  -     -     -          380    5    0 
+DoctorBob 987873214  7  7 f   -     -     -          375    0    0 
+DoctorBob 987873230  6  5 c   b     b     b          375   60  130 
+DoctorBob 987873273  6  4 f   -     -     -          445    0    0 
+DoctorBob 987873309  6  3 cc  k     f     -          445   20    0 
+DoctorBob 987873342  6  2 Bk  k     f     -          425   10    0 
+DoctorBob 987873380  6  1 Bc  kf    -     -          415   10    0 
+DoctorBob 987873406  7  7 f   -     -     -          405    0    0 
+DoctorBob 987873463  7  6 f   -     -     -          405    0    0 
+DoctorBob 987873517  8  6 f   -     -     -          405    0    0 
+DoctorBob 987873562  8  5 f   -     -     -          405    0    0 
+DoctorBob 987873643  8  4 f   -     -     -          405    0    0 
+DoctorBob 987873682  8  3 f   -     -     -          405    0    0 
+DoctorBob 987873746  9  2 Bk  kf    -     -          405   10    0 
+DoctorBob 987873794 10  1 Bf  -     -     -          395    5    0 
+DoctorBob 987873823 10 10 f   -     -     -          390    0    0 
+DoctorBob 987873890 10  9 f   -     -     -          390    0    0 
+DoctorBob 987873956 10  8 f   -     -     -          390    0    0 
+DoctorBob 987874018 10  7 fQ  -     -     -          390    0    0 

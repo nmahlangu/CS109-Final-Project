@@ -1,0 +1,71 @@
+nero      986393872  2  2 Brc rc    c     f         1000   90    0 
+nero      986393899  2  1 Bcc kc    bc    kf         910   70    0 
+nero      986393923  2  2 Bc  c     c     f          840   50    0 
+nero      986393935  2  1 Bcrc bc    kc    kf         790   80    0 
+nero      986393959  2  2 Bc  r     rc    rf         710  140    0 
+nero      986393979  2  1 Brr br    br    bf         570  150    0 
+nero      986394002  2  2 Brc rc    rr    rf         420  190    0 
+nero      986394031  2  1 Brr brc   br    bf         230  160    0 
+nero      986394062  2  2 Bc  c     c     cA          70   70    0 8s Kh
+nero      986475227  2  1 Brr brc   brc   br        1000  220  420 
+nero      986475255  2  2 Brc r     b     -         1200   80  140 
+nero      986475274  3  1 Br  b     -     -         1260   30   50 
+nero      986475287  3  3 f   -     -     -         1280    0    0 
+nero      986475310  4  3 f   -     -     -         1280    0    0 
+nero      986475328  5  3 r   c     cc    kf        1280   70    0 
+nero      986475372  4  1 Bk  k     k     kf        1210   10    0 
+nero      986475400  5  1 BfQ -     -     -         1200    5    0 
+nero      986476770  2  1 Brr brc   br    br        1000  200  380 
+nero      986476792  2  2 Brc rr    rr    rr        1180  240  460 
+nero      986476811  2  1 Brr brc   b     br        1400  160  300 
+nero      986476834  2  2 Brc rr    rr    b         1540  180  340 
+nero      986476862  2  1 Bc  -     -     -         1700   10    0 Js 9h
+nero      986476866  2  2 Bk  k     k     c         1690   20   40 As 9d
+nero      986476895  2  1 Brr brc   b     b         1710  120    0 Jc As
+nero      986476916  2  2 Brc rr    rr    -         1590  160  300 
+nero      986476937  2  1 Brr brc   b     br        1730  160  300 
+nero      986476960  2  2 Brc rc    rr    c         1870  170  340 Ad 9h
+nero      986476986  2  1 Br  b     brc   br        2040  170  320 
+nero      986477005  2  2 Brc rr    rr    rr        2190  240  460 
+nero      986477028  2  1 Brc b     br    br        2410  160  300 
+nero      986477050  2  2 Brc rr    r     -         2550  120  220 
+nero      986477073  2  1 B   -     -     -         2650    5   15 
+nero      986510036  3  2 Br  c     r     r         2625  120  250 8h 8c
+nero      986510066  3  1 Bf  -     -     -         2755    5    0 
+nero      986510072  3  3 r   -     -     -         2750   20   35 
+nero      986510081  3  2 Bk  c     c     f         2765   40    0 
+nero      986510096  3  1 Bc  kc    kc    kc        2725   60    0 7c 6d
+nero      986510129  3  3 r   k     k     k         2665   20    0 Ts Qs
+nero      986565776  3  1 Brr brc   br    -         3075  140  260 
+nero      986565800  2  2 Brc rr    rr    -         3195  160  300 
+nero      986565820  2  1 Brr brc   b     br        3335  160  300 
+nero      986565848  2  2 Brc rr    rr    r         3475  200  380 
+nero      986565877  2  1 Brr brc   brc   br        3655  220  420 
+nero      986565906  2  2 Brc rr    rr    rc        3855  220  440 Qd 7d
+nero      986578463  4  4 cc  c     c     f         4075   50    0 
+nero      986578494  4  3 f   -     -     -         4025    0    0 
+nero      986578508  4  2 B   -     -     -         4025   10   15 
+nero      986578513  4  1 Bf  -     -     -         4030    5    0 
+nero      986578541  5  4 f   -     -     -         4025    0    0 
+nero      986578557  5  3 f   -     -     -         4025    0    0 
+nero      986578582  5  2 Bf  -     -     -         4025   10    0 
+nero      986578600  5  1 Bc  kf    -     -         4015   20    0 
+nero      986578626  5  5 KQ  -     -     -         3995    0    0 
+nero      986756841  2  1 Brr brc   brc   br        1000  220  420 
+nero      986756867  2  2 Brc br    rr    -         1200  150  280 
+nero      986756894  2  1 Brr brc   brc   br        1330  220  420 
+nero      986756922  2  2 Brc rc    rr    r         1530  190  360 
+nero      986756950  2  1 Brr brc   brc   br        1700  220  420 
+nero      986756979  2  2 Brc rr    rr    r         1900  200    0 Kh Jh
+nero      986757012  2  1 Brr brc   b     br        1700  160  300 
+nero      986757045  2  2 Brc rr    rr    r         1840  200  380 
+nero      986757072  2  1 Brr br    b     b         2020  110  215 7c Kc
+nero      986757125  2  1 Brr brc   brc   br        2125  220  420 
+nero      986757152  2  2 Brc rr    rr    r         2325  200  380 
+nero      986757183  2  1 Brr brc   brc   br        2505  220  420 
+nero      986757207  2  2 Brf -     -     -         2705   30    0 
+nero      986757213  2  1 Brr brc   brc   br        2675  220  420 
+nero      986757238  2  2 Brc rr    rc    rr        2875  220  420 
+nero      986757275  2  1 Br  b     k     b         3075   50   80 
+nero      986757292  2  2 Bk  b     -     -         3105   20   30 
+nero      986757307  2  1 Bc  -     -     -         3115   10   20 Jh 5d

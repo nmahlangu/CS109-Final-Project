@@ -1,0 +1,325 @@
+Metatron  986268414  4  3 f   -     -     -          265    0    0 
+Metatron  986268454  5  3 f   -     -     -          265    0    0 
+Metatron  986268479  5  2 Bf  -     -     -          265   10    0 
+Metatron  986268509  4  1 Bc  kc    kc    bc         255   90    0 2d 3d
+Metatron  986268541  4  4 f   -     -     -          165    0    0 
+Metatron  986268571  4  3 f   -     -     -          165    0    0 
+Metatron  986268580  4  2 Bf  -     -     -          165   10    0 
+Metatron  986268586  4  1 Bc  kc    b     -          155   50  110 
+Metatron  986268621  4  4 c   rc    c     rc         215  150  470 9d 5d
+Metatron  986268694  6  5 c   f     -     -          475   10    0 
+Metatron  986268738  6  4 c   f     -     -          465   10    0 
+Metatron  986268793  7  3 cc  bc    kc    kf         425   60    0 
+Metatron  986268929  7  2 Bk  k     k     b          605   30   45 
+Metatron  986269048  6  1 Bf  -     -     -          675    5    0 
+Metatron  986269088  5  5 c   rr    r     b          720  110  235 3c 4c
+Metatron  986269147  4  3 f   -     -     -          845    0    0 
+Metatron  986269195  4  2 Bf  -     -     -          845   10    0 
+Metatron  986269216  4  1 Bcc k     k     b          835   40   40 7d 6s
+Metatron  986269260  3  3 r   k     KQ    -          765   20    0 
+Metatron  986273722 10  2 Bk  kf    -     -          725   10    0 
+Metatron  986273783 10  1 Bc  kf    -     -          715   30    0 
+Metatron  986273886 10 10 c   f     -     -          685   20    0 
+Metatron  986273936 10  9 cc  rc    c     c          665  100    0 Kh Qd
+Metatron  986274029  9  7 f   -     -     -          565    0    0 
+Metatron  986274084  9  6 f   -     -     -          565    0    0 
+Metatron  986274129 10  7 f   -     -     -          565    0    0 
+Metatron  986274176 10  6 f   -     -     -          565    0    0 
+Metatron  986274248  9  5 cc  kf    -     -          565   20    0 
+Metatron  986274341  6  2 Bk  k     k     f          545   10    0 
+Metatron  986274616  3  1 Br  b     b     b          535   70  140 8h Ad
+Metatron  986274683  3  3 f   -     -     -          605    0    0 
+Metatron  986274697  3  2 Bk  kf    -     -          605   10    0 
+Metatron  986274747  3  1 Bc  b     -     -          595   20   30 
+Metatron  986274776  3  3 r   b     b     -          605   50   90 
+Metatron  986274831  3  2 Br  brc   rc    c          645  150    0 6s 8s
+Metatron  986274886  3  1 Bf  -     -     -          495    5    0 
+Metatron  986274892  3  3 r   b     rr    b          490  130  270 Ah Kh
+Metatron  986274977  6  2 Bk  k     kf    -          630   10    0 
+Metatron  986275037  6  1 Bc  kQ    -     -          620   20    0 
+Metatron  986275166  6  4 f   -     -     -          600    0    0 
+Metatron  986275201  6  3 rc  r     b     -          600   70  205 
+Metatron  986275283  5  2 Br  b     k     kc         735   50  125 Jh Td
+Metatron  986275377  4  1 Bcc kf    -     -          810   30    0 
+Metatron  986275468  5  5 c   f     -     -          780   10    0 
+Metatron  986275534  6  5 f   -     -     -          770    0    0 
+Metatron  986275589  5  3 c   kf    -     -          770   10    0 
+Metatron  986275706  5  2 f   -     -     -          760    0    0 
+Metatron  986275759  7  2 BKQ -     -     -          760   10    0 
+Metatron  986436847 10  4 KQ  -     -     -          875    0    0 
+Metatron  986437084  9  2 Bk  k     b     k          875   30   80 3c 3s
+Metatron  986437149  9  1 Bf  -     -     -          925    5    0 
+Metatron  986437188 10  9 f   -     -     -          920    0    0 
+Metatron  986437226 10  8 f   -     -     -          920    0    0 
+Metatron  986437288  9  6 f   -     -     -          920    0    0 
+Metatron  986437365  9  5 f   -     -     -          920    0    0 
+Metatron  986437439 10  4 f   -     -     -          920    0    0 
+Metatron  986437515 10  3 cc  f     -     -          920   30    0 
+Metatron  986437632 10  2 Bk  KQ    -     -          890   10    0 
+Metatron  986437780  8  3 c   c     f     -          880   20    0 
+Metatron  986437825  7  2 Bk  kf    -     -          860   10    0 
+Metatron  986437874  6  1 Bc  kc    b     brc        850  120  210 Th Jd
+Metatron  986437964  8  7 c   rc    k     c          940   70    0 8h 5h
+Metatron  986438021  8  6 f   -     -     -          870    0    0 
+Metatron  986438130  9  4 KQ  -     -     -          860    0    0 
+Metatron  986521739  9  4 cc  rc    kf    -          860   70    0 
+Metatron  986521851 10  3 f   -     -     -          790    0    0 
+Metatron  986521958 10  2 Bf  -     -     -          790   10    0 
+Metatron  986522016 10  1 Bc  kcc   kf    -          780   80    0 
+Metatron  986522155 10 10 f   -     -     -          685    0    0 
+Metatron  986522223 10  9 cc  f     -     -          800   40    0 
+Metatron  986522278 10  8 f   -     -     -          760    0    0 
+Metatron  986522336 10  7 f   -     -     -          760    0    0 
+Metatron  986522402 10  6 f   -     -     -          760    0    0 
+Metatron  986522449 10  5 f   -     -     -          760    0    0 
+Metatron  986522501 10  4 f   -     -     -          760    0    0 
+Metatron  986522554 10  3 f   -     -     -          760    0    0 
+Metatron  986522612 10  2 BKQ -     -     -          760   10    0 
+Metatron  986522827 10  4 rr  bc    kc    kc         750  100    0 Ac Ah
+Metatron  986522904 10  3 f   -     -     -          650    0    0 
+Metatron  986522964 10  2 Bc  kf    -     -          650   20    0 
+Metatron  986523013 10  1 Bf  -     -     -          630    5    0 
+Metatron  986523114  8  8 rc  r     rr    rr         615  220  510 Kh Kc
+Metatron  986523165  9  9 f   -     -     -          905    0    0 
+Metatron  986523195  9  8 r   KQ    -     -          905   20    0 
+Metatron  986523328 10  7 KQ  -     -     -          885    0    0 
+Metatron  986523530 10 10 f   -     -     -          865    0    0 
+Metatron  986523597 10  9 f   -     -     -          865    0    0 
+Metatron  986523656 10  8 f   -     -     -          865    0    0 
+Metatron  986523710 10  7 r   b     b     b          865   70  260 Jc Ac
+Metatron  986523801 10  6 cc  brc   kc    b         1055  120  520 7c 6c
+Metatron  986523927 10  5 f   -     -     -         1455    0    0 
+Metatron  986523980 10  4 r   kc    kf    -         1455   30    0 
+Metatron  986524036 10  3 f   -     -     -         1425    0    0 
+Metatron  986524073 10  2 Bf  -     -     -         1425   10    0 
+Metatron  986524149 10  1 Bf  -     -     -         1415    5    0 
+Metatron  986524215 10 10 c   k     f     -         1410   20    0 
+Metatron  986524284 10  9 c   rr    r     b         1390  120    0 As 4s
+Metatron  986524370 10  8 c   k     b     -         1270   30   75 
+Metatron  986524445 10  7 f   -     -     -         1175    0    0 
+Metatron  986524520 10  6 f   -     -     -         1175    0    0 
+Metatron  986524587 10  5 f   -     -     -         1175    0    0 
+Metatron  986524647 10  4 f   -     -     -         1085    0    0 
+Metatron  986524696 10  3 cc  f     -     -         1085   20    0 
+Metatron  986524789 10  2 Bk  kc    kc    bf        1065   60    0 
+Metatron  986524861 10  1 Bc  KQ    -     -          995   20    0 
+Metatron  986525013  9  9 f   -     -     -          975    0    0 
+Metatron  986525086  9  8 f   -     -     -          975    0    0 
+Metatron  986525151 10  7 c   cc    cc    c          975  130    0 9c Td
+Metatron  986525266 10  6 f   -     -     -          845    0    0 
+Metatron  986525338  8  4 r   b     -     -          845   30   85 
+Metatron  986525372  9  4 r   k     kf    -          900   20    0 
+Metatron  986525470 10  3 c   kc    bc    kc         840   80    0 Qh Kd
+Metatron  986525539 10  2 Bc  kf    -     -          760   20    0 
+Metatron  986525614  9  1 Bf  -     -     -          740    5    0 
+Metatron  986525676  9  9 c   k     f     -          735   10    0 
+Metatron  986525806  9  7 c   rc    c     k          725   70   30 8s 8c
+Metatron  986525911  9  7 rr  b     b     b          685   90  420 Qc Qh
+Metatron  986526029 10  7 f   -     -     -         1015    0    0 
+Metatron  986526088  9  5 f   -     -     -         1015    0    0 
+Metatron  986526148 10  4 f   -     -     -         1015    0    0 
+Metatron  986526210 10  3 KQ  -     -     -         1015    0    0 
+Metatron  986526801 10  9 f   -     -     -          940    0    0 
+Metatron  986526902 10  8 f   -     -     -          920    0    0 
+Metatron  986526960 10  7 cc  k     cc    f          915  120    0 
+Metatron  986527100 10  6 f   -     -     -          845    0    0 
+Metatron  986527157  9  4 f   -     -     -          845    0    0 
+Metatron  986527239  9  3 f   -     -     -          845    0    0 
+Metatron  986527337  9  2 Bc  kf    -     -          755   30    0 
+Metatron  986527472  9  1 Bf  -     -     -          525    5    0 
+Metatron  986527527  9  9 f   -     -     -          505    0    0 
+Metatron  986527642 10  9 f   -     -     -          535    0    0 
+Metatron  986527697 10  8 cc  f     -     -          535   20    0 
+Metatron  986527799 10  7 f   -     -     -          520    0    0 
+Metatron  986527858  9  6 Q   -     -     -          520    0    0 
+Metatron  986528397 10  2 Bf  -     -     -          510   10    0 
+Metatron  986528502 10  1 Bf  -     -     -          485    5    0 
+Metatron  986528558 10 10 f   -     -     -          480    0    0 
+Metatron  986528657 10  9 KQ  -     -     -          480    0    0 
+Metatron  986789437  3  2 Bk  k     k     k          480   10    0 7d Ts
+Metatron  986789457  3  1 BKQ -     -     -          470    5    0 
+Metatron  986789721  7  4 f   -     -     -          465    0    0 
+Metatron  986789762  7  3 c   f     -     -          465   10    0 
+Metatron  986789819  8  2 Bk  b     b     b          455   60  150 
+Metatron  986789924  8  1 Bf  -     -     -          545    5    0 
+Metatron  986789955  8  8 f   -     -     -          540    0    0 
+Metatron  986790006 10  7 f   -     -     -          540    0    0 
+Metatron  986790089 10  6 c   rc    rc    rc         540  200    0 Jd Th
+Metatron  986790183 10  5 r   bc    f     -          340   40    0 
+Metatron  986790267 10  4 f   -     -     -          300    0    0 
+Metatron  986790368 10  5 c   r     b     b          300   70  170 5h 6c
+Metatron  986790443  7  2 Bc  f     -     -          400   20    0 
+Metatron  986790484  7  1 Bc  kf    -     -          380   10    0 
+Metatron  986790537  5  5 cf  Q     -     -          370   10    0 
+Metatron  986790818  3  2 Bk  f     -     -          360   10    0 
+Metatron  986790860  3  1 Brc kcc   b     b          350  110    0 9c Kd
+Metatron  986790909  3  3 r   f     -     -          240   20    0 
+Metatron  986790932  3  2 Bk  k     f     -          220   10    0 
+Metatron  986790962  3  1 Br  b     b     -          210   50   90 
+Metatron  986790979  3  3 f   -     -     -          250    0    0 
+Metatron  986790986  3  2 Br  r     -     -          250   40   70 
+Metatron  986791009  3  1 Brr b     b     b          280   90    0 Kd 9c
+Metatron  986791041  3  3 r   b     -     -          190   30   55 
+Metatron  986791062  3  2 Br  b     -     -          215   30   50 
+Metatron  986791073  3  1 Br  b     b     brc        235  130    0 9h Ad
+Metatron  986791093  3  3 f   -     -     -          105    0    0 
+Metatron  986791110  3  2 BQ  -     -     -          105   10    0 
+Metatron  986965236  6  1 Br  b     kc    kf        1205   50    0 
+Metatron  986965278  6  1 Bf  -     -     -         1155    5    0 
+Metatron  986965307  6  6 c   c     c     f         1150   40    0 
+Metatron  986965350  7  5 f   -     -     -         1110    0    0 
+Metatron  986965387  7  5 f   -     -     -         1110    0    0 
+Metatron  986965437  7  4 c   b     b     kr        1110  100    0 Jd Jc
+Metatron  986965515  7  3 c   k     k     b         1010   30   43 Ah 5h
+Metatron  986965611  7  2 Br  Q     -     -         1023   20    0 
+Metatron  987395688 10  5 KQ  -     -     -          830    0    0 
+Metatron  987660059 10  7 r   b     -     -         1020   30   60 
+Metatron  987660087 10  7 f   -     -     -         1050    0    0 
+Metatron  987660135  9  5 c   k     b     k         1050   30   85 9c 8d
+Metatron  987660186  9  3 f   -     -     -         1105    0    0 
+Metatron  987660234  8  2 Bk  kf    -     -         1105   10    0 
+Metatron  987660317  7  1 Bf  -     -     -         1095    5    0 
+Metatron  987660364  8  8 c   cc    c     f         1090   60    0 
+Metatron  987660464  8  7 f   -     -     -         1030    0    0 
+Metatron  987660490  8  6 f   -     -     -         1030    0    0 
+Metatron  987660549  9  6 f   -     -     -         1030    0    0 
+Metatron  987660594  9  5 cr  c     k     b         1030   70    0 Js Ts
+Metatron  987660662  9  4 f   -     -     -          960    0    0 
+Metatron  987660774  9  3 f   -     -     -          960    0    0 
+Metatron  987660828  9  2 Bk  k     kf    -          960   10    0 
+Metatron  987660953  9  1 Bf  -     -     -          950    5    0 
+Metatron  987660998  9  9 r   c     f     -          945   30    0 
+Metatron  987661078  8  7 f   -     -     -          915    0    0 
+Metatron  987661182 10  7 KQ  -     -     -          915    0    0 
+Metatron  987953744 10  8 c   f     -     -          915   10    0 
+Metatron  987953798 10  7 f   -     -     -          905    0    0 
+Metatron  987953844 10  6 cc  b     b     c          905   70    0 Ac Ts
+Metatron  987953906 10  5 f   -     -     -          835    0    0 
+Metatron  987954034 10  4 f   -     -     -          835    0    0 
+Metatron  987954121  9  3 f   -     -     -          835    0    0 
+Metatron  987954197 10  2 Br  b     -     -          835   30   65 
+Metatron  987954269  9  1 Bf  -     -     -          870    5    0 
+Metatron  987954286  7  7 f   -     -     -          865    0    0 
+Metatron  987954317  6  5 c   f     -     -          865   10    0 
+Metatron  987954365  6  4 r   k     k     k          855   20   55 As Qd
+Metatron  987954449  7  3 f   -     -     -          890    0    0 
+Metatron  987954519  7  2 Bk  k     kf    -          890   10    0 
+Metatron  987954623  8  1 Br  KQ    -     -          880   20    0 
+Metatron  987954744  7  6 c   c     c     b          860   60    0 8d Tc
+Metatron  987954791  7  5 f   -     -     -          800    0    0 
+Metatron  987954808  7  4 c   b     b     b          800   60  180 3d 3h
+Metatron  987954869  7  3 r   k     b     b          920   60  175 Th 7h
+Metatron  987954931  7  2 Bk  k     b     -         1035   30   55 
+Metatron  987954959  7  1 Bf  -     -     -         1060    5    0 
+Metatron  987954989  7  7 c   b     -     -         1055   20   50 
+Metatron  987955034  7  6 cc  c     c     kf        1085   50    0 
+Metatron  987955117  8  5 f   Q     -     -         1035    0    0 
+Metatron  987956525 10  9 c   c     f     -         1035   40    0 
+Metatron  987956592 10  8 cr  c     c     r          995  100  290 
+Metatron  987956711 10  7 f   -     Q     -         1185    0    0 
+Metatron  987958868 10 10 f   -     -     -         1175    0    0 
+Metatron  987958952 10  9 cc  rr    c     f         1175   80    0 
+Metatron  987959005 10  8 c   r     b     k         1095   50    0 8s 7c
+Metatron  987959074 10  7 f   -     -     -         1045    0    0 
+Metatron  987959126 10  6 f   -     -     -         1045    0    0 
+Metatron  987959165 10  5 f   -     -     -         1045    0    0 
+Metatron  987959196 10  4 c   f     -     -         1045   20    0 
+Metatron  987959299 10  3 c   r     b     k         1025   50  125 6c 6d
+Metatron  987959350 10  2 Bf  -     -     -         1100   10    0 
+Metatron  987959390 10  1 Bf  -     -     -         1090    5    0 
+Metatron  987959428 10 10 c   k     b     b         1085   60  115 
+Metatron  987959461 10  9 cc  c     f     -         1140   50    0 
+Metatron  987959531 10  8 f   -     -     -         1090    0    0 
+Metatron  987959598 10  7 f   -     -     -         1090    0    0 
+Metatron  987959647 10  6 KQ  -     -     -         1090    0    0 
+Metatron  987961926 10  6 f   -     -     -         1090    0    0 
+Metatron  987961985 10  5 f   -     -     -         1090    0    0 
+Metatron  987962056 10  4 f   -     -     -         1090    0    0 
+Metatron  987962117 10  3 f   -     -     -         1090    0    0 
+Metatron  987962188 10  2 Bf  -     -     -         1090   10    0 
+Metatron  987962221 10  1 Bc  b     k     k         1080   30    0 Kd 7d
+Metatron  987962261 10 10 f   -     -     -         1050    0    0 
+Metatron  987962319 10  9 f   -     -     -         1050    0    0 
+Metatron  987962415 10  8 r   b     b     b         1050   70  220 
+Metatron  987962491 10  7 r   c     k     c         1200   70    0 5s Ks
+Metatron  987962558 10  6 f   -     -     -         1130    0    0 
+Metatron  987962598 10  5 f   -     -     -         1130    0    0 
+Metatron  987962625  9  3 f   -     -     -         1130    0    0 
+Metatron  987962646  9  3 f   -     -     -         1130    0    0 
+Metatron  987962680  9  2 Bk  k     kf    -         1130   10    0 
+Metatron  987962716  9  1 Bf  -     -     -         1120    5    0 
+Metatron  987962724  9  9 c   k     b     -         1115   30   50 
+Metatron  987962760  9  8 f   -     -     -         1135    0    0 
+Metatron  987962798  9  7 f   -     -     -         1135    0    0 
+Metatron  987962845  9  6 c   k     k     kc        1135   40    0 7d Ad
+Metatron  987962923  9  5 f   -     -     -         1095    0    0 
+Metatron  987962963  9  4 f   -     -     -         1095    0    0 
+Metatron  987963040  9  3 f   -     -     -         1095    0    0 
+Metatron  987963115  9  2 Bc  kc    kc    kf        1095   50    0 
+Metatron  987963188  9  1 Bcc kc    kc    kc        1045   90    0 5c 5h
+Metatron  987963228  9  9 c   b     b     -          955   40  100 
+Metatron  987963263  9  8 r   c     b     b         1015   70    0 7d Ts
+Metatron  987963360  8  6 f   -     -     -          945    0    0 
+Metatron  987963383  8  5 c   k     k     b          945   30   65 
+Metatron  987963438  8  4 r   c     c     r          980   90    0 7h 6c
+Metatron  987963467  7  3 f   -     -     -          890    0    0 
+Metatron  987963475  7  2 Brc brc   brc   kc         890  180    0 Jd Jc
+Metatron  987963578  6  1 Bf  -     -     -          710    5    0 
+Metatron  987963612  6  6 f   -     -     -          705    0    0 
+Metatron  987963634  6  5 r   -     -     -          705   20   35 
+Metatron  987963643  6  4 r   b     b     -          720   50   95 
+Metatron  987963670  6  3 r   b     -     -          765   30   55 
+Metatron  987963687  7  2 Br  b     b     kc         790   90    0 8s 8d
+Metatron  987963736  8  1 Bf  -     -     -          700    5    0 
+Metatron  987963785  9  8 f   -     -     -          695    0    0 
+Metatron  987963817  9  7 f   -     -     -          695    0    0 
+Metatron  987963858  8  5 f   -     -     -          695    0    0 
+Metatron  987963896  8  4 f   -     -     -          695    0    0 
+Metatron  987963974  8  3 f   -     -     -          695    0    0 
+Metatron  987964010  8  2 Bk  c     k     k          695   20    0 Ah Qc
+Metatron  987964044  8  1 Bf  -     -     -          675    5    0 
+Metatron  987964066  8  8 c   f     -     -          670   10    0 
+Metatron  987964149  8  7 c   k     b     c          660   50    0 Kh Tc
+Metatron  987964186  8  6 crc b     b     b          610   90  260 5s Ks
+Metatron  987964245  8  5 r   b     b     b          780   70    0 9h Jh
+Metatron  987964294  8  4 c   rr    b     b          710   90  300 4c 4d
+Metatron  987964370  8  3 f   -     -     -          920    0    0 
+Metatron  987964383  8  3 f   -     -     -          920    0    0 
+Metatron  987964449  8  2 Bc  k     k     k          920   20    0 Ad 4d
+Metatron  987964522  8  1 Bf  -     -     -          900    5    0 
+Metatron  987964576  8  8 f   Q     -     -          895    0    0 
+Metatron  988169598 10  9 KQ  -     -     -         1040    0    0 
+Metatron  988169774 10 10 f   -     -     -         1040    0    0 
+Metatron  988169835 10  9 r   c     c     f         1040   50    0 
+Metatron  988169932 10  8 f   -     -     -          990    0    0 
+Metatron  988169991 10  7 fQ  -     -     -          990    0    0 
+Metatron  988252283 10  6 KQ  -     -     -          990    0    0 
+Metatron  988256064  8  6 f   -     -     -          990    0    0 
+Metatron  988256149  7  5 c   b     b     b          990   60    0 Jd 8s
+Metatron  988256240  7  4 f   -     -     -          930    0    0 
+Metatron  988256291  8  3 f   -     -     -          930    0    0 
+Metatron  988256360  8  2 Bc  kc    kf    -          930   30    0 
+Metatron  988256433  9  1 Bf  -     -     -          900    5    0 
+Metatron  988256493 10 10 r   f     -     -          895   20    0 
+Metatron  988256576 10  9 cc  f     -     -          875   20    0 
+Metatron  988256668 10  8 f   -     -     -          855    0    0 
+Metatron  988256782 10  5 Q   -     -     -          855    0    0 
+Metatron  988296948  8  6 c   k     b     -          855   30   55 
+Metatron  988296989  7  4 f   -     -     -          880    0    0 
+Metatron  988297051  7  3 f   -     -     -          880    0    0 
+Metatron  988297085  7  2 Bk  kf    -     -          880   10    0 
+Metatron  988297144  8  1 Bc  bc    kc    kc         870   70  135 8h 9d
+Metatron  988297213  7  7 f   -     -     -          935    0    0 
+Metatron  988297305  6  5 c   b     b     k          935   40  100 Jh Jc
+Metatron  988297365  6  4 c   r     c     r          995   90  190 9d 7d
+Metatron  988297407  7  4 f   -     -     -         1095    0    0 
+Metatron  988297441  8  4 c   cc    c     c         1095   70  112 Ah Jc
+Metatron  988297489  8  3 c   k     k     kf        1137   10    0 
+Metatron  988297581  9  2 Bk  kc    kf    -         1127   20    0 
+Metatron  988297691 10  1 Bf  -     -     -         1107    5    0 
+Metatron  988297801 10 10 c   f     -     -         1102   10    0 
+Metatron  988297868 10  9 f   -     -     -         1092    0    0 
+Metatron  988297927 10  8 c   f     -     -         1092   10    0 
+Metatron  988298010 10  7 ccc ccc   kc    kf        1082  100    0 
+Metatron  988298168 10  6 rr  bc    c     k          982   80    0 Qc Qd
+Metatron  988298302 10  6 f   Q     -     -          902    0    0 

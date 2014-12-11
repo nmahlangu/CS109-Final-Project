@@ -1,0 +1,211 @@
+mark      986779000  9  3 f   -     -     -         1000    0    0 
+mark      986779040  9  2 Bk  kf    -     -         1000   10    0 
+mark      986779104  9  1 Bf  -     -     -          990    5    0 
+mark      986779150  9  9 c   c     r     c          985  100  325 Td 5d
+mark      986779236  9  8 f   -     -     -         1210    0    0 
+mark      986779298 10  7 f   -     -     -         1210    0    0 
+mark      986779386 10  6 cc  k     f     -         1210   20    0 
+mark      986779490 10  5 f   -     -     -         1190    0    0 
+mark      986779533 10  4 c   kc    f     -         1190   20    0 
+mark      986779581 10  3 f   -     -     -         1170    0    0 
+mark      986779679 10  2 Bk  kc    KQ    -         1170   20    0 
+mark      986779838  9  9 cKQ -     -     -         1150   30    0 
+mark      986781718  5  2 Bk  bf    -     -         1120   20    0 
+mark      986781746  4  1 Bc  k     k     k         1100   10   30 5s 7c
+mark      986781789  4  4 r   k     b     -         1120   40   75 
+mark      986781809  4  3 f   -     -     -         1155    0    0 
+mark      986781817  4  2 Bk  kQ    -     -         1155   10    0 
+mark      986789046  3  2 rr  brc   b     bf        1145  120    0 
+mark      986789108  3  1 B   -     -     -         1025   10   10 
+mark      986789127  3  1 Bc  kf    -     -         1025   10    0 
+mark      986789157  4  4 f   -     -     -         1015    0    0 
+mark      986789186  4  4 f   -     -     -         1015    0    0 
+mark      986789208  3  2 Bk  k     b     -         1015   30   40 
+mark      986789232  3  1 Br  b     -     -         1025   30   50 
+mark      986789243  3  3 f   -     -     -         1045    0    0 
+mark      986789265  3  2 Bf  Q     -     -         1045   10    0 
+mark      986789536  4  2 Bk  k     b     -         1035   30   50 
+mark      986789567  5  1 Bf  -     -     -         1055    5    0 
+mark      986789610  5  5 f   -     -     -         1050    0    0 
+mark      986789643  5  4 r   bc    f     -         1050   40    0 
+mark      986789677  5  3 f   -     -     -         1010    0    0 
+mark      986789721  7  2 Bk  kf    -     -         1010   10    0 
+mark      986789762  7  1 Bf  -     -     -         1000    5    0 
+mark      986789819  8  8 c   f     -     -          995   10    0 
+mark      986789924  8  7 r   bc    f     -          985   40    0 
+mark      986789955  8  6 f   -     -     -          945    0    0 
+mark      986790006 10  5 c   b     k     f          945   20    0 
+mark      986790089 10  4 c   bc    rc    rc         925  200  850 8d 6c
+mark      986790183 10  3 cc  kf    -     -         1575   20    0 
+mark      986790267 10  2 Brc c     c     f         1555   70    0 
+mark      986790368 10  1 Bc  bc    kc    kc        1485   70    0 9h Kd
+mark      986790443  7  7 c   f     -     -         1415   20    0 
+mark      986790484  7  6 c   c     Q     -         1395   20    0 
+mark      987235524  4  4 rr  rr    rc    rf         625  180    0 
+mark      987235585  2  2 rr  rr    rc    rf         445  180    0 
+mark      987235623  2  2 Brc rr    rr    rf         265  200    0 
+mark      987235663  2  1 Brr bc    kf    -           65   60    0 
+mark      987235690  2  2 BA  -     -     -            5    5   10 6h 7h
+mark      987235691  2  1 Bf  -     -     -           10    5    0 
+mark      987235699  2  2 BA  -     -     -            5    5    0 2d 7c
+mark      987235713  2  1 Brr brc   brc   bf        1000  180    0 
+mark      987235749  2  2 Brc rr    rr    rr         820  240    0 6h Ah
+mark      987235789  2  1 Brr brc   brc   bf         580  180    0 
+mark      987235827  2  2 Brc rr    rr    rf         400  200    0 
+mark      987235874  2  1 Brr br    brc   bf         200  170    0 
+mark      987235908  2  2 Bc  cA    -     -           30   30    0 3d As
+mark      987235944  2  1 Brr brc   brc   brf       1000  220    0 
+mark      987235987  2  2 Brc rr    rr    rr         780  240    0 Kd 7h
+mark      987236024  2  1 Brr brc   brc   bf         540  180    0 
+mark      987236068  2  2 Brc brc   rr    rf         360  200    0 
+mark      987236102  2  1 Brr brc   brf   -          160  140    0 
+mark      987236131  2  2 Bf  -     -     -           20   10    0 
+mark      987236140  2  1 Bf  -     -     -           10    5    0 
+mark      987236146  2  2 BA  -     -     -            5    5    0 5s Ah
+mark      987236160  2  1 Brr brc   b     bf        1000  120    0 
+mark      987236192  2  2 Brc rr    rr    rf         880  200    0 
+mark      987236231  2  1 Brr brc   brc   bf         680  180    0 
+mark      987236270  2  2 Brc rr    rr    rf         500  200    0 
+mark      987236312  2  1 Brr brc   brc   bf         300  180    0 
+mark      987236345  2  2 Brc rr    c     f          120  100    0 
+mark      987236377  2  1 Bf  -     -     -           20    5    0 
+mark      987236385  2  2 Bf  -     -     -           15   10    0 
+mark      987236391  2  1 BA  -     -     -            5    5    0 5d 9c
+mark      987236416  2  1 Brr brc   brc   bf        1000  180    0 
+mark      987236451  2  2 Brc brc   rr    rc         820  220    0 Tc Qh
+mark      987236492  2  1 Brr brc   brc   brf        600  220    0 
+mark      987236534  2  2 Brc brc   rr    rr         380  240    0 3c Td
+mark      987236575  2  1 Brr brc   bc    kf         140  120    0 
+mark      987236614  2  2 Bf  -     -     -           20   10    0 
+mark      987236621  2  1 Bf  -     -     -           10    5    0 
+mark      987236624  2  2 BA  -     -     -            5    5   10 Jd 4h
+mark      987236625  2  1 Bf  -     -     -           10    5    0 
+mark      987236630  2  2 BA  -     -     -            5    5    0 3d 9s
+mark      987236642  2  1 Brc kc    kf    -         1000   40    0 
+mark      987236680  3  2 Bf  -     -     -          960   10    0 
+mark      987236691  3  1 Bc  k     kf    -          950   10    0 
+mark      987236712  3  3 f   -     -     -          940    0    0 
+mark      987236717  3  2 Bk  b     kf    -          940   20    0 
+mark      987236739  3  1 Bf  -     -     -          920    5    0 
+mark      987236758  3  3 f   -     -     -          915    0    0 
+mark      987236764  3  2 Bc  f     -     -          915   20    0 
+mark      987236781  3  1 Bc  kf    -     -          895   10    0 
+mark      987236798  3  3 f   -     -     -          885    0    0 
+mark      987236822  3  2 Bf  -     -     -          885   10    0 
+mark      987236831  3  1 Br  -     -     -          875   20   30 
+mark      987236840  3  3 c   c     b     c          885   60  130 Qh 4h
+mark      987236874  3  2 Bf  -     -     -          955   10    0 
+mark      987236900  3  1 Bf  -     -     -          945    5    0 
+mark      987236915  3  3 f   -     -     -          940    0    0 
+mark      987236934  3  2 Bk  k     b     -          940   30   45 
+mark      987236955  3  1 Bf  -     -     -          955    5    0 
+mark      987236961  3  3 r   bc    f     -          950   40    0 
+mark      987236989  3  2 Bk  b     -     -          910   20   35 
+mark      987237005  3  1 Bc  kc    kr    b          925   80  160 2s 3s
+mark      987237036  3  3 f   -     -     -         1005    0    0 
+mark      987237043  3  2 Br  b     b     kc        1005   70    0 Jc Js
+mark      987237071  3  1 Br  -     -     -          935   20   30 
+mark      987237083  3  3 c   f     -     -          945   10    0 
+mark      987237093  3  2 Bc  c     c     f          935   50    0 
+mark      987237122  3  1 Br  -     -     -          885   20   30 
+mark      987237129  3  3 f   -     -     -          895    0    0 
+mark      987237152  3  2 B   -     -     -          895   10   15 
+mark      987237157  3  1 Bc  b     bc    kc         900   80    0 Qs 9d
+mark      987237186  3  3 f   -     -     -          820    0    0 
+mark      987237219  3  2 Bc  f     -     -          820   20    0 
+mark      987237250  3  1 Bc  k     b     -          800   30   40 
+mark      987237270  3  3 f   -     -     -          810    0    0 
+mark      987237273  3  2 Bk  kf    -     -          810   10    0 
+mark      987237290  3  1 Bc  kf    -     -          800   20    0 
+mark      987237309  3  3 f   -     -     -          780    0    0 
+mark      987237322  3  2 Bk  c     r     bf         780   80    0 
+mark      987237371  3  1 Bc  kf    -     -          700   10    0 
+mark      987237393  3  3 c   f     -     -          690   10    0 
+mark      987237418  3  2 Bk  k     f     -          680   10    0 
+mark      987237440  3  1 Bf  -     -     -          670    5    0 
+mark      987237444  3  3 c   c     c     c          665   60    0 2s 7s
+mark      987237472  3  2 B   -     -     -          605   10   15 
+mark      987237480  3  1 Br  -     -     -          610   20   30 
+mark      987237487  3  3 f   -     -     -          620    0    0 
+mark      987237493  3  2 Bk  b     -     -          620   20   35 
+mark      987237507  3  1 Bc  kf    -     -          635   10    0 
+mark      987237520  3  3 f   -     -     -          625    0    0 
+mark      987237531  3  2 Bk  b     br    b          625  100    0 6h As
+mark      987237558  3  1 Br  -     -     -          525   20   30 
+mark      987237568  3  3 r   -     -     -          535   20   35 
+mark      987237576  3  2 Bf  -     -     -          550   10    0 
+mark      987237583  3  1 Bf  -     -     -          540    5    0 
+mark      987237590  3  3 r   -     -     -          535   20   35 
+mark      987237599  3  2 B   -     -     -          550   10   15 
+mark      987237604  3  1 Br  -     -     -          555   20   30 
+mark      987237611  3  3 r   b     -     -          565   30   55 
+mark      987237628  3  2 B   -     -     -          590   10   15 
+mark      987237635  3  1 Bc  b     bc    kf         595   60    0 
+mark      987237658  3  3 c   b     b     -          535   40   70 
+mark      987237684  3  2 Bk  k     f     -          565   10    0 
+mark      987237716  3  1 Br  -     -     -          555   20   30 
+mark      987237738  3  3 r   b     b     bc         565   90    0 9h Js
+mark      987237777  3  2 B   -     -     -          475   10   15 
+mark      987237784  3  1 Bc  kf    -     -          480   10    0 
+mark      987237830  3  3 c   f     -     -          470   10    0 
+mark      987237854  3  2 Bc  c     bc    kf         460   70    0 
+mark      987237895  3  1 Bc  b     b     bf         390   60    0 
+mark      987237944  3  3 r   c     f     -          330   30    0 
+mark      987237964  3  2 Bk  b     -     -          300   20   35 
+mark      987237982  3  1 Bf  -     -     -          315    5    0 
+mark      987237997  3  3 r   -     -     -          310   20   35 
+mark      987238004  3  2 Bf  -     -     -          325   10    0 
+mark      987238012  3  1 Br  -     -     -          315   20   30 
+mark      987238020  3  3 r   b     b     b          325   70    0 2s 2c
+mark      987238052  3  2 B   -     -     -          255   10   15 
+mark      987238063  3  1 Br  b     b     b          260   70  140 Kh 7d
+mark      987238081  3  3 f   -     -     -          330    0    0 
+mark      987238101  3  2 Bk  b     bc    kr         330  100    0 3h 7s
+mark      987238129  3  1 Bc  k     kf    -          230   10    0 
+mark      987238170  3  3 f   -     -     -          220    0    0 
+mark      987238197  3  2 Bc  c     c     f          220   50    0 
+mark      987238223  3  1 Bc  kc    kr    -          170   70  150 
+mark      987238275  3  3 c   b     bf    -          250   40    0 
+mark      987238300  3  2 Bk  kf    -     -          210   10    0 
+mark      987238316  3  1 Bc  k     b     -          200   30   40 
+mark      987238332  3  3 r   r     k     c          210   60  130 As Ks
+mark      987238358  3  2 Bf  -     -     -          280   10    0 
+mark      987238371  3  1 Bc  kf    -     -          270   10    0 
+mark      987238385  3  3 f   -     -     -          260    0    0 
+mark      987238391  3  2 Bk  bc    kr    bc         260  110  230 Td Ah
+mark      987238427  3  1 Br  -     -     -          380   20   30 
+mark      987238437  3  3 r   b     k     f          390   30    0 
+mark      987238471  2  2 B   -     -     -          360   10   15 
+mark      987253693  4  1 BKQ -     -     -          365    5    0 
+mark      987464067  3  2 Brc brc   brc   bf         995  180    0 
+mark      987464113  2  1 Brr brc   brc   bf         815  180    0 
+mark      987464152  2  2 Brc rr    rr    rf         635  200    0 
+mark      987464191  2  1 Brr brc   brc   bf         435  180    0 
+mark      987464238  2  2 Brc rr    rr    rf         255  200    0 
+mark      987464282  2  1 Brr bf    -     -           55   50    0 
+mark      987464302  2  2 BA  -     -     -            5    5   10 Ks 9d
+mark      987464303  2  1 Bf  -     -     -           10    5    0 
+mark      987464310  2  2 BA  -     -     -            5    5    0 7c Ad
+mark      987464323  2  1 Brr brc   brc   bf        1000  180    0 
+mark      987464365  2  2 Brc rr    rr    rf         820  200    0 
+mark      987464400  2  1 Brr brc   brc   brc        620  240    0 8c 2s
+mark      987464453  2  2 Brc rr    rr    rr         380  240    0 Ah 8h
+mark      987464499  2  1 Brr brc   brA   -          140  140  280 5d 2c
+mark      987464542  2  2 Brc rc    rr    rr         280  230    0 4h Qc
+mark      987464596  2  1 Brf -     -     -           50   20    0 
+mark      987464609  2  2 Bc  f     -     -           30   20    0 
+mark      987464623  2  1 Bf  -     -     -           10    5    0 
+mark      987464626  2  2 BA  -     -     -            5    5    0 Kc Kh
+mark      987464644  2  1 Brr brc   brc   bf        1000  180    0 
+mark      987464678  2  2 Brc rr    rr    rr         820  240    0 8h Ah
+mark      987464723  2  1 Brr brc   brc   bf         580  180    0 
+mark      987464759  2  2 Brc rr    rr    rr         400  240    0 9d 7d
+mark      987464803  2  1 Bc  b     b     bc         160   80    0 Ks 9s
+mark      987464839  3  2 Bk  krf   -     -           80   30    0 
+mark      987464901  3  1 Br  b     -     -           50   30   50 
+mark      987464920  3  3 f   -     -     -           70    0    0 
+mark      987464926  3  2 Bk  k     f     -           70   10    0 
+mark      987464954  2  1 Bcc kf    -     -           60   20    0 
+mark      987464970  2  2 Bk  f     -     -           40   10    0 
+mark      987464982  2  1 Bf  -     -     -           30    5    0 
+mark      987464989  2  2 BrA -     -     -           25   25    0 2c Jd

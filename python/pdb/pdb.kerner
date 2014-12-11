@@ -1,0 +1,411 @@
+kerner    986882787 10  1 Bc  k     k     kf        1002   10    0 
+kerner    986882854 10 10 f   -     -     -          992    0    0 
+kerner    986882945 10  9 f   -     -     -          992    0    0 
+kerner    986882993 10  8 c   c     b     b          992   60  150 Kh 5h
+kerner    986883101  9  6 c   kf    -     -         1082   10    0 
+kerner    986883147 10  6 cc  kf    -     -         1072   20    0 
+kerner    986883207 10  5 f   -     -     -         1052    0    0 
+kerner    986883302 10  4 f   -     -     -         1052    0    0 
+kerner    986883347 10  3 f   -     -     -         1052    0    0 
+kerner    986883403 10  2 Bc  kf    -     -         1052   20    0 
+kerner    986883479 10  1 Bc  kf    -     -         1032   10    0 
+kerner    986883595 10 10 c   k     k     k         1022   10    0 3c Ah
+kerner    986883685 10  9 c   c     c     f         1012   50    0 
+kerner    986883766 10  8 c   k     f     -          962   10    0 
+kerner    986883851 10  7 f   -     -     -          952    0    0 
+kerner    986883909 10  6 f   -     -     -          952    0    0 
+kerner    986884036 10  5 f   -     -     -          952    0    0 
+kerner    986884127 10  4 cc  kc    kc    kf         952   50    0 
+kerner    986884183 10  3 cc  kc    kc    kf         902   50    0 
+kerner    986884234 10  2 Bf  -     -     -          852   10    0 
+kerner    986884268 10  1 Bc  kf    -     -          842   20    0 
+kerner    986884326 10 10 f   -     -     -          822    0    0 
+kerner    986884408 10  9 f   -     -     -          822    0    0 
+kerner    986884464 10  8 cc  c     c     r          822   90  270 5c 6d
+kerner    986884518  9  6 c   kf    -     -         1002   10    0 
+kerner    986884582 10  6 f   -     -     -          992    0    0 
+kerner    986884650 10  5 f   -     -     -          992    0    0 
+kerner    986884706 10  4 c   kc    kc    kc         992   60    0 Qc Qs
+kerner    986884785 10  3 f   -     -     -          932    0    0 
+kerner    986884833 10  2 Bk  kf    -     -          932   10    0 
+kerner    986884867 10  1 Bcc kf    -     -          922   20    0 
+kerner    986884935 10 10 f   -     -     -          902    0    0 
+kerner    986885018 10  9 f   -     -     -          902    0    0 
+kerner    986885074 10  8 c   c     f     -          902   20    0 
+kerner    986885125  9  7 f   -     -     -          882    0    0 
+kerner    986885177  8  5 f   -     -     -          882    0    0 
+kerner    986885217  8  4 f   -     -     -          882    0    0 
+kerner    986885258  8  3 f   -     -     -          882    0    0 
+kerner    986885286  9  2 Bk  kc    kf    -          882   20    0 
+kerner    986885315  9  1 Bc  kf    -     -          862   10    0 
+kerner    986885350  9  9 c   c     f     -          852   20    0 
+kerner    986885394  9  8 rc  kc    kc    k          832   60  205 Ks Kh
+kerner    986885447  9  7 c   c     f     -          977   20    0 
+kerner    986885496  9  6 c   k     c     f          957   30    0 
+kerner    986885536  9  5 c   k     f     -          927   10    0 
+kerner    986885567  9  4 f   -     -     -          917    0    0 
+kerner    986885582  9  3 f   -     -     -          917    0    0 
+kerner    986885589  9  2 Bf  -     -     -          917   10    0 
+kerner    986885607  9  1 Bc  kc    kc    kf         907   40    0 
+kerner    986885647  9  9 f   -     -     -          867    0    0 
+kerner    986885689  9  8 f   -     -     -          867    0    0 
+kerner    986885731  9  7 c   kc    kc    k          867   40  135 Qd As
+kerner    986885794  9  6 f   -     -     -          962    0    0 
+kerner    986885852  9  5 cc  kc    kc    kc         962   70    0 Qs Ts
+kerner    986885886  9  4 f   -     -     -          892    0    0 
+kerner    986885921  8  2 Bk  kcc   kc    kf         892   70    0 
+kerner    986885967  8  1 Bf  -     -     -          822    5    0 
+kerner    986886017  8  8 c   f     -     -          817   20    0 
+kerner    986886061  8  7 f   -     -     -          797    0    0 
+kerner    986886087  8  6 c   k     k     k          797   10   16 Ad Js
+kerner    986886131  8  5 r   k     c     k          803   60    0 Ks As
+kerner    986886176  8  4 f   -     -     -          743    0    0 
+kerner    986886201  8  3 f   -     -     -          743    0    0 
+kerner    986886234  8  2 Bc  kf    -     -          743   20    0 
+kerner    986886275  9  1 Bc  k     k     bc         723   50    0 Kc Ad
+kerner    986886316  9  9 c   c     k     k          673   20    0 Td 9h
+kerner    986886409  7  6 f   -     -     -          653    0    0 
+kerner    986886440  7  6 f   -     -     -          653    0    0 
+kerner    986886485  7  5 c   k     k     f          653   10    0 
+kerner    986886559  6  4 f   -     -     -          643    0    0 
+kerner    986886600  7  3 cc  kf    -     -          643   20    0 
+kerner    986886645  7  2 Bk  kf    -     -          623   10    0 
+kerner    986886695  7  1 Bf  -     -     -          613    5    0 
+kerner    986886713  7  7 f   -     -     -          608    0    0 
+kerner    986886750  7  6 f   -     -     -          608    0    0 
+kerner    986886774  7  5 f   -     -     -          608    0    0 
+kerner    986886832  7  4 cc  k     k     b          608   40   85 
+kerner    986886880  7  3 f   -     -     -          653    0    0 
+kerner    986886918  7  2 Bc  kcc   kc    kf         653   70    0 
+kerner    986886961  7  1 Bc  kc    k     br         583   80  160 9h 8d
+kerner    986886993  7  7 c   k     k     c          663   50    0 3d 9d
+kerner    986887026  7  6 f   -     -     -          613    0    0 
+kerner    986887069  7  5 fQ  -     -     -          613    0    0 
+kerner    986968167  8  1 Bf  -     -     -          613    5    0 
+kerner    986968205  8  8 f   -     -     -          608    0    0 
+kerner    986968242  7  6 f   -     -     -          608    0    0 
+kerner    986968295  7  5 f   -     -     -          608    0    0 
+kerner    986968337  7  4 c   k     c     f          608   30    0 
+kerner    986968364  7  3 f   -     -     -          578    0    0 
+kerner    986968400  7  2 Bk  kc    kc    kf         578   40    0 
+kerner    986968436  7  1 Bc  kf    -     -          538   10    0 
+kerner    986968495  7  7 cc  c     r     b          528   90  275 Ks Ac
+kerner    986968562  7  6 f   -     -     -          713    0    0 
+kerner    986968603  7  5 f   -     -     -          713    0    0 
+kerner    986968639  7  4 f   -     -     -          713    0    0 
+kerner    986968678  7  3 f   -     -     -          713    0    0 
+kerner    986968707  7  2 B   -     -     -          713   10   15 
+kerner    986968728  7  1 Bc  kf    -     -          718   20    0 
+kerner    986968791  9  9 c   c     rc    c          698  120  365 Kd 9c
+kerner    986968865  9  8 c   k     f     -          943   10    0 
+kerner    986968920  9  7 f   -     -     -          933    0    0 
+kerner    986968978  9  6 f   -     -     -          933    0    0 
+kerner    986969054  9  5 f   -     -     -          933    0    0 
+kerner    986969119  9  4 r   k     b     -          933   40   75 
+kerner    986969200  8  3 c   k     c     k          968   30   80 4h 4d
+kerner    986969283  6  1 Bf  -     -     -         1018   10    0 
+kerner    986969313  7  1 Bc  kf    -     -         1008   10    0 
+kerner    986969338  6  6 f   -     -     -          998    0    0 
+kerner    986969367  6  5 c   k     c     k          998   30    0 9s 8d
+kerner    986969396  6  4 c   k     f     -          968   10    0 
+kerner    986969429  7  3 c   kc    kc    kc         958   80  255 Ad Qd
+kerner    986969482  7  2 Bk  kf    -     -         1133   10    0 
+kerner    986969525  7  1 Bc  kf    -     -         1123   10    0 
+kerner    986969614  7  7 f   -     -     -         1113    0    0 
+kerner    986969679  6  5 f   -     -     -         1113    0    0 
+kerner    986969687  5  4 c   k     f     -         1113   10    0 
+kerner    986969739  5  3 f   -     -     -         1103    0    0 
+kerner    986969769  5  2 Bc  kc    kf    -         1103   30    0 
+kerner    986969821  5  1 Bc  kc    k     k         1073   20   70 8h 7d
+kerner    986969871  6  6 f   -     -     -         1123    0    0 
+kerner    986969894  6  5 f   -     -     -         1123    0    0 
+kerner    986969930  6  4 f   -     -     -         1123    0    0 
+kerner    986969949  6  3 f   -     -     -         1123    0    0 
+kerner    986969997  6  2 Bk  kf    -     -         1123   10    0 
+kerner    986970020  5  1 Bc  br    br    brc       1113  180  185 Ac 5c
+kerner    986970060  5  5 f   -     -     -         1118    0    0 
+kerner    986970104  5  4 c   k     k     k         1118   10    0 9s 2s
+kerner    986970158  5  3 c   b     -     -         1108   20   45 
+kerner    986970180  5  2 Bk  k     f     -         1133   10    0 
+kerner    986970214  5  1 Bc  kc    b     b         1123   70  170 4c 7c
+kerner    986970247  5  5 f   -     -     -         1223    0    0 
+kerner    986970277  6  4 c   c     r     b         1223   80  185 Ts 8s
+kerner    986970309  6  3 f   -     -     -         1328    0    0 
+kerner    986970352  6  2 Bk  k     k     kf        1328   10    0 
+kerner    986970397  6  1 Bf  -     -     -         1318    5    0 
+kerner    986970441  7  7 c   r     b     b         1313   70  170 4s 9s
+kerner    986970497  5  4 f   -     -     -         1413    0    0 
+kerner    986970539  5  4 f   -     -     -         1413    0    0 
+kerner    986970573  6  3 c   kc    k     kc        1413   40    0 7d 7c
+kerner    986970601  6  2 Bk  k     kc    k         1373   30    0 Jh 5d
+kerner    986970635  6  1 Bc  b     b     bc        1343  100    0 2d 8d
+kerner    986970680  6  6 c   k     k     b         1243   30   65 
+kerner    986970730  6  5 f   -     -     -         1278    0    0 
+kerner    986970756  6  4 f   -     -     -         1278    0    0 
+kerner    986970790  6  3 f   -     -     -         1278    0    0 
+kerner    986970836  7  2 Bk  kf    -     -         1278   10    0 
+kerner    986970886  7  1 Bc  kf    -     -         1268   20    0 
+kerner    986970943  7  7 f   -     -     -         1248    0    0 
+kerner    986971041  7  6 c   k     k     k         1248   10    0 8s 9c
+kerner    986971107  7  5 f   -     -     -         1238    0    0 
+kerner    986971154  7  4 f   -     -     -         1238    0    0 
+kerner    986971201  6  3 f   -     -     -         1238    0    0 
+kerner    986971224  6  2 Bk  k     k     b         1238   30   50 
+kerner    986971275  4  1 Bf  -     -     -         1258    5    0 
+kerner    986971293  4  4 fQ  -     -     -         1253    0    0 
+kerner    987400629  7  5 r   b     b     b         1683   70  185 Kh Kc
+kerner    987400678  7  4 c   k     k     k         1798   10    0 3h Th
+kerner    987400713  7  3 f   -     -     -         1788    0    0 
+kerner    987400739  7  2 Bk  kf    -     -         1788   10    0 
+kerner    987400763  6  1 Bf  -     -     -         1778    5    0 
+kerner    987400776  6  6 c   c     k     k         1773   20   45 Ah 9h
+kerner    987400798  6  5 f   -     -     -         1798    0    0 
+kerner    987400843  6  4 cc  kf    -     -         1798   20    0 
+kerner    987400876  6  3 f   -     -     -         1778    0    0 
+kerner    987400934  6  2 Bf  -     -     -         1778   10    0 
+kerner    987400980  6  1 Bc  k     b     kf        1768   40    0 
+kerner    987401019  6  6 c   r     b     b         1728   70  180 Jc 3c
+kerner    987401054  6  5 f   -     -     -         1838    0    0 
+kerner    987401077  6  4 c   k     f     -         1838   10    0 
+kerner    987401148  6  3 c   kf    -     -         1828   10    0 
+kerner    987401202  6  2 Bk  f     -     -         1818   10    0 
+kerner    987401239  6  1 Bf  -     -     -         1808    5    0 
+kerner    987401263  6  6 c   f     -     -         1803   10    0 
+kerner    987401283  6  5 f   -     -     -         1793    0    0 
+kerner    987401320  7  5 c   kc    k     k         1793   20   65 2c As
+kerner    987401365  7  4 c   k     f     -         1838   10    0 
+kerner    987401409  7  3 c   k     k     k         1828   10   30 8d 8s
+kerner    987401437  7  2 Bc  f     -     -         1848   20    0 
+kerner    987401501  7  1 Bc  kc    kf    -         1828   20    0 
+kerner    987401532  7  7 c   k     f     -         1808   10    0 
+kerner    987401563  7  6 c   c     f     -         1798   30    0 
+kerner    987401598  7  5 c   bc    c     f         1768   60    0 
+kerner    987401653  7  4 c   c     f     -         1708   30    0 
+kerner    987401689  7  3 f   -     -     -         1678    0    0 
+kerner    987401696  7  2 Bk  k     b     -         1678   30   40 
+kerner    987401718  7  1 Bf  -     -     -         1688    5    0 
+kerner    987401737  7  7 f   -     -     -         1683    0    0 
+kerner    987401748  7  6 f   -     -     -         1683    0    0 
+kerner    987401769  7  5 f   -     -     -         1683    0    0 
+kerner    987401801  7  4 c   b     -     -         1683   20   35 
+kerner    987401835  7  3 f   -     -     -         1698    0    0 
+kerner    987401851  7  2 Bk  kf    -     -         1698   10    0 
+kerner    987401877  7  1 Bf  -     -     -         1688    5    0 
+kerner    987401901  7  7 c   f     -     -         1683   20    0 
+kerner    987401958  7  6 cc  f     -     -         1663   20    0 
+kerner    987401980  6  4 c   c     c     c         1643   60    0 Tc 9c
+kerner    987402013  6  3 f   -     -     -         1583    0    0 
+kerner    987402039  6  2 Bf  -     -     -         1583   10    0 
+kerner    987402094  6  1 Bf  -     -     -         1573    5    0 
+kerner    987402140  5  5 f   -     -     -         1568    0    0 
+kerner    987402173  5  4 f   -     -     -         1568    0    0 
+kerner    987402189  5  3 c   k     k     k         1568   10    0 2d 6d
+kerner    987402210  5  2 Bc  kc    k     k         1558   30    0 Kh 3h
+kerner    987402231  5  1 Bc  kf    -     -         1528   10    0 
+kerner    987402256  5  5 c   f     -     -         1518   20    0 
+kerner    987402295  6  5 f   -     -     -         1498    0    0 
+kerner    987402317  6  4 f   -     -     -         1498    0    0 
+kerner    987402343  6  3 f   -     -     -         1498    0    0 
+kerner    987402371  6  2 Bk  k     k     k         1498   10   25 6c 8s
+kerner    987402398  6  1 Bc  kf    -     -         1513   20    0 
+kerner    987402439  6  6 c   f     -     -         1493   10    0 
+kerner    987402478  5  4 c   f     -     -         1483   10    0 
+kerner    987402520  5  3 cc  f     -     -         1473   20    0 
+kerner    987402584  6  2 Bf  -     -     -         1453   10    0 
+kerner    987402617  5  1 Bc  b     k     k         1443   20   60 Jh Tc
+kerner    987402658  5  5 f   -     -     -         1483    0    0 
+kerner    987402691  6  5 c   kc    kc    f         1483   70    0 
+kerner    987402767  6  4 f   -     -     -         1413    0    0 
+kerner    987402827  6  3 f   -     -     -         1413    0    0 
+kerner    987402864  6  2 Bf  -     -     -         1413   10    0 
+kerner    987402907  6  1 Bc  k     kf    -         1403   10    0 
+kerner    987402953  6  6 f   -     -     -         1393    0    0 
+kerner    987403002  6  5 f   -     -     -         1393    0    0 
+kerner    987403080  5  3 f   -     -     -         1393    0    0 
+kerner    987403124  5  2 Bf  -     -     -         1393   10    0 
+kerner    987403155  5  1 Bc  kf    -     -         1383   20    0 
+kerner    987403202  5  5 f   -     -     -         1363    0    0 
+kerner    987403258  6  5 c   f     -     -         1363   10    0 
+kerner    987403350  7  4 f   -     -     -         1353    0    0 
+kerner    987403424  7  3 c   k     f     -         1353   10    0 
+kerner    987403490  8  2 Bk  kf    -     -         1343   10    0 
+kerner    987403553  8  1 Bf  -     -     -         1333    5    0 
+kerner    987403617  7  7 c   k     k     f         1328   10    0 
+kerner    987403665  6  6 c   k     f     -         1318   10    0 
+kerner    987403705  6  5 f   -     -     -         1308    0    0 
+kerner    987403768  6  4 f   -     -     -         1308    0    0 
+kerner    987403812  6  3 cc  kc    kf    -         1308   30    0 
+kerner    987403839  5  2 Bc  f     -     -         1278   20    0 
+kerner    987403874  5  1 Bf  -     -     -         1258    5    0 
+kerner    987403896  5  5 c   c     c     k         1253   40    0 Kc 6c
+kerner    987403956  6  5 c   f     -     -         1213   20    0 
+kerner    987404026  6  4 f   -     -     -         1193    0    0 
+kerner    987404070  6  3 c   kf    -     -         1193   10    0 
+kerner    987404126  6  2 Bk  k     k     b         1183   30   85 9c Td
+kerner    987404189  5  1 Bf  -     -     -         1238    5    0 
+kerner    987404230  5  5 cc  c     f     -         1233   30    0 
+kerner    987404284  5  4 f   -     -     -         1203    0    0 
+kerner    987404308  5  3 cc  k     k     k         1203   20   50 Ah 8s
+kerner    987404347  5  2 Bk  bc    k     bc        1233   80  195 Td Ad
+kerner    987404386  5  1 Bf  -     -     -         1348    5    0 
+kerner    987404421  5  5 f   -     -     -         1343    0    0 
+kerner    987404476  5  4 f   -     -     -         1343    0    0 
+kerner    987404529  5  3 f   -     -     -         1343    0    0 
+kerner    987404565  5  2 Bk  b     br    b         1343  100  205 6d 6s
+kerner    987404597  5  1 Bc  kf    -     -         1448   20    0 
+kerner    987404650  5  5 c   c     f     -         1428   20    0 
+kerner    987404696  5  4 f   -     -     -         1408    0    0 
+kerner    987404758  5  3 f   -     -     -         1408    0    0 
+kerner    987404769  4  2 Bk  k     f     -         1408   10    0 
+kerner    987404806  4  1 Bc  kc    kc    kf        1398   40    0 
+kerner    987404837  4  4 c   c     r     -         1358   60  110 
+kerner    987404863  4  3 c   k     kc    kc        1408   50    0 4h 4s
+kerner    987404909  4  2 Br  b     -     -         1358   30   70 
+kerner    987404934  4  1 Bf  -     -     -         1398    5    0 
+kerner    987404958  4  4 c   c     f     -         1393   30    0 
+kerner    987404997  4  3 f   -     -     -         1363    0    0 
+kerner    987405037  4  2 Bk  kc    k     b         1363   40   80 
+kerner    987405079  4  1 Bf  -     -     -         1403    5    0 
+kerner    987405098  4  4 f   -     -     -         1398    0    0 
+kerner    987405122  5  4 c   kc    kc    kc        1398   60  150 Tc Td
+kerner    987405173  5  3 f   -     -     -         1488    0    0 
+kerner    987405247  6  2 Bk  kc    kf    -         1488   20    0 
+kerner    987405296  5  1 Bf  -     -     -         1468    5    0 
+kerner    987405348  5  5 c   k     b     -         1463   30   50 
+kerner    987405386  5  4 f   -     -     -         1483    0    0 
+kerner    987405439  8  4 cc  f     -     -         1483   30    0 
+kerner    987405506  8  3 f   -     -     -         1453    0    0 
+kerner    987405566  8  2 Bc  kf    -     -         1453   20    0 
+kerner    987405612  8  1 Bf  -     -     -         1433    5    0 
+kerner    987405654  9  9 cc  c     c     c         1428   90    0 Ah Ac
+kerner    987405733  9  8 f   -     -     -         1338    0    0 
+kerner    987405848  9  7 c   f     -     -         1338   10    0 
+kerner    987405913  9  6 f   -     -     -         1328    0    0 
+kerner    987405992  9  4 c   k     kc    kc        1328   50  130 9d 9s
+kerner    987406045  9  4 f   -     -     -         1408    0    0 
+kerner    987406099  9  3 fQ  -     -     -         1408    0    0 
+kerner    987660364  8  3 c   kf    -     -         1408   10    0 
+kerner    987660464  8  2 Bk  k     kf    -         1398   10    0 
+kerner    987660490  8  1 Bf  -     -     -         1388    5    0 
+kerner    987660549  9  9 c   c     k     f         1383   20    0 
+kerner    987660594  9  8 f   -     -     -         1363    0    0 
+kerner    987660662  9  7 cc  f     -     -         1363   20    0 
+kerner    987660774  9  6 c   k     f     -         1343   10    0 
+kerner    987660828  9  5 c   k     kf    -         1333   10    0 
+kerner    987660953  9  4 cc  kc    kc    kf        1323   50    0 
+kerner    987660998  9  3 cc  c     rc    c         1273  110  470 Qs 2s
+kerner    987661078  8  2 Bk  k     k     k         1633   10   25 5s As
+kerner    987661182 10  1 Bcc kf    -     -         1648   20    0 
+kerner    987661308  8  8 cc  c     rc    c         1628  140    0 Jd 7d
+kerner    987661381  8  7 f   -     -     -         1488    0    0 
+kerner    987661421  8  6 c   k     r     b         1488   70  210 
+kerner    987661473  8  5 f   -     -     -         1628    0    0 
+kerner    987661502  8  4 c   k     b     -         1628   30   65 
+kerner    987661528  8  3 f   -     -     -         1663    0    0 
+kerner    987661561  8  2 Bk  ccc   f     -         1663   50    0 
+kerner    987661593  7  1 Bc  k     kf    -         1613   10    0 
+kerner    987661622  7  7 f   -     -     -         1603    0    0 
+kerner    987661672  7  6 f   -     -     -         1603    0    0 
+kerner    987661690  7  5 f   -     -     -         1603    0    0 
+kerner    987661739  7  4 f   -     -     -         1603    0    0 
+kerner    987661772  7  3 f   -     -     -         1603    0    0 
+kerner    987661821  7  2 Bk  krr   b     kc        1603   90    0 7c 9h
+kerner    987661850  7  1 Bf  -     -     -         1513    5    0 
+kerner    987661879  7  7 f   -     -     -         1508    0    0 
+kerner    987661918  7  6 f   -     -     -         1508    0    0 
+kerner    987661955  7  5 c   kf    -     -         1508   10    0 
+kerner    987661989  7  4 f   -     -     -         1498    0    0 
+kerner    987662034  7  3 f   -     -     -         1498    0    0 
+kerner    987662056  8  2 Bk  k     kc    cc        1498   70    0 Kd 6c
+kerner    987662118  9  1 Bc  kc    kc    k         1428   50  150 6c Qc
+kerner    987662158 10 10 c   f     -     -         1528   20    0 
+kerner    987662196 10  9 f   -     -     -         1508    0    0 
+kerner    987662226 10  8 f   -     -     -         1508    0    0 
+kerner    987662270 10  7 f   -     -     -         1508    0    0 
+kerner    987662363 10  6 f   -     -     -         1508    0    0 
+kerner    987662442 10  5 f   -     -     -         1508    0    0 
+kerner    987662496 10  4 f   -     -     -         1508    0    0 
+kerner    987662561  9  3 c   kc    kf    -         1508   20    0 
+kerner    987662602  9  2 Bk  k     kf    -         1488   10    0 
+kerner    987662641  9  1 Bc  kc    k     kf        1478   20    0 
+kerner    987662719  9  9 c   f     -     -         1458   10    0 
+kerner    987662773 10  9 c   f     -     -         1448   10    0 
+kerner    987662823  9  7 f   -     -     -         1438    0    0 
+kerner    987662894  9  6 cc  k     kf    -         1438   20    0 
+kerner    987662971  8  6 f   -     -     -         1418    0    0 
+kerner    987663026  9  5 f   -     -     -         1418    0    0 
+kerner    987663073  9  4 c   k     b     k         1418   30  110 Kc Td
+kerner    987663108 10  3 cc  kc    kf    -         1498   30    0 
+kerner    987663188 10  2 Bk  k     k     k         1468   10    0 9d Td
+kerner    987663215 10  1 Bc  k     kf    -         1458   10    0 
+kerner    987663259 10 10 c   k     k     k         1448   10    0 Ts 6c
+kerner    987663325 10  9 c   k     k     k         1438   10   45 8d Ah
+kerner    987663353  9  8 f   -     -     -         1473    0    0 
+kerner    987663399  9  7 f   -     -     -         1473    0    0 
+kerner    987663429  8  5 rc  cc    cc    f         1473   90    0 
+kerner    987663480  9  4 cc  kf    -     -         1383   30    0 
+kerner    987663529  9  3 f   -     -     -         1353    0    0 
+kerner    987663560  8  2 Bk  kc    kc    kc        1353   60    0 7s Kh
+kerner    987663589  8  1 Bcc kc    k     kf        1293   30    0 
+kerner    987663626  8  8 f   -     -     -         1263    0    0 
+kerner    987663662  8  7 c   c     c     f         1263   40    0 
+kerner    987663712  8  6 c   c     r     b         1223   80  290 4h 7h
+kerner    987663755  8  5 f   -     -     -         1433    0    0 
+kerner    987663800  7  3 f   -     -     -         1433    0    0 
+kerner    987663842  7  2 Bk  b     b     b         1433   60  125 Ah 4d
+kerner    987663862  7  1 Bc  kf    -     -         1498   20    0 
+kerner    987663896  8  8 f   -     -     -         1478    0    0 
+kerner    987663921  8  7 c   k     b     b         1478   50  120 Kd Jh
+kerner    987663948  8  6 r   b     b     -         1548   50  106 Ad As
+kerner    987663985  7  5 c   f     -     -         1604   10    0 
+kerner    987664070  9  4 f   -     -     -         1594    0    0 
+kerner    987664112  9  3 c   c     b     b         1594   60  205 Ac Ts
+kerner    987664168  9  2 Bcc kc    kc    kf        1739   70    0 
+kerner    987664226  9  1 Bf  -     -     -         1669    5    0 
+kerner    987664303  9  9 cc  f     -     -         1664   20    0 
+kerner    987664427  8  8 f   -     -     -         1644    0    0 
+kerner    987664461  8  7 c   k     b     k         1644   30  110 9c 9h
+kerner    987664561  7  5 c   f     -     -         1724   20    0 
+kerner    987664573  7  4 f   -     -     -         1704    0    0 
+kerner    987664617  7  3 cc  k     k     k         1704   20    0 Ts Ks
+kerner    987664646  7  2 Bk  k     k     k         1684   10   35 2s 2h
+kerner    987664674  7  1 Bf  -     -     -         1709    5    0 
+kerner    987664703  8  7 f   -     -     -         1704    0    0 
+kerner    987664744  8  6 c   c     f     -         1704   20    0 
+kerner    987664776  8  5 cc  kf    -     -         1684   20    0 
+kerner    987664848  8  4 cc  kf    -     -         1664   20    0 
+kerner    987664886  9  3 f   -     -     -         1644    0    0 
+kerner    987664919  8  2 Bk  kf    -     -         1644   10    0 
+kerner    987664959  9  1 Bf  -     -     -         1634    5    0 
+kerner    987665010  9  9 c   c     c     r         1629   90  225 
+kerner    987665049  8  7 c   c     c     f         1764   40    0 
+kerner    987665073  7  5 f   -     -     -         1724    0    0 
+kerner    987665116  7  4 cc  kf    -     -         1724   20    0 
+kerner    987665165  6  2 Bk  kc    kc    kc        1704   60  165 Qh Qd
+kerner    987665191  6  1 Bf  -     -     -         1809    5    0 
+kerner    987665217  6  6 c   c     f     -         1804   20    0 
+kerner    987665259  7  6 cc  c     c     c         1784   80  125 Ac 4s
+kerner    987665292  7  5 f   -     -     -         1829    0    0 
+kerner    987665340  7  4 f   -     -     -         1829    0    0 
+kerner    987665408  8  3 c   f     -     -         1829   10    0 
+kerner    987665459  8  2 Bk  kc    kf    -         1819   20    0 
+kerner    987665484  8  1 Bf  -     -     -         1799    5    0 
+kerner    987665556  8  8 c   k     b     k         1794   30    0 9h Ah
+kerner    987665603  8  7 f   -     -     -         1764    0    0 
+kerner    987665641  8  6 c   b     b     b         1764   60  150 2h 7h
+kerner    987665693  8  5 c   f     -     -         1854   10    0 
+kerner    987665747  8  4 c   f     -     -         1844   10    0 
+kerner    987665781  8  3 f   -     -     -         1834    0    0 
+kerner    987665843  8  2 Bk  k     k     kf        1834   10    0 
+kerner    987665864  8  1 Bc  kf    -     -         1824   10    0 
+kerner    987665896  8  8 f   -     -     -         1814    0    0 
+kerner    987665913  9  8 cc  c     k     k         1814   30    0 As Qd
+kerner    987665945  9  7 c   k     f     -         1784   10    0 
+kerner    987665986  8  5 c   kc    kc    bc        1774   80  255 2c Ac
+kerner    987666029  8  4 f   -     -     -         1949    0    0 
+kerner    987666074  7  3 f   -     -     -         1949    0    0 
+kerner    987666113  7  2 Bk  kc    kc    kc        1949   60  225 Kh 6h
+kerner    987666157  8  1 Bf  -     -     -         2114    5    0 
+kerner    987666193  8  8 c   k     k     f         2109   10    0 
+kerner    987666225  8  7 c   c     c     c         2099   60    0 Qd Kc
+kerner    987666250  8  6 fQ  -     -     -         2039    0    0 

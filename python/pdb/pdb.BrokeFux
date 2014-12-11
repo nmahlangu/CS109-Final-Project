@@ -1,0 +1,22 @@
+BrokeFux  986585557 10 10 f   -     -     -         1000    0    0 
+BrokeFux  986585620 10  9 f   -     -     -         1000    0    0 
+BrokeFux  986585686 10  8 f   -     -     -         1000    0    0 
+BrokeFux  986585765 10  7 f   -     -     -         1000    0    0 
+BrokeFux  986585852 10  6 f   -     -     -         1000    0    0 
+BrokeFux  986585904 10  5 f   -     -     -         1000    0    0 
+BrokeFux  986585950 10  4 crc r     rr    rr        1000  220  515 Qd Qh
+BrokeFux  986586042  6  3 f   -     -     -         1295    0    0 
+BrokeFux  986586111  6  2 Bk  k     kf    -         1295   10    0 
+BrokeFux  986586158  6  1 Bf  -     -     -         1285    5    0 
+BrokeFux  986586210  5  5 f   -     -     -         1280    0    0 
+BrokeFux  986586249  5  4 f   -     -     -         1280    0    0 
+BrokeFux  986586293  4  3 f   -     -     -         1280    0    0 
+BrokeFux  986586368  4  2 B   -     -     -         1280   10   15 
+BrokeFux  986586371  4  1 Bf  -     -     -         1285    5    0 
+BrokeFux  986586414  5  5 f   -     -     -         1280    0    0 
+BrokeFux  986586483  6  5 cc  kc    cr    f         1280  110    0 
+BrokeFux  986586554  6  4 c   kf    -     -         1170   10    0 
+BrokeFux  986586638  7  4 rr  brc   brc   br        1160  220  465 
+BrokeFux  986586697  5  2 rr  brc   brc   brc       1405  240  540 Th 8c
+BrokeFux  986586766  3  2 Brc brc   brc   brc       1705  240  485 Kh 7d
+BrokeFux  986586787  5  1 Br  brc   brc   br        1950  220  470 

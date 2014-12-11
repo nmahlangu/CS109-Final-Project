@@ -1,0 +1,136 @@
+Frogger   986161760 10  1 Bc  k     k     kf        1219   10    0 
+Frogger   986161843 10 10 f   -     -     -         1209    0    0 
+Frogger   986161924 10  9 rc  c     c     c         1209   90    0 7h 7d
+Frogger   986161991 10  8 c   f     -     -         1119   10    0 
+Frogger   986162037  9  6 cc  b     bc    kf        1109   70    0 
+Frogger   986162095  8  4 f   -     -     -         1039    0    0 
+Frogger   986162142  8  3 cc  c     f     -         1039   30    0 
+Frogger   986162199  8  2 Bk  kc    k     kf        1009   30    0 
+Frogger   986162288  9  1 Bf  -     -     -          979    5    0 
+Frogger   986162334  9  9 f   -     -     -          974    0    0 
+Frogger   986162375  8  7 f   -     -     -          974    0    0 
+Frogger   986162421  8  6 c   kf    -     -          974   10    0 
+Frogger   986162479  8  5 cc  kc    k     b          964   50    0 As Td
+Frogger   986162567  7  3 f   -     -     -          914    0    0 
+Frogger   986162608  8  2 Bk  b     bc    b          914   80  220 Kd Td
+Frogger   986162662  8  1 Bc  kf    -     -         1054   10    0 
+Frogger   986162738  8  8 f   -     -     -         1044    0    0 
+Frogger   986162827 10  9 c   c     r     c         1044   90    0 5s Ah
+Frogger   986162886 10  8 c   cc    c     f          954   50    0 
+Frogger   986162953  9  6 f   -     -     -          904    0    0 
+Frogger   986163006  8  5 f   -     -     -          904    0    0 
+Frogger   986163075  8  4 f   -     -     -          904    0    0 
+Frogger   986163102  8  3 f   -     -     -          904    0    0 
+Frogger   986163158  8  2 Bcc k     k     k          904   30    0 Qs 8s
+Frogger   986163233  8  1 Bf  -     -     -          874    5    0 
+Frogger   986163258  8  8 c   f     -     -          869   10    0 
+Frogger   986163306  8  7 c   b     -     -          859   20   45 
+Frogger   986163399  9  7 r   r     c     c          884   80    0 Kd Ad
+Frogger   986163437  9  6 f   -     -     -          804    0    0 
+Frogger   986163480  9  5 c   b     -     -          804   20   45 
+Frogger   986163515  9  4 f   -     -     -          829    0    0 
+Frogger   986163568  9  3 cc  kc    kc    kc         829   70    0 Td Ah
+Frogger   986163638  9  2 Bf  -     -     -          759   10    0 
+Frogger   986163703 10  1 Bf  -     -     -          749    5    0 
+Frogger   986163748 10 10 r   bc    f     -          744   50    0 
+Frogger   986163844 10  9 c   f     -     -          694   10    0 
+Frogger   986163907 10  8 f   -     -     -          684    0    0 
+Frogger   986163954 10  7 f   -     -     -          684    0    0 
+Frogger   986164006 10  6 f   -     -     -          684    0    0 
+Frogger   986164053 10  5 c   k     kf    -          684   20    0 
+Frogger   986164107 10  4 f   -     -     -          664    0    0 
+Frogger   986164142 10  3 r   -     -     -          664   20   35 
+Frogger   986164159 10  2 Bk  kr    b     b          679   70  120 Jc 9d
+Frogger   986164279 10  1 Bc  kc    kf    -          729   30    0 
+Frogger   986164319 10 10 f   -     -     -          699    0    0 
+Frogger   986164378 10  9 f   -     -     -          699    0    0 
+Frogger   986164451 10  8 c   k     f     -          699   10    0 
+Frogger   986164497 10  7 cc  k     f     -          689   20    0 
+Frogger   986164559 10  6 c   b     b     b          669   60  125 
+Frogger   986164673  9  5 f   -     -     -          734    0    0 
+Frogger   986164702 10  4 f   -     -     -          734    0    0 
+Frogger   986164741  9  2 Bc  kc    kf    -          734   30    0 
+Frogger   986164843  9  1 Bf  -     -     -          704    5    0 
+Frogger   986164906 10 10 c   c     c     f          699   50    0 
+Frogger   986165032 10 10 f   -     -     -          649    0    0 
+Frogger   986165083  9  8 f   -     -     -          649    0    0 
+Frogger   986165143  9  7 c   c     b     cf         649   60    0 
+Frogger   986165217  9  6 r   b     -     -          589   30   65 
+Frogger   986165255  8  4 r   b     b     b          624   70  140 
+Frogger   986165323  8  4 f   -     -     -          694    0    0 
+Frogger   986165357  7  3 cc  ccc   kc    f          694   80    0 
+Frogger   986165420  8  2 Bk  b     kf    -          614   20    0 
+Frogger   986165462  8  1 Bf  -     -     -          594    5    0 
+Frogger   986165478  8  8 f   -     -     -          589    0    0 
+Frogger   986165503  8  7 cc  r     b     b          589   90    0 Td As
+Frogger   986165557  8  6 c   c     k     k          499   20   60 Ts Kc
+Frogger   986165611  7  5 c   c     b     b          539   60  140 
+Frogger   986165663  8  4 c   c     c     f          619   40    0 
+Frogger   986165699  8  3 f   -     -     -          579    0    0 
+Frogger   986165777  9  2 Bk  kf    -     -          579   10    0 
+Frogger   986165822  8  1 Bf  -     -     -          569    5    0 
+Frogger   986165848  8  8 f   -     -     -          564    0    0 
+Frogger   986165891  8  7 f   -     -     -          564    0    0 
+Frogger   986165924  9  7 r   c     b     rr         564  130  481 Js Jc
+Frogger   986166015  8  5 c   f     -     -          915   10    0 
+Frogger   986166083  9  5 f   -     -     -          905    0    0 
+Frogger   986166136 10  5 cc  kf    -     -          905   20    0 
+Frogger   986166221 10  4 r   k     kf    -          885   20    0 
+Frogger   986166298 10  3 cc  kc    kc    kf         865   50    0 
+Frogger   986166435  9  2 Bk  b     -     -          815   20   55 
+Frogger   986166536  7  1 Bc  kf    -     -          850   20    0 
+Frogger   986166555  7  7 f   -     -     -          830    0    0 
+Frogger   986166607  7  7 cc  k     b     -          830   40   85 
+Frogger   986166734  6  5 c   k     kf    -          875   10    0 
+Frogger   986166778  6  4 f   -     -     -          865    0    0 
+Frogger   986166793  6  3 f   -     -     -          865    0    0 
+Frogger   986166851  6  2 Bk  b     k     k          865   20    0 4c Jd
+Frogger   986166884  6  1 Bf  -     -     -          845    5    0 
+Frogger   986166911  6  6 cc  k     k     k          840   20   60 Js Kh
+Frogger   986166953  5  4 f   -     -     -          880    0    0 
+Frogger   986166982  6  4 c   rc    c     c          880   90    0 Jc As
+Frogger   986167019  6  3 f   -     -     -          790    0    0 
+Frogger   986167061  6  2 Bf  -     -     -          790   10    0 
+Frogger   986167080  6  1 Bc  k     b     k          780   30    0 7h 9s
+Frogger   986167122  7  6 f   -     -     -          750    0    0 
+Frogger   986167175  9  6 cc  c     b     b          750   70  160 
+Frogger   986167223  9  5 rc  kc    k     kf         840   40    0 
+Frogger   986167279 10  5 c   b     b     b          800   60  150 
+Frogger   986167335 10  4 cc  kf    -     -          890   30    0 
+Frogger   986167428 10  3 f   -     -     -          860    0    0 
+Frogger   986167460  9  2 Bf  -     -     -          860   10    0 
+Frogger   986167509 10  1 Bc  kf    -     -          850   20    0 
+Frogger   986167602 10 10 r   c     r     rr         830  180  640 6d 6c
+Frogger   986167700 10  9 cc  c     c     c         1290   80    0 9d Tc
+Frogger   986167783 10  8 c   f     -     -         1210   20    0 
+Frogger   986167838  9  6 f   -     -     -         1190    0    0 
+Frogger   986167877  9  5 c   c     k     b         1190   40  130 Qs Jd
+Frogger   986167962  9  4 c   k     f     -         1280   10    0 
+Frogger   986168025  8  3 c   k     k     k         1270   10   35 5s Ac
+Frogger   986168072  8  2 Bc  kf    -     -         1295   30    0 
+Frogger   986168125  8  1 Bf  -     -     -         1265    5    0 
+Frogger   986168188  8  8 f   -     -     -         1260    0    0 
+Frogger   986168245  8  7 f   -     -     -         1260    0    0 
+Frogger   986168300  9  6 f   -     -     -         1260    0    0 
+Frogger   986168343  9  5 cc  k     k     k         1260   20   60 7h 5s
+Frogger   986168394  9  4 f   -     -     -         1300    0    0 
+Frogger   986168446  9  3 f   -     -     -         1300    0    0 
+Frogger   986168489 10  2 Bk  c     c     kf        1300   40    0 
+Frogger   986168586 10  1 Bf  -     -     -         1260    5    0 
+Frogger   986168655 10 10 f   -     -     -         1255    0    0 
+Frogger   986168695 10  9 f   -     -     -         1255    0    0 
+Frogger   986168743 10  8 f   -     -     -         1255    0    0 
+Frogger   986168793 10  7 c   cc    k     c         1255   60  195 9c Jd
+Frogger   986168855 10  6 f   -     -     -         1390    0    0 
+Frogger   986168905 10  5 f   -     -     -         1390    0    0 
+Frogger   986168986 10  4 f   -     -     -         1390    0    0 
+Frogger   986169049  9  2 f   -     -     -         1390    0    0 
+Frogger   986169105  9  2 Bc  kcc   kf    -         1390   60    0 
+Frogger   986169214 10  1 Bc  k     bc    kc        1330   70    0 6s Js
+Frogger   986169261  9  9 c   k     k     c         1260   30    0 7s 9d
+Frogger   986169366  8  7 c   b     b     k         1230   40    0 6h 6s
+Frogger   986169433  8  6 c   f     -     -         1190   10    0 
+Frogger   986169487  8  5 f   -     -     -         1180    0    0 
+Frogger   986169526  9  4 cc  f     -     -         1180   40    0 
+Frogger   986169597 10  3 c   kf    -     -         1140   10    0 
+Frogger   986169665 10  2 Bk  kf    Q     -         1130   10    0 

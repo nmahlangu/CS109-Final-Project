@@ -1,0 +1,87 @@
+Chopp     987181712  9  3 cc  br    b     b          300  100  400 9s 8c
+Chopp     987181799  9  2 Bf  -     -     -          600   10    0 
+Chopp     987181896 10  1 Br  b     b     b          590   70  270 Kd Ks
+Chopp     987181947 10 10 f   -     -     -          790    0    0 
+Chopp     987182005  9  8 f   -     -     -          790    0    0 
+Chopp     987182126 10  8 c   c     f     -          790   20    0 
+Chopp     987182189 10  7 f   -     -     -          770    0    0 
+Chopp     987182256  9  5 f   -     -     -          770    0    0 
+Chopp     987182299 10  5 f   -     -     -          770    0    0 
+Chopp     987182348  9  4 cc  f     -     -          770   20    0 
+Chopp     987182418  9  3 ccc r     br    b          750  140  690 8h Th
+Chopp     987182503  9  2 Bc  c     cc    kf        1300   70    0 
+Chopp     987182614  9  1 Bc  br    br    br        1230  180    0 Ac 2h
+Chopp     987182676  9  9 c   k     r     b         1050   80  235 9d Th
+Chopp     987182733  9  8 c   b     b     k         1205   40  100 As Th
+Chopp     987182803  9  8 f   -     -     -         1265    0    0 
+Chopp     987182904  9  7 f   -     -     -         1265    0    0 
+Chopp     987182949  9  6 cc  kc    kc    kf        1265   50    0 
+Chopp     987183020  9  5 f   -     -     -         1215    0    0 
+Chopp     987183050 10  4 cc  kc    kc    kc        1215   70    0 7d Ad
+Chopp     987183100 10  3 cc  rr    br    b         1145  140   38 8s Ac
+Chopp     987183208 10  2 Bk  f     -     -         1043   10    0 
+Chopp     987183270  9  1 Bf  -     -     -         1033    5    0 
+Chopp     987183358  9  9 f   -     -     -         1028    0    0 
+Chopp     987183464  7  6 f   -     -     -         1028    0    0 
+Chopp     987183521  8  5 f   -     -     -         1028    0    0 
+Chopp     987183597  8  3 f   -     -     -         1028    0    0 
+Chopp     987183646  8  2 Bc  br    b     -         1028   70  190 
+Chopp     987183684  8  1 Bc  b     b     b         1148   70  270 5d 7s
+Chopp     987183743  9  9 c   f     -     -         1348   10    0 
+Chopp     987183793  9  8 f   -     -     -         1338    0    0 
+Chopp     987183829  9  8 c   f     -     -         1338   10    0 
+Chopp     987183914  8  6 f   -     -     -         1328    0    0 
+Chopp     987183950  7  4 rr  b     bc    c         1328  110    0 Ac Jc
+Chopp     987184012  8  3 f   -     -     -         1218    0    0 
+Chopp     987184053  9  2 Bc  kf    -     -         1218   20    0 
+Chopp     987184095  9  1 Bc  k     k     kf        1198   20    0 
+Chopp     987184149  9  9 c   f     -     -         1178   10    0 
+Chopp     987184186  9  8 c   f     -     -         1168   20    0 
+Chopp     987184263  9  7 f   -     -     -         1148    0    0 
+Chopp     987184339 10  7 c   c     c     f         1148   40    0 
+Chopp     987184407  9  6 r   bc    c     r         1108  100  255 Kh Kd
+Chopp     987184488  9  5 c   k     k     k         1263   10    0 9s Jc
+Chopp     987184546 10  4 cc  c     c     k         1253   50    0 Ks 9d
+Chopp     987184608 10  3 cc  kf    -     -         1203   20    0 
+Chopp     987184678  9  2 Bk  bc    kc    kf        1183   50    0 
+Chopp     987184738 10  1 Bf  -     -     -         1133    5    0 
+Chopp     987184809 10  6 Q   -     -     -         1128    0    0 
+Chopp     987482282  9  9 f   -     -     -          288    0    0 
+Chopp     987482329 10  9 f   -     -     -          288    0    0 
+Chopp     987482362  9  7 c   r     b     f          288   50    0 
+Chopp     987482421  9  6 f   -     -     -          238    0    0 
+Chopp     987482479  8  4 f   -     -     -          238    0    0 
+Chopp     987482529  8  3 r   br    b     b          238   90  310 Jc As
+Chopp     987482578  9  2 Bk  kf    -     -          458   10    0 
+Chopp     987482643  9  1 Bf  -     -     -          448    5    0 
+Chopp     987482691  9  9 f   -     -     -          443    0    0 
+Chopp     987482733  9  8 f   -     -     -          443    0    0 
+Chopp     987482774  9  7 f   -     -     -          443    0    0 
+Chopp     987482821  9  6 c   r     r     rr         443  170  560 Jd 8d
+Chopp     987482890  9  5 f   -     -     -          833    0    0 
+Chopp     987482967 10  4 c   c     f     -          833   20    0 
+Chopp     987483024 10  3 cc  kc    kc    kf         813   50    0 
+Chopp     987483095  8  2 Bk  kc    kc    k          763   40  100 Jh Ac
+Chopp     987483146  9  1 Bc  kf    -     -          823   10    0 
+Chopp     987483175  9  9 f   -     -     -          813    0    0 
+Chopp     987483212  9  8 r   b     b     bc         813   90    0 3s 3h
+Chopp     987483255 10  8 f   -     -     -          723    0    0 
+Chopp     987483339 10  7 c   br    b     kc         723   80    0 Qd Jh
+Chopp     987483406 10  6 f   -     -     -          643    0    0 
+Chopp     987483441 10  5 c   kf    -     -          643   10    0 
+Chopp     987483503 10  4 c   c     c     k          633   40   90 As 5d
+Chopp     987483547 10  3 f   -     -     -          683    0    0 
+Chopp     987483632 10  2 Bk  kc    kf    -          683   20    0 
+Chopp     987483657 10  1 Bf  -     -     -          663    5    0 
+Chopp     987483697 10 10 c   c     c     k          658   60    0 Td Ah
+Chopp     987483750 10  9 f   -     -     -          598    0    0 
+Chopp     987483837 10  3 Q   -     -     -          598    0    0 
+Chopp     987553259  6  6 f   -     -     -          598    0    0 
+Chopp     987553320  6  5 f   -     -     -          598    0    0 
+Chopp     987553364  6  4 c   bc    c     k          598   50    0 6s Ac
+Chopp     987553429  6  3 cc  r     r     r          548  120    0 Ac 2h
+Chopp     987553476  6  2 Bc  k     k     kf         428   20    0 
+Chopp     987553560  7  1 Bf  -     -     -          408    5    0 
+Chopp     987553612  7  7 f   -     -     -          403    0    0 
+Chopp     987553648  6  5 c   brc   bc    kc         403  110    0 9d 6d
+Chopp     987553703  6  4 fQ  -     -     -          293    0    0 

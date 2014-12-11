@@ -1,0 +1,299 @@
+Echo      986110197  3  2 Bk  k     k     b          970   30   50 
+Echo      986110241  3  1 Bc  brc   kcc   k          990  110  330 Qd Tc
+Echo      986110300  3  3 c   rc    c     b         1210   80  240 Ts Th
+Echo      986110351  3  2 Bk  kc    kc    kc        1370   60    0 Ac 6s
+Echo      986110379  2  1 Bcc kf    -     -         1310   20    0 
+Echo      986110395  2  2 Bc  rr    br    b         1290  140  280 Kh 7s
+Echo      986110431  2  1 Bc  b     b     -         1430   40   80 Jc 6s
+Echo      986110537  2  2 Bk  c     c     f         1470   40    0 
+Echo      986110568  2  1 Bf  -     -     -         1430    5    0 
+Echo      986110571  2  2 Bk  b     -     -         1425   20   30 
+Echo      986110585  2  1 Bc  k     k     k         1435   10   20 Ac 6d
+Echo      986110602  2  2 Bk  b     rc    c         1445  100    0 Ts Jc
+Echo      986110639  3  1 Bc  kf    -     -         1345   10    0 
+Echo      986110665  3  3 c   c     c     k         1335   40   85 6d Ac
+Echo      986110706  3  2 Bk  f     -     -         1380   10    0 
+Echo      986110743  3  1 Bf  -     -     -         1370    5    0 
+Echo      986110769  3  3 f   -     -     -         1365    0    0 
+Echo      986110782  3  2 Bk  k     k     k         1365   10    0 Kc 4c
+Echo      986110809  2  1 Bc  b     b     b         1355   60    0 7h Jh
+Echo      986110828  2  2 Bk  k     k     k         1295   10    0 7c 9h
+Echo      986110852  2  1 Bcc k     k     k         1285   20   40 Th Kh
+Echo      986110881  2  2 Bk  c     c     c         1305   60    0 Tc 6s
+Echo      986110902  2  1 Bc  k     kf    -         1245   10    0 
+Echo      986110923  2  2 Bk  f     -     -         1235   10    0 
+Echo      986110936  3  1 Bc  kf    -     -         1225   10    0 
+Echo      986110978  5  5 c   rc    b     b         1215   80  180 Kh Jh
+Echo      986111025  5  4 ccc f     -     -         1315   40    0 
+Echo      986111062  5  3 f   -     -     -         1275    0    0 
+Echo      986111103  5  2 Bf  -     -     -         1275   10    0 
+Echo      986111144  5  1 Bc  kc    kc    kc        1265   70  240 As 6c
+Echo      986111195  5  5 f   -     -     -         1435    0    0 
+Echo      986111241  5  4 c   f     -     -         1435   20    0 
+Echo      986111270  5  3 f   -     -     -         1415    0    0 
+Echo      986111303  5  2 Bf  -     -     -         1415   10    0 
+Echo      986111346  5  1 Bc  kc    kc    kc        1405   60  130 3c 3h
+Echo      986111386  6  6 f   -     -     -         1475    0    0 
+Echo      986111412  7  6 f   -     -     -         1475    0    0 
+Echo      986111457  7  5 f   -     -     -         1475    0    0 
+Echo      986111498  7  4 cc  c     c     c         1475   80    0 9h Js
+Echo      986111550  6  3 cc  kc    kc    kf        1395   50    0 
+Echo      986111578  6  2 Bk  f     -     -         1345   10    0 
+Echo      986111642  6  1 Bc  kf    -     -         1335   20    0 
+Echo      986111717  8  8 f   Q     -     -         1315    0    0 
+Echo      986144198  8  8 f   -     -     -         1315    0    0 
+Echo      986144234  9  7 cc  kcc   kc    k         1315   90    0 Th 8d
+Echo      986144316  9  6 f   -     -     -         1225    0    0 
+Echo      986144389  7  5 c   k     k     f         1225   10    0 
+Echo      986144436  7  4 c   k     f     -         1215   10    0 
+Echo      986144480  7  3 cc  cc    cc    kf        1205   80    0 
+Echo      986144521  8  2 Bk  k     c     c         1125   50    0 5d Jd
+Echo      986144546  8  1 Bc  b     b     bc        1075   80    0 Qh Ks
+Echo      986144569  7  7 c   c     cc    f          995   80    0 
+Echo      986144604  7  6 c   kf    Q     -          915   10    0 
+Echo      986184950  7  2 Bk  kQ    -     -          905   10    0 
+Echo      986242063  5  3 cc  k     f     -          895   20    0 
+Echo      986242104  5  2 Bc  k     f     -          875   20    0 
+Echo      986242124  5  1 Bf  -     -     -          855    5    0 
+Echo      986242154  5  5 c   f     -     -          850   10    0 
+Echo      986242217  5  4 fQ  -     -     -          840    0    0 
+Echo      987110640  3  2 Bf  -     -     -         1165   10    0 
+Echo      987110667  2  1 B   -     -     -         1155    5   15 
+Echo      987405439  8  2 Bc  kc    kc    kr        1015  100  315 5h Qh
+Echo      987405506  8  1 Bc  kc    k     k         1230   20    0 Th 9d
+Echo      987405566  8  8 f   -     -     -         1210    0    0 
+Echo      987405612  8  7 f   -     -     -         1210    0    0 
+Echo      987405654  9  7 cc  c     f     -         1210   50    0 
+Echo      987405733  9  6 f   -     -     -         1160    0    0 
+Echo      987405848  9  5 c   b     rc    c         1160  120    0 5h 6h
+Echo      987405913  9  4 f   -     -     -         1040    0    0 
+Echo      987405992  9  2 f   -     -     -         1040    0    0 
+Echo      987406045  9  2 Bk  cc    kc    kf        1040   50    0 
+Echo      987406099  9  1 Bf  -     -     -          990    5    0 
+Echo      987406158  7  7 c   c     c     f          985   40    0 
+Echo      987406201  7  6 f   -     -     -          945    0    0 
+Echo      987406241  7  5 f   -     -     -          945    0    0 
+Echo      987406262  7  4 cc  f     -     -          945   20    0 
+Echo      987406296  8  4 c   kc    kc    kc         925   60  145 3s 5s
+Echo      987406333  8  3 f   -     -     -         1010    0    0 
+Echo      987406412  8  2 Bk  k     c     k         1010   30    0 Qh 9c
+Echo      987406465  8  1 Bc  k     kc    k          980   30  140 9d Qh
+Echo      987406527  8  8 c   f     -     -         1090   10    0 
+Echo      987406582  8  7 cc  f     -     -         1080   30    0 
+Echo      987406647  7  5 c   k     c     r         1050   70  170 
+Echo      987406701  7  4 cc  f     -     -         1150   20    0 
+Echo      987406757  8  4 c   k     k     f         1130   10    0 
+Echo      987406812  8  3 f   -     -     -         1120    0    0 
+Echo      987406865  8  2 Bk  k     kc    f         1120   30    0 
+Echo      987406954  8  1 Bc  kf    -     -         1090   10    0 
+Echo      987407048  7  7 c   k     k     k         1080   10    0 2c 2h
+Echo      987407099  7  6 f   -     -     -         1070    0    0 
+Echo      987407149  7  5 c   f     -     -         1070   10    0 
+Echo      987407206  7  4 c   k     f     -         1060   10    0 
+Echo      987407265  7  3 f   -     -     -         1050    0    0 
+Echo      987407343  8  3 f   -     -     -         1050    0    0 
+Echo      987407409  8  2 Bk  kf    -     -         1050   10    0 
+Echo      987407442  7  1 Bf  -     -     -         1040    5    0 
+Echo      987407494  7  7 cc  f     -     -         1035   20    0 
+Echo      987407538  6  6 f   -     -     -         1015    0    0 
+Echo      987407595  5  4 f   -     -     -         1015    0    0 
+Echo      987407643  5  3 c   c     k     k         1015   20    0 Kh 9h
+Echo      987407684  5  2 Bc  kf    -     -          995   20    0 
+Echo      987407725  5  1 Bf  -     -     -          975    5    0 
+Echo      987407795  5  5 f   -     -     -          970    0    0 
+Echo      987407826  5  4 c   k     k     k          970   10   13 Ks Jc
+Echo      987407909  5  4 c   k     k     f          973   10    0 
+Echo      987407965  5  3 f   -     -     -          963    0    0 
+Echo      987408016  6  2 Bc  c     k     k          963   30    0 As 8s
+Echo      987408105  6  1 Bf  -     -     -          933    5    0 
+Echo      987408159  6  6 f   -     -     -          928    0    0 
+Echo      987408224  6  5 c   c     k     f          928   20    0 
+Echo      987408292  6  4 cc  kc    kc    k          908   50  185 6h Ts
+Echo      987408356  6  3 c   k     k     kf        1043   10    0 
+Echo      987408433  5  2 Bk  k     k     k         1033   10   25 9s 6h
+Echo      987408463  4  1 Bcc kc    kc    kf        1048   50    0 
+Echo      987408513  6  6 f   -     -     -          998    0    0 
+Echo      987408552  6  5 c   k     kf    -          998   10    0 
+Echo      987408588  6  4 c   k     k     c          988   30    0 9d 9h
+Echo      987408630  6  3 cc  kc    kf    -          958   40    0 
+Echo      987408726  6  2 Bk  k     f     -          918   10    0 
+Echo      987408791  6  1 Bc  k     k     k          908   10    0 Th 5c
+Echo      987408843  5  5 c   c     c     f          898   40    0 
+Echo      987408892  5  4 f   -     -     -          858    0    0 
+Echo      987408959  5  3 f   -     -     -          858    0    0 
+Echo      987409010  5  2 Bk  k     f     -          858   10    0 
+Echo      987409043  3  1 Bc  k     k     k          848   10    0 2h 8h
+Echo      987409067  2  2 Bk  b     b     -          838   40   60 
+Echo      987409088  2  1 Bc  kf    -     -          858   10    0 
+Echo      987409099  2  2 Bk  r     b     b          848   70  120 
+Echo      987409120  2  1 Bc  k     bc    kc         898   70  140 Th 7s
+Echo      987409140  2  2 Bk  k     k     c          968   30    0 Ad 4d
+Echo      987409161  2  1 Bcc kc    kr    b          938   90  180 5d As
+Echo      987409184  2  2 B   -     -     -         1028   10   15 
+Echo      987409193  2  1 Bc  k     kf    -         1033   10    0 
+Echo      987409206  2  2 Bk  c     c     c         1023   60    0 4c 5d
+Echo      987409222  2  1 Bc  k     k     kf         963   10    0 
+Echo      987409242  2  2 Bc  c     c     c          953   70  140 4d Ks
+Echo      987409258  2  1 Bcc kc    kc    kc        1023   70    0 6c 7s
+Echo      987409278  2  2 Bk  k     k     k          953   10   20 Ah 7c
+Echo      987409299  2  1 Bc  b     b     bc         963   80    0 8h Qs
+Echo      987409317  2  2 Bc  c     c     c          883   70    0 8c Js
+Echo      987409334  2  1 Bc  k     k     kf         813   10    0 
+Echo      987409357  2  2 B   -     -     -          803   10   15 
+Echo      987409361  2  1 Bcc k     kc    kc         808   60    0 Ks Jd
+Echo      987409379  2  2 B   -     -     -          748   10   15 
+Echo      987409386  2  1 Bc  bc    br    b          753  110  200 
+Echo      987409409  2  2 Bk  k     k     f          843   10    0 
+Echo      987409428  2  1 Bc  kf    -     -          833   10    0 
+Echo      987409438  2  2 Bk  k     c     r          823   70  140 2c 9c
+Echo      987409460  2  1 Bc  k     k     k          893   10   20 Qs 7h
+Echo      987409477  2  2 Bk  c     b     c          903   60    0 Ts Td
+Echo      987409505  2  1 Bcc kc    kc    kc         843   70    0 Ah 5h
+Echo      987409525  2  2 Bk  k     k     k          773   10    0 Ts 6h
+Echo      987409548  2  1 Bc  kc    kc    kc         763   60    0 5d 3d
+Echo      987409574  2  2 Bk  c     c     c          703   60    0 Ah 9s
+Echo      987409596  2  1 Bc  kc    kc    k          643   40    0 3s 3c
+Echo      987409616  2  2 Bk  c     c     b          603   60  120 Ac 4d
+Echo      987409637  2  1 Br  b     b     -          663   50   80 
+Echo      987409652  2  2 Brc r     b     b          693  100  200 Jc Jd
+Echo      987409679  2  1 Bc  k     k     kc         793   30   60 Jd Kd
+Echo      987409700  2  2 Bk  b     b     b          823   60  120 8c 7s
+Echo      987409724  2  1 Bc  k     kf    -          883   10    0 
+Echo      987409740  2  2 B   -     -     -          873   10   15 
+Echo      987409744  2  1 Bcc kc    kf    -          878   30    0 
+Echo      987409758  2  2 B   -     -     -          848   10   15 
+Echo      987409761  2  1 Bc  b     -     -          853   20   30 
+Echo      987409770  2  2 B   -     -     -          863   10   15 
+Echo      987409773  2  1 Bc  b     b     b          868   60  100 
+Echo      987409788  2  2 Bk  b     -     -          908   20   30 
+Echo      987409803  2  1 Bc  k     kc    krr        918  110  200 
+Echo      987409833  2  2 B   -     -     -         1008   10   15 
+Echo      987409838  2  1 Bc  b     b     -         1013   40   60 
+Echo      987409848  2  2 Bk  k     r     brc       1033  130  260 Th 2s
+Echo      987409875  2  1 Bc  k     k     kc        1163   30    0 As Qd
+Echo      987409900  2  2 Bk  k     f     -         1133   10    0 
+Echo      987409913  2  1 Bf  -     -     -         1123    5    0 
+Echo      987409930  2  2 Bk  k     k     k         1118   10   20 3h 6d
+Echo      987409949  2  1 Bc  b     b     -         1128   40   60 
+Echo      987409963  2  2 Bk  k     k     k         1148   10   20 7d 7s
+Echo      987409980  2  1 Bc  k     k     k         1158   10   10 2h 9d
+Echo      987409998  2  2 Bf  -     -     -         1158   10    0 
+Echo      987410007  2  1 Bc  kc    kc    kc        1148   60  120 7d 6c
+Echo      987410023  2  2 Bk  k     k     b         1208   30   40 
+Echo      987410050  2  1 Bc  b     b     b         1218   60  120 9h 2s
+Echo      987410064  2  2 B   -     -     -         1278   10   15 
+Echo      987410071  2  1 Bc  k     kf    -         1283   10    0 
+Echo      987410083  2  2 Bk  k     k     b         1273   30   60 Kc Qd
+Echo      987410104  2  1 Bf  -     -     -         1303    5    0 
+Echo      987410110  2  2 Bk  k     k     k         1298   10   10 3d Kh
+Echo      987410127  2  1 Bc  k     k     k         1298   10   20 8h 6h
+Echo      987410145  2  2 B   -     -     -         1308   10   15 
+Echo      987410151  2  1 Bc  b     b     b         1313   60  100 
+Echo      987410164  2  2 Bk  k     c     f         1353   30    0 
+Echo      987410182  2  1 Bc  kc    kc    kf        1323   40    0 
+Echo      987410198  2  2 Bk  k     k     k         1283   10   20 Kh 4s
+Echo      987410212  2  1 Bcc kf    -     -         1293   20    0 
+Echo      987410224  2  2 B   -     -     -         1273   10   15 
+Echo      987410228  2  1 Bc  kf    -     -         1278   10    0 
+Echo      987410238  2  2 B   -     -     -         1268   10   15 
+Echo      987410242  2  1 Bc  kc    kf    -         1273   20    0 
+Echo      987410255  2  2 Bc  c     c     f         1253   50    0 
+Echo      987410268  2  1 Bc  k     b     b         1203   50   80 
+Echo      987410285  2  2 Bk  b     b     b         1233   60  100 
+Echo      987410307  2  1 Bcc kc    k     kc        1273   50  100 8s 4s
+Echo      987410326  2  2 B   -     -     -         1323   10   15 
+Echo      987410333  2  1 Bc  k     kf    -         1328   10    0 
+Echo      987410347  2  2 Bc  c     c     c         1318   70    0 Kd Th
+Echo      987410362  2  1 Bc  b     b     b         1248   60  120 Ts 8d
+Echo      987410381  2  2 B   -     -     -         1308   10   15 
+Echo      987410388  2  1 Bc  k     k     kf        1313   10    0 
+Echo      987410402  2  2 Bk  k     c     c         1303   50  100 Th Kd
+Echo      987410424  2  1 Bc  kc    kc    kf        1353   40    0 
+Echo      987410445  2  2 Bc  f     -     -         1313   20    0 
+Echo      987410453  2  1 Bcc kc    kc    kc        1293   70    0 Ts Js
+Echo      987410470  2  2 Bc  c     b     b         1223   70  120 
+Echo      987410498  2  1 Bc  kc    k     b         1273   40   60 
+Echo      987410517  2  2 Bk  k     c     k         1293   30    0 7d Qs
+Echo      987410538  2  1 Bc  k     kc    kc        1263   50  100 As 3d
+Echo      987410557  2  2 Bk  k     bc    f         1313   50    0 
+Echo      987410586  2  1 Bc  k     k     k         1263   10   20 Jh 6c
+Echo      987410601  2  2 B   -     -     -         1273   10   15 
+Echo      987410609  2  1 Bc  k     k     kf        1278   10    0 
+Echo      987410625  2  2 B   -     -     -         1268   10   15 
+Echo      987410632  2  1 Bc  k     k     k         1273   10   20 6c Qh
+Echo      987410647  2  2 Bc  c     k     k         1283   30   60 7d As
+Echo      987410667  2  1 Bc  k     k     k         1313   10   20 4d Ks
+Echo      987410683  2  2 Bf  -     -     -         1323   10    0 
+Echo      987410691  2  1 Bc  kc    kc    kr        1313   80  140 
+Echo      987410714  2  2 Bk  b     -     -         1373   20   30 
+Echo      987410725  2  1 Bc  kf    -     -         1383   10    0 
+Echo      987410735  2  2 Bk  c     c     c         1373   60    0 8h 7h
+Echo      987410753  2  1 Bc  kc    kc    kc        1313   60    0 5c 8c
+Echo      987410771  2  2 Bk  k     k     k         1253   10    0 2d 4d
+Echo      987410792  2  1 Bcc kf    -     -         1243   20    0 
+Echo      987410805  2  2 Bk  c     f     -         1223   20    0 
+Echo      987410819  2  1 Bc  k     k     k         1203   10   20 2c 2h
+Echo      987410834  2  2 Bc  c     c     f         1213   50    0 
+Echo      987410851  2  1 Bcc kf    -     -         1163   20    0 
+Echo      987410859  2  2 Bf  -     -     -         1143   10    0 
+Echo      987410862  2  1 Bc  k     k     k         1133   10   20 Kd 9s
+Echo      987410875  2  2 Bk  k     k     k         1143   10   10 7h 6h
+Echo      987410891  2  1 Bcc kc    kc    k         1143   50  100 2h 2d
+Echo      987410911  2  2 B   -     -     -         1193   10   15 
+Echo      987410918  2  1 Bc  k     b     -         1198   30   40 
+Echo      987410930  2  2 B   -     -     -         1208   10   15 
+Echo      987410935  2  1 Bc  b     -     -         1213   20   30 
+Echo      987410943  2  2 B   -     -     -         1223   10   15 
+Echo      987410947  2  1 Bc  k     kf    -         1228   10    0 
+Echo      987410960  2  2 B   -     -     -         1218   10   15 
+Echo      987410965  2  1 Bcc kc    kc    kc        1223   70    0 Ac 5s
+Echo      987410981  2  2 Bk  k     k     k         1153   10   20 4s 8c
+Echo      987411004  2  1 Bcc kc    kf    -         1163   30    0 
+Echo      987411024  2  2 Bc  c     c     c         1133   70    0 7d Js
+Echo      987411042  2  1 Bcc kf    -     -         1063   20    0 
+Echo      987411054  2  2 B   -     -     -         1043   10   15 
+Echo      987411059  2  1 Bc  k     k     k         1048   10   20 3h 3s
+Echo      987411070  2  2 Bk  k     b     -         1058   30   40 
+Echo      987411089  2  1 Bc  kf    -     -         1068   10    0 
+Echo      987411099  2  2 Bc  c     f     -         1058   30    0 
+Echo      987411108  2  1 Bc  b     bc    k         1028   60    0 8d 5s
+Echo      987411129  2  2 Bk  c     b     bc         968   80    0 6h 3s
+Echo      987411157  2  1 Bc  k     b     -          888   30   40 
+Echo      987411174  2  2 Br  b     b     b          898   70  140 3d Ad
+Echo      987411204  2  1 Bcc kc    kc    kf         968   50    0 
+Echo      987411226  3  3 f   -     -     -          918    0    0 
+Echo      987411250  3  2 B   -     -     -          918   10   15 
+Echo      987411260  3  1 Bc  k     b     b          923   50   80 
+Echo      987411276  3  3 f   -     -     -          953    0    0 
+Echo      987411293  3  2 Bc  kc    kc    k          953   50   60 4c Kc
+Echo      987411314  3  1 Brc kc    kc    kc         963   90  190 Jd Js
+Echo      987411340  3  3 c   k     f     -         1063   10    0 
+Echo      987411357  3  2 Bc  ccc   cf    -         1053   80    0 
+Echo      987411395  3  1 Bf  -     -     -          973    5    0 
+Echo      987411419  3  3 c   k     c     f          968   30    0 
+Echo      987411442  3  2 Bf  -     -     -          938   10    0 
+Echo      987411467  3  1 Br  b     -     -          928   30   50 
+Echo      987411477  3  3 c   k     k     f          948   10    0 
+Echo      987411497  3  2 Bc  kc    kc    kc         938   70    0 7h 6d
+Echo      987411527  3  1 Bc  kf    -     -          868   10    0 
+Echo      987411558  3  3 f   -     -     -          858    0    0 
+Echo      987411579  3  2 Bc  kf    -     -          858   20    0 
+Echo      987411595  3  1 Bc  kc    kf    -          838   20    0 
+Echo      987411621  3  3 r   b     b     b          818   70  130 
+Echo      987411640  2  1 Br  br    b     b          878   90    0 Ks As
+Echo      987411661  2  1 Bcc br    b     b          788   90  180 6d Jh
+Echo      987411686  2  2 Br  b     b     r          878   90  160 
+Echo      987411718  2  1 Br  -     -     -          948   20   30 
+Echo      987411724  2  2 Br  k     k     b          958   40    0 5s Ah
+Echo      987411742  2  1 Bcc k     k     kf         918   20    0 
+Echo      987411762  2  2 BQ  -     -     -          898   10    0 
+Echo      988002708  9  3 c   k     k     k          888   10    0 Ks 5d
+Echo      988002757  9  2 Bf  -     -     -          878   10    0 
+Echo      988002805  9  1 Bc  kf    -     -          868   10    0 
+Echo      988002845  7  7 c   c     c     f          858   40    0 
+Echo      988002887  7  6 f   -     -     -          818    0    0 
+Echo      988002907  8  5 c   c     c     c          818   60    0 As 7c
+Echo      988002931  8  4 c   k     k     k          758   10    0 6h Qh
+Echo      988002990  8  3 c   k     k     kf         748   10    0 
+Echo      988003019  8  2 Bk  kf    -     -          738   10    0 
+Echo      988003036  8  1 BQ  -     -     -          728    5    0 

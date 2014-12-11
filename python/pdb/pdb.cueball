@@ -1,0 +1,659 @@
+cueball   986214507  6  5 f   -     -     -         1013    0    0 
+cueball   986214541  6  4 f   -     -     -         1013    0    0 
+cueball   986214580  6  3 rr  kc    kc    kf        1013   70    0 
+cueball   986214627  6  2 Bc  kcc   krr   k          943  130  415 Kh 5d
+cueball   986214685  6  1 Bc  kc    kc    kc        1228   70    0 6s 5h
+cueball   986214721  6  6 f   -     -     -         1158    0    0 
+cueball   986214762  6  5 rr  k     f     -         1158   40    0 
+cueball   986214813  6  4 cc  c     f     -         1118   30    0 
+cueball   986214857  6  3 cc  bc    bc    kf        1088   80    0 
+cueball   986214883  6  2 Bk  kf    -     -         1008   10    0 
+cueball   986214927  6  1 Bc  kc    kf    -          998   30    0 
+cueball   986214964  6  6 c   k     k     c          968   30    0 9c Ah
+cueball   986215009  6  5 r   k     k     k          938   20   20 3s 2d
+cueball   986215040  6  4 cr  k     k     f          938   40    0 
+cueball   986215084  6  4 r   b     k     k          898   30   65 3s Js
+cueball   986215107  5  2 Br  kc    kf    -          933   40    0 
+cueball   986215134  5  1 Bcrc kcc   kf    -          893   70    0 
+cueball   986215184  6  5 c   rc    rr    b          823  150  222 9h Qc
+cueball   986215244  6  4 r   b     b     b          895   70  150 Ad Th
+cueball   986215268  5  2 r   b     -     -          975   30   60 
+cueball   986215281  5  2 Bc  c     c     c         1005   70    0 8d 7h
+cueball   986215305  5  1 Br  -     -     -          935   20   30 
+cueball   986215314  5  5 c   r     b     -          945   60  115 
+cueball   986215331  5  4 c   k     b     k         1000   30    0 6c 4s
+cueball   986215354  5  3 cc  c     rr    k          970  120    0 Jh Th
+cueball   986215394  5  2 Bc  k     b     b          850   60  140 
+cueball   986215424  6  1 Bc  k     k     k          930   10    0 2c 4h
+cueball   986215447  6  6 r   k     f     -          920   20    0 
+cueball   986215476  8  7 rc  c     c     f          900   70    0 
+cueball   986215539  8  6 c   rc    r     b          830  130    0 3s Tc
+cueball   986215591  8  4 Q   -     -     -          700    0    0 
+cueball   986551391  7  5 f   -     -     -          940    0    0 
+cueball   986551460  6  3 r   k     k     kf         940   20    0 
+cueball   986551505  6  2 Bf  -     -     -          920   10    0 
+cueball   986551588  6  1 Bc  br    b     b          910   90  210 Qc Kc
+cueball   986551637  6  6 f   -     -     -         1030    0    0 
+cueball   986551659  6  5 f   -     -     -         1030    0    0 
+cueball   986551716  6  4 cc  k     k     kf        1030   20    0 
+cueball   986551754  6  3 f   -     -     -         1010    0    0 
+cueball   986551781  6  2 Bf  -     -     -         1010   10    0 
+cueball   986551809  6  1 Brc kf    -     -         1000   40    0 
+cueball   986551877  6  6 r   f     -     -          960   30    0 
+cueball   986551926  6  5 r   b     -     -          930   30   70 
+cueball   986551954  6  4 r   kc    kc    kc         970   70    0 Jd 8d
+cueball   986552003  6  3 r   kf    -     -          900   20    0 
+cueball   986552046  6  2 Bc  br    br    b          880  130  305 
+cueball   986552106  6  1 Brc kf    -     -         1055   40    0 
+cueball   986552151  7  7 rc  f     -     -         1015   40    0 
+cueball   986552204  7  6 c   f     -     -          975   20    0 
+cueball   986552221  7  5 c   k     c     c          955   60  240 9s Kh
+cueball   986552295  7  4 rc  f     -     -         1135   40    0 
+cueball   986552345  6  3 crc c     c     rc        1095  180  540 Jc Tc
+cueball   986552401  6  2 Bk  k     kf    -         1455   10    0 
+cueball   986552438  6  1 Bf  -     -     -         1445    5    0 
+cueball   986552483  6  6 c   f     -     -         1440   10    0 
+cueball   986552534  6  5 f   -     -     -         1430    0    0 
+cueball   986552582  5  4 c   k     kf    -         1430   20    0 
+cueball   986552659  4  3 r   -     -     -         1410   20   35 
+cueball   986552678  3  2 Br  kc    kf    -         1425   40    0 
+cueball   986552695  2  1 Br  -     -     -         1385   20   30 
+cueball   986564959  2  2 B   -     -     -         1395   10   30 
+cueball   986565776  3  3 KQ  -     -     -         1415    0    0 
+cueball   986600236  8  5 f   -     -     -         1415    0    0 
+cueball   986600275  8  4 f   -     -     -         1415    0    0 
+cueball   986600361  8  3 f   -     -     -         1415    0    0 
+cueball   986600425  7  2 Bc  k     k     kf        1415   30    0 
+cueball   986600472  6  1 Bf  -     -     -         1385    5    0 
+cueball   986600502  6  6 c   b     b     b         1380   60  130 Js Kc
+cueball   986600535  6  5 c   f     -     -         1450   20    0 
+cueball   986600582  6  4 c   brc   kc    kf        1430   70    0 
+cueball   986600661  7  3 f   -     -     -         1360    0    0 
+cueball   986600719  7  2 Bk  kf    -     -         1360   10    0 
+cueball   986600767  6  1 Bf  -     -     -         1350    5    0 
+cueball   986600810  6  6 r   rc    c     f         1345   70    0 
+cueball   986600851  6  5 cc  b     b     b         1275   70  210 
+cueball   986600934  5  4 cr  b     b     c         1415   90    0 4s As
+cueball   986601003  4  3 c   br    b     k         1325   60  180 Qh 7s
+cueball   986601067  3  2 Br  bc    kc    kc        1445   80    0 As 7c
+cueball   986601099  3  1 Brr b     bc    kc        1365  130  390 Qh 7h
+cueball   986601148  4  3 f   -     Q     -         1625    0    0 
+cueball   986712109  6  6 c   r     c     c         2060   70  155 Ts 7c
+cueball   986712148  6  5 c   f     -     -         2145   10    0 
+cueball   986712178  6  4 r   f     -     -         2135   20    0 
+cueball   986712197  6  3 c   kc    kc    bc        2115   80  270 8c 7c
+cueball   986712248  6  2 Bc  kf    -     -         2305   20    0 
+cueball   986712285  8  1 Bcc bc    kf    -         2285   40    0 
+cueball   986712350  8  8 f   -     -     -         2245    0    0 
+cueball   986712392  8  7 c   b     b     -         2245   40   80 
+cueball   986712428  8  6 f   -     -     -         2285    0    0 
+cueball   986712472  8  5 f   -     -     -         2285    0    0 
+cueball   986712517  8  4 c   kc    kc    b         2285   60  115 
+cueball   986712554  8  3 cc  kf    -     -         2340   20    0 
+cueball   986712603  8  2 Bk  kf    -     -         2320   10    0 
+cueball   986712641  8  1 Bf  -     -     -         2310    5    0 
+cueball   986712666  8  8 f   -     -     -         2305    0    0 
+cueball   986712697  8  7 cc  cc    c     f         2305   70    0 
+cueball   986712758  8  6 f   -     -     -         2235    0    0 
+cueball   986712811  8  5 crc br    b     kf        2235   90    0 
+cueball   986712875  8  4 f   -     -     -         2145    0    0 
+cueball   986712927  8  3 rr  kf    -     -         2145   40    0 
+cueball   986712961  7  2 Bk  kf    -     -         2105   10    0 
+cueball   986712995  7  1 Bf  -     -     -         2095    5    0 
+cueball   986713043  8  8 c   c     f     -         2090   20    0 
+cueball   986713084  8  7 f   -     -     -         2070    0    0 
+cueball   986713130  8  6 f   -     -     -         2070    0    0 
+cueball   986713158  8  5 c   k     c     c         2070   90    0 Tc Ah
+cueball   986713220  8  4 f   -     -     -         1980    0    0 
+cueball   986713283  8  3 c   b     kc    kc        1980   60    0 Qh Tc
+cueball   986713330  8  2 Br  k     kc    kf        1920   40    0 
+cueball   986713360  8  1 BQ  -     -     -         1880    5    0 
+cueball   986957888  6  3 f   -     -     -         2005    0    0 
+cueball   986957915  6  2 Bk  kc    br    b         2005  120  365 Ah 8h
+cueball   986957960  6  1 Bf  -     -     -         2250    5    0 
+cueball   986957993  5  5 cc  rc    c     rc        2245  130  265 Ah 7d
+cueball   986958027  5  4 f   -     -     -         2380    0    0 
+cueball   986958050  5  3 f   -     -     -         2380    0    0 
+cueball   986958063  5  2 Bc  brc   b     b         2380  100  205 6d Jd
+cueball   986958084  5  1 Bc  k     b     b         2485   60  130 6s 9s
+cueball   986958108  5  5 c   b     -     -         2555   20   45 
+cueball   986958134  6  5 c   b     k     k         2580   20   50 9c 4c
+cueball   986958158  8  4 f   -     -     -         2610    0    0 
+cueball   986958207  8  3 f   -     -     -         2610    0    0 
+cueball   986958271  8  2 Bf  -     -     -         2610   10    0 
+cueball   986958329  8  1 Bc  kf    -     -         2600   10    0 
+cueball   986958375  7  7 cc  k     k     f         2590   20    0 
+cueball   986958422  8  7 c   c     c     f         2570   50    0 
+cueball   986958448  8  6 c   b     -     -         2520   20   35 
+cueball   986958467  7  4 r   k     b     k         2535   40    0 Th Ah
+cueball   986958511  7  3 f   Q     -     -         2495    0    0 
+cueball   987037836  4  3 r   c     c     f         2495   50    0 
+cueball   987037871  4  2 Bc  k     k     b         2445   40   65 
+cueball   987037904  4  1 Bf  -     -     -         2470    5    0 
+cueball   987037909  4  4 f   -     -     -         2465    0    0 
+cueball   987037929  4  3 f   -     -     -         2465    0    0 
+cueball   987037942  4  2 Bc  b     b     kf        2465   50    0 
+cueball   987037964  4  1 Bcc kf    -     -         2415   30    0 
+cueball   987037989  4  4 f   -     -     -         2385    0    0 
+cueball   987038001  4  3 cc  r     bc    k         2385   80  170 Kd Jd
+cueball   987038024  4  2 Bc  kc    kf    -         2475   30    0 
+cueball   987038050  4  1 Bf  -     -     -         2445    5    0 
+cueball   987038054  5  4 c   r     r     k         2440   80    0 8s Ks
+cueball   987038088  6  3 f   -     -     -         2360    0    0 
+cueball   987038096  6  2 Bc  bc    b     b         2360   80  185 
+cueball   987038137  6  1 Bf  -     -     -         2465    5    0 
+cueball   987038159  6  6 f   -     -     -         2460    0    0 
+cueball   987038200  6  5 f   -     -     -         2460    0    0 
+cueball   987038229  6  4 r   f     -     -         2460   30    0 
+cueball   987038243  6  3 c   r     b     k         2430   50  110 9s 9d
+cueball   987038277  6  2 Bk  kf    -     -         2490   10    0 
+cueball   987038293  6  1 Bcc bc    br    -         2480  100  190 
+cueball   987038324  6  6 r   k     f     -         2570   30    0 
+cueball   987038357  6  5 c   b     b     k         2540   40   95 Jh As
+cueball   987038393  6  4 c   r     rc    k         2595   90  200 2c Tc
+cueball   987038435  6  3 cc  f     -     -         2705   20    0 
+cueball   987038460  6  2 Bk  f     -     -         2685   10    0 
+cueball   987038497  5  1 Bf  -     -     -         2675    5    0 
+cueball   987038520  5  5 f   -     -     -         2670    0    0 
+cueball   987038545  5  4 f   -     -     -         2670    0    0 
+cueball   987038554  5  3 f   -     -     -         2670    0    0 
+cueball   987038583  4  2 Bc  k     kf    -         2670   20    0 
+cueball   987038605  4  1 Bc  kf    -     -         2650   10    0 
+cueball   987038628  4  4 f   -     -     -         2640    0    0 
+cueball   987038646  4  3 f   -     -     -         2640    0    0 
+cueball   987038673  4  2 Bc  kc    bc    k         2640   70   83 Ks 8c
+cueball   987038699  4  1 Bc  kf    -     -         2653   20    0 
+cueball   987038712  4  4 r   b     -     -         2633   30   55 
+cueball   987038724  4  3 r   k     k     k         2658   20    0 Qc Jc
+cueball   987038745  4  2 Bc  kc    k     kf        2638   30    0 
+cueball   987038776  4  1 Brr b     bc    kf        2608   90    0 
+cueball   987038799  4  4 c   b     -     -         2518   20   35 
+cueball   987038813  5  3 f   -     -     -         2533    0    0 
+cueball   987038840  5  2 Bc  cc    k     k         2533   40    0 Ks 7s
+cueball   987038911  4  1 Br  -     -     -         2493   20   30 
+cueball   987038918  4  4 f   -     -     -         2503    0    0 
+cueball   987038932  4  3 c   k     k     f         2503   10    0 
+cueball   987038964  3  2 Br  k     k     f         2493   20    0 
+cueball   987038987  3  1 Bf  -     -     -         2473    5    0 
+cueball   987038997  3  3 f   -     -     -         2468    0    0 
+cueball   987039015  3  2 Bk  k     kc    k         2468   30   70 6s 6d
+cueball   987039041  3  1 Bc  kf    -     -         2508   10    0 
+cueball   987039053  3  3 r   b     k     b         2498   50    0 5d 4d
+cueball   987039073  4  2 Bk  b     bc    kc        2448   80  170 Td 2h
+cueball   987039102  4  1 Bc  br    k     k         2538   40   40 Qd 7d
+cueball   987039125  4  4 f   -     -     -         2538    0    0 
+cueball   987039133  4  3 f   -     -     -         2538    0    0 
+cueball   987039160  5  2 Bf  -     -     -         2538   10    0 
+cueball   987039170  5  1 Bc  kr    k     b         2528   50  110 6d Ad
+cueball   987039189  5  5 r   -     -     -         2588   20   35 
+cueball   987039199  4  3 f   -     -     -         2603    0    0 
+cueball   987039205  4  2 Bk  k     b     -         2603   30   40 
+cueball   987039219  4  1 Bf  -     -     -         2613    5    0 
+cueball   987039223  4  4 c   b     -     -         2608   20   40 
+cueball   987039245  4  3 f   -     -     -         2628    0    0 
+cueball   987039248  4  2 Br  c     c     f         2628   60    0 
+cueball   987039288  4  1 Bf  -     -     -         2568    5    0 
+cueball   987039292  5  5 f   -     -     -         2563    0    0 
+cueball   987039313  5  4 f   -     -     -         2563    0    0 
+cueball   987039329  5  3 f   -     -     -         2563    0    0 
+cueball   987039344  5  2 Bc  kc    k     kc        2563   50    0 4s 9s
+cueball   987039367  5  1 Bf  -     -     -         2513    5    0 
+cueball   987039379  5  5 r   c     c     c         2508   80    0 Tc Kh
+cueball   987039399  5  4 f   -     -     -         2428    0    0 
+cueball   987039407  5  3 f   -     -     -         2428    0    0 
+cueball   987039420  5  2 Bc  kf    -     -         2428   20    0 
+cueball   987039437  5  1 Bf  -     -     -         2408    5    0 
+cueball   987039460  5  5 c   c     f     -         2403   20    0 
+cueball   987039484  5  4 f   -     -     -         2383    0    0 
+cueball   987039490  5  3 f   -     -     -         2383    0    0 
+cueball   987039508  5  2 Bk  b     -     -         2383   20   30 
+cueball   987039523  6  1 Bc  kf    -     -         2393   20    0 
+cueball   987039536  6  6 r   bc    c     f         2373   60    0 
+cueball   987039563  6  5 c   f     -     -         2313   20    0 
+cueball   987039577  6  4 f   -     -     -         2293    0    0 
+cueball   987039597  6  3 cc  bc    kc    k         2293   60  165 8s 7c
+cueball   987039631  7  2 Bk  b     k     kc        2398   40   85 9h 9d
+cueball   987039663  8  1 Bf  -     -     -         2443    5    0 
+cueball   987039678  9  9 f   -     -     -         2438    0    0 
+cueball   987039706  9  8 rc  cr    k     Q         2438   80    0 
+cueball   987051390  9  2 Bk  kc    kc    kf        2358   40    0 
+cueball   987051475  8  1 Bc  kc    kf    -         2318   30    0 
+cueball   987051522  8  8 f   -     -     -         2288    0    0 
+cueball   987051568  8  7 c   c     f     -         2288   20    0 
+cueball   987051620  8  6 f   -     -     -         2268    0    0 
+cueball   987051677  7  5 r   r     b     b         2268   80  285 
+cueball   987051783  7  4 f   -     -     -         2473    0    0 
+cueball   987051828  7  3 c   kf    -     -         2473   10    0 
+cueball   987051890  8  2 Bc  bc    kc    kc        2463   80    0 Tc Kc
+cueball   987051967  8  1 Bf  -     -     -         2383    5    0 
+cueball   987052000  8  4 Q   -     -     -         2378    0    0 
+cueball   987368063  7  6 f   -     -     -         1628    0    0 
+cueball   987368102  8  5 f   -     -     -         1628    0    0 
+cueball   987368148  8  4 f   -     -     -         1628    0    0 
+cueball   987368201  8  3 crc brc   brc   kc        1628  180    0 Kc Ks
+cueball   987368273 10  2 Bk  kcc   kf    -         1448   50    0 
+cueball   987368349 10  1 Brr b     k     kf        1398   50    0 
+cueball   987368417  9  9 c   k     Q     -         1348   10    0 
+cueball   987373709  9  8 c   f     -     -         1338   10    0 
+cueball   987373765  9  7 cc  kf    -     -         1328   20    0 
+cueball   987373812  9  6 c   b     f     -         1308   20    0 
+cueball   987373855  9  5 f   -     -     -         1288    0    0 
+cueball   987373916  9  4 f   -     -     -         1288    0    0 
+cueball   987374030  9  3 r   b     b     b         1288   70  210 
+cueball   987374068  9  2 Bk  kf    -     -         1428   10    0 
+cueball   987374123  9  1 Bf  -     -     -         1418    5    0 
+cueball   987374162  8  8 f   -     -     -         1413    0    0 
+cueball   987374202  7  6 f   -     -     -         1413    0    0 
+cueball   987374222  7  4 c   c     f     -         1413   20    0 
+cueball   987374249  6  4 r   c     f     -         1393   30    0 
+cueball   987374270  6  3 f   -     -     -         1363    0    0 
+cueball   987374290  8  2 Bk  kc    k     k         1363   20    0 5s 8d
+cueball   987374343  7  1 Bc  kf    -     -         1343   10    0 
+cueball   987374367  9  9 r   f     -     -         1333   20    0 
+cueball   987374425 10  9 c   f     -     -         1313   20    0 
+cueball   987374476 10  8 f   -     -     -         1293    0    0 
+cueball   987374523  9  6 c   c     k     f         1293   20    0 
+cueball   987374559  8  5 r   k     kf    -         1273   20    0 
+cueball   987374580  8  4 f   -     -     -         1253    0    0 
+cueball   987374609  8  3 c   c     k     f         1253   20    0 
+cueball   987374645  7  2 Bk  kc    k     k         1233   20    0 5s 3h
+cueball   987374668  7  1 Bc  kc    kc    kf        1213   40    0 
+cueball   987374744  7  7 c   b     b     -         1173   40   75 
+cueball   987374773  7  6 c   f     -     -         1208   10    0 
+cueball   987374809  7  5 f   -     -     -         1198    0    0 
+cueball   987374840  7  4 cc  kf    -     -         1198   20    0 
+cueball   987374875  7  3 f   -     -     -         1178    0    0 
+cueball   987374907  7  2 Bc  f     -     -         1178   20    0 
+cueball   987374943  7  1 Bc  b     b     k         1158   40  150 9s 8s
+cueball   987374986  7  7 r   r     k     f         1268   40    0 
+cueball   987375050  6  5 c   k     k     k         1228   10    0 7c Ac
+cueball   987375074  7  4 r   k     k     kf        1218   20    0 
+cueball   987375115  7  3 c   f     -     -         1198   10    0 
+cueball   987375141  7  2 Bk  b     b     b         1188   60    0 Jh 9c
+cueball   987375166  8  1 Br  kc    kf    -         1128   30    0 
+cueball   987375231  8  8 r   k     f     -         1098   20    0 
+cueball   987375259  9  8 r   rr    k     k         1078   60    0 Qs 2s
+cueball   987375297 10  8 r   k     k     f         1018   20    0 
+cueball   987375337 10  7 r   b     k     f          998   30    0 
+cueball   987375396  9  6 r   c     f     -          968   40    0 
+cueball   987375426  9  5 c   b     b     -          928   40  100 
+cueball   987375465  9  4 c   Q     -     -          988   10    0 
+cueball   987407343  8  2 Bk  kf    -     -          978   10    0 
+cueball   987407409  8  1 Bf  -     -     -          968    5    0 
+cueball   987407442  7  7 r   f     -     -          963   20    0 
+cueball   987407494  7  6 cc  c     k     k          943   30  120 Jc 8s
+cueball   987407538  6  5 c   k     k     k         1033   10   40 6h 3d
+cueball   987407595  5  3 c   c     c     f         1063   60    0 
+cueball   987407643  5  2 Bk  b     k     k         1003   20   40 Ad 4c
+cueball   987407684  5  1 Bc  kc    kf    -         1023   30    0 
+cueball   987407725  5  5 rc  f     -     -          993   40    0 
+cueball   987407795  5  4 f   -     -     -          953    0    0 
+cueball   987407826  5  3 c   k     k     k          953   10    0 9c Jd
+cueball   987407909  5  3 c   k     k     f          943   10    0 
+cueball   987407965  5  2 Bk  kf    -     -          933   10    0 
+cueball   987408016  6  1 Br  b     k     k          923   30    0 2d 7h
+cueball   987408105  6  3 Q   -     -     -          893    0    0 
+cueball   987486421 10 10 KQ  -     -     -          818    0    0 
+cueball   987487730  5  3 c   b     b     b          818   60  180 Kc Ac
+cueball   987487765  6  2 Bk  bc    kc    k          938   50  155 Jd 3s
+cueball   987487805  6  1 Bf  -     -     -         1043    5    0 
+cueball   987487849  7  7 f   -     -     -         1038    0    0 
+cueball   987487874  7  6 c   c     kf    -         1038   20    0 
+cueball   987487926  7  5 c   fQ    -     -         1018   10    0 
+cueball   987536600  9  6 c   k     f     -         1008   20    0 
+cueball   987536623  9  5 c   f     -     -          988   10    0 
+cueball   987536673  9  4 cc  ccc   f     -          978   80    0 
+cueball   987536785  9  3 r   k     kf    -          898   20    0 
+cueball   987536835  8  1 Br  kcc   kc    kc         878  140    0 8c 6d
+cueball   987536893  7  1 Br  b     brc   b          738  140  340 
+cueball   987536935  8  8 r   f     -     -          938   20    0 
+cueball   987536986  8  7 fQ  -     -     -          918    0    0 
+cueball   987539475  4  3 c   k     k     f          918   10    0 
+cueball   987539518  3  2 Bk  b     -     -          908   20   35 
+cueball   987539536  3  1 Bc  kf    -     -          923   10    0 
+cueball   987539550  3  3 cc  c     f     -          913   30    0 
+cueball   987539558  3  2 Br  br    kc    kc         883   90  185 Jd Qc
+cueball   987539579  5  1 Bc  kf    -     -          978   10    0 
+cueball   987539596  5  5 f   -     -     -          968    0    0 
+cueball   987539614  5  4 r   k     r     rc         968  120    0 Qc Qh
+cueball   987539672  5  3 c   kf    -     -          848   10    0 
+cueball   987539720  6  2 Bk  kf    -     -          838   10    0 
+cueball   987539752  6  1 Br  b     bc    kc         828   90  300 Jd 9d
+cueball   987539799  6  6 rr  c     f     -         1038   50    0 
+cueball   987539874  7  6 cc  f     Q     -          988   20    0 
+cueball   987573093  5  5 c   b     r     k          968   60    0 7s Ks
+cueball   987573134  5  4 c   k     k     f          908   10    0 
+cueball   987573175  6  3 c   b     kc    kc         898   60    0 4s Ac
+cueball   987573216  6  2 B   -     -     -          838   10   15 
+cueball   987573230  7  1 Bc  k     k     k          843   10    0 7s 5c
+cueball   987573265  7  7 f   -     -     -          833    0    0 
+cueball   987573331  7  6 r   kf    -     -          833   20    0 
+cueball   987573387  6  4 r   b     brc   kf         813  110    0 
+cueball   987573427  6  3 c   k     f     -          703   10    0 
+cueball   987573459  6  2 Bk  kf    -     -          693   10    0 
+cueball   987573515  6  1 Bf  -     -     -          683    5    0 
+cueball   987573543  6  6 f   -     -     -          678    0    0 
+cueball   987573584  6  5 r   b     bc    c          678   90    0 8d 5d
+cueball   987573631  6  4 r   b     b     k          588   50    0 3c 5c
+cueball   987573665  6  3 r   rr    b     b          538  100    0 Qd Ks
+cueball   987573698  6  2 Br  bc    kc    kf         438   60    0 
+cueball   987573746  6  1 Bf  -     -     -          378    5    0 
+cueball   987573770  6  6 f   -     -     -          373    0    0 
+cueball   987573817  6  5 c   f     -     -          373   10    0 
+cueball   987573839  6  4 c   kc    br    b          363  100  215 
+cueball   987573885  7  4 c   b     k     b          478   40   80 
+cueball   987573958  7  4 c   k     b     -          518   30   55 
+cueball   987573985  8  3 f   -     -     -          543    0    0 
+cueball   987574037  8  2 BKQ -     -     -          543   10    0 
+cueball   987749755  7  6 c   b     -     -          943   20   30 
+cueball   987749779  8  6 f   -     -     -          953    0    0 
+cueball   987749826  8  5 f   -     -     -          953    0    0 
+cueball   987749852  8  4 f   -     -     -          953    0    0 
+cueball   987749864  8  3 f   -     -     -          953    0    0 
+cueball   987749896  8  2 Bc  kc    kr    b          953   90  330 Qh Kc
+cueball   987749952  9  1 Bc  bc    krr   bc        1193  160  460 3c 3s
+cueball   987749999  9  9 c   f     -     -         1493   10    0 
+cueball   987750037  9  8 f   -     -     -         1483    0    0 
+cueball   987750080  9  7 f   -     -     -         1483    0    0 
+cueball   987750113  9  6 f   -     -     -         1483    0    0 
+cueball   987750150 10  5 f   -     -     -         1483    0    0 
+cueball   987750189 10  4 KQ  -     -     -         1483    0    0 
+cueball   987750675 10  6 f   -     -     -         1483    0    0 
+cueball   987750703  9  5 f   -     -     -         1483    0    0 
+cueball   987750803 10  4 f   -     -     -         1483    0    0 
+cueball   987750854 10  3 f   -     -     -         1483    0    0 
+cueball   987750940 10  2 BKQ -     -     -         1483   10    0 
+cueball   987770565  9  8 c   f     -     -         1473   20    0 
+cueball   987770581  9  7 cc  kf    -     -         1453   20    0 
+cueball   987770633  9  6 f   -     -     -         1433    0    0 
+cueball   987770674  8  4 f   -     -     -         1433    0    0 
+cueball   987770720  8  3 f   -     -     -         1433    0    0 
+cueball   987770759  8  2 Bc  k     k     kf        1433   20    0 
+cueball   987770787  8  1 Bf  -     -     -         1413    5    0 
+cueball   987770833  8  8 f   -     -     -         1408    0    0 
+cueball   987770867  8  7 f   -     -     -         1408    0    0 
+cueball   987770886  6  4 f   -     -     -         1408    0    0 
+cueball   987770903  6  3 f   -     -     -         1408    0    0 
+cueball   987770929  6  2 Bc  kc    kc    kf        1408   50    0 
+cueball   987770959  6  1 Bf  -     -     -         1358    5    0 
+cueball   987770974  6  6 f   -     -     -         1353    0    0 
+cueball   987771009  6  5 c   k     f     -         1353   10    0 
+cueball   987771034  6  4 f   -     -     -         1343    0    0 
+cueball   987771057  6  3 c   f     -     -         1343   10    0 
+cueball   987771081  6  2 Bk  b     kc    k         1333   40   95 8h 9d
+cueball   987771104  5  1 Bf  -     -     -         1388    5    0 
+cueball   987771119  6  6 c   f     -     -         1383   10    0 
+cueball   987771174  6  5 c   f     -     -         1373   10    0 
+cueball   987771196  6  4 fQ  -     -     -         1363    0    0 
+cueball   987792912  7  4 c   k     k     f         1363   10    0 
+cueball   987792965  6  2 f   -     -     -         1353    0    0 
+cueball   987793014  5  2 Bk  f     -     -         1353   10    0 
+cueball   987793038  4  1 Bc  b     kf    -         1343   30    0 
+cueball   987793061  4  4 f   -     -     -         1313    0    0 
+cueball   987793085  4  3 c   kf    -     -         1313   10    0 
+cueball   987793137  4  2 Bk  kf    -     -         1303   10    0 
+cueball   987793190  4  1 Bf  -     -     -         1293    5    0 
+cueball   987793204  4  4 c   k     Q     -         1288   10    0 
+cueball   987818435 10 10 KQ  -     -     -         1278    0    0 
+cueball   987890826  6  3 f   -     -     -         2208    0    0 
+cueball   987890875  6  2 Bk  b     bc    bc        2208  100  285 7c 6d
+cueball   987890917  6  1 Bf  -     -     -         2393    5    0 
+cueball   987890978  6  6 f   -     -     -         2388    0    0 
+cueball   987891010  7  6 f   -     -     -         2388    0    0 
+cueball   987891075  7  5 f   -     -     -         2388    0    0 
+cueball   987891128  7  4 c   kc    kc    kf        2388   50    0 
+cueball   987891188  8  4 f   -     -     -         2338    0    0 
+cueball   987891224  8  3 f   -     -     -         2338    0    0 
+cueball   987891260  7  2 Bk  kc    kc    k         2338   40    0 8h 7d
+cueball   987891338  7  1 Bc  kc    kc    b         2298   60  150 
+cueball   987891381  6  6 cc  c     k     k         2388   30  130 Js 8c
+cueball   987891415  6  5 c   k     k     k         2488   10    0 3h Ad
+cueball   987891471  7  5 c   k     k     k         2478   10    0 3s As
+cueball   987891511  7  4 f   -     -     -         2468    0    0 
+cueball   987891538  7  3 f   -     -     -         2468    0    0 
+cueball   987891575  7  2 Bc  br    b     k         2468  100  495 Jd Qs
+cueball   987891622  6  1 Bf  -     -     -         2863    5    0 
+cueball   987891674  6  6 f   -     -     -         2858    0    0 
+cueball   987891695  6  5 f   -     -     -         2858    0    0 
+cueball   987891742  6  4 c   k     f     -         2858   10    0 
+cueball   987891788  6  3 fQ  -     -     -         2848    0    0 
+cueball   987901299 10  2 BKQ -     -     -         2848   10    0 
+cueball   987903809 10  9 f   -     -     -         2838    0    0 
+cueball   987903896 10  8 f   -     -     -         2838    0    0 
+cueball   987903932 10  7 f   -     -     -         2838    0    0 
+cueball   987904007 10  6 r   b     b     k         2838   50  145 Ks Kd
+cueball   987904042 10  6 c   f     -     -         2933   10    0 
+cueball   987904103  9  4 f   -     -     -         2923    0    0 
+cueball   987904181  8  2 f   -     -     -         2923    0    0 
+cueball   987904208  9  2 Bk  kf    -     -         2923   10    0 
+cueball   987904260  9  1 Bc  kf    -     -         2913   10    0 
+cueball   987904317  9  9 c   c     f     -         2903   20    0 
+cueball   987904374  9  8 c   b     b     b         2883   60    0 9s 3s
+cueball   987904450 10  8 r   f     -     -         2823   20    0 
+cueball   987904495 10  7 f   -     -     -         2803    0    0 
+cueball   987904533 10  6 f   -     -     -         2803    0    0 
+cueball   987904623  9  5 f   -     -     -         2803    0    0 
+cueball   987904654 10  4 f   -     -     -         2803    0    0 
+cueball   987904679 10  3 f   -     -     -         2803    0    0 
+cueball   987904717 10  2 Bc  kc    k     bc        2803   70    0 As 7s
+cueball   987904775 10  1 Bc  kf    -     -         2733   10    0 
+cueball   987904821 10 10 c   c     c     f         2723   50    0 
+cueball   987904900 10  9 f   -     -     -         2673    0    0 
+cueball   987904952 10  8 c   k     c     f         2673   30    0 
+cueball   987905051 10  7 f   -     -     -         2618    0    0 
+cueball   987905107 10  6 c   k     k     f         2618   10    0 
+cueball   987905148 10  5 f   -     -     -         2608    0    0 
+cueball   987905159 10  4 cc  kf    -     -         2608   20    0 
+cueball   987905209 10  3 f   -     -     -         2588    0    0 
+cueball   987905279 10  2 Bk  kf    -     -         2588   10    0 
+cueball   987905331 10  1 Bf  -     -     -         2578    5    0 
+cueball   987905361 10 10 f   -     -     -         2573    0    0 
+cueball   987905383 10  9 f   -     -     -         2573    0    0 
+cueball   987905406 10  8 c   f     -     -         2573   10    0 
+cueball   987905448 10  7 fQ  -     -     -         2563    0    0 
+cueball   988011445  9  3 cr  kc    kf    -         1000   50    0 
+cueball   988011524  9  2 Bk  kf    -     -          950   10    0 
+cueball   988011576 10  1 Br  b     b     b          940   70    0 Qh Qs
+cueball   988011625 10 10 c   c     br    b          870  100  305 6d 7d
+cueball   988011687 10  9 f   -     -     -         1075    0    0 
+cueball   988011742 10  8 c   c     f     -         1075   20    0 
+cueball   988011798 10  7 f   -     -     -         1055    0    0 
+cueball   988011852 10  6 f   -     -     -         1055    0    0 
+cueball   988011946 10  5 f   -     -     -         1055    0    0 
+cueball   988012005 10  4 ccc kf    -     -         1055   40    0 
+cueball   988012045  9  2 Bk  kf    -     -         1015   10    0 
+cueball   988012074  8  1 Bc  k     k     k         1005   20   80 7c Jc
+cueball   988012137  8  8 c   f     -     -         1065   10    0 
+cueball   988012176  8  7 f   -     -     -         1055    0    0 
+cueball   988012204  8  6 rc  b     k     f         1055   40    0 
+cueball   988012245  8  5 r   kf    -     -         1015   20    0 
+cueball   988012298  8  4 cc  kf    -     -          995   20    0 
+cueball   988012329  8  3 f   -     -     -          975    0    0 
+cueball   988012376  8  2 Bc  c     c     k          975   50  200 6c Td
+cueball   988012412  7  1 Bf  -     -     -         1125    5    0 
+cueball   988012454  8  8 f   -     -     -         1120    0    0 
+cueball   988012544  8  7 f   -     -     -         1120    0    0 
+cueball   988012599  8  6 f   -     -     -         1120    0    0 
+cueball   988012635  8  5 f   -     -     -         1120    0    0 
+cueball   988012698  7  3 c   cc    c     c         1120   70  150 Ac Th
+cueball   988012766  6  2 Bk  k     k     kf        1200   10    0 
+cueball   988012810  4  1 Br  kf    -     -         1190   40    0 
+cueball   988012877  4  4 cr  r     k     k         1150   50  130 Qd Qc
+cueball   988012936  6  4 c   f     -     -         1230   10    0 
+cueball   988012957  5  2 Bf  -     -     -         1220   10    0 
+cueball   988012972  5  1 Bc  kf    -     -         1210   20    0 
+cueball   988013007  5  5 cc  f     -     -         1190   20    0 
+cueball   988013038  4  3 cc  f     -     -         1170   20    0 
+cueball   988013052  4  2 Bc  c     c     c         1150   70    0 Jd 8s
+cueball   988013069  4  1 Bc  kf    -     -         1080   10    0 
+cueball   988013083  3  3 rc  c     c     f         1070   60    0 
+cueball   988013096  3  2 Bc  c     rf    -         1010   70    0 
+cueball   988013113  3  1 Bc  k     k     k          940   10   20 3c 3s
+cueball   988013128  3  3 c   c     f     -          950   20    0 
+cueball   988013143  3  2 Bc  kc    kf    -          930   30    0 
+cueball   988013160  3  1 Br  -     -     -          900   20   30 
+cueball   988013167  3  3 rr  r     k     k          910   60    0 8s 8c
+cueball   988013188  3  2 Bc  r     rc    c          850  120    0 5h 7d
+cueball   988013210  3  1 Br  b     b     b          730   70    0 4h 3h
+cueball   988013231  3  3 r   rr    c     f          660   80    0 
+cueball   988013249  3  2 Br  f     -     -          580   20    0 
+cueball   988013258  3  1 Brr b     b     k          560   70    0 4h Jh
+cueball   988013278  4  4 r   r     rr    rr         490  200  415 As 7d
+cueball   988013305  4  3 r   b     -     -          705   30   60 
+cueball   988013316  4  2 Br  b     -     -          735   30   55 
+cueball   988013328  4  1 Brr kc    kc    kc         760  110    0 Ks Js
+cueball   988013365  4  4 rc  c     f     -          650   50    0 
+cueball   988013382  4  3 r   b     rc    c          600  110  230 Jd Ac
+cueball   988013401  4  2 Br  br    b     b          720  100  235 7h 7c
+cueball   988013423  4  1 Br  k     k     b          855   50  110 3h 7s
+cueball   988013442  4  4 rr  c     c     c          915   90    0 5s Qs
+cueball   988013464  4  3 cc  b     k     k          825   30   75 2c 4h
+cueball   988013483  4  2 Bc  kf    -     -          870   20    0 
+cueball   988013496  4  1 Bf  -     -     -          850    5    0 
+cueball   988013510  4  4 c   f     -     -          845   20    0 
+cueball   988013522  4  3 f   -     -     -          825    0    0 
+cueball   988013535  4  2 Brc bc    kf    -          825   60    0 
+cueball   988013557  4  1 Br  b     bc    kf         765   70    0 
+cueball   988013584  5  5 rc  f     -     -          695   40    0 
+cueball   988013623  5  4 r   k     b     -          655   40   75 
+cueball   988013642  5  3 r   kf    -     -          690   20    0 
+cueball   988013698  5  2 Br  b     b     -          670   50  105 
+cueball   988013733  5  1 Br  k     k     k          725   20    0 8s 4d
+cueball   988013768  5  5 rc  c     c     f          705  100    0 
+cueball   988013802  5  4 r   br    k     k          605   50  130 Th 8h
+cueball   988013834  5  3 rc  kc    kc    kc         685   80    0 8h 8s
+cueball   988013861  5  2 Brc r     rr    r          605  180    0 3d Kc
+cueball   988013887  5  1 BQ  -     -     -          425    5    0 
+cueball   988056784  8  6 c   k     k     k          420   10    0 2d Ks
+cueball   988056848  8  5 c   r     k     k          410   30  135 7c Th
+cueball   988056895  8  3 f   -     -     -          515    0    0 
+cueball   988056951  8  3 f   -     -     -          515    0    0 
+cueball   988056989  8  2 Bc  k     r     k          515   60  170 As 8c
+cueball   988057049  8  1 Bf  -     -     -          625    5    0 
+cueball   988057126  8  8 c   b     k     k          620   20   80 8c 4d
+cueball   988057168  9  8 cc  k     cc    k          680   80    0 9c Qc
+cueball   988057240  9  8 c   f     -     -          600   10    0 
+cueball   988057283  7  5 c   rc    c     r          590  100  295 4h 2s
+cueball   988057325  7  4 fQ  -     -     -          785    0    0 
+cueball   988094936  3  3 f   -     -     -          830    0    0 
+cueball   988094939  3  2 Bc  k     c     b          830   60  100 
+cueball   988094963  3  1 Bf  -     -     -          870    5    0 
+cueball   988094967  3  3 c   r     b     k          865   50  105 9h Qc
+cueball   988094991  3  2 Bc  b     k     r          920   70  140 Th Jc
+cueball   988095015  3  1 Bcc kf    -     -          990   20    0 
+cueball   988095045  3  3 f   -     -     -          970    0    0 
+cueball   988095068  3  2 Bc  k     b     -          970   40   80 
+cueball   988095087  3  1 Bf  -     -     -         1010    5    0 
+cueball   988095101  3  3 f   -     -     -         1005    0    0 
+cueball   988095107  3  2 B   -     -     -         1005   10   15 
+cueball   988095110  4  1 Bf  -     -     -         1010    5    0 
+cueball   988095117  4  4 f   -     -     -         1005    0    0 
+cueball   988095131  4  3 c   f     -     -         1005   10    0 
+cueball   988095148  4  2 Bc  kc    kc    kf         995   50    0 
+cueball   988095200  3  1 Bc  k     k     k          945   10   30 Ah 8c
+cueball   988095227  4  3 r   -     -     -          965   20   35 
+cueball   988095238  4  2 Bc  kf    -     -          980   20    0 
+cueball   988095274  4  1 Bf  -     -     -          960    5    0 
+cueball   988095283  4  4 cr  k     k     k          955   40    0 Qc Tc
+cueball   988095316  4  3 f   -     -     -          915    0    0 
+cueball   988095340  4  2 B   -     -     -          915   10   15 
+cueball   988095343  4  1 Bc  kf    -     -          920   20    0 
+cueball   988095362  4  4 cc  c     f     -          900   40    0 
+cueball   988095395  4  3 f   -     -     -          860    0    0 
+cueball   988095424  4  2 Bf  -     -     -          860   10    0 
+cueball   988095443  4  1 Bc  k     b     b          850   60  120 
+cueball   988095469  5  5 f   -     -     -          910    0    0 
+cueball   988095492  5  4 r   f     -     -          910   20    0 
+cueball   988095512  5  3 f   -     -     -          890    0    0 
+cueball   988095548  5  2 Bk  k     f     -          890   10    0 
+cueball   988095588  5  1 Bf  -     -     -          880    5    0 
+cueball   988095603  4  4 f   -     -     -          875    0    0 
+cueball   988095610  4  3 f   -     -     -          875    0    0 
+cueball   988095626  4  2 BQ  -     -     -          875   10    0 
+cueball   988183361  7  2 KQ  -     -     -          882    0    0 
+cueball   988185289 10  7 r   c     f     -          882   30    0 
+cueball   988185340 10  6 cc  c     c     c          852   70    0 5c Jd
+cueball   988185387 10  5 r   c     c     k          782   50    0 8h 9c
+cueball   988185427 10  4 fQ  -     -     -          732    0    0 
+cueball   988227146 10  1 Bc  b     k     k          732   20   70 3c Jd
+cueball   988227181  9  9 c   f     -     -          782   10    0 
+cueball   988227229  9  9 c   k     k     b          772   30   75 
+cueball   988227291  9  8 c   f     -     -          817   20    0 
+cueball   988227327  9  8 c   k     k     f          797   10    0 
+cueball   988227370  8  6 c   cc    f     -          787   40    0 
+cueball   988227423  7  4 c   c     b     b          747   70  180 Qd 9d
+cueball   988227469  7  4 f   -     -     -          857    0    0 
+cueball   988227527  8  4 cc  c     c     f          857   50    0 
+cueball   988227557  7  2 Bk  k     k     kf         807   10    0 
+cueball   988227595  7  1 Bf  -     -     -          797    5    0 
+cueball   988227650  6  6 f   -     -     -          792    0    0 
+cueball   988227687  6  6 c   k     b     -          792   30   65 
+cueball   988227711  6  5 f   -     -     -          827    0    0 
+cueball   988227732  6  4 c   kf    -     -          827   10    0 
+cueball   988227744  6  3 f   -     -     -          817    0    0 
+cueball   988227777  6  2 Bk  kc    kf    -          817   20    0 
+cueball   988227817  6  1 Bc  kc    kc    kc         797   70    0 8c 8h
+cueball   988227843  6  6 r   b     k     k          727   30  125 Jh Js
+cueball   988227882  6  5 f   -     -     -          822    0    0 
+cueball   988227902  6  4 c   f     -     -          822   10    0 
+cueball   988227940  7  3 f   -     -     -          812    0    0 
+cueball   988227967  7  2 Bk  b     b     bc         812   80    0 Js 5h
+cueball   988227999  6  1 Br  b     b     kf         732   50    0 
+cueball   988228061  6  6 cr  f     -     -          682   40    0 
+cueball   988228115  5  5 c   k     k     f          642   10    0 
+cueball   988228139  5  4 c   bc    c     f          632   50    0 
+cueball   988228162  5  3 c   b     -     -          582   20   50 
+cueball   988228179  6  2 Bk  k     b     k          612   30    0 Js 4h
+cueball   988228218  5  1 Bc  bc    kf    -          582   30    0 
+cueball   988228246  5  5 r   b     b     -          552   50  110 
+cueball   988228299  7  5 cr  kf    -     -          612   30    0 
+cueball   988228368  8  4 r   b     b     -          582   50  110 
+cueball   988228400  8  3 r   k     k     k          642   20   75 Th Tc
+cueball   988228438  9  2 Br  k     f     -          697   20    0 
+cueball   988228499 10  1 Bc  kf    -     -          677   10    0 
+cueball   988228544 10  3 Q   -     -     -          667    0    0 
+cueball   988247189 10 10 r   f     -     -          667   20    0 
+cueball   988247265 10  9 c   k     k     c          647   30    0 7s 9c
+cueball   988247353 10  8 r   k     f     -          617   20    0 
+cueball   988247401 10  7 c   r     c     k          597   60    0 8s Qs
+cueball   988247461 10  6 c   bc    kf    -          537   30    0 
+cueball   988247507 10  5 c   kc    bc    kc         507   80    0 Kc Jh
+cueball   988247562 10  4 c   f     -     -          427   20    0 
+cueball   988247625 10  3 crc c     r     kc         407  110    0 8c 4c
+cueball   988247693 10  2 Bk  krc   k     kf         297   50    0 
+cueball   988247765 10  1 Bc  brQ   -     -          247   40    0 
+cueball   988266114  8  7 r   b     -     -          207   30   95 
+cueball   988266158  8  6 c   cr    b     b          272   90    0 4h 2c
+cueball   988266229  8  5 rr  b     b     f          182   70    0 
+cueball   988266276  8  4 r   b     b     f          112   50    0 
+cueball   988266319  8  3 rr  brA   -     -           62   62    0 2c 5c
+cueball   988266413  8  8 c   c     c     rc        1000  100  265 Js Td
+cueball   988266473  9  7 f   -     -     -         1165    0    0 
+cueball   988266576  9  6 f   -     -     -         1165    0    0 
+cueball   988266625  9  5 c   kc    kf    -         1165   20    0 
+cueball   988266687 10  4 cc  f     -     -         1145   20    0 
+cueball   988266744 10  3 f   -     -     -         1125    0    0 
+cueball   988266824 10  2 Bk  kf    -     -         1125   10    0 
+cueball   988266869 10  1 Bf  -     -     -         1115    5    0 
+cueball   988266909 10 10 f   -     -     -         1110    0    0 
+cueball   988266970 10  9 f   -     -     -         1110    0    0 
+cueball   988267021 10  8 f   -     -     -         1110    0    0 
+cueball   988267092 10  7 fQ  -     -     -         1110    0    0 
+cueball   988439900 10  7 KQ  -     -     -         1110    0    0 
+cueball   988525767 10  8 KQ  -     -     -         1125    0    0 
+cueball   988659551  7  6 c   b     b     -         1125   40   85 
+cueball   988659609  8  5 f   -     -     -         1170    0    0 
+cueball   988659655  6  3 c   k     kc    k         1170   30   80 Qd Ad
+cueball   988659694  7  3 f   -     -     -         1220    0    0 
+cueball   988659727  7  2 Bc  kc    kc    kf        1220   50    0 
+cueball   988659790  8  1 Bf  -     -     -         1170    5    0 
+cueball   988659832  8  8 cc  k     f     -         1165   20    0 
+cueball   988659885  8  7 rc  c     k     c         1145   60    0 5s Js
+cueball   988659965  8  7 c   c     f     -         1085   30    0 
+cueball   988660005  8  6 c   b     b     bc        1055   80  180 As Kc
+cueball   988660068  8  5 c   f     -     -         1155   30    0 
+cueball   988660170  7  4 c   k     c     b         1125   50  135 8s 6c
+cueball   988660215  9  3 c   f     -     -         1210   10    0 
+cueball   988660340  8  2 Bc  kc    kc    kf        1200   60    0 
+cueball   988660385  9  1 Bcc kf    -     -         1140   40    0 
+cueball   988660418  9  4 Q   -     -     -         1100    0    0 

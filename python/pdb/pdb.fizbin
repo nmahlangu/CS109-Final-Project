@@ -1,0 +1,238 @@
+fizbin    987747691 10  6 f   -     -     -         1000    0    0 
+fizbin    987747735 10  5 f   -     -     -         1000    0    0 
+fizbin    987747788 10  4 f   -     -     -         1000    0    0 
+fizbin    987747843 10  3 f   -     -     -         1000    0    0 
+fizbin    987747871 10  2 Bc  kc    kf    -         1000   40    0 
+fizbin    987747922 10  1 Bc  kf    -     -          960   30    0 
+fizbin    987748009 10 10 f   -     -     -          930    0    0 
+fizbin    987748060 10  9 f   -     -     -          930    0    0 
+fizbin    987748126  8  7 f   -     -     -          930    0    0 
+fizbin    987748159  8  6 f   -     -     -          930    0    0 
+fizbin    987748204  8  5 f   -     -     -          930    0    0 
+fizbin    987748255  8  4 c   c     c     r          930   80  105 As Jc
+fizbin    987748304  8  3 c   k     k     k          955   10   35 Ac Kd
+fizbin    987748333  8  2 Bk  kc    kc    kc         980   60  125 Ks 7h
+fizbin    987748365  8  1 Bf  -     -     -         1045    5    0 
+fizbin    987748439  8  8 f   -     -     -         1040    0    0 
+fizbin    987748483  7  6 f   -     -     -         1040    0    0 
+fizbin    987748502  7  5 f   -     -     -         1040    0    0 
+fizbin    987748509  7  4 f   -     -     -         1040    0    0 
+fizbin    987748528  7  3 cc  kc    kf    -         1040   30    0 
+fizbin    987748560  7  2 B   -     -     -         1010   10   15 
+fizbin    987748573  7  1 Bc  kc    kf    -         1015   20    0 
+fizbin    987748608  7  7 f   -     -     -          995    0    0 
+fizbin    987748660  8  7 c   c     f     -          995   20    0 
+fizbin    987748698  8  6 f   -     -     -          975    0    0 
+fizbin    987748747  9  6 c   kf    -     -          975   10    0 
+fizbin    987748794  9  5 f   -     -     -          965    0    0 
+fizbin    987748852  9  4 cc  c     c     c          965   70   80 8h Kh
+fizbin    987748890  9  3 f   -     -     -          975    0    0 
+fizbin    987748962 10  2 Bk  k     kf    -          975   10    0 
+fizbin    987749059 10  1 Bf  -     -     -          965    5    0 
+fizbin    987749113 10 10 f   -     -     -          960    0    0 
+fizbin    987749200 10  9 f   -     -     -          960    0    0 
+fizbin    987749256 10  8 f   -     -     -          960    0    0 
+fizbin    987749382 10  7 c   f     -     -          960   20    0 
+fizbin    987749437 10  6 c   f     -     -          940   20    0 
+fizbin    987749493 10  5 c   k     k     b          920   40   95 
+fizbin    987749523  8  4 cc  b     bc    k          975   70    0 6d Ad
+fizbin    987749755  7  1 Bk  kf    -     -          905   10    0 
+fizbin    987749779  8  1 Bf  -     -     -          895    5    0 
+fizbin    987749826  8  8 f   -     -     -          890    0    0 
+fizbin    987749852  8  7 f   -     -     -          890    0    0 
+fizbin    987749864  8  6 c   k     k     f          890   10    0 
+fizbin    987749896  8  5 c   c     cc    f          880   70    0 
+fizbin    987749952  9  5 f   -     -     -          810    0    0 
+fizbin    987749999  9  4 f   -     -     -          810    0    0 
+fizbin    987750037  9  3 c   kc    kf    -          810   20    0 
+fizbin    987750080  9  2 Bc  kc    kc    kf         790   50    0 
+fizbin    987750113  9  1 Bf  -     -     -          740    5    0 
+fizbin    987750150 10  9 c   k     b     -          735   30   50 
+fizbin    987750189 10  8 f   -     -     -          755    0    0 
+fizbin    987750285  9  7 f   -     -     -          755    0    0 
+fizbin    987750334  8  5 c   f     -     -          755   10    0 
+fizbin    987750386  8  4 c   c     c     f          745   40    0 
+fizbin    987750411  8  3 f   -     -     -          705    0    0 
+fizbin    987750452  8  2 Bc  k     kc    kc         705   60    0 Js Jc
+fizbin    987750500  9  1 Bf  -     -     -          645    5    0 
+fizbin    987750574  9  9 f   -     -     -          640    0    0 
+fizbin    987750616 10  9 c   r     c     k          640   50    0 Td 6d
+fizbin    987750675 10  8 f   -     -     -          590    0    0 
+fizbin    987750703  9  6 cc  c     c     k          590   60  255 Ad Kd
+fizbin    987750803 10  6 f   -     -     -          785    0    0 
+fizbin    987750854 10  5 cc  cc    kc    kf         785   70    0 
+fizbin    987750940 10  4 f   -     -     -          715    0    0 
+fizbin    987751010  8  2 f   -     -     -          715    0    0 
+fizbin    987751053  8  2 Bk  k     k     kf         715   10    0 
+fizbin    987751149  8  1 Bc  kf    -     -          705   30    0 
+fizbin    987751241  8  8 c   f     -     -          675   30    0 
+fizbin    987751323  8  7 c   c     c     f          645   50    0 
+fizbin    987751407  9  7 cc  c     c     f          595   70    0 
+fizbin    987751491 10  7 f   -     -     -          525    0    0 
+fizbin    987751605 10  6 ccc ccc   c     k          525  100    0 8d 9d
+fizbin    987751754 10  5 cc  k     f     -          425   20    0 
+fizbin    987751834 10  4 c   f     -     -          405   10    0 
+fizbin    987751962  8  3 c   r     b     b          395   70  170 
+fizbin    987752028  9  2 Bk  k     b     b          495   50  120 7c 5h
+fizbin    987752079  9  1 Bf  -     -     -          565    5    0 
+fizbin    987752127  9  9 c   k     k     k          560   10    0 7c 8d
+fizbin    987752207  9  8 cc  f     -     -          550   30    0 
+fizbin    987752266  9  7 fQ  -     -     -          520    0    0 
+fizbin    987833894 10  9 f   -     -     -          520    0    0 
+fizbin    987833975 10  8 f   -     -     -          520    0    0 
+fizbin    987834069 10  7 f   -     -     -          520    0    0 
+fizbin    987834137 10  6 cc  kc    kc    kf         520   50    0 
+fizbin    987834209 10  5 f   -     -     -          470    0    0 
+fizbin    987834271 10  4 c   f     -     -          470   10    0 
+fizbin    987834331 10  3 f   -     -     -          460    0    0 
+fizbin    987834443  8  2 Bk  k     kc    kf         460   30    0 
+fizbin    987834486  8  1 Bc  k     kf    -          430   20    0 
+fizbin    987834560  9  9 c   f     -     -          410   20    0 
+fizbin    987834632  8  7 cc  c     f     -          390   40    0 
+fizbin    987834687  8  6 c   f     -     -          350   10    0 
+fizbin    987834734  7  5 c   k     k     k          340   10    0 Jc 3c
+fizbin    987834774  8  4 cc  cc    f     -          330   80    0 
+fizbin    987834846  8  3 f   -     -     -          250    0    0 
+fizbin    987834895  8  2 Bcc kf    -     -          250   40    0 
+fizbin    987834974  7  1 Bc  k     k     b          210   30   40 
+fizbin    987835024  7  7 f   -     -     -          220    0    0 
+fizbin    987835071  7  7 f   -     -     -          220    0    0 
+fizbin    987835118  8  6 f   -     -     -          220    0    0 
+fizbin    987835167  8  5 c   kc    kf    -          220   20    0 
+fizbin    987835277  8  4 f   -     -     -          200    0    0 
+fizbin    987835344  8  3 c   br    b     b          200   80  205 3h Qh
+fizbin    987835390  8  2 Bf  -     -     -          325   10    0 
+fizbin    987835445  8  1 Bc  kc    kf    -          315   20    0 
+fizbin    987835520  5  5 fQ  -     -     -          295    0    0 
+fizbin    987835600  4  2 Bk  c     c     k          295   40    0 3d Th
+fizbin    987835618  4  1 Bc  k     br    b          255   90  200 Kd 8h
+fizbin    987835641  4  4 f   -     -     -          365    0    0 
+fizbin    987835656  4  3 c   k     c     f          365   30    0 
+fizbin    987835681  4  2 Bc  kc    kf    -          335   30    0 
+fizbin    987835701  4  1 Bc  k     brc   brc        305  170  350 9h 9s
+fizbin    987835733  4  4 cc  c     f     -          485   30    0 
+fizbin    987835765  4  3 f   -     -     -          455    0    0 
+fizbin    987835793  4  2 Bk  k     b     -          455   30   45 
+fizbin    987835809  4  1 Bcc kc    k     kc         470   50  130 4c 4s
+fizbin    987835839  4  4 f   -     -     -          550    0    0 
+fizbin    987835859  4  3 c   c     rr    b          550  120  250 Tc 7c
+fizbin    987835880  4  2 Bk  k     b     bc         680   70    0 5c Ah
+fizbin    987835901  4  1 Bf  -     -     -          610    5    0 
+fizbin    987835920  4  4 c   k     k     k          605   10    0 Td 9c
+fizbin    987835938  4  3 c   k     k     f          595   10    0 
+fizbin    987835964  4  2 Bc  ccc   kc    bc         585  120  320 8d Jd
+fizbin    987835993  4  1 Bf  -     -     -          785    5    0 
+fizbin    987836026  4  4 f   -     -     -          780    0    0 
+fizbin    987836039  4  3 cc  f     -     -          780   20    0 
+fizbin    987836054  4  2 Bc  k     c     f          760   40    0 
+fizbin    987836074  4  1 Bc  k     k     b          720   40   70 
+fizbin    987836090  4  4 f   -     -     -          750    0    0 
+fizbin    987836093  4  3 c   k     f     -          750   10    0 
+fizbin    987836123  4  2 Bk  kc    kf    -          740   20    0 
+fizbin    987836147  4  1 Bcc kc    kc    kc         720   70  140 Td Ah
+fizbin    987836171  4  4 f   -     -     -          790    0    0 
+fizbin    987836198  4  3 cc  c     c     c          790   70    0 7h 4h
+fizbin    987836219  4  2 Bk  c     k     k          720   20    0 Qs 5s
+fizbin    987836241  4  1 Bf  -     -     -          700    5    0 
+fizbin    987836246  4  4 rc  c     c     r          695  100  215 Kh As
+fizbin    987836273  4  3 f   -     -     -          810    0    0 
+fizbin    987836278  4  2 Bc  kc    kc    kc         810   70    0 8c Ah
+fizbin    987836295  4  1 Bf  -     -     -          740    5    0 
+fizbin    987836310  4  4 f   -     -     -          735    0    0 
+fizbin    987836314  4  3 f   -     -     -          735    0    0 
+fizbin    987836333  4  2 Bf  -     -     -          735   10    0 
+fizbin    987836341  4  1 Bf  -     -     -          725    5    0 
+fizbin    987836359  4  4 cc  k     k     b          720   40  100 4h As
+fizbin    987836385  4  3 f   -     -     -          780    0    0 
+fizbin    987836406  4  2 Bf  -     -     -          780   10    0 
+fizbin    987836414  4  1 Bc  kc    kc    kc         770   70    0 Qs Td
+fizbin    987836432  5  5 f   -     -     -          700    0    0 
+fizbin    987836461  5  4 cc  kf    -     -          700   20    0 
+fizbin    987836526  6  3 cc  c     c     f          680   50    0 
+fizbin    987836566  6  2 Bf  -     -     -          630   10    0 
+fizbin    987836619  6  1 Bf  -     -     -          620    5    0 
+fizbin    987836658  6  6 c   k     f     -          615   10    0 
+fizbin    987836688  6  5 f   -     -     -          605    0    0 
+fizbin    987836717  6  4 f   -     -     -          605    0    0 
+fizbin    987836745  6  3 f   -     -     -          605    0    0 
+fizbin    987836791  6  2 Bk  kc    kc    kf         605   40    0 
+fizbin    987836825  6  1 Bc  kf    -     -          565   20    0 
+fizbin    987836872  6  6 f   -     -     -          545    0    0 
+fizbin    987836898  6  5 f   -     -     -          545    0    0 
+fizbin    987836906  6  4 cc  kf    -     -          545   30    0 
+fizbin    987836944  6  3 f   -     -     -          515    0    0 
+fizbin    987836978  5  2 Bk  kf    -     -          515   10    0 
+fizbin    987837005  5  1 Bf  -     -     -          505    5    0 
+fizbin    987837035  4  4 c   k     k     k          500   10    0 2h Jh
+fizbin    987837069  4  3 f   -     -     -          490    0    0 
+fizbin    987837101  4  2 B   -     -     -          490   10   15 
+fizbin    987837110  4  1 Bf  -     -     -          495    5    0 
+fizbin    987837129  4  4 c   k     b     k          490   40   95 Ac 5s
+fizbin    987837153  4  3 cc  kc    kc    kf         545   50    0 
+fizbin    987837185  4  2 Bc  k     kf    -          495   20    0 
+fizbin    987837217  4  1 Bc  k     b     -          475   30   40 
+fizbin    987837236  4  4 f   -     -     -          485    0    0 
+fizbin    987837261  4  3 f   -     -     -          485    0    0 
+fizbin    987837280  4  2 Bk  kf    -     -          485   10    0 
+fizbin    987837303  4  1 Bf  -     -     -          475    5    0 
+fizbin    987837309  4  4 f   -     -     -          470    0    0 
+fizbin    987837316  4  3 c   k     f     -          470   10    0 
+fizbin    987837332  4  2 B   -     -     -          460   10   15 
+fizbin    987837337  4  1 Bc  k     kc    k          465   30   70 Qc Js
+fizbin    987837360  4  4 c   f     -     -          505   10    0 
+fizbin    987837379  4  3 f   -     -     -          495    0    0 
+fizbin    987837389  4  2 B   -     -     -          495   10   15 
+fizbin    987837396  4  1 Bc  kc    kc    kc         500   60  140 3d 4d
+fizbin    987837426  4  4 cc  c     c     c          580   70    0 Kc 8h
+fizbin    987837477  4  3 f   -     -     -          510    0    0 
+fizbin    987837483  4  2 Bk  k     kf    -          510   10    0 
+fizbin    987837512  4  1 Bc  kc    kc    kc         500   60    0 5s Ah
+fizbin    987837532  4  4 c   k     k     k          440   10    0 Td 7d
+fizbin    987837553  4  3 cc  c     k     k          430   30    0 9s 4s
+fizbin    987837577  4  2 Bf  -     -     -          400   10    0 
+fizbin    987837598  4  1 Bc  kr    b     b          390   70  150 8d Qd
+fizbin    987837621  4  4 c   k     k     f          470   10    0 
+fizbin    987837645  4  3 f   -     -     -          460    0    0 
+fizbin    987837670  4  2 Bk  k     k     b          460   30   40 
+fizbin    987837691  3  1 Bc  k     b     -          470   30   40 
+fizbin    987837703  3  3 fQ  -     -     -          480    0    0 
+fizbin    988266473  9  8 f   -     -     -          480    0    0 
+fizbin    988266576  9  7 c   f     -     -          480   10    0 
+fizbin    988266625  9  6 f   -     -     -          470    0    0 
+fizbin    988266687 10  5 f   -     -     -          470    0    0 
+fizbin    988266744 10  4 cc  cc    kc    kc         470  100    0 5h Qh
+fizbin    988266824 10  3 f   -     -     -          370    0    0 
+fizbin    988266869 10  2 Bk  k     kc    kc         370   50  105 Kh 9s
+fizbin    988266909 10  1 Bc  kc    kc    kf         425   50    0 
+fizbin    988266970 10 10 c   f     -     -          375   20    0 
+fizbin    988267021 10  9 f   -     -     -          355    0    0 
+fizbin    988267092 10  8 c   b     b     b          355   60  140 
+fizbin    988267158 10  7 c   c     c     k          435   50    0 Jd Kc
+fizbin    988267182 10  6 c   kc    kc    kf         385   50    0 
+fizbin    988267222 10  5 c   kc    kc    kc         335   60  190 Ah 9h
+fizbin    988267270 10  4 f   -     -     -          465    0    0 
+fizbin    988267352 10  3 c   kcc   kf    -          465   30    0 
+fizbin    988267412 10  2 Bk  f     -     -          435   10    0 
+fizbin    988267448 10  1 Bc  k     b     b          425   60  230 Qd Kh
+fizbin    988267501 10 10 c   c     c     r          595   90  195 4h 3h
+fizbin    988267531 10  9 c   c     f     -          700   20    0 
+fizbin    988267576 10  8 f   -     -     -          680    0    0 
+fizbin    988267641 10  7 f   -     -     -          680    0    0 
+fizbin    988267697 10  6 c   c     f     -          680   20    0 
+fizbin    988267733 10  5 f   -     -     -          660    0    0 
+fizbin    988267758 10  4 c   c     r     b          660   80  200 2h Ah
+fizbin    988267792 10  3 f   -     -     -          780    0    0 
+fizbin    988267848 10  2 Bf  -     -     -          780   10    0 
+fizbin    988267883 10  1 Bf  -     -     -          770    5    0 
+fizbin    988267919 10 10 f   -     -     -          765    0    0 
+fizbin    988267986  9  8 f   -     -     -          765    0    0 
+fizbin    988268035  8  6 cc  f     -     -          765   40    0 
+fizbin    988268135  7  5 c   c     bc    c          725   80  170 Ac Jh
+fizbin    988268172  8  4 f   -     -     -          815    0    0 
+fizbin    988268235  8  3 f   -     -     -          815    0    0 
+fizbin    988268293  9  3 f   -     -     -          815    0    0 
+fizbin    988268339  9  2 Bf  -     -     -          815   10    0 
+fizbin    988268477  9  1 Bcc kf    -     -          805   40    0 
+fizbin    988268560 10 10 f   -     -     -          765    0    0 
+fizbin    988268610 10  9 c   c     c     rc         765  140  410 Tc Jh
+fizbin    988268673 10  8 fQ  -     -     -         1035    0    0 

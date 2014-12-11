@@ -1,0 +1,600 @@
+Carson    986725668  6  4 f   -     -     -         2489    0    0 
+Carson    986725702  6  3 f   -     -     -         2489    0    0 
+Carson    986725714  6  2 Bf  -     -     -         2489   10    0 
+Carson    986725757  6  1 Bc  kf    -     -         2479   20    0 
+Carson    986725794  5  5 f   -     -     -         2459    0    0 
+Carson    986725810  5  4 c   f     -     -         2459   10    0 
+Carson    986725848  5  3 f   -     -     -         2449    0    0 
+Carson    986725877  5  2 B   -     -     -         2449   10   15 
+Carson    986725884  5  1 Br  bc    kc    k         2454   70    0 6d 8d
+Carson    986725940  5  5 f   -     -     -         2384    0    0 
+Carson    986725958  5  4 f   -     -     -         2384    0    0 
+Carson    986725991  5  3 f   -     -     -         2384    0    0 
+Carson    986726000  5  2 Bc  bf    -     -         2384   40    0 
+Carson    986726022  5  1 Bf  -     -     -         2344    5    0 
+Carson    986726036  5  5 f   -     -     -         2339    0    0 
+Carson    986726049  5  4 r   b     br    b         2339  110  255 Ad 7h
+Carson    986726089  5  3 f   -     -     -         2484    0    0 
+Carson    986726121  5  2 Bk  k     kf    -         2484   10    0 
+Carson    986726144  5  1 Br  kf    -     -         2474   20    0 
+Carson    986726176  5  5 f   -     -     -         2454    0    0 
+Carson    986726203  5  4 c   k     k     f         2454   10    0 
+Carson    986726268  5  3 r   rr    b     b         2444  100  250 
+Carson    986726306  5  2 B   -     -     -         2594   10   15 
+Carson    986726311  5  1 Br  b     -     -         2599   30   70 
+Carson    986726326  5  5 f   -     -     -         2639    0    0 
+Carson    986726350  5  4 rc  rc    k     k         2639   70    0 8c Qc
+Carson    986726395  5  3 f   Q     -     -         2569    0    0 
+Carson    986727229  5  2 Bk  b     -     -         2569   20   35 
+Carson    986727246  5  1 Br  b     b     k         2584   50    0 9c Qs
+Carson    986727265  5  5 f   -     -     -         2534    0    0 
+Carson    986727283  5  4 rc  bc    kc    k         2534   80    0 3s 6s
+Carson    986727333  5  3 f   -     -     -         2454    0    0 
+Carson    986727364  5  2 Bf  -     -     -         2454   10    0 
+Carson    986727390  5  1 Bf  -     -     -         2444    5    0 
+Carson    986727394  5  5 f   -     -     -         2439    0    0 
+Carson    986727428  5  4 r   k     f     -         2439   20    0 
+Carson    986727452  5  3 r   k     f     -         2419   20    0 
+Carson    986727489  5  2 Bf  -     -     -         2399   10    0 
+Carson    986727536  5  1 Bf  -     -     -         2389    5    0 
+Carson    986727557  5  5 rc  r     k     k         2384   60    0 Qs Kh
+Carson    986727604  5  4 r   -     -     -         2324   20   35 
+Carson    986727613  5  3 f   -     -     -         2339    0    0 
+Carson    986727644  5  2 Bk  b     -     -         2339   20   35 
+Carson    986727658  5  1 Br  b     b     k         2354   60  130 Qs Ad
+Carson    986727695  5  5 r   -     -     -         2424   20   35 
+Carson    986727706  5  4 f   -     -     -         2439    0    0 
+Carson    986727743  5  3 rc  c     c     c         2439   80    0 4d Ac
+Carson    986727769  5  2 Bf  -     -     -         2359   10    0 
+Carson    986727779  5  1 Br  b     b     b         2349   70  160 Tc Ks
+Carson    986727832  5  5 r   k     k     f         2439   20    0 
+Carson    986727851  5  4 rc  c     b     k         2419   60    0 Kd Jc
+Carson    986727886  5  3 r   b     b     -         2359   50   90 
+Carson    986727932  5  2 Br  k     k     kf        2399   20    0 
+Carson    986727983  5  1 Br  k     k     brc       2379  110  140 Kc Ts
+Carson    986728047  5  5 rc  r     c     c         2409  100    0 As 9s
+Carson    986728086  5  4 f   -     -     -         2309    0    0 
+Carson    986728109  5  3 r   b     -     -         2309   30   80 
+Carson    986728147  5  2 Bc  kf    -     -         2359   20    0 
+Carson    986728162  5  1 Br  b     -     -         2339   30   60 
+Carson    986728181  5  5 r   k     f     -         2369   20    0 
+Carson    986728200  5  4 r   b     -     -         2349   30   80 
+Carson    986728223  5  3 r   k     f     -         2399   20    0 
+Carson    986728240  5  2 Bk  kf    -     -         2379   10    0 
+Carson    986728255  5  1 Bf  -     -     -         2369    5    0 
+Carson    986728259  5  3 Q   -     -     -         2364    0    0 
+Carson    987146209  2  2 B   -     -     -         3256   10   15 
+Carson    987146215  2  1 Brc b     b     k         3261   60  120 Qs 3h
+Carson    987146271  2  2 Bc  k     k     f         3321   20    0 
+Carson    987146287  2  1 Br  bc    b     -         3301   60  100 
+Carson    987146307  2  2 Bc  f     -     -         3341   20    0 
+Carson    987146315  2  1 Br  -     -     -         3321   20   30 
+Carson    987146319  2  2 B   -     -     -         3331   10   15 
+Carson    987146321  2  1 Bc  b     -     -         3336   20   30 
+Carson    987146329  2  2 Bc  rc    rc    brc       3346  190  190 Js Qh
+Carson    987146358  2  1 Br  bc    kc    kc        3346   80    0 3h 5c
+Carson    987146382  2  2 Br  b     b     b         3266   80  160 Ad Kh
+Carson    987146408  2  1 Br  bc    kr    b         3346  100  200 Th 7c
+Carson    987146428  2  2 B   -     -     -         3446   10   15 
+Carson    987146436  2  1 Brr bc    bc    kc        3451  120  240 9c 9h
+Carson    987146462  2  2 B   -     -     -         3571   10   15 
+Carson    987146472  2  1 Br  -     -     -         3576   20   30 
+Carson    987146479  2  2 Brc f     -     -         3586   40    0 
+Carson    987146488  2  1 Br  bc    k     b         3546   60  100 
+Carson    987146503  2  2 Brc c     c     c         3586   90    0 Kc 2h
+Carson    987146519  2  1 Br  b     b     -         3496   50   80 
+Carson    987146530  2  2 Brc r     b     b         3526  100  200 8c Qc
+Carson    987146548  2  1 Br  -     -     -         3626   20   30 
+Carson    987146553  2  2 B   -     -     -         3636   10   15 
+Carson    987146556  2  1 Br  -     -     -         3641   20   30 
+Carson    987146561  2  2 Brc f     -     -         3651   40    0 
+Carson    987146572  2  1 Bf  -     -     -         3611    5    0 
+Carson    987146575  2  2 Brc c     c     c         3606   90    0 7c 6h
+Carson    987146592  2  1 Br  -     -     -         3516   20   30 
+Carson    987146599  2  2 Brc c     c     c         3526   90    0 4h Qs
+Carson    987146613  2  1 Brr b     bc    kc        3436  110    0 Kh As
+Carson    987146636  2  2 Brc c     r     b         3326  110  200 
+Carson    987146658  2  1 Br  -     -     -         3416   20   30 
+Carson    987146662  2  2 B   -     -     -         3426   10   15 
+Carson    987146665  2  1 Br  b     bc    kc        3431   90    0 Ad 8h
+Carson    987146684  3  2 Bc  r     k     k         3341   40   80 Jc 5d
+Carson    987146704  3  1 Br  b     -     -         3381   30   50 
+Carson    987146717  3  3 r   br    b     b         3401   90  185 Jh 2h
+Carson    987146735  3  2 Bc  k     b     -         3496   40   60 
+Carson    987146764  3  1 Br  bc    b     -         3516   60  100 
+Carson    987146784  3  3 r   k     f     -         3556   20    0 
+Carson    987146798  3  2 Brc b     b     b         3536   90  230 Kh Qh
+Carson    987146846  3  1 Bc  k     kQ    -         3676   20    0 
+Carson    987658710  7  2 Bk  b     k     k         1000   20   65 7h Kc
+Carson    987658750  7  1 Bf  -     -     -         1045    5    0 
+Carson    987658776  7  7 c   b     f     -         1040   30    0 
+Carson    987658813  7  6 f   -     -     -         1010    0    0 
+Carson    987658836  7  5 f   -     -     -         1010    0    0 
+Carson    987658859  7  4 c   kf    -     -         1010   10    0 
+Carson    987658907  7  3 f   -     -     -         1000    0    0 
+Carson    987658994  9  2 Bk  kf    -     -         1000   10    0 
+Carson    987659138  8  1 Bc  bc    kf    -          990   40    0 
+Carson    987659235  9  8 c   f     -     -          950   10    0 
+Carson    987659295  9  7 r   bc    kc    kc         940   80    0 Qd 3d
+Carson    987659345  9  7 f   -     -     -          860    0    0 
+Carson    987659376  8  5 rc  kf    -     -          860   40    0 
+Carson    987659456  9  4 f   -     -     -          820    0    0 
+Carson    987659499  9  3 f   -     -     -          820    0    0 
+Carson    987659547  9  2 Br  kf    -     -          820   20    0 
+Carson    987659627  9  1 Br  b     b     k          800   50  160 7h 7c
+Carson    987659681  9  9 c   f     -     -          910   10    0 
+Carson    987659774  9  8 f   -     -     -          900    0    0 
+Carson    987659840 10  7 c   f     -     -          900   10    0 
+Carson    987659924  9  6 f   -     -     -          890    0    0 
+Carson    987659967  9  5 f   -     -     -          890    0    0 
+Carson    987660019  9  4 f   -     -     -          890    0    0 
+Carson    987660059 10  3 f   -     -     -          890    0    0 
+Carson    987660087 10  2 Bk  b     bc    k          890   60  185 Jc 6s
+Carson    987660135  9  1 Bf  -     -     -         1015    5    0 
+Carson    987660186  9  9 r   k     b     b         1010   60  160 9d Kh
+Carson    987660234  8  7 f   -     -     -         1110    0    0 
+Carson    987660317  7  5 r   k     b     k         1110   40    0 Qd 7d
+Carson    987660364  8  5 c   br    b     b         1070   80  265 
+Carson    987660464  8  4 f   -     -     -         1255    0    0 
+Carson    987660490  8  3 r   bc    f     -         1255   40    0 
+Carson    987660549  9  2 Bk  f     -     -         1215   10    0 
+Carson    987660594  9  1 Brc b     k     kf        1205   50    0 
+Carson    987660662  9  9 r   f     -     -         1155   20    0 
+Carson    987660774  9  8 f   -     -     -         1135    0    0 
+Carson    987660828  9  7 c   k     f     -         1135   10    0 
+Carson    987660953  9  6 r   b     b     b         1125   70    0 As Td
+Carson    987660998  9  5 f   -     -     -         1055    0    0 
+Carson    987661078  8  4 f   -     -     -         1055    0    0 
+Carson    987661182 10  3 fQ  -     -     -         1055    0    0 
+Carson    987677982  2  2 B   -     -     -         1055   10   15 
+Carson    987744186  8  2 Bf  -     -     -         1060   10    0 
+Carson    987744244  8  1 Bf  -     -     -         1050    5    0 
+Carson    987744295  8  8 f   -     -     -         1045    0    0 
+Carson    987744331  7  6 c   f     -     -         1045   20    0 
+Carson    987744399  7  5 f   -     -     -         1025    0    0 
+Carson    987744458  7  4 f   -     -     -         1025    0    0 
+Carson    987744495  8  4 f   -     -     -         1025    0    0 
+Carson    987744541  7  2 Bcc kf    -     -         1025   30    0 
+Carson    987744612  7  1 Bc  b     b     b          995   70    0 Ks Qd
+Carson    987744654  8  8 c   f     -     -          925   10    0 
+Carson    987744695  9  8 f   -     -     -          915    0    0 
+Carson    987744736  9  7 f   -     -     -          915    0    0 
+Carson    987744808  9  6 f   -     -     -          915    0    0 
+Carson    987744866  9  5 r   k     k     f          915   20    0 
+Carson    987744970  9  4 cc  b     bc    kf         895   70    0 
+Carson    987745061 10  3 Q   -     -     -          825    0    0 
+Carson    987747067 10  8 KQ  -     -     -          825    0    0 
+Carson    987747515 10 10 f   -     -     -          825    0    0 
+Carson    987747600  9  8 f   -     -     -          825    0    0 
+Carson    987747649  9  7 f   -     -     -          825    0    0 
+Carson    987747691 10  7 f   -     -     -          825    0    0 
+Carson    987747735 10  6 f   -     -     -          825    0    0 
+Carson    987747788 10  6 f   -     -     -          825    0    0 
+Carson    987747843 10  4 r   -     -     -          825   20   35 
+Carson    987747871 10  3 rc  b     bc    kc         840  100    0 Qd 9d
+Carson    987747922 10  2 Bf  -     -     -          740   10    0 
+Carson    987748009 10  1 BKQ -     -     -          730    5    0 
+Carson    987856755  5  5 cc  c     c     c          725   70    0 3h 5d
+Carson    987856796  5  4 f   -     -     -          655    0    0 
+Carson    987856807  5  3 c   f     -     -          655   10    0 
+Carson    987856885  5  2 BQ  -     -     -          645   10    0 
+Carson    987856947  5  5 f   -     -     -          635    0    0 
+Carson    987857014  5  4 f   -     -     -          635    0    0 
+Carson    987857038  5  3 rc  kc    b     b          635   80    0 7c Ks
+Carson    987857183  5  2 Br  b     -     -          555   30   55 
+Carson    987857211  6  1 Bc  k     b     k          580   30    0 6h 3c
+Carson    987857331  4  4 f   -     -     -          550    0    0 
+Carson    987857373  4  4 f   -     -     -          550    0    0 
+Carson    987857405  5  4 f   -     -     -          550    0    0 
+Carson    987857449  5  3 f   -     -     -          550    0    0 
+Carson    987857494  6  2 Bc  kf    -     -          550   20    0 
+Carson    987857544  5  1 Br  b     b     k          530   50    0 2s Js
+Carson    987857583  5  5 r   f     -     -          480   20    0 
+Carson    987857615  5  4 r   bc    kc    kc         460   80    0 3d 6s
+Carson    987857681  5  3 r   -     -     -          380   20   35 
+Carson    987857693  5  2 B   -     -     -          395   10   15 
+Carson    987857703  5  1 Br  -     -     -          400   20   40 
+Carson    987857724  5  5 c   f     -     -          420   10    0 
+Carson    987857773  5  4 r   f     -     -          410   20    0 
+Carson    987857803  5  3 f   -     -     -          390    0    0 
+Carson    987857859  5  2 Br  b     b     b          390   80  225 7s 3h
+Carson    987857908  6  1 Bf  -     -     -          535    5    0 
+Carson    987857956  6  6 f   -     -     -          530    0    0 
+Carson    987858006  6  5 c   f     -     -          530   10    0 
+Carson    987858054  7  4 f   -     -     -          520    0    0 
+Carson    987858092  7  3 f   -     -     -          520    0    0 
+Carson    987858174  7  2 Bc  kc    b     k          520   50    0 Js Td
+Carson    987858253  6  1 Br  kf    -     -          470   20    0 
+Carson    987858285  6  6 r   cc    c     c          450   90    0 Ac Kh
+Carson    987858342  6  5 f   -     -     -          360    0    0 
+Carson    987858372  6  4 r   b     b     b          360   70  160 
+Carson    987858479  6  3 r   k     k     k          450   20    0 Ah Jc
+Carson    987858518  7  2 Bk  k     b     -          430   30   60 
+Carson    987858574  7  1 Br  k     k     kf         460   30    0 
+Carson    987858646  7  7 c   k     c     f          430   30    0 
+Carson    987858706  7  6 r   f     -     -          400   20    0 
+Carson    987858753  6  4 c   f     -     -          380   10    0 
+Carson    987858776  6  4 f   -     -     -          370    0    0 
+Carson    987858805  6  3 f   -     -     -          370    0    0 
+Carson    987858834  6  3 f   -     -     -          370    0    0 
+Carson    987858882  6  2 Bk  b     -     -          370   20   35 
+Carson    987858893  5  1 Bf  -     -     -          385    5    0 
+Carson    987858904  6  6 r   b     r     b          380   90    0 7c 8c
+Carson    987858944  6  5 r   b     b     k          290   60  170 Kc 2c
+Carson    987858979  6  4 f   -     -     -          400    0    0 
+Carson    987859009  6  3 r   b     b     b          400   70  165 9s 2s
+Carson    987859045  6  2 Br  b     b     b          495   70  160 
+Carson    987859094  6  1 Bf  -     -     -          585    5    0 
+Carson    987859110  6  6 c   f     -     -          580   10    0 
+Carson    987859165  6  5 c   b     k     k          570   20   33 7s 3s
+Carson    987859192  5  4 f   -     -     -          583    0    0 
+Carson    987859207  5  3 f   -     -     -          583    0    0 
+Carson    987859232  5  2 Bk  b     b     b          583   60  130 8d Ah
+Carson    987859256  4  1 Bc  kf    -     -          653   20    0 
+Carson    987859281  4  4 f   -     -     -          633    0    0 
+Carson    987859303  4  3 c   k     k     -          633   10   30 
+Carson    987859543  3  1 B   -     -     -          653   10   10 
+Carson    987859546  2  1 Bf  -     -     -          653    5    0 
+Carson    987859549  2  2 B   -     -     -          648   10   15 
+Carson    987859551  2  1 Bf  -     -     -          653    5    0 
+Carson    987859553  2  2 Bk  f     -     -          648   10    0 
+Carson    987859560  2  1 Bf  -     -     -          638    5    0 
+Carson    987859561  2  2 Bk  k     k     f          633   10    0 
+Carson    987859574  2  1 Bf  -     -     -          623    5    0 
+Carson    987859576  2  2 Bk  k     k     k          618   10    0 6h 4h
+Carson    987859596  2  1 Bc  b     b     b          608   60   60 7d Ah
+Carson    987859621  2  2 Br  b     -     -          608   30   50 
+Carson    987859639  2  1 Br  b     b     k          628   50  100 6d 7s
+Carson    987859654  2  2 Br  f     -     -          678   20    0 
+Carson    987859666  2  1 Br  bf    -     -          658   30    0 
+Carson    987859675  2  2 Br  k     k     k          628   20   40 8d 2d
+Carson    987859689  2  1 Br  -     -     -          648   20   30 
+Carson    987859695  2  2 Br  -     -     -          658   20   30 
+Carson    987859705  2  1 Br  b     bf    -          668   50    0 
+Carson    987859717  2  2 Br  b     b     -          618   50   80 
+Carson    987859728  2  1 Br  k     k     k          648   20   40 Td 3d
+Carson    987859743  2  2 Br  b     b     b          668   70  120 
+Carson    987859769  2  1 Br  k     k     kf         718   20    0 
+Carson    987859790  2  2 Br  -     -     -          698   20   30 
+Carson    987859800  2  1 Br  b     k     k          708   30    0 6d Th
+Carson    987859819  2  2 Br  k     k     f          678   20    0 
+Carson    987859838  2  1 Br  b     b     -          658   50   80 
+Carson    987859849  2  2 Br  k     k     k          688   20    0 6s 5d
+Carson    987859864  2  1 Brr b     b     b          668   90  160 
+Carson    987859883  2  2 B   -     -     -          738   10   15 
+Carson    987859885  2  1 Br  b     bf    -          743   50    0 
+Carson    987859898  3  3 r   b     k     k          693   30    0 5s 3d
+Carson    987859945  3  2 Br  b     -     -          663   30   50 
+Carson    987859992  3  1 Br  bc    kc    kf         683   60    0 
+Carson    987860045  3  3 r   b     k     f          623   30    0 
+Carson    987860071  3  2 Br  b     -     -          593   30   50 
+Carson    987860103  3  1 Br  kf    -     -          613   20    0 
+Carson    987860140  3  3 Q   -     -     -          593    0    0 
+Carson    987931444  4  3 r   b     bc    r          593  110  225 6s 4s
+Carson    987931473  4  2 Bc  bc    kc    f          708   60    0 
+Carson    987931542  3  1 Bc  b     -     -          648   20   30 
+Carson    987931560  3  3 r   b     bc    c          658   90    0 2h Jh
+Carson    987931584  3  2 Br  b     -     -          568   40   75 
+Carson    987931599  3  1 Bc  bc    kc    kf         603   50    0 
+Carson    987931622  3  3 f   -     -     -          553    0    0 
+Carson    987931629  3  2 Br  b     r     b          553   90  180 Ts Ks
+Carson    987931658  3  1 Bf  -     -     -          643    5    0 
+Carson    987931670  3  3 r   b     bc    c          638   90    0 6c Ad
+Carson    987931701  3  2 Br  bc    k     kc         548   70    0 6d As
+Carson    987931728  3  1 Br  b     bc    kf         478   70    0 
+Carson    987931753  3  3 f   Q     -     -          408    0    0 
+Carson    987942275  4  4 r   k     f     -          408   20    0 
+Carson    987942312  5  3 r   f     -     -          388   20    0 
+Carson    987942340  6  2 Br  b     b     b          368   70  160 
+Carson    987942397  6  1 Bf  -     -     -          458    5    0 
+Carson    987942418  6  6 r   r     b     b          453   80  165 
+Carson    987942470  6  5 r   k     b     k          538   50    0 8h 7d
+Carson    987942522  8  4 f   -     -     -          488    0    0 
+Carson    987942572  8  3 rr  b     b     k          488   70    0 9h Qs
+Carson    987942631  8  2 Bc  kf    -     -          418   20    0 
+Carson    987942678  8  1 Bc  kf    -     -          398   20    0 
+Carson    987942774  8  8 f   -     -     -          378    0    0 
+Carson    987942843  8  7 cc  rr    c     c          378  120    0 6d 8h
+Carson    987942918  7  5 rc  fQ    -     -          258   30    0 
+Carson    987946645  8  3 rr  kf    -     -          228   40    0 
+Carson    987946723  8  2 Bf  -     -     -          188   10    0 
+Carson    987946776  9  1 Bf  -     -     -          178    5    0 
+Carson    987946894  8  8 f   -     -     -          173    0    0 
+Carson    987946926  8  7 f   Q     -     -          173    0    0 
+Carson    987948056  8  4 f   -     -     -          173    0    0 
+Carson    987948111  9  3 fQ  -     -     -          173    0    0 
+Carson    987948622 10  3 rr  f     -     -          173   40    0 
+Carson    987948716 10  2 Bk  b     b     kf         133   40    0 
+Carson    987948801  8  1 Bf  -     -     -           93    5    0 
+Carson    987948860  8  8 f   -     -     -           88    0    0 
+Carson    987948898  9  8 f   -     -     -           88    0    0 
+Carson    987948939  9  7 f   -     -     -           88    0    0 
+Carson    987949014 10  6 f   -     -     -           88    0    0 
+Carson    987949049 10  5 f   -     -     -           88    0    0 
+Carson    987949101 10  4 r   cc    f     -           88   40    0 
+Carson    987949164 10  3 f   -     -     -           48    0    0 
+Carson    987949227  9  2 Bk  b     rA    -           48   48    0 9s 4h
+Carson    987949306  9  9 r   b     b     k         1000   50  180 Tc Ts
+Carson    987949350  9  8 r   r     b     b         1130  100  285 Kh Ad
+Carson    987949408  9  7 f   -     -     -         1315    0    0 
+Carson    987949453  9  5 f   -     -     -         1315    0    0 
+Carson    987949480 10  5 rc  r     b     bc        1315  120    0 9s Th
+Carson    987949554 10  4 f   -     -     -         1195    0    0 
+Carson    987949608 10  3 f   -     -     -         1195    0    0 
+Carson    987949670 10  2 Bc  bc    rf    -         1195   80    0 
+Carson    987949736 10  1 Br  kf    -     -         1115   20    0 
+Carson    987949799 10 10 f   -     -     -         1095    0    0 
+Carson    987949835 10  9 r   b     kf    -         1095   30    0 
+Carson    987949974 10  8 f   -     -     -         1065    0    0 
+Carson    987950056  9  6 f   -     -     -         1065    0    0 
+Carson    987950150 10  6 cc  kQ    -     -         1065   20    0 
+Carson    987952342 10  4 rc  bc    kf    -         1045   50    0 
+Carson    987952420 10  3 r   b     b     kc         995   70    0 3h Qh
+Carson    987952460 10  2 Br  bc    bc    kc         925  100    0 8h Tc
+Carson    987952527 10  1 Bf  -     -     -          825    5    0 
+Carson    987952569 10 10 r   k     b     k          820   40    0 7c 6s
+Carson    987952615 10  9 r   k     k     f          780   20    0 
+Carson    987952666 10  8 r   k     b     k          760   40  140 Ts 6d
+Carson    987952704 10  7 f   -     -     -          860    0    0 
+Carson    987952756 10  6 rc  r     r     c          860  120    0 5d Jd
+Carson    987952815 10  5 r   kQ    -     -          740   20    0 
+Carson    987991400  7  6 rc  b     b     b          720   80  260 Jc Ad
+Carson    987991470  8  5 c   b     r     c          900   80  230 Jd Qs
+Carson    987991527  8  4 f   -     -     -         1050    0    0 
+Carson    987991589  8  3 Q   -     -     -         1050    0    0 
+Carson    987991901  6  6 Q   -     -     -         1050    0    0 
+Carson    987993384  4  3 r   -     -     -         1050   20   30 
+Carson    987993419  5  2 r   b     b     b         1060   70  190 Ah Qh
+Carson    987993466  6  2 Br  b     k     b         1180   50  120 
+Carson    987993499  6  1 Bc  b     b     b         1250   60    0 Td 9h
+Carson    987993539  6  6 f   -     -     -         1190    0    0 
+Carson    987993576  6  5 f   -     -     -         1190    0    0 
+Carson    987993611  8  6 f   -     -     -         1190    0    0 
+Carson    987993686  9  6 r   kf    -     -         1190   20    0 
+Carson    987993760  9  5 KQ  -     -     -         1170    0    0 
+Carson    987993933  8  8 r   b     b     b         1170   70  160 
+Carson    987993994  9  6 c   b     -     -         1260   20   75 
+Carson    987994056  8  5 r   k     f     -         1315   20    0 
+Carson    987994105  9  4 f   -     -     -         1295    0    0 
+Carson    987994149 10  4 f   -     -     -         1295    0    0 
+Carson    987994221 10  3 f   -     Q     -         1295    0    0 
+Carson    987995268  8  6 KQ  -     -     -         1295    0    0 
+Carson    987996171 10  5 f   -     -     -         1295    0    0 
+Carson    987996244 10  4 f   -     -     -         1295    0    0 
+Carson    987996308 10  3 f   -     -     -         1295    0    0 
+Carson    987996339 10  2 Bc  b     b     b         1295   70  190 
+Carson    987996422 10  1 Br  bc    kc    kf        1415   70    0 
+Carson    987996513 10 10 r   k     k     k         1345   20   27 9d Qh
+Carson    987996559 10  9 r   b     k     f         1352   30    0 
+Carson    987996620 10  8 rr  b     b     k         1322   70    0 9d 9s
+Carson    987996719 10  7 r   Q     -     -         1252   20    0 
+Carson    987996901 10  5 f   -     -     -         1232    0    0 
+Carson    987996997 10  4 f   -     -     -         1232    0    0 
+Carson    987997053 10  3 Q   -     -     -         1232    0    0 
+Carson    987998621  7  6 f   -     -     -         1232    0    0 
+Carson    987998637  7  5 f   -     -     -         1232    0    0 
+Carson    987998709  8  5 f   -     -     -         1232    0    0 
+Carson    987998780  8  4 c   b     b     b         1232   60    0 5h Ah
+Carson    987998850  8  3 f   -     -     -         1172    0    0 
+Carson    987998886  8  2 Bc  bf    -     -         1172   30    0 
+Carson    987998929  8  1 Bf  -     -     -         1142    5    0 
+Carson    987998982  8  8 f   -     -     -         1137    0    0 
+Carson    987999088  9  8 r   c     c     c         1137   70    0 Ks Jd
+Carson    987999125  9  7 r   f     -     -         1067   20    0 
+Carson    987999194 10  6 r   f     -     -         1047   20    0 
+Carson    987999224 10  5 f   -     -     -         1027    0    0 
+Carson    987999290 10  4 f   -     -     -         1027    0    0 
+Carson    987999339 10  3 rr  k     k     f         1027   40    0 
+Carson    987999442 10  2 Bk  f     -     -          987   10    0 
+Carson    987999474 10  1 Bf  -     -     -          977    5    0 
+Carson    987999508  9  9 c   c     c     c          972   70    0 7d Tc
+Carson    987999580  9  8 rc  r     b     bc         902  120    0 9h 9s
+Carson    987999631  9  7 f   -     -     -          782    0    0 
+Carson    987999711  9  6 f   -     -     -          782    0    0 
+Carson    987999753 10  6 rc  kQ    -     -          782   40    0 
+Carson    988000937  9  9 r   b     b     b          742   90  285 9c Qd
+Carson    988000986  9  8 f   -     -     -          937    0    0 
+Carson    988001031  9  7 r   c     c     r          937   90  195 Qs Js
+Carson    988001101  9  6 rr  b     b     -         1042   70  220 
+Carson    988001166 10  5 f   -     -     -         1192    0    0 
+Carson    988001208  9  3 Q   -     -     -         1192    0    0 
+Carson    988001383 10  9 c   r     c     c         1192   70    0 Tc Qs
+Carson    988001440 10  8 f   -     -     -         1122    0    0 
+Carson    988001478  9  6 r   b     b     b         1122   70  155 Kh 3s
+Carson    988001510  9  5 f   -     -     -         1207    0    0 
+Carson    988001580  9  4 r   b     c     c         1207   70    0 Ac Tc
+Carson    988001612  9  3 r   b     brc   kf        1137  110    0 
+Carson    988001696  9  2 Bc  bc    k     b         1027   60  120 
+Carson    988001734  9  1 Bf  -     -     -         1087    5    0 
+Carson    988001763  9  9 f   -     -     -         1082    0    0 
+Carson    988001819  9  8 f   -     -     -         1082    0    0 
+Carson    988001879  9  7 c   KQ    -     -         1082   20    0 
+Carson    988007479 10 10 c   f     -     -         1062   20    0 
+Carson    988007532 10  9 f   -     -     -         1042    0    0 
+Carson    988007590 10  8 f   -     -     -         1042    0    0 
+Carson    988007623 10  7 cc  bc    kc    kf        1042   60    0 
+Carson    988007699 10  6 f   -     -     -          982    0    0 
+Carson    988007733  9  4 r   kQ    -     -          982   20    0 
+Carson    988011445  9  4 rc  bc    b     k          962   70  270 Ad 9h
+Carson    988011524  9  3 f   -     -     -         1162    0    0 
+Carson    988011576 10  2 Bf  -     -     -         1162   10    0 
+Carson    988011625 10  1 Bf  -     -     -         1152    5    0 
+Carson    988011687 10 10 f   -     -     -         1147    0    0 
+Carson    988011742 10  9 f   -     -     -         1147    0    0 
+Carson    988011798 10  8 r   b     b     b         1147   70  200 Th Tc
+Carson    988011852 10  7 f   -     -     -         1277    0    0 
+Carson    988011946 10  6 f   -     -     -         1277    0    0 
+Carson    988012005 10  5 f   -     -     -         1277    0    0 
+Carson    988012045  9  4 f   -     -     -         1277    0    0 
+Carson    988012074  8  2 Bc  k     k     k         1277   20    0 5d 8s
+Carson    988012137  8  1 Bf  -     -     -         1257    5    0 
+Carson    988012176  8  8 f   -     -     -         1252    0    0 
+Carson    988012204  8  7 r   f     -     -         1252   30    0 
+Carson    988012245  8  6 c   b     bc    kc        1222   90    0 Qc Ts
+Carson    988012298  8  5 f   -     -     -         1132    0    0 
+Carson    988012329  8  4 c   kf    -     -         1132   10    0 
+Carson    988012376  8  3 fQ  -     -     -         1122    0    0 
+Carson    988012810  4  3 rc  brc   brc   kc        1122  180  410 Tc 9c
+Carson    988012877  4  2 Brc bc    k     k         1352   50    0 Th 8s
+Carson    988012936  6  1 Bf  -     -     -         1302    5    0 
+Carson    988012957  5  5 f   -     -     -         1297    0    0 
+Carson    988012972  5  4 r   c     f     -         1297   30    0 
+Carson    988013007  5  3 fQ  -     -     -         1267    0    0 
+Carson    988022647  8  7 f   -     -     -         1267    0    0 
+Carson    988022664  8  6 f   -     -     -         1267    0    0 
+Carson    988022706  8  5 KQ  -     -     -         1267    0    0 
+Carson    988022931  9  6 Q   -     -     -         1267    0    0 
+Carson    988023105  9  9 f   -     -     -         1267    0    0 
+Carson    988023144  9  8 r   -     -     -         1267   20   35 
+Carson    988023158  9  7 f   -     -     -         1282    0    0 
+Carson    988023214  9  6 f   -     -     -         1282    0    0 
+Carson    988023240  9  5 c   b     b     k         1282   40    0 2d 5d
+Carson    988023312  8  4 rc  b     b     kf        1242   60    0 
+Carson    988023373  8  3 rc  f     -     -         1182   30    0 
+Carson    988023440  9  2 Bf  -     -     -         1152   10    0 
+Carson    988023489  9  1 Br  b     b     b         1142   80  250 
+Carson    988023556  9  9 f   -     -     -         1312    0    0 
+Carson    988023594  9  8 r   k     b     -         1312   40  125 
+Carson    988023637  9  7 r   kf    -     -         1397   20    0 
+Carson    988023691  9  6 r   k     b     b         1377   60  135 Kc 5c
+Carson    988023755  9  5 f   -     -     -         1452    0    0 
+Carson    988023796  9  4 r   kf    -     -         1452   20    0 
+Carson    988023841  9  3 r   bc    kf    -         1432   40    0 
+Carson    988023902  9  2 Bk  b     b     kc        1392   60    0 Ad 3h
+Carson    988023964  9  1 Bf  -     -     -         1332    5    0 
+Carson    988024004  9  9 r   f     -     -         1327   30    0 
+Carson    988024052  9  8 f   -     -     -         1297    0    0 
+Carson    988024104  9  7 c   b     b     c         1297   60    0 Qd Qs
+Carson    988024151  9  6 f   -     -     -         1237    0    0 
+Carson    988024179  8  5 f   -     -     -         1237    0    0 
+Carson    988024215  9  4 rf  -     -     -         1237   20    0 
+Carson    988024268  8  3 r   k     k     f         1217   20    0 
+Carson    988024325  9  2 Brc r     k     f         1197   60    0 
+Carson    988024365  9  1 Bc  kf    -     -         1137   10    0 
+Carson    988024428  9  9 f   -     -     -         1127    0    0 
+Carson    988024456  9  8 f   -     -     -         1127    0    0 
+Carson    988024485  9  7 cc  f     -     -         1127   20    0 
+Carson    988024536  9  6 KQ  -     -     -         1107    0    0 
+Carson    988040110  9  6 c   bc    k     b         1107   50  115 
+Carson    988040155 10  5 f   -     -     -         1172    0    0 
+Carson    988040192 10  4 f   -     -     -         1172    0    0 
+Carson    988040304 10  3 fQ  -     -     -         1172    0    0 
+Carson    988040838  8  8 f   -     -     -         1172    0    0 
+Carson    988040870  8  7 c   k     f     -         1172   10    0 
+Carson    988040909  8  6 f   -     -     -         1162    0    0 
+Carson    988040979  8  5 c   f     -     -         1162   10    0 
+Carson    988041015  7  3 c   k     c     f         1152   30    0 
+Carson    988041100  7  2 Bk  kc    kf    -         1122   20    0 
+Carson    988041134  7  1 Br  b     kcc   kQ        1102   90    0 
+Carson    988042249  6  5 f   -     -     -         1012    0    0 
+Carson    988042296  6  4 c   c     f     -         1012   20    0 
+Carson    988042332  6  3 f   -     -     -          992    0    0 
+Carson    988042364  6  2 Bc  bf    -     -          992   40    0 
+Carson    988042410  7  1 Br  b     -     -          952   30   50 
+Carson    988042426  6  6 rc  b     b     -          972   60  105 
+Carson    988042460  6  5 f   -     -     -         1017    0    0 
+Carson    988042492  7  4 r   c     c     k         1017   50    0 Ad 8d
+Carson    988042543  7  3 r   kf    -     -          967   20    0 
+Carson    988042583  8  3 fQ  -     -     -          947    0    0 
+Carson    988078573 10  4 Q   -     -     -          947    0    0 
+Carson    988079269 10  3 cc  rc    rc    f          947  110    0 
+Carson    988079400 10  2 Bf  -     -     -          837   10    0 
+Carson    988079451 10  1 Bf  -     -     -          827    5    0 
+Carson    988079534 10 10 f   -     -     -          822    0    0 
+Carson    988079559 10  9 f   -     -     -          822    0    0 
+Carson    988079607 10  8 KQ  -     -     -          822    0    0 
+Carson    988080902 10  1 Bc  k     kf    -          822   10    0 
+Carson    988081002  9  9 rr  rr    rr    b          812  180  222 Qc Ac
+Carson    988081120 10  9 f   -     -     -          854    0    0 
+Carson    988081152 10  8 rc  f     -     -          854   30    0 
+Carson    988081227 10  7 c   f     -     -          824   10    0 
+Carson    988081299 10  6 r   bc    k     b          814   60  135 Kd Ts
+Carson    988081355 10  5 f   -     -     -          889    0    0 
+Carson    988081417 10  4 KQ  -     -     -          889    0    0 
+Carson    988082283  9  5 cc  kf    -     -          889   20    0 
+Carson    988082365  9  4 f   -     -     -          869    0    0 
+Carson    988082501 10  4 f   -     -     -          869    0    0 
+Carson    988082671 10  3 c   b     brc   kc         869  120    0 8c Td
+Carson    988082767 10  2 Bk  b     b     k          749   40  105 Ah 3c
+Carson    988082830 10  1 Bc  kf    -     -          814   20    0 
+Carson    988082898 10 10 c   r     k     f          794   30    0 
+Carson    988082979 10  9 r   r     k     k          764   40    0 9h 9s
+Carson    988083106 10  8 f   -     -     -          724    0    0 
+Carson    988083183 10  7 c   kf    -     -          724   10    0 
+Carson    988083272 10  6 f   -     -     -          714    0    0 
+Carson    988083338 10  5 c   kf    -     -          714   10    0 
+Carson    988083437 10  4 c   c     f     -          704   20    0 
+Carson    988083558 10  3 c   bc    bf    -          684   50    0 
+Carson    988083695 10  2 Bk  bc    kf    -          634   30    0 
+Carson    988083792 10  1 Brc b     b     k          604   60  290 Th Tc
+Carson    988084016 10 10 f   -     -     -          834    0    0 
+Carson    988084042  9  8 r   f     -     -          834   20    0 
+Carson    988084114 10  8 f   -     -     -          814    0    0 
+Carson    988084213  9  7 f   -     -     -          814    0    0 
+Carson    988084280  9  6 r   br    k     k          814   50    0 Kd Jh
+Carson    988084388  9  3 Q   -     -     -          764    0    0 
+Carson    988085629  7  6 f   -     -     -          764    0    0 
+Carson    988085672  7  5 f   -     -     -          764    0    0 
+Carson    988085744  8  4 r   b     -     -          764   30   65 
+Carson    988085758  8  3 r   -     -     -          799   20   35 
+Carson    988085767  8  2 Br  kf    -     -          814   30    0 
+Carson    988085801  8  1 Bc  bc    kf    -          784   40    0 
+Carson    988085837  8  8 f   -     -     -          744    0    0 
+Carson    988085901  8  7 f   -     -     -          744    0    0 
+Carson    988085954  8  6 f   -     -     -          744    0    0 
+Carson    988085998  9  5 f   -     -     -          744    0    0 
+Carson    988086030  9  4 f   -     -     -          744    0    0 
+Carson    988086053  9  3 fQ  -     -     -          744    0    0 
+Carson    988109089  5  3 cc  kQ    -     -          954   20    0 
+Carson    988109276  4  2 Bk  b     -     -          934   20   50 
+Carson    988109300  5  1 Bc  bc    bc    kc         964  100    0 9d Th
+Carson    988109331  5  5 r   b     -     -          864   30   65 
+Carson    988109350  5  4 r   c     c     k          899   50    0 7s 5d
+Carson    988109380  5  3 r   b     b     -          849   50  100 
+Carson    988109413  5  2 Bk  b     -     -          899   20   30 
+Carson    988109429  5  1 Bc  bc    k     b          909   60  130 9d Kd
+Carson    988109451  5  5 r   f     -     -          979   20    0 
+Carson    988109473  5  4 rc  c     f     -          959   40    0 
+Carson    988109504  5  3 Q   -     -     -          919    0    0 
+Carson    988158536 10  5 f   -     -     -          919    0    0 
+Carson    988158640 10  5 Q   -     -     -          919    0    0 
+Carson    988159611 10  4 Q   -     -     -          919    0    0 
+Carson    988160313 10  1 BQ  -     -     -          919    5    0 
+Carson    988161030 10  4 f   -     -     -          914    0    0 
+Carson    988161120  9  3 f   -     -     -          914    0    0 
+Carson    988161148  9  2 Bf  -     -     -          914   10    0 
+Carson    988161201  9  1 Bf  -     -     -          904    5    0 
+Carson    988161282 10 10 f   -     -     -          899    0    0 
+Carson    988161357 10  9 f   -     -     -          899    0    0 
+Carson    988161409  9  7 f   -     -     -          899    0    0 
+Carson    988161492 10  6 f   -     -     -          899    0    0 
+Carson    988161587  9  4 f   -     -     -          899    0    0 
+Carson    988161625 10  4 f   -     -     -          899    0    0 
+Carson    988161732 10  3 f   -     -     -          899    0    0 
+Carson    988161766 10  2 Bf  -     -     -          899   10    0 
+Carson    988161832 10  1 Bf  -     -     -          889    5    0 
+Carson    988161882 10 10 f   -     -     -          884    0    0 
+Carson    988161950 10  9 f   -     -     -          884    0    0 
+Carson    988162014 10  8 f   -     -     -          884    0    0 
+Carson    988162028 10  7 f   -     -     -          884    0    0 
+Carson    988162117 10  6 f   -     -     -          884    0    0 
+Carson    988162150 10  5 c   kf    -     -          884   10    0 
+Carson    988162201 10  4 KQ  -     -     -          874    0    0 
+Carson    988163795 10  6 KQ  -     -     -          874    0    0 
+Carson    988164590  8  5 f   -     -     -          874    0    0 
+Carson    988164639  7  4 cc  k     b     k          874   40  135 Kd Tc
+Carson    988164713  8  3 r   b     b     b          969   70  180 
+Carson    988164769  7  1 Bk  k     b     b         1079   50    0 9c Kc
+Carson    988164821  7  1 BQ  -     -     -         1029    5    0 
+Carson    988165391 10  8 c   f     -     -         1024   10    0 
+Carson    988165446 10  8 r   b     -     -         1014   30   65 
+Carson    988165523  9  6 f   -     -     -         1049    0    0 
+Carson    988165634  7  4 c   b     -     -         1049   20   40 
+Carson    988165672  8  4 f   -     -     -         1069    0    0 
+Carson    988165687  9  3 rc  k     b     b         1069   70  205 Ah 3h
+Carson    988165752  9  2 Bf  -     -     -         1204   10    0 
+Carson    988165802  9  1 Br  bc    kc    kc        1194   80  200 8c 8h
+Carson    988165901 10 10 f   -     -     -         1314    0    0 
+Carson    988165970 10  9 r   f     -     -         1314   40    0 
+Carson    988166046 10  8 c   b     bcc   bc        1274  140    0 7s 7c
+Carson    988166094 10  7 r   KQ    -     -         1134   20    0 

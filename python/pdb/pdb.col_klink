@@ -1,0 +1,21 @@
+col_klink 986459416  4  4 f   -     -     -         1000    0    0 
+col_klink 986459452  4  3 f   -     -     -         1000    0    0 
+col_klink 986459479  4  2 Bk  k     kr    b         1000   70    0 7s Tc
+col_klink 986459521  4  1 Bc  krc   bc    kc         930  110    0 Qc Td
+col_klink 986459570  4  4 f   -     -     -          820    0    0 
+col_klink 986459598  4  3 f   -     -     -          820    0    0 
+col_klink 986459622  4  2 Bc  c     r     b          820   90    0 Ts 7h
+col_klink 986459659  5  1 Bc  k     k     kf         730   10    0 
+col_klink 986459699  5  5 f   -     -     -          720    0    0 
+col_klink 986459731  5  4 r   b     -     -          720   30   90 
+col_klink 986459770  5  3 f   -     -     -          780    0    0 
+col_klink 986459812  5  2 Bf  -     -     -          780   10    0 
+col_klink 986459830  5  1 Bf  -     -     -          770    5    0 
+col_klink 986459863  5  5 r   b     b     b          765   70  195 Jd Ac
+col_klink 986459925  5  4 f   -     -     -          890    0    0 
+col_klink 986459997  5  3 f   -     -     -          890    0    0 
+col_klink 986460033  5  2 Bc  k     kf    -          890   20    0 
+col_klink 986460082  5  1 Bcc kf    -     Q          870   40    0 
+col_klink 986461118  6  3 f   -     -     -          830    0    0 
+col_klink 986461140  6  2 Bc  bc    kc    k          830   60    0 6h Jh
+col_klink 986461188  6  1 BQ  -     -     -          770    5    0 

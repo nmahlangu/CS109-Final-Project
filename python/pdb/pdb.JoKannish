@@ -1,0 +1,510 @@
+JoKannish 986704471  7  4 f   -     -     -          893    0    0 
+JoKannish 986704527  7  3 c   kf    -     -          893   10    0 
+JoKannish 986704575  9  2 Bc  kc    br    b          883  110  380 7c 7d
+JoKannish 986704636  9  1 Bc  kf    -     -         1153   10    0 
+JoKannish 986704688  9  9 f   -     -     -         1143    0    0 
+JoKannish 986704741  9  8 f   -     -     -         1143    0    0 
+JoKannish 986704809  9  7 c   b     b     k         1143   40  110 As Tc
+JoKannish 986704853  9  6 f   -     -     -         1213    0    0 
+JoKannish 986704897  9  5 f   -     -     -         1213    0    0 
+JoKannish 986704918  9  4 f   -     -     -         1213    0    0 
+JoKannish 986704951  9  3 f   -     -     -         1213    0    0 
+JoKannish 986704990  9  2 Bk  kf    -     -         1213   10    0 
+JoKannish 986705040  9  1 Bc  b     b     k         1203   40  130 7c Js
+JoKannish 986705106  9  9 f   -     -     -         1293    0    0 
+JoKannish 986705163  9  8 f   -     -     -         1293    0    0 
+JoKannish 986705207  8  7 f   -     -     -         1293    0    0 
+JoKannish 986705242  8  6 r   b     b     -         1293   50  110 
+JoKannish 986705284  8  5 f   -     -     -         1353    0    0 
+JoKannish 986705340  8  4 c   r     b     -         1353   50   95 
+JoKannish 986705369  8  3 c   k     k     k         1398   10   30 As 8d
+JoKannish 986705410  8  2 Bk  kf    -     -         1418   10    0 
+JoKannish 986705509  8  1 Bf  -     -     -         1408    5    0 
+JoKannish 986705538  8  8 r   b     b     bc        1403   90    0 Td Ah
+JoKannish 986705616  8  7 c   f     -     -         1313   20    0 
+JoKannish 986705646  8  6 f   -     -     -         1293    0    0 
+JoKannish 986705703  8  5 f   -     -     -         1293    0    0 
+JoKannish 986705790  8  4 f   -     -     -         1293    0    0 
+JoKannish 986705808  9  3 f   -     -     -         1293    0    0 
+JoKannish 986705857  9  2 Bc  kf    -     -         1293   20    0 
+JoKannish 986705950  9  1 Bc  bc    kc    kf        1273   60    0 
+JoKannish 986705997  9  9 c   f     -     -         1213   10    0 
+JoKannish 986706024  9  8 f   -     -     -         1203    0    0 
+JoKannish 986706113 10  7 r   r     f     -         1203   40    0 
+JoKannish 986706166 10  6 f   -     -     -         1163    0    0 
+JoKannish 986706241 10  5 f   -     -     -         1163    0    0 
+JoKannish 986706295 10  4 f   -     -     -         1163    0    0 
+JoKannish 986706323 10  3 cc  f     -     -         1163   20    0 
+JoKannish 986706359 10  2 Bc  f     -     -         1143   20    0 
+JoKannish 986706400 10  1 Bc  kr    kc    kf        1123   60    0 
+JoKannish 986706477 10 10 f   -     -     -         1063    0    0 
+JoKannish 986706571  9  8 r   r     c     c         1063   80  265 Kd Ks
+JoKannish 986706632  9  7 f   -     -     -         1248    0    0 
+JoKannish 986706705  9  6 f   -     -     -         1248    0    0 
+JoKannish 986706751  9  5 f   -     -     -         1248    0    0 
+JoKannish 986706775 10  4 c   b     b     k         1248   40    0 Th Qh
+JoKannish 986706826 10  3 f   -     -     -         1208    0    0 
+JoKannish 986706887 10  2 Bc  r     k     r         1208   80  200 6d Qs
+JoKannish 986706931 10  1 Bc  kf    -     -         1328   10    0 
+JoKannish 986707013  9  9 f   -     -     -         1318    0    0 
+JoKannish 986707069  9  8 r   k     c     r         1318   80  230 Ac Kc
+JoKannish 986707140  8  6 f   -     -     -         1468    0    0 
+JoKannish 986707201  8  5 f   -     -     -         1468    0    0 
+JoKannish 986707241  8  4 rc  rc    c     c         1468  100    0 Qh Qc
+JoKannish 986707284  8  3 f   -     -     -         1368    0    0 
+JoKannish 986707308  8  2 Bk  k     kf    -         1368   10    0 
+JoKannish 986707360  8  1 Bc  kf    -     -         1358   10    0 
+JoKannish 986707419  8  8 c   f     -     -         1348   10    0 
+JoKannish 986707480  8  7 c   f     -     -         1338   10    0 
+JoKannish 986707535  9  7 f   -     -     -         1328    0    0 
+JoKannish 986707610  8  6 c   b     c     b         1328   60  190 As 3s
+JoKannish 986707709  8  5 c   f     -     -         1458   10    0 
+JoKannish 986707781  6  3 r   c     c     r         1448   90  200 Ad Th
+JoKannish 986707813  6  2 Bc  f     -     -         1558   20    0 
+JoKannish 986707847  6  1 Bc  b     k     k         1538   20    0 3h 9d
+JoKannish 986707870  5  5 c   c     c     c         1518   60    0 8c Kd
+JoKannish 986707905  5  4 c   f     -     -         1458   20    0 
+JoKannish 986707924  5  3 f   -     -     -         1438    0    0 
+JoKannish 986707952  5  2 Bk  k     k     k         1438   10    0 As 9s
+JoKannish 986707982  5  1 Bcc kf    -     -         1428   30    0 
+JoKannish 986708170  5  5 c   f     -     -         1398   10    0 
+JoKannish 986708206  5  4 f   -     -     -         1388    0    0 
+JoKannish 986708233  5  3 c   k     b     b         1388   50  105 
+JoKannish 986708271  5  2 Bc  f     -     -         1443   20    0 
+JoKannish 986708303  5  1 Bc  kc    k     b         1423   40  100 7h 7s
+JoKannish 986708344  6  6 f   -     -     -         1483    0    0 
+JoKannish 986708381  6  5 c   k     k     k         1483   10    0 8d 7h
+JoKannish 986708410  6  4 cc  c     c     b         1473   70  260 Ad 3d
+JoKannish 986708462  6  3 f   -     -     -         1663    0    0 
+JoKannish 986708512  6  2 Bk  k     bf    -         1663   30    0 
+JoKannish 986708544  6  1 Bc  kf    -     -         1633   20    0 
+JoKannish 986708592  6  6 f   -     -     -         1613    0    0 
+JoKannish 986708642  6  5 c   f     -     -         1613   20    0 
+JoKannish 986708674  6  4 f   -     -     -         1593    0    0 
+JoKannish 986708706  6  3 f   -     -     -         1593    0    0 
+JoKannish 986708746  6  2 Bk  kf    -     -         1593   10    0 
+JoKannish 986708772  6  1 Bf  -     -     -         1583    5    0 
+JoKannish 986708810  6  6 c   k     k     k         1578   10   30 2c Tc
+JoKannish 986708847  6  5 f   -     -     -         1598    0    0 
+JoKannish 986708877  7  4 cc  k     k     kf        1598   20    0 
+JoKannish 986708909  7  3 f   -     -     -         1578    0    0 
+JoKannish 986708949  7  2 Bc  kc    krc   kc        1578  110  335 9h Kh
+JoKannish 986708991  8  1 Bcc kf    -     -         1803   20    0 
+JoKannish 986709045  9  9 f   -     -     -         1783    0    0 
+JoKannish 986709125  9  8 cc  kf    -     -         1783   30    0 
+JoKannish 986709218  9  8 f   -     -     -         1753    0    0 
+JoKannish 986709264 10  7 c   k     k     f         1753   10    0 
+JoKannish 986709354  9  6 f   -     -     -         1743    0    0 
+JoKannish 986709447  9  5 r   kc    k     k         1743   40    0 Jh Ah
+JoKannish 986709522  9  4 cc  f     -     -         1703   20    0 
+JoKannish 986709594  9  3 f   -     -     -         1683    0    0 
+JoKannish 986709658  9  2 Bc  r     rr    b         1683  140  360 Qh Th
+JoKannish 986709713  9  1 Bc  kf    -     -         1903   20    0 
+JoKannish 986709774  9  3 Q   -     -     -         1883    0    0 
+JoKannish 986775342  3  3 c   f     -     -         1921   10    0 
+JoKannish 986775357  3  2 Bk  k     k     k         1911   10    0 4h 9h
+JoKannish 986775382  3  1 Br  b     b     -         1901   50   90 
+JoKannish 986775399  3  3 c   k     k     k         1941   10   30 6d Td
+JoKannish 986775417  2  1 B   -     -     -         1961   10   10 
+JoKannish 986775425  2  1 Bc  k     k     k         1961   10   20 4s 5s
+JoKannish 986775441  2  2 B   -     -     -         1971   10   15 
+JoKannish 986775452  2  1 Bf  -     -     -         1976    5    0 
+JoKannish 986775455  2  2 Bk  b     -     -         1971   20   30 
+JoKannish 986775465  2  1 Bf  -     -     -         1981    5    0 
+JoKannish 986775467  2  2 Bk  k     k     k         1976   10    0 9c 3h
+JoKannish 986775485  2  1 Bc  b     -     -         1966   20   30 
+JoKannish 986775498  2  2 B   -     -     -         1976   10   15 
+JoKannish 986775501  2  1 Bc  k     kc    kf        1981   30    0 
+JoKannish 986775526  2  2 B   -     -     -         1951   10   15 
+JoKannish 986775529  2  1 Bc  bc    kr    b         1956   90  160 
+JoKannish 986775551  2  2 Bk  k     f     -         2026   10    0 
+JoKannish 986775572  2  1 Bc  k     k     k         2016   10    0 9s 3s
+JoKannish 986775587  2  2 Bk  k     f     -         2006   10    0 
+JoKannish 986775611  2  1 Br  -     -     -         1996   20   30 
+JoKannish 986775616  2  2 B   -     -     -         2006   10   15 
+JoKannish 986775620  2  1 Bc  k     k     k         2011   10   20 7c Qs
+JoKannish 986775635  2  2 Bc  c     f     -         2021   30    0 
+JoKannish 986775650  2  1 Bc  k     k     k         1991   10   20 4c Kc
+JoKannish 986775665  2  2 B   -     -     -         2001   10   15 
+JoKannish 986775671  2  1 Bf  -     -     -         2006    5    0 
+JoKannish 986775673  2  2 Bk  k     c     c         2001   50   50 8c Jd
+JoKannish 986775691  2  1 Bc  k     k     k         2001   10   20 7d Th
+JoKannish 986775708  2  2 Bk  b     -     -         2011   20   30 
+JoKannish 986775722  2  1 Bc  k     k     b         2021   30   60 Qc 9d
+JoKannish 986775741  2  2 Bk  f     -     -         2051   10    0 
+JoKannish 986775756  2  1 Bf  -     -     -         2041    5    0 
+JoKannish 986775757  2  2 Bk  k     b     -         2036   30   40 
+JoKannish 986775771  2  1 Bc  kc    kf    -         2046   20    0 
+JoKannish 986775785  2  2 Br  b     b     k         2026   50  100 Ts Th
+JoKannish 986775816  2  1 Bcc kf    -     -         2076   20    0 
+JoKannish 986775832  2  2 B   -     -     -         2056   10   15 
+JoKannish 986775835  2  1 Bc  b     b     b         2061   60   60 5d Ac
+JoKannish 986775853  2  2 Bk  k     k     f         2061   10    0 
+JoKannish 986775875  3  1 Bc  b     k     kf        2051   20    0 
+JoKannish 986775909  3  3 c   f     -     -         2031   10    0 
+JoKannish 986775929  3  2 Bk  kf    -     -         2021   10    0 
+JoKannish 986775960  3  1 Bc  k     kf    -         2011   10    0 
+JoKannish 986775996  3  3 cc  r     k     k         2001   40    0 4d 7d
+JoKannish 986776041  3  2 B   -     -     -         1961   10   15 
+JoKannish 986776055  3  1 Bf  -     -     -         1966    5    0 
+JoKannish 986776061  3  3 r   -     -     -         1961   20   35 
+JoKannish 986776071  3  2 B   -     -     -         1976   10   15 
+JoKannish 986776085  3  1 Bc  k     k     k         1981   10   30 5h 5s
+JoKannish 986776119  3  3 f   -     -     -         2001    0    0 
+JoKannish 986776158  3  2 Bk  b     b     k         2001   40    0 4c 7s
+JoKannish 986776194  3  1 Bf  -     -     -         1961    5    0 
+JoKannish 986776200  3  3 f   -     -     -         1956    0    0 
+JoKannish 986776234  3  2 Bk  k     k     k         1956   10    0 8d 6c
+JoKannish 986776253  3  1 Bf  -     -     -         1946    5    0 
+JoKannish 986776283  3  3 r   -     -     -         1941   20   35 
+JoKannish 986776288  3  2 B   -     -     -         1956   10   15 
+JoKannish 986776297  3  1 Bf  -     -     -         1961    5    0 
+JoKannish 986776302  4  4 f   -     -     -         1956    0    0 
+JoKannish 986776336  5  3 c   kf    -     -         1956   10    0 
+JoKannish 986776360  5  2 Bf  -     -     -         1946   10    0 
+JoKannish 986776394  6  1 Bc  kc    kc    kf        1936   50    0 
+JoKannish 986776429  8  8 f   -     -     -         1886    0    0 
+JoKannish 986776470  8  7 f   -     -     -         1886    0    0 
+JoKannish 986776515  8  6 f   -     -     -         1886    0    0 
+JoKannish 986776548  8  5 f   -     -     -         1886    0    0 
+JoKannish 986776598  8  4 f   -     -     -         1886    0    0 
+JoKannish 986776637  8  3 f   -     -     -         1886    0    0 
+JoKannish 986776671  8  2 Bk  k     k     k         1886   10    0 4d 3c
+JoKannish 986776735  8  1 Bc  kf    -     -         1876   10    0 
+JoKannish 986776815  8  8 f   -     -     -         1866    0    0 
+JoKannish 986776847  8  7 f   -     -     -         1866    0    0 
+JoKannish 986776899  8  6 cc  kf    -     -         1866   20    0 
+JoKannish 986776953  8  5 fQ  -     -     -         1846    0    0 
+JoKannish 986834463  3  1 Bc  kf    -     -         1846   10    0 
+JoKannish 986834491  2  2 Bk  k     f     -         1836   10    0 
+JoKannish 986834502  3  1 Bc  b     -     -         1826   20   40 
+JoKannish 986834516  3  3 f   -     -     -         1846    0    0 
+JoKannish 986834541  3  2 Br  b     b     -         1846   50   80 
+JoKannish 986834568  4  1 Bc  k     k     b         1876   30   50 
+JoKannish 986834608  4  4 f   -     -     -         1896    0    0 
+JoKannish 986834631  4  3 f   -     -     -         1896    0    0 
+JoKannish 986834659  4  2 B   -     -     -         1896   10   15 
+JoKannish 986834670  4  1 Bc  kf    -     -         1901   10    0 
+JoKannish 986834692  4  4 c   r     b     b         1891   70  125 
+JoKannish 986834722  4  3 f   -     -     -         1946    0    0 
+JoKannish 986834727  4  2 Bk  k     k     k         1946   10    0 8d 6s
+JoKannish 986834745  4  1 Bc  k     kf    -         1936   10    0 
+JoKannish 986834772  4  4 c   r     b     r         1926   90  190 6h 2h
+JoKannish 986834798  4  3 f   -     -     -         2026    0    0 
+JoKannish 986834831  4  2 Bk  kf    -     -         2026   10    0 
+JoKannish 986834856  4  1 Bc  kf    -     -         2016   20    0 
+JoKannish 986834883  4  4 f   -     -     -         1996    0    0 
+JoKannish 986834909  4  3 c   kr    b     b         1996   70  155 Ad 2c
+JoKannish 986834927  4  2 Br  b     -     -         2081   30   55 
+JoKannish 986834940  4  1 Bc  k     k     br        2106   70  150 6d 7d
+JoKannish 986834968  4  4 c   k     f     -         2186   10    0 
+JoKannish 986834983  3  2 c   k     k     k         2176   10    0 Qs 8d
+JoKannish 986835008  5  3 r   -     -     -         2166   20   35 
+JoKannish 986835015  5  2 Bk  kf    -     -         2181   10    0 
+JoKannish 986835034  5  1 Bc  k     k     k         2171   10    0 9h Kc
+JoKannish 986835050  5  5 f   -     -     -         2161    0    0 
+JoKannish 986835078  6  5 c   k     kf    -         2161   10    0 
+JoKannish 986835122  6  4 c   f     -     -         2151   10    0 
+JoKannish 986835143  5  3 f   -     -     -         2141    0    0 
+JoKannish 986835149  5  2 Bk  kr    kf    -         2141   30    0 
+JoKannish 986835190  5  1 Br  k     kf    -         2111   20    0 
+JoKannish 986835222  5  5 f   -     -     -         2091    0    0 
+JoKannish 986835243  6  4 c   f     -     -         2091   10    0 
+JoKannish 986835258  6  3 r   b     b     bf        2081   70    0 
+JoKannish 986835281  6  2 Bc  f     -     -         2011   20    0 
+JoKannish 986835300  6  1 Bf  -     -     -         1991    5    0 
+JoKannish 986835323  6  6 r   k     r     b         1986   80  175 Kh Qh
+JoKannish 986835348  6  5 cf  -     -     -         2081   20    0 
+JoKannish 986835383  6  4 f   -     -     -         2061    0    0 
+JoKannish 986835425  6  3 f   -     -     -         2061    0    0 
+JoKannish 986835443  6  2 Bk  k     kr    -         2061   50  100 
+JoKannish 986835550  7  1 Bcc kf    -     -         2111   20    0 
+JoKannish 986835576  7  7 c   b     b     k         2091   40   85 Ah 6s
+JoKannish 986835603  8  6 c   f     -     -         2136   10    0 
+JoKannish 986835636  8  5 f   -     -     -         2126    0    0 
+JoKannish 986835685  8  4 f   -     -     -         2126    0    0 
+JoKannish 986835718  8  3 c   kc    kc    kf        2126   40    0 
+JoKannish 986835748  9  3 f   -     -     -         2086    0    0 
+JoKannish 986835793  9  2 Bk  f     -     -         2086   10    0 
+JoKannish 986835818  9  1 Bc  kf    -     -         2076   10    0 
+JoKannish 986835859  9  9 f   -     -     -         2066    0    0 
+JoKannish 986835900  9  8 f   -     -     -         2066    0    0 
+JoKannish 986835940 10  8 f   -     -     -         2066    0    0 
+JoKannish 986835965 10  7 f   -     -     -         2066    0    0 
+JoKannish 986836004 10  6 f   -     -     -         2066    0    0 
+JoKannish 986836034 10  5 f   -     -     -         2066    0    0 
+JoKannish 986836080 10  4 c   f     -     -         2066   10    0 
+JoKannish 986836137 10  3 rc  cr    r     b         2056  130  490 Ad As
+JoKannish 986836203 10  2 Bc  kr    bc    kc        2416  100    0 Ad 7c
+JoKannish 986836242 10  1 Bc  k     kf    -         2316   10    0 
+JoKannish 986836294 10 10 f   -     -     -         2306    0    0 
+JoKannish 986836339 10  9 cc  f     -     -         2306   20    0 
+JoKannish 986836382  9  7 r   rc    c     c         2286   90    0 Ad Jd
+JoKannish 986836419 10  6 r   b     k     b         2196   50  125 
+JoKannish 986836459 10  5 f   -     -     -         2271    0    0 
+JoKannish 986836511 10  4 cc  kf    -     -         2271   20    0 
+JoKannish 986836563 10  3 f   -     -     -         2251    0    0 
+JoKannish 986836587 10  2 Bk  kf    -     -         2251   10    0 
+JoKannish 986836645 10  1 Bf  -     -     -         2241    5    0 
+JoKannish 986836722 10 10 cc  k     f     -         2236   30    0 
+JoKannish 986836789 10  9 f   -     -     -         2206    0    0 
+JoKannish 986836849 10  8 r   c     c     cc        2206  110    0 Qh Ah
+JoKannish 986836904 10  7 f   -     -     -         2096    0    0 
+JoKannish 986836932 10  6 c   f     -     -         2096   20    0 
+JoKannish 986837000 10  5 f   -     -     -         2076    0    0 
+JoKannish 986837045 10  4 f   -     -     -         2076    0    0 
+JoKannish 986837122 10  3 cc  kf    -     -         2076   20    0 
+JoKannish 986837180 10  2 Bf  -     -     -         2056   10    0 
+JoKannish 986837262 10  1 Bc  kc    kc    kc        2046   80    0 Qc Qh
+JoKannish 986837325 10 10 f   -     -     -         1966    0    0 
+JoKannish 986837379 10  9 f   -     -     -         1966    0    0 
+JoKannish 986837451 10  8 f   -     -     -         1966    0    0 
+JoKannish 986837525  8  6 f   -     -     -         1966    0    0 
+JoKannish 986837592  8  5 f   -     -     -         1966    0    0 
+JoKannish 986837657  8  4 f   -     -     -         1966    0    0 
+JoKannish 986837705  8  3 f   -     -     -         1966    0    0 
+JoKannish 986837751  8  2 Bk  kc    kc    kr        1966   80  165 8s 8c
+JoKannish 986837814  7  1 Bf  -     -     -         2051    5    0 
+JoKannish 986837844  7  7 f   -     -     -         2046    0    0 
+JoKannish 986837877  7  6 cc  kf    -     -         2046   20    0 
+JoKannish 986837908  7  5 rc  c     c     c         2026   80    0 Jd Js
+JoKannish 986837939  7  4 f   -     -     -         1946    0    0 
+JoKannish 986837980  7  3 f   -     -     -         1946    0    0 
+JoKannish 986838023  7  2 Bk  k     k     b         1946   30   65 5d Th
+JoKannish 986838051  7  1 Bf  -     -     -         1981    5    0 
+JoKannish 986838080  7  7 f   -     -     -         1976    0    0 
+JoKannish 986838135  9  7 f   -     -     -         1976    0    0 
+JoKannish 986838179  9  6 f   -     -     -         1976    0    0 
+JoKannish 986838214  9  5 f   -     -     -         1976    0    0 
+JoKannish 986838240  9  4 f   -     -     -         1976    0    0 
+JoKannish 986838267  9  4 c   b     b     -         1976   40   75 
+JoKannish 986838329  8  2 Bk  f     -     -         2011   10    0 
+JoKannish 986838345  8  1 Bc  kf    -     -         2001   20    0 
+JoKannish 986838393  8  8 f   -     -     -         1981    0    0 
+JoKannish 986838419  8  7 c   f     -     -         1981   20    0 
+JoKannish 986838450  8  6 f   -     -     -         1961    0    0 
+JoKannish 986838534  8  5 cc  kf    -     -         1961   20    0 
+JoKannish 986838574  8  4 c   f     -     -         1941   10    0 
+JoKannish 986838614  9  3 f   -     -     -         1931    0    0 
+JoKannish 986838726  9  2 Bk  f     -     -         1931   10    0 
+JoKannish 986838798  8  1 Br  kr    k     br        1921  100  270 Ad Ah
+JoKannish 986838863  9  8 c   c     rr    r         2091  140  375 Kd Qh
+JoKannish 986838931  9  7 f   -     -     -         2326    0    0 
+JoKannish 986838965  9  6 c   f     -     -         2326   10    0 
+JoKannish 986839021  9  5 c   kf    -     -         2316   10    0 
+JoKannish 986839059  9  4 f   -     -     -         2306    0    0 
+JoKannish 986839081  9  3 fQ  -     -     -         2306    0    0 
+JoKannish 986878831 10 10 f   -     -     -         2306    0    0 
+JoKannish 986878891 10  9 c   cc    r     -         2306   80  265 Qc As
+JoKannish 986878971  9  7 f   -     -     -         2491    0    0 
+JoKannish 986879031 10  6 f   -     -     -         2491    0    0 
+JoKannish 986879079 10  5 f   -     -     -         2491    0    0 
+JoKannish 986879122 10  4 f   -     -     -         2491    0    0 
+JoKannish 986879176 10  3 f   -     -     -         2491    0    0 
+JoKannish 986879232 10  2 Bk  k     f     -         2491   10    0 
+JoKannish 986879305 10  1 Bf  -     -     -         2481    5    0 
+JoKannish 986879341  9  9 f   -     -     -         2476    0    0 
+JoKannish 986879415 10  9 c   cc    kf    -         2476   40    0 
+JoKannish 986879469 10  8 f   -     -     -         2436    0    0 
+JoKannish 986879531 10  7 f   -     -     -         2436    0    0 
+JoKannish 986879593 10  6 f   -     -     -         2436    0    0 
+JoKannish 986879623 10  5 c   f     -     -         2436   10    0 
+JoKannish 986879677 10  4 f   -     -     -         2426    0    0 
+JoKannish 986879726 10  3 c   kf    -     Q         2426   10    0 
+JoKannish 986929456  9  9 f   -     -     -         2416    0    0 
+JoKannish 986929491  9  8 f   -     -     -         2416    0    0 
+JoKannish 986929523  9  7 f   -     -     -         2416    0    0 
+JoKannish 986929588  9  6 f   -     -     -         2416    0    0 
+JoKannish 986929632  9  5 f   -     -     -         2416    0    0 
+JoKannish 986929687 10  4 c   b     kc    kf        2416   40    0 
+JoKannish 986929730 10  3 f   -     -     -         2376    0    0 
+JoKannish 986929769 10  2 Bf  -     -     -         2376   10    0 
+JoKannish 986929809 10  1 Bc  kf    -     -         2366   10    0 
+JoKannish 986929867 10 10 c   f     -     -         2356   10    0 
+JoKannish 986929919 10  9 f   -     -     -         2346    0    0 
+JoKannish 986929981 10  8 f   -     -     -         2346    0    0 
+JoKannish 986930054 10  7 f   -     -     -         2346    0    0 
+JoKannish 986930112 10  6 f   -     -     -         2346    0    0 
+JoKannish 986930151 10  5 f   Q     -     -         2346    0    0 
+JoKannish 986931861  8  6 cc  kc    kr    b         2376   90  275 5c Ah
+JoKannish 986931918  8  5 f   -     -     -         2561    0    0 
+JoKannish 986931993  8  4 f   Q     -     -         2561    0    0 
+JoKannish 986935832  2  2 Bk  f     -     -         2406   10    0 
+JoKannish 986935849  2  1 Bf  -     -     -         2396    5    0 
+JoKannish 986935852  2  2 Bk  b     b     b         2391   60  100 
+JoKannish 986935887  2  1 Bf  -     -     -         2431    5    0 
+JoKannish 986935890  2  2 Bk  b     k     k         2426   20   40 6s 6h
+JoKannish 986935928  2  1 Bc  k     k     k         2446   10    0 9c Qd
+JoKannish 986935965  3  2 Bk  k     b     b         2436   50   90 
+JoKannish 986936031  3  1 Bc  k     kf    -         2476   10    0 
+JoKannish 986936084  3  3 c   bc    r     c         2466   90  270 Jc 9d
+JoKannish 986936137  3  2 Bk  k     f     -         2646   10    0 
+JoKannish 986936166  3  1 Br  bc    kc    k         2636   60  160 Qd Kh
+JoKannish 986936221  3  3 c   k     b     b         2736   50  110 9d 8d
+JoKannish 986936276  3  2 Bk  f     -     -         2796   10    0 
+JoKannish 986936313  3  1 Bf  -     Q     -         2786    5    0 
+JoKannish 987475572  3  3 c   k     k     k         2551   10   25 8s Qs
+JoKannish 987475612  3  2 Bk  k     f     -         2566   10    0 
+JoKannish 987475630  3  1 Bf  -     -     -         2556    5    0 
+JoKannish 987475633  3  3 c   b     -     -         2551   20   35 
+JoKannish 987475647  3  2 B   -     -     -         2566   10   15 
+JoKannish 987475653  3  1 Bc  k     k     kc        2571   30    0 5c 5s
+JoKannish 987475679  4  4 c   k     k     k         2541   10   25 5s 9s
+JoKannish 987475698  4  3 c   f     -     -         2556   10    0 
+JoKannish 987475756  4  2 Bk  b     b     k         2546   40  125 6d Kh
+JoKannish 987475802  4  1 Bc  kf    -     -         2631   10    0 
+JoKannish 987475840  5  5 cc  f     -     -         2621   30    0 
+JoKannish 987475890  5  4 f   -     -     -         2591    0    0 
+JoKannish 987475940  5  3 f   -     -     -         2591    0    0 
+JoKannish 987475985  6  2 Bk  k     b     b         2591   50  105 Qc 2c
+JoKannish 987476016  6  1 Bc  kf    -     -         2646   10    0 
+JoKannish 987476065  5  5 f   -     -     -         2636    0    0 
+JoKannish 987476071  5  4 f   -     -     -         2636    0    0 
+JoKannish 987476116  5  3 f   -     -     -         2636    0    0 
+JoKannish 987476178  5  2 Bk  b     b     k         2636   40   95 9h Jh
+JoKannish 987476203  5  1 Br  b     kf    -         2691   30    0 
+JoKannish 987476250  7  7 f   -     -     -         2661    0    0 
+JoKannish 987476325  7  6 c   r     k     b         2661   50  160 Js Ks
+JoKannish 987476381  7  6 f   -     -     -         2771    0    0 
+JoKannish 987476418  7  5 c   f     -     -         2771   20    0 
+JoKannish 987476458  8  4 c   b     kf    -         2751   20    0 
+JoKannish 987476554  8  3 cc  kf    -     -         2731   20    0 
+JoKannish 987476674  7  2 Bk  kf    -     -         2711   10    0 
+JoKannish 987476712  7  1 Bc  kf    -     -         2701   10    0 
+JoKannish 987476801  7  7 c   c     f     -         2691   20    0 
+JoKannish 987476858  7  6 f   -     -     -         2671    0    0 
+JoKannish 987476918  5  3 f   -     -     -         2671    0    0 
+JoKannish 987476944  5  2 Bk  b     b     b         2671   60    0 9h 4c
+JoKannish 987476995  5  1 Bf  -     -     -         2611    5    0 
+JoKannish 987477069  5  5 ccc bc    b     b         2606   90  210 6d Kd
+JoKannish 987477134  6  5 f   -     -     -         2726    0    0 
+JoKannish 987477172  6  4 f   -     -     -         2726    0    0 
+JoKannish 987477202  6  3 f   -     -     -         2726    0    0 
+JoKannish 987477273  6  2 Bcc kf    -     -         2726   40    0 
+JoKannish 987477337  7  1 Bf  -     -     -         2686    5    0 
+JoKannish 987477406  7  7 f   -     -     -         2681    0    0 
+JoKannish 987477439  5  4 f   -     -     -         2681    0    0 
+JoKannish 987477450  5  3 c   c     r     bc        2681  100    0 8s Ks
+JoKannish 987477475  5  2 Bk  k     k     k         2581   10    0 3s 6d
+JoKannish 987477499  5  1 Bf  -     -     -         2571    5    0 
+JoKannish 987477523  5  5 c   f     -     -         2566   20    0 
+JoKannish 987477555  5  4 f   -     -     -         2546    0    0 
+JoKannish 987477588  5  3 cc  c     c     r         2546   90  185 8s 9s
+JoKannish 987477615  5  3 f   -     -     -         2641    0    0 
+JoKannish 987477640  5  2 Bk  k     k     kf        2641   10    0 
+JoKannish 987477676  5  1 Bf  -     -     -         2631    5    0 
+JoKannish 987477757  5  5 c   b     r     -         2626   60  115 
+JoKannish 987477818  6  4 f   -     -     -         2681    0    0 
+JoKannish 987477838  6  3 f   -     -     -         2681    0    0 
+JoKannish 987477860  7  2 Bc  f     -     -         2681   20    0 
+JoKannish 987477929  7  1 Bc  kf    -     -         2661   10    0 
+JoKannish 987477952  7  7 f   -     -     -         2651    0    0 
+JoKannish 987477996  7  6 rc  k     c     r         2651   90  270 Kd As
+JoKannish 987478038  8  6 c   c     f     -         2831   20    0 
+JoKannish 987478136  9  6 f   -     -     -         2811    0    0 
+JoKannish 987478176  9  5 f   -     -     -         2811    0    0 
+JoKannish 987478234  9  4 f   -     -     -         2811    0    0 
+JoKannish 987478333  9  3 c   kf    -     -         2811   10    0 
+JoKannish 987478395 10  3 cc  k     kf    -         2801   20    0 
+JoKannish 987478465 10  2 Bk  kr    b     k         2781   50  105 Qc 7h
+JoKannish 987478499 10  1 Bf  -     -     -         2836    5    0 
+JoKannish 987478594 10 10 f   -     -     -         2831    0    0 
+JoKannish 987478687 10  9 c   c     f     -         2831   20    0 
+JoKannish 987478783  9  8 f   -     -     -         2811    0    0 
+JoKannish 987478834  9  7 cc  b     b     b         2811   70  215 8c Jc
+JoKannish 987478904  8  6 f   -     -     -         2956    0    0 
+JoKannish 987478932  8  6 c   f     -     -         2956   10    0 
+JoKannish 987479008  8  4 f   -     -     -         2946    0    0 
+JoKannish 987479064  8  3 fQ  -     -     -         2946    0    0 
+JoKannish 987654622  6  4 f   -     -     -         1916    0    0 
+JoKannish 987654665  6  3 f   -     -     -         1916    0    0 
+JoKannish 987654699  6  2 Bk  kf    -     -         1916   10    0 
+JoKannish 987654740  6  1 Bf  -     -     -         1906    5    0 
+JoKannish 987654794  6  6 c   k     k     k         1901   10    0 Td 8s
+JoKannish 987654820  6  5 f   -     -     -         1891    0    0 
+JoKannish 987654875  7  5 cc  bc    kc    kc        1891   80    0 Ks Tc
+JoKannish 987654924  7  4 c   kf    -     -         1811   10    0 
+JoKannish 987654963  9  5 f   -     -     -         1801    0    0 
+JoKannish 987655002  8  4 f   -     -     -         1801    0    0 
+JoKannish 987655055  7  3 f   -     -     -         1801    0    0 
+JoKannish 987655085  6  2 Bk  k     kc    b         1801   50  140 5h 3h
+JoKannish 987655126  6  1 Bcc kf    -     -         1891   20    0 
+JoKannish 987655150  6  6 f   -     -     -         1871    0    0 
+JoKannish 987655210  6  5 f   -     -     -         1871    0    0 
+JoKannish 987655258  7  4 f   -     -     -         1871    0    0 
+JoKannish 987655293  7  3 f   -     -     -         1871    0    0 
+JoKannish 987655325  7  2 Bf  -     -     -         1871   10    0 
+JoKannish 987655349  8  1 Bc  kc    kc    kf        1861   40    0 
+JoKannish 987655384  8  8 f   -     -     -         1821    0    0 
+JoKannish 987655416  8  7 f   -     -     -         1821    0    0 
+JoKannish 987655467  8  6 c   k     k     kf        1821   10    0 
+JoKannish 987655553  9  7 c   f     -     -         1811   10    0 
+JoKannish 987655626  8  5 f   -     -     -         1801    0    0 
+JoKannish 987655695  8  4 f   -     -     -         1801    0    0 
+JoKannish 987655732  8  3 cf  -     -     Q         1801   10    0 
+JoKannish 987664886  9  8 f   -     -     -         1791    0    0 
+JoKannish 987664919  8  6 c   b     b     bc        1791   80    0 9c 8h
+JoKannish 987664959  9  6 f   -     -     -         1711    0    0 
+JoKannish 987665010  9  6 f   -     -     -         1711    0    0 
+JoKannish 987665049  8  4 f   -     -     -         1711    0    0 
+JoKannish 987665073  7  2 Bk  kc    kr    br        1711  120  280 9d 5c
+JoKannish 987665116  7  1 Bf  -     -     -         1871    5    0 
+JoKannish 987665165  6  6 c   f     -     -         1866   10    0 
+JoKannish 987665191  6  5 c   k     k     k         1856   10    0 2d Kd
+JoKannish 987665217  6  4 c   b     bc    kf        1846   60    0 
+JoKannish 987665259  7  3 f   -     -     -         1786    0    0 
+JoKannish 987665292  7  2 Bk  k     k     bc        1786   50    0 2c Ah
+JoKannish 987665340  7  1 Bf  -     -     -         1736    5    0 
+JoKannish 987665408  8  8 f   -     -     -         1731    0    0 
+JoKannish 987665459  8  7 f   -     -     -         1731    0    0 
+JoKannish 987665484  8  6 c   b     c     f         1731   40    0 
+JoKannish 987665556  8  5 f   -     -     -         1691    0    0 
+JoKannish 987665603  8  4 f   -     -     -         1691    0    0 
+JoKannish 987665641  8  3 f   -     -     -         1691    0    0 
+JoKannish 987665693  8  2 Bk  bc    kc    krc       1691  110    0 9h Qc
+JoKannish 987665747  8  1 Bf  -     -     -         1581    5    0 
+JoKannish 987665781  8  8 f   -     -     -         1576    0    0 
+JoKannish 987665843  8  7 f   -     -     -         1576    0    0 
+JoKannish 987665864  8  6 c   kf    -     -         1576   10    0 
+JoKannish 987665896  8  5 f   -     -     -         1566    0    0 
+JoKannish 987665913  9  4 f   -     -     -         1566    0    0 
+JoKannish 987665945  9  3 c   k     kQ    -         1566   10    0 
+JoKannish 987992748  4  4 f   -     -     -         2124    0    0 
+JoKannish 987992759  4  3 f   -     -     -         2124    0    0 
+JoKannish 987992785  5  2 Bf  Q     -     -         2124   10    0 
+JoKannish 988269854  5  5 f   -     -     -         2312    0    0 
+JoKannish 988269883  5  4 cc  f     -     -         2312   20    0 
+JoKannish 988269943  5  3 c   f     -     -         2292   10    0 
+JoKannish 988269980  5  2 Bk  k     b     -         2282   30   50 
+JoKannish 988270017  4  1 Bc  b     b     b         2302   60  120 
+JoKannish 988270059  4  4 c   k     k     b         2362   30   70 9h Ks
+JoKannish 988270100  4  3 c   k     f     -         2402   10    0 
+JoKannish 988270134  5  2 Bk  b     b     bc        2392   80    0 Qd Tc
+JoKannish 988270168  5  1 Bc  kf    -     -         2312   10    0 
+JoKannish 988270211  6  6 f   -     -     -         2302    0    0 
+JoKannish 988270249  6  5 c   b     k     c         2302   40    0 Jd Ah
+JoKannish 988270315  6  4 c   f     -     -         2262   10    0 
+JoKannish 988270378  6  3 f   -     -     -         2252    0    0 
+JoKannish 988270402  6  2 Bf  -     -     -         2252   10    0 
+JoKannish 988270492  6  1 Bcc kc    kf    -         2242   30    0 
+JoKannish 988270542  6  6 f   -     -     -         2212    0    0 
+JoKannish 988270617  6  5 c   c     f     -         2212   20    0 
+JoKannish 988270666  6  4 c   f     -     -         2192   10    0 
+JoKannish 988270709  6  3 f   -     -     -         2182    0    0 
+JoKannish 988270733  6  2 Bk  k     kf    -         2182   10    0 
+JoKannish 988270795  6  1 Bcc kc    kf    -         2172   30    0 
+JoKannish 988270835  7  7 r   b     b     -         2142   50   95 
+JoKannish 988270873  7  3 Q   -     -     -         2187    0    0 
+JoKannish 988271226  6  2 Bk  kf    -     -         2307   10    0 
+JoKannish 988271253  6  1 Bf  -     -     -         2297    5    0 
+JoKannish 988271308  6  6 c   k     f     -         2292   10    0 
+JoKannish 988271366  6  5 f   -     -     -         2282    0    0 
+JoKannish 988271406  6  4 f   -     -     -         2282    0    0 
+JoKannish 988271445  6  3 f   -     -     -         2282    0    0 
+JoKannish 988271468  6  2 Bk  k     k     k         2282   10    0 7h 4d
+JoKannish 988271527  6  1 Bc  kc    kf    -         2272   20    0 
+JoKannish 988271562  7  7 c   f     -     -         2252   10    0 
+JoKannish 988271632  8  7 f   -     -     -         2242    0    0 
+JoKannish 988271685  8  6 r   r     bc    kc        2242  100    0 As Kd
+JoKannish 988271726  8  5 f   -     -     -         2142    0    0 
+JoKannish 988271789  8  4 fQ  -     -     -         2142    0    0 

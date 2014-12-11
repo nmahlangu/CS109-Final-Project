@@ -1,0 +1,379 @@
+CKRAIZ    986179929  8  2 Bc  f     -     -         2186   20    0 
+CKRAIZ    986180005  8  1 Bc  kc    k     k         2166   30   90 2s Qs
+CKRAIZ    986180074  8  8 c   f     -     -         2226   20    0 
+CKRAIZ    986180104  8  7 f   -     -     -         2206    0    0 
+CKRAIZ    986180125  8  6 c   b     k     k         2206   20   70 Th As
+CKRAIZ    986180194  8  5 f   -     -     -         2256    0    0 
+CKRAIZ    986180276  8  3 c   kc    kc    kf        2256   40    0 
+CKRAIZ    986180390  4  1 Bk  k     k     kf        2216   10    0 
+CKRAIZ    986180434  3  1 Br  -     -     -         2206   20   30 
+CKRAIZ    986180438  3  2 cc  k     k     k         2216   20   50 2c Qs
+CKRAIZ    986180458  3  2 B   -     -     -         2246   10   15 
+CKRAIZ    986180464  3  1 Br  kf    -     -         2251   30    0 
+CKRAIZ    986180485  3  3 f   -     -     -         2221    0    0 
+CKRAIZ    986180498  3  2 Bc  k     kf    -         2221   20    0 
+CKRAIZ    986180511  3  1 Bc  k     k     k         2201   20    0 Ac 8s
+CKRAIZ    986180536  3  3 c   k     k     f         2181   10    0 
+CKRAIZ    986180566  3  2 Bc  k     k     k         2171   20    0 3d 6d
+CKRAIZ    986180589  3  1 Bc  k     k     k         2151   10   20 4d 4c
+CKRAIZ    986180601  4  4 c   f     -     -         2161   10    0 
+CKRAIZ    986180632  4  3 c   k     kc    f         2151   30    0 
+CKRAIZ    986180666  4  2 Bk  kf    -     -         2121   10    0 
+CKRAIZ    986180700  5  1 Br  kf    -     -         2111   20    0 
+CKRAIZ    986180745  7  7 f   -     -     -         2091    0    0 
+CKRAIZ    986180766  7  6 f   -     -     -         2091    0    0 
+CKRAIZ    986180831  8  6 c   f     -     -         2091   10    0 
+CKRAIZ    986180925  9  6 c   k     c     k         2081   40    0 9h 3h
+CKRAIZ    986180970  8  4 cc  kc    kc    k         2041   60    0 Ac 7d
+CKRAIZ    986181046  8  3 f   -     -     -         1981    0    0 
+CKRAIZ    986181119  8  2 Bc  kf    Q     -         1981   20    0 
+CKRAIZ    986439596  5  5 c   f     -     -         1961   10    0 
+CKRAIZ    986439608  5  4 cc  f     -     -         1951   20    0 
+CKRAIZ    986439655  5  3 cc  f     -     -         1931   20    0 
+CKRAIZ    986439717  5  2 Bk  k     kf    -         1911   10    0 
+CKRAIZ    986439779  5  1 Br  kc    kc    kf        1901   50    0 
+CKRAIZ    986439831  5  5 c   k     b     -         1851   30   60 
+CKRAIZ    986439910  6  4 c   kf    -     -         1881   10    0 
+CKRAIZ    986439938  6  3 c   c     c     c         1871   60    0 Th 7s
+CKRAIZ    986439983  6  2 Bk  kc    kc    kr        1811   80  175 5c 3s
+CKRAIZ    986440022  6  1 Bc  k     kf    -         1906   20    0 
+CKRAIZ    986440076  6  6 f   -     -     -         1886    0    0 
+CKRAIZ    986440114  7  6 f   -     -     -         1886    0    0 
+CKRAIZ    986440150  8  6 f   -     -     -         1886    0    0 
+CKRAIZ    986440202  8  5 c   k     kc    k         1886   30   85 3s 4s
+CKRAIZ    986440258  8  4 f   -     -     -         1941    0    0 
+CKRAIZ    986440299  8  3 f   -     -     -         1941    0    0 
+CKRAIZ    986440406  8  2 Bk  k     b     -         1941   30   55 
+CKRAIZ    986440458  8  1 Bc  kc    kc    k         1966   50    0 5d 8d
+CKRAIZ    986440556 10 10 c   cc    f     -         1916   60    0 
+CKRAIZ    986440669  9  8 cc  cc    k     c         1856  100    0 Jh Ts
+CKRAIZ    986440781  9  7 f   -     -     -         1756    0    0 
+CKRAIZ    986440857  9  8 cc  cc    f     -         1756   80    0 
+CKRAIZ    986440963  7  6 cc  c     f     -         1676   50    0 
+CKRAIZ    986440992  6  4 cc  c     ccc   cc        1626  170  530 4s 3d
+CKRAIZ    986441048  7  3 f   -     -     -         1986    0    0 
+CKRAIZ    986441074  7  2 Bcc kf    -     -         1986   40    0 
+CKRAIZ    986441135  7  1 Bf  -     -     -         1946    5    0 
+CKRAIZ    986441193  6  6 f   -     -     -         1941    0    0 
+CKRAIZ    986441231  8  5 ccc f     -     Q         1941   40    0 
+CKRAIZ    986698071 10  1 Bf  -     -     -         1901    5    0 
+CKRAIZ    986698125 10 10 c   c     k     k         1896   30    0 7d Kd
+CKRAIZ    986698181 10  9 c   kc    c     c         1866   70    0 Kc Qs
+CKRAIZ    986698244 10  8 f   -     -     -         1796    0    0 
+CKRAIZ    986698297  9  6 c   f     -     -         1796   10    0 
+CKRAIZ    986698355  9  5 f   -     -     -         1786    0    0 
+CKRAIZ    986698428  9  4 cc  kc    kc    kc        1786   70  275 7d Qs
+CKRAIZ    986698511  9  3 f   -     -     -         1991    0    0 
+CKRAIZ    986698572 10  2 Bk  kc    k     kf        1991   20    0 
+CKRAIZ    986698675 10  1 Bc  kc    kc    f         1971   40    0 
+CKRAIZ    986698737 10 10 c   f     -     -         1931   10    0 
+CKRAIZ    986698794 10  9 f   -     -     -         1921    0    0 
+CKRAIZ    986698871 10  8 f   -     -     -         1921    0    0 
+CKRAIZ    986698948 10  7 f   -     -     -         1921    0    0 
+CKRAIZ    986699062 10  6 crc ccc   kcc   kf        1921  160    0 
+CKRAIZ    986699248 10  5 c   kr    c     f         1761   50    0 
+CKRAIZ    986699348 10  5 c   kc    k     kf        1711   20    0 
+CKRAIZ    986699417  9  3 f   -     -     -         1691    0    0 
+CKRAIZ    986699485 10  2 Bk  k     kf    -         1691   10    0 
+CKRAIZ    986699573  9  1 Bf  -     -     -         1681    5    0 
+CKRAIZ    986699621  7  7 f   -     -     -         1676    0    0 
+CKRAIZ    986699662  7  6 f   -     -     -         1676    0    0 
+CKRAIZ    986699733  7  5 cc  c     c     f         1676   60    0 
+CKRAIZ    986699798  7  4 c   k     k     f         1616   10    0 
+CKRAIZ    986699830  8  3 cc  cc    c     k         1606   70    0 8d Kc
+CKRAIZ    986699948  7  2 Brr kc    kc    f         1536   80    0 
+CKRAIZ    986700050  8  1 Brc br    b     kc        1456  110    0 Qd Ah
+CKRAIZ    986700148  8  8 c   b     c     rc        1346  100  240 Ks 8s
+CKRAIZ    986700216  7  6 cc  f     -     -         1486   30    0 
+CKRAIZ    986700273  7  5 f   -     -     -         1456    0    0 
+CKRAIZ    986700312  7  4 f   -     -     -         1456    0    0 
+CKRAIZ    986700359  7  3 f   -     -     -         1456    0    0 
+CKRAIZ    986700423  7  2 Bk  k     k     k         1456   10   25 Kd 3d
+CKRAIZ    986700476  6  1 Bc  kc    kc    krc       1471  110  290 9d Jh
+CKRAIZ    986700543  7  7 c   k     f     -         1651   10    0 
+CKRAIZ    986700592  7  6 cr  kc    kc    kc        1641   80    0 Ac Qc
+CKRAIZ    986700655  7  5 f   -     -     -         1561    0    0 
+CKRAIZ    986700708  6  4 c   kc    f     -         1561   20    0 
+CKRAIZ    986700757  5  2 cc  kc    kc    k         1541   50    0 9c 7c
+CKRAIZ    986700815  6  2 Bk  k     b     k         1491   30   70 4h Qd
+CKRAIZ    986700852  6  1 Bf  -     -     -         1531    5    0 
+CKRAIZ    986700895  6  6 f   -     -     -         1526    0    0 
+CKRAIZ    986700922  6  5 f   -     -     -         1526    0    0 
+CKRAIZ    986700960  6  4 c   k     f     -         1526   20    0 
+CKRAIZ    986701003  6  4 f   -     -     -         1506    0    0 
+CKRAIZ    986701071  8  4 f   -     -     -         1506    0    0 
+CKRAIZ    986701112  8  3 f   -     -     -         1506    0    0 
+CKRAIZ    986701150  8  2 Bk  kf    -     -         1506   10    0 
+CKRAIZ    986701191  8  1 Bc  k     kf    -         1496   20    0 
+CKRAIZ    986701236  8  8 f   -     -     -         1476    0    0 
+CKRAIZ    986701260  8  7 c   c     c     k         1476   40    0 7h 9d
+CKRAIZ    986701287  8  6 c   k     k     f         1436   10    0 
+CKRAIZ    986701320  8  5 c   k     k     b         1426   30   60 
+CKRAIZ    986701351  8  4 c   kf    -     -         1456   10    0 
+CKRAIZ    986701393  9  3 f   -     -     -         1446    0    0 
+CKRAIZ    986701457 10  2 Bk  kf    -     -         1446   10    0 
+CKRAIZ    986701501  9  1 Bc  kc    kc    k         1436   40    0 7c 7h
+CKRAIZ    986701538 10 10 c   c     c     f         1396   40    0 
+CKRAIZ    986701605 10  9 f   -     -     -         1356    0    0 
+CKRAIZ    986701661 10  8 c   f     -     -         1356   20    0 
+CKRAIZ    986701749 10  7 c   f     -     -         1336   10    0 
+CKRAIZ    986701814 10  6 c   kf    -     -         1326   10    0 
+CKRAIZ    986701863 10  5 c   b     c     c         1316   60  145 Qd Td
+CKRAIZ    986701892 10  4 f   -     -     -         1401    0    0 
+CKRAIZ    986701961 10  3 cc  c     kc    k         1401   50    0 Js Th
+CKRAIZ    986702044  9  2 Bk  kc    kc    k         1351   40  105 Td 8d
+CKRAIZ    986702096 10  1 Bc  k     kf    -         1416   10    0 
+CKRAIZ    986702157 10 10 c   bc    b     k         1406   50  180 Qs Kc
+CKRAIZ    986702218 10  9 f   -     -     -         1536    0    0 
+CKRAIZ    986702264 10  8 f   -     -     -         1536    0    0 
+CKRAIZ    986702313 10  7 cc  k     b     b         1536   60  155 
+CKRAIZ    986702379 10  6 f   -     -     -         1631    0    0 
+CKRAIZ    986702461  9  4 f   -     -     -         1631    0    0 
+CKRAIZ    986702512  8  2 Bf  -     -     -         1631   10    0 
+CKRAIZ    986702597  9  1 Bf  -     -     -         1621    5    0 
+CKRAIZ    986702673  9  9 f   -     -     -         1616    0    0 
+CKRAIZ    986702786  8  7 f   -     -     -         1616    0    0 
+CKRAIZ    986702836  8  7 f   -     -     -         1616    0    0 
+CKRAIZ    986702883  8  6 f   -     -     -         1616    0    0 
+CKRAIZ    986702930  8  5 f   -     -     Q         1616    0    0 
+CKRAIZ    986959982  9  8 c   c     k     f         1616   20    0 
+CKRAIZ    986960025  9  7 c   b     k     k         1596   20   85 Kd Kc
+CKRAIZ    986960085  9  6 c   k     b     -         1661   30   60 
+CKRAIZ    986960132  9  5 f   -     -     -         1691    0    0 
+CKRAIZ    986960171  9  4 c   k     k     f         1691   10    0 
+CKRAIZ    986960207  9  3 f   -     -     -         1681    0    0 
+CKRAIZ    986960252 10  2 Bcc kc    kc    kf        1681   70    0 
+CKRAIZ    986960313  9  1 Bc  kc    kc    kc        1611   60    0 8h Qs
+CKRAIZ    986960361  9  9 cc  c     c     f         1551   80    0 
+CKRAIZ    986960481  9  8 c   c     f     -         1471   30    0 
+CKRAIZ    986960511  8  6 cc  kc    f     -         1441   30    0 
+CKRAIZ    986960591  8  5 crc bf    -     -         1411   50    0 
+CKRAIZ    986960703  7  3 f   -     -     -         1361    0    0 
+CKRAIZ    986960756  7  2 Bc  f     -     -         1361   20    0 
+CKRAIZ    986960782  7  1 Bc  kf    -     -         1341   20    0 
+CKRAIZ    986960842  7  7 cc  k     f     -         1321   20    0 
+CKRAIZ    986960911  7  6 rc  kc    k     k         1301   60  255 Th Jh
+CKRAIZ    986960961  6  4 f   -     -     -         1496    0    0 
+CKRAIZ    986961019  7  3 cc  kf    -     -         1496   20    0 
+CKRAIZ    986961060  7  2 Bc  f     -     -         1476   20    0 
+CKRAIZ    986961105  7  1 Bcc kc    kc    kf        1456   50    0 
+CKRAIZ    986961177  7  7 cc  c     k     k         1406   30    0 5c 9h
+CKRAIZ    986961222  7  6 c   k     b     -         1376   30   45 
+CKRAIZ    986961263  6  5 cc  kc    kc    kf        1391   50    0 
+CKRAIZ    986961289  6  4 f   -     -     -         1341    0    0 
+CKRAIZ    986961313  6  3 f   -     -     -         1341    0    0 
+CKRAIZ    986961375  6  2 Bk  k     f     -         1341   10    0 
+CKRAIZ    986961413  5  1 Br  kc    k     kc        1331   50  110 Qh Ac
+CKRAIZ    986961435  4  4 f   -     -     -         1391    0    0 
+CKRAIZ    986961467  4  3 c   k     b     k         1391   30   65 8d 8s
+CKRAIZ    986961496  4  2 Bk  f     -     -         1426   10    0 
+CKRAIZ    986961510  4  1 Bc  k     k     kc        1416   30   35 5h 6s
+CKRAIZ    986961541  4  4 cc  r     -     -         1421   40  118 Jh Ac
+CKRAIZ    986961581  3  2 B   -     -     -         1499   10   15 
+CKRAIZ    986961589  3  1 Bcc kr    -     -         1504   40   70 
+CKRAIZ    986961622  3  3 cc  c     c     f         1534   50    0 
+CKRAIZ    986961657  3  2 B   -     -     -         1484   10   15 
+CKRAIZ    986961670  3  1 Bf  -     -     -         1489    5    0 
+CKRAIZ    986961682  3  3 c   k     bc    c         1484   70   72 2s 7s
+CKRAIZ    986961719  3  2 Bc  r     c     c         1486   80    0 Jh Ac
+CKRAIZ    986961748  4  1 Br  kc    kr    b         1406  100  210 6s 6d
+CKRAIZ    986961784  5  5 f   -     -     -         1516    0    0 
+CKRAIZ    986961819  6  5 c   f     -     -         1516   10    0 
+CKRAIZ    986961867  6  4 f   -     -     -         1506    0    0 
+CKRAIZ    986961878  6  4 c   c     c     r         1506   80  210 Kh 9h
+CKRAIZ    986961920  5  2 Bf  -     -     -         1636   10    0 
+CKRAIZ    986961950  5  1 Bf  -     -     -         1626    5    0 
+CKRAIZ    986961963  5  5 f   -     -     -         1621    0    0 
+CKRAIZ    986961999  6  5 f   -     -     -         1621    0    0 
+CKRAIZ    986962037  6  4 f   -     -     -         1621    0    0 
+CKRAIZ    986962091  6  3 cc  kf    -     -         1621   20    0 
+CKRAIZ    986962137  6  2 Bf  -     -     -         1601   10    0 
+CKRAIZ    986962187  6  1 Bc  kf    -     -         1591   10    0 
+CKRAIZ    986962228  6  6 f   -     -     -         1581    0    0 
+CKRAIZ    986962263  6  5 c   k     c     c         1581   50  165 9c Ad
+CKRAIZ    986962417  5  3 c   kc    kc    kf        1696   40    0 
+CKRAIZ    986962494  5  2 Bf  -     -     -         1656   10    0 
+CKRAIZ    986962536  6  1 Bc  kf    -     -         1646   10    0 
+CKRAIZ    986962594  6  6 f   -     -     -         1636    0    0 
+CKRAIZ    986962660  6  5 f   -     -     -         1636    0    0 
+CKRAIZ    986962690  6  4 c   k     k     k         1636   10    0 Kd Jc
+CKRAIZ    986962728  6  3 cc  c     c     f         1626   50    0 
+CKRAIZ    986962784  7  3 cc  kf    -     -         1576   20    0 
+CKRAIZ    986962828  7  2 Bf  -     -     -         1556   10    0 
+CKRAIZ    986962872  7  1 Bc  kf    -     -         1546   10    0 
+CKRAIZ    986962907  7  7 c   f     -     -         1536   10    0 
+CKRAIZ    986962962  6  5 r   k     b     b         1526   60  125 As Ts
+CKRAIZ    986962992  7  4 f   -     -     -         1591    0    0 
+CKRAIZ    986963034  7  3 f   -     -     -         1591    0    0 
+CKRAIZ    986963091  7  2 Bk  k     c     f         1591   30    0 
+CKRAIZ    986963124  7  1 Bcc k     kf    -         1561   20    0 
+CKRAIZ    986963173  7  7 f   -     -     -         1541    0    0 
+CKRAIZ    986963197  7  6 cc  c     c     f         1541   60    0 
+CKRAIZ    986963268  7  5 cc  kf    -     -         1481   20    0 
+CKRAIZ    986963336  7  4 cc  f     -     -         1461   20    0 
+CKRAIZ    986963363  7  3 cc  crc   rr    kc        1441  160  640 Kc Ts
+CKRAIZ    986963464  6  2 Bk  k     k     f         1921   10    0 
+CKRAIZ    986963488  6  1 Bc  kc    k     k         1911   30   70 4d Ad
+CKRAIZ    986963579  5  5 f   -     -     -         1951    0    0 
+CKRAIZ    986963647  6  5 f   -     -     -         1951    0    0 
+CKRAIZ    986963657  6  4 f   -     -     -         1951    0    0 
+CKRAIZ    986963705  6  3 c   f     -     -         1951   10    0 
+CKRAIZ    986963752  6  2 Bk  f     -     -         1941   10    0 
+CKRAIZ    986963812  5  1 Bc  kc    kc    k         1931   50  140 6c 6d
+CKRAIZ    986963862  5  5 c   f     -     -         2021   20    0 
+CKRAIZ    986963884  4  3 cc  kf    -     -         2001   20    0 
+CKRAIZ    986963909  4  2 B   -     -     -         1981   10   15 
+CKRAIZ    986963913  4  1 Bc  k     k     kc        1986   30   60 7h Ah
+CKRAIZ    986963933  4  4 c   c     c     f         2016   50    0 
+CKRAIZ    986963961  4  3 f   -     -     -         1966    0    0 
+CKRAIZ    986963990  4  2 Bf  -     -     -         1966   10    0 
+CKRAIZ    986964000  5  1 Bc  kf    -     -         1956   10    0 
+CKRAIZ    986964035  5  5 c   k     f     -         1946   10    0 
+CKRAIZ    986964070  5  4 c   k     k     k         1936   10   25 Td 3d
+CKRAIZ    986964099  5  3 cc  cf    -     -         1951   30    0 
+CKRAIZ    986964141  5  2 Bc  kc    kc    kf        1921   70    0 
+CKRAIZ    986964186  5  1 Bc  kf    -     -         1851   20    0 
+CKRAIZ    986964224  5  5 cc  c     c     f         1831   60    0 
+CKRAIZ    986964260  5  4 f   -     -     -         1771    0    0 
+CKRAIZ    986964275  5  3 f   -     -     -         1771    0    0 
+CKRAIZ    986964337  5  2 Bc  kf    -     -         1771   20    0 
+CKRAIZ    986964359  4  1 Bf  -     -     -         1751    5    0 
+CKRAIZ    986964370  5  5 c   c     c     f         1746   40    0 
+CKRAIZ    986964402  5  4 c   c     c     k         1706   40  105 Kc Ad
+CKRAIZ    986964441  5  3 f   -     -     -         1771    0    0 
+CKRAIZ    986964469  5  2 Bc  kf    -     -         1771   20    0 
+CKRAIZ    986964498  5  1 Bf  -     -     -         1751    5    0 
+CKRAIZ    986964522  5  5 c   k     k     k         1746   20   55 Ah Qh
+CKRAIZ    986964549  6  5 cc  c     c     f         1781   50    0 
+CKRAIZ    986964571  6  4 cc  kf    -     -         1731   20    0 
+CKRAIZ    986964587  6  3 c   c     c     c         1711   60    0 4h 6h
+CKRAIZ    986964620  6  2 Bk  k     k     k         1651   10    0 3h 7s
+CKRAIZ    986964656  6  1 Bc  kcc   kf    -         1641   40    0 
+CKRAIZ    986964726  7  7 c   f     -     -         1601   20    0 
+CKRAIZ    986964767  7  6 f   -     -     -         1581    0    0 
+CKRAIZ    986964797  7  5 f   -     -     -         1581    0    0 
+CKRAIZ    986964822  7  4 f   -     -     -         1581    0    0 
+CKRAIZ    986964852  7  3 cc  kc    kc    k         1581   50    0 7s 8s
+CKRAIZ    986964920  7  3 f   -     -     -         1531    0    0 
+CKRAIZ    986964973  7  2 Bc  k     kf    -         1531   30    0 
+CKRAIZ    986965027  7  1 Bc  kc    k     b         1501   40   60 
+CKRAIZ    986965083  7  7 c   k     f     -         1521   10    0 
+CKRAIZ    986965136  7  6 cc  k     k     k         1511   20   25 9s 8s
+CKRAIZ    986965236  6  4 f   -     -     -         1516    0    0 
+CKRAIZ    986965278  6  4 c   k     k     k         1516   10    0 2h Th
+CKRAIZ    986965307  6  3 c   kf    -     -         1506   10    0 
+CKRAIZ    986965350  7  1 Bc  kc    kc    kf        1496   50    0 
+CKRAIZ    986965387  7  1 Bc  kc    k     k         1446   30    0 3d 6d
+CKRAIZ    986965437  7  7 c   c     c     cc        1416  100    0 4d 3d
+CKRAIZ    986965515  7  6 f   -     -     Q         1316    0    0 
+CKRAIZ    987176047  2  2 B   -     -     -         1316   10   15 
+CKRAIZ    987176058  2  1 Bf  -     -     -         1321    5    0 
+CKRAIZ    987176061  2  2 Bk  c     k     k         1316   20   40 Jd Qd
+CKRAIZ    987176076  2  1 Bc  kf    -     -         1336   10    0 
+CKRAIZ    987176088  2  2 Bk  k     b     -         1326   30   40 
+CKRAIZ    987176103  2  1 Bc  kc    b     k         1336   40    0 2s 2c
+CKRAIZ    987176122  2  2 B   -     -     -         1296   10   15 
+CKRAIZ    987176131  2  1 Bf  -     -     -         1301    5    0 
+CKRAIZ    987176135  2  2 Bk  c     c     k         1296   40   80 4h 4d
+CKRAIZ    987176150  2  1 Bc  k     kc    kf        1336   30    0 
+CKRAIZ    987176176  2  2 Bk  k     f     -         1306   10    0 
+CKRAIZ    987176188  2  1 Bf  -     -     -         1296    5    0 
+CKRAIZ    987176190  2  2 Bk  k     k     r         1291   50  100 6d 3s
+CKRAIZ    987176210  2  1 Bc  k     kc    kc        1341   50  100 Qc 8h
+CKRAIZ    987176234  2  2 B   -     -     -         1391   10   15 
+CKRAIZ    987176241  2  1 Bf  -     -     -         1396    5    0 
+CKRAIZ    987176244  2  2 B   -     -     -         1391   10   15 
+CKRAIZ    987176247  2  1 Bf  -     -     -         1396    5    0 
+CKRAIZ    987176249  2  2 Bk  k     k     k         1391   10   20 4c 5s
+CKRAIZ    987176273  3  1 Bf  -     -     -         1401    5    0 
+CKRAIZ    987176279  3  3 f   -     -     -         1396    0    0 
+CKRAIZ    987176299  3  2 Bk  k     k     k         1396   10   15 As 4s
+CKRAIZ    987176323  4  1 Bf  -     -     -         1401    5    0 
+CKRAIZ    987176345  5  5 cr  c     c     f         1396   90    0 
+CKRAIZ    987176411  6  5 r   b     c     c         1306   70    0 As Jh
+CKRAIZ    987176463  6  4 f   -     -     -         1236    0    0 
+CKRAIZ    987176512  6  3 f   -     -     -         1236    0    0 
+CKRAIZ    987176544  6  2 Bk  kc    kc    k         1236   40    0 3s Ac
+CKRAIZ    987176631  6  1 Bc  kf    -     -         1196   10    0 
+CKRAIZ    987176684  6  6 f   -     -     -         1186    0    0 
+CKRAIZ    987176751  8  7 cc  f     -     -         1186   30    0 
+CKRAIZ    987176882  8  6 c   k     cc    f         1156   70    0 
+CKRAIZ    987176949  9  6 f   -     -     -         1086    0    0 
+CKRAIZ    987177017  9  6 c   kf    -     -         1086   20    0 
+CKRAIZ    987177116  9  4 cc  kc    k     kf        1066   50    0 
+CKRAIZ    987177223 10  4 c   c     kc    kf        1016   40    0 
+CKRAIZ    987177318  9  3 f   -     -     -          976    0    0 
+CKRAIZ    987177404 10  2 Bk  k     kf    -          976   10    0 
+CKRAIZ    987177509 10  1 Bc  kf    -     -          966   10    0 
+CKRAIZ    987177581 10 10 r   c     c     f          956   50    0 
+CKRAIZ    987177651 10  9 crc f     -     -          906   40    0 
+CKRAIZ    987177775  9  8 f   -     -     -          866    0    0 
+CKRAIZ    987177874  9  7 c   k     k     f          866   10    0 
+CKRAIZ    987177942  9  6 c   br    b     k          856   60  150 Js 8s
+CKRAIZ    987177990  9  6 f   -     -     -          946    0    0 
+CKRAIZ    987178062  9  4 f   -     -     -          946    0    0 
+CKRAIZ    987178131  9  3 f   -     -     -          946    0    0 
+CKRAIZ    987178162  8  2 Bc  kc    kc    kf         946   70    0 
+CKRAIZ    987178213  8  1 Bc  kc    kr    k          876   70  200 6s 5h
+CKRAIZ    987178280  9  9 c   r     k     c         1006   50  155 Ts 9c
+CKRAIZ    987178342  9  8 f   -     -     -         1111    0    0 
+CKRAIZ    987178419  8  6 f   -     -     -         1111    0    0 
+CKRAIZ    987178459  8  5 cc  r     kc    kc        1111   80    0 6d 5d
+CKRAIZ    987178535  9  5 f   -     -     -         1031    0    0 
+CKRAIZ    987178575  9  4 c   k     kf    -         1031   10    0 
+CKRAIZ    987178648  9  3 f   -     -     -         1021    0    0 
+CKRAIZ    987178695 10  2 Bk  kcc   kc    kc        1021   80    0 5d 7s
+CKRAIZ    987178767  8  1 Bf  -     -     -          941    5    0 
+CKRAIZ    987178786  8  8 f   -     -     -          936    0    0 
+CKRAIZ    987178964  7  6 cc  c     c     f          936   60    0 
+CKRAIZ    987179024  7  5 c   k     kc    k          876   30  100 Ad 7s
+CKRAIZ    987179066  8  4 c   c     kc    kf         946   50    0 
+CKRAIZ    987179177  8  3 c   kc    kf    -          896   20    0 
+CKRAIZ    987179238  9  2 Bk  b     -     -          876   20   60 
+CKRAIZ    987179278  9  1 Br  k     b     kc         916   60  160 Ah Js
+CKRAIZ    987179348  9  9 f   -     -     -         1016    0    0 
+CKRAIZ    987179434  8  7 f   -     -     -         1016    0    0 
+CKRAIZ    987179493 10  7 f   -     -     -         1016    0    0 
+CKRAIZ    987179536 10  6 c   k     c     k         1016   30    0 Ah 3d
+CKRAIZ    987179599 10  5 c   k     bc    c          986   70    0 Ad As
+CKRAIZ    987179648 10  4 r   k     k     kf         916   20    0 
+CKRAIZ    987179738 10  3 c   k     k     kf         896   10    0 
+CKRAIZ    987179820 10  2 Bf  -     -     -          886   10    0 
+CKRAIZ    987179899  9  1 BQ  -     -     -          876    5    0 
+CKRAIZ    987475612  3  3 f   -     -     -         1341    0    0 
+CKRAIZ    987475630  3  2 B   -     -     -         1341   10   15 
+CKRAIZ    987475633  3  1 Bf  -     -     -         1346    5    0 
+CKRAIZ    987475647  3  3 f   -     -     -         1341    0    0 
+CKRAIZ    987475653  3  2 Bk  k     k     b         1341   30   60 7h Ac
+CKRAIZ    987475679  4  1 Bf  -     -     -         1371    5    0 
+CKRAIZ    987475698  4  4 c   f     -     -         1366   10    0 
+CKRAIZ    987475756  4  3 c   c     c     k         1356   40    0 Jh 8s
+CKRAIZ    987475802  4  2 Bk  kc    kf    -         1316   20    0 
+CKRAIZ    987475840  5  1 Bcc kf    -     -         1296   30    0 
+CKRAIZ    987475890  5  5 cc  k     c     k         1266   40  100 8c 9h
+CKRAIZ    987475940  5  4 f   -     -     -         1326    0    0 
+CKRAIZ    987475985  6  3 f   -     -     -         1326    0    0 
+CKRAIZ    987476016  6  2 Bk  kc    kc    kf        1326   40    0 
+CKRAIZ    987476065  5  1 Bf  -     -     -         1286    5    0 
+CKRAIZ    987476071  5  5 r   c     c     c         1281   70  190 Kd Ks
+CKRAIZ    987476116  5  4 cc  c     f     -         1401   30    0 
+CKRAIZ    987476178  5  3 c   f     -     -         1371   10    0 
+CKRAIZ    987476203  5  2 Bc  c     kc    f         1361   50    0 
+CKRAIZ    987476250  7  1 Bf  -     -     -         1311    5    0 
+CKRAIZ    987476325  7  7 f   -     -     -         1306    0    0 
+CKRAIZ    987476381  7  7 f   -     -     -         1306    0    0 
+CKRAIZ    987476418  7  6 f   -     -     -         1306    0    0 
+CKRAIZ    987476458  8  5 f   -     -     -         1306    0    0 
+CKRAIZ    987476554  8  4 f   -     -     -         1306    0    0 
+CKRAIZ    987476674  7  3 c   b     k     k         1306   20    0 Th Ah
+CKRAIZ    987476712  7  2 Bk  kf    -     -         1286   10    0 
+CKRAIZ    987476801  7  1 Bf  -     -     -         1276    5    0 
+CKRAIZ    987476858  7  7 c   b     k     c         1271   40    0 7c Ah
+CKRAIZ    987476918  5  4 f   -     -     -         1231    0    0 
+CKRAIZ    987476944  5  3 c   c     c     c         1231   60  130 Jh Td
+CKRAIZ    987476995  5  2 Bk  k     kf    -         1301   10    0 
+CKRAIZ    987477069  5  1 Bcr kr    kc    kc        1291   90    0 Ac Kc
+CKRAIZ    987477134  6  6 f   -     -     -         1201    0    0 
+CKRAIZ    987477172  6  5 f   -     -     -         1201    0    0 
+CKRAIZ    987477202  6  4 cr  kc    kf    -         1201   40    0 
+CKRAIZ    987477273  6  3 fQ  -     -     -         1161    0    0 

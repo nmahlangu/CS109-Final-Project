@@ -1,0 +1,657 @@
+damutt    987813915  7  3 c   c     c     brc       1000  120  165 Qc 3c
+damutt    987813974  7  2 Bc  kf    -     -         1045   20    0 
+damutt    987814021  7  1 Bc  kf    -     -         1025   10    0 
+damutt    987814051  7  7 c   br    b     c         1015   80    0 7d Kd
+damutt    987814129  8  6 cc  k     b     b          935   70  195 
+damutt    987814172  9  5 f   -     -     -         1060    0    0 
+damutt    987814221  9  4 c   c     k     c         1060   40    0 7c 7s
+damutt    987814261  9  3 f   -     -     -         1020    0    0 
+damutt    987814357  8  2 Bc  f     -     -         1020   20    0 
+damutt    987814396  8  1 Bc  kf    -     -         1000   10    0 
+damutt    987814465  9  9 f   -     -     -          990    0    0 
+damutt    987814488 10  8 f   -     -     -          990    0    0 
+damutt    987814571  9  7 f   -     -     -          990    0    0 
+damutt    987814620  8  5 c   c     c     f          990   50    0 
+damutt    987814655  7  4 f   -     -     -          940    0    0 
+damutt    987814680  7  3 c   kc    kc    bc         940   80    0 5h Kh
+damutt    987814725  5  2 Bk  kc    brc   kc         860  120    0 5s 7d
+damutt    987814775  6  1 Bc  kcc   kc    kc         740   70  240 7c 9d
+damutt    987814829  6  6 f   -     -     -          910    0    0 
+damutt    987814868  5  4 f   -     -     -          910    0    0 
+damutt    987814914  5  3 c   kc    kf    -          910   20    0 
+damutt    987814942  6  2 Bk  kc    kf    -          890   20    0 
+damutt    987814987  6  1 Bc  k     b     b          870   50    0 2c 4h
+damutt    987815016  7  7 c   c     c     f          820   70    0 
+damutt    987815076  8  7 f   -     -     -          750    0    0 
+damutt    987815116  8  6 f   -     -     -          750    0    0 
+damutt    987815138  8  5 cc  kc    c     brc        750  150  260 6s 5c
+damutt    987815229  9  5 f   -     -     -          860    0    0 
+damutt    987815283  9  4 cc  c     k     b          860   50  135 
+damutt    987815321 10  3 f   -     -     -          945    0    0 
+damutt    987815376 10  2 Bcc kf    -     -          945   40    0 
+damutt    987815418 10  1 Bc  kc    kc    k          905   50    0 Ad 5s
+damutt    987815458 10 10 f   -     -     -          855    0    0 
+damutt    987815518 10  9 f   -     -     -          855    0    0 
+damutt    987815552 10  8 cc  c     c     rc         855  160  650 Th Ks
+damutt    987815617 10  7 c   k     f     -         1345   10    0 
+damutt    987815653 10  6 c   c     f     -         1335   30    0 
+damutt    987815690 10  5 c   b     b     kf        1305   40    0 
+damutt    987815763 10  4 f   -     -     -         1265    0    0 
+damutt    987815803 10  3 cc  kf    -     -         1265   20    0 
+damutt    987815868 10  2 Bk  k     b     b         1245   50  105 As 9c
+damutt    987815901 10  1 Bc  k     k     k         1300   20  100 5s 7d
+damutt    987815972 10 10 c   c     f     -         1380   30    0 
+damutt    987816026 10  9 f   -     -     -         1350    0    0 
+damutt    987816075 10  8 f   -     -     -         1350    0    0 
+damutt    987816113 10  7 r   bc    cc    c         1350  120    0 9h 9c
+damutt    987816171 10  6 f   -     -     -         1230    0    0 
+damutt    987816229 10  5 f   -     -     -         1230    0    0 
+damutt    987816269 10  4 f   -     -     -         1230    0    0 
+damutt    987816302 10  3 ccc rc    f     -         1230   70    0 
+damutt    987816355 10  2 Br  bc    k     kf        1160   50    0 
+damutt    987816410  8  1 Bf  -     -     -         1110    5    0 
+damutt    987816451  9  9 c   c     f     -         1105   30    0 
+damutt    987816496 10  9 f   -     -     -         1075    0    0 
+damutt    987816542 10  8 c   c     c     k         1075   50    0 7d Jd
+damutt    987816608 10  7 rc  b     bc    c         1025  110    0 Th Td
+damutt    987816658 10  6 c   c     f     -          915   20    0 
+damutt    987816726  9  5 c   ccc   kf    -          895   60    0 
+damutt    987816771  8  3 c   kc    kf    -          835   20    0 
+damutt    987816833  9  2 Bc  c     c     b          815   80  310 8c 4d
+damutt    987816885  9  1 Bf  -     -     -         1045    5    0 
+damutt    987816931  9  9 f   -     -     -         1040    0    0 
+damutt    987816967  9  8 f   -     -     -         1040    0    0 
+damutt    987817005  9  7 f   -     -     -         1040    0    0 
+damutt    987817066  9  6 c   kf    -     -         1040   10    0 
+damutt    987817136  9  5 cc  kc    bc    k         1030   70    0 Kd Qc
+damutt    987817178  9  4 f   -     -     -          960    0    0 
+damutt    987817215  9  3 f   -     -     -          960    0    0 
+damutt    987817252  9  2 Bk  kc    kf    -          960   20    0 
+damutt    987817334  9  1 Bc  k     kf    -          940   10    0 
+damutt    987817389  9  9 f   -     -     -          930    0    0 
+damutt    987817452 10  9 f   -     -     -          930    0    0 
+damutt    987817495 10  8 cc  kc    f     -          930   30    0 
+damutt    987817597 10  7 c   r     b     k          900   60    0 5h 7h
+damutt    987817665 10  6 c   k     k     f          840   10    0 
+damutt    987817727  9  4 r   b     b     -          830   50   95 
+damutt    987817755  9  3 c   c     c     f          875   40    0 
+damutt    987817812 10  2 Bk  kc    kf    -          835   20    0 
+damutt    987817859 10  1 Bc  kc    b     b          815   60  150 As 4s
+damutt    987817910 10 10 c   k     b     -          905   30   70 
+damutt    987817995  8  7 f   -     -     -          945    0    0 
+damutt    987818030  8  6 f   -     -     -          945    0    0 
+damutt    987818084  9  5 f   -     -     -          945    0    0 
+damutt    987818198 10  5 r   bc    k     bf         945   60    0 
+damutt    987818291 10  4 f   -     -     -          885    0    0 
+damutt    987818370 10  3 c   b     b     b          885   60  205 Ad 3c
+damutt    987818435 10  2 Bk  kf    -     -         1030   10    0 
+damutt    987818535  9  1 Bc  k     kf    -         1020   10    0 
+damutt    987818578 10 10 cc  k     f     -         1010   20    0 
+damutt    987818622 10  9 c   k     f     -          990   10    0 
+damutt    987818675 10  4 Q   -     -     -          980    0    0 
+damutt    987889267  3  2 Bf  -     -     -          980   10    0 
+damutt    987889283  3  1 Bc  kf    -     -          970   10    0 
+damutt    987889300  3  3 cc  f     -     -          960   20    0 
+damutt    987889317  3  2 Bk  k     c     k          940   30    0 8s 7h
+damutt    987889346  3  1 Bc  k     b     br         910   90  190 
+damutt    987889399  3  3 cc  c     f     -         1010   30    0 
+damutt    987889421  3  2 Bc  kc    kf    -          980   30    0 
+damutt    987889448  3  1 Bf  -     -     -          950    5    0 
+damutt    987889471  3  3 r   -     -     -          945   20   35 
+damutt    987889482  3  2 Bk  f     -     -          960   10    0 
+damutt    987889496  3  1 Bf  -     -     -          950    5    0 
+damutt    987889524  3  3 r   -     -     -          945   20   35 
+damutt    987889533  3  2 Bc  cc    kc    kf         960   60    0 
+damutt    987889571  3  1 Brc kc    kr    -          900   80  140 
+damutt    987889611  3  3 f   -     -     -          960    0    0 
+damutt    987889622  3  2 Br  b     b     k          960   50  100 As Js
+damutt    987889653  3  1 Bf  -     -     -         1010    5    0 
+damutt    987889669  3  3 c   c     r     b         1005   80  150 
+damutt    987889705  5  2 Bk  f     -     -         1075   10    0 
+damutt    987889751  5  1 Bc  kc    kc    kf        1065   60    0 
+damutt    987889794  6  6 r   r     b     b         1005   90  320 As Qs
+damutt    987889886  6  5 f   -     -     -         1235    0    0 
+damutt    987889967  6  4 c   c     c     k         1235   40    0 2s 7s
+damutt    987890029  6  3 f   -     -     -         1195    0    0 
+damutt    987890055  6  2 Bc  kc    kc    kf        1195   50    0 
+damutt    987890108  6  1 Bf  -     -     -         1145    5    0 
+damutt    987890153  6  6 c   k     k     f         1140   10    0 
+damutt    987890217  6  5 f   -     -     -         1130    0    0 
+damutt    987890273  6  4 f   -     -     -         1130    0    0 
+damutt    987890310  8  5 r   k     cc    k         1130   60    0 Kh Qc
+damutt    987890375  6  3 c   kf    -     -         1070   10    0 
+damutt    987890420  6  2 Bk  kr    b     b         1060   70    0 4c 5c
+damutt    987890465  6  1 Bc  kc    kc    k          990   40    0 Qh 9s
+damutt    987890507  6  6 c   c     k     k          950   20   50 Qs 9d
+damutt    987890552  7  5 c   b     b     b          980   60  105 Ac 6s
+damutt    987890612  6  3 f   Q     -     -         1025    0    0 
+damutt    987895357 10  4 f   -     -     -         1025    0    0 
+damutt    987895405 10  3 c   kc    kc    k         1025   40    0 Ts Qc
+damutt    987895477 10  2 Bk  k     kcc   cc         985   90  340 Kc 7d
+damutt    987895544 10  1 Bc  kf    -     -         1235   10    0 
+damutt    987895587 10 10 c   c     c     f         1225   40    0 
+damutt    987895651  8  7 f   -     -     -         1185    0    0 
+damutt    987895710  9  7 c   c     f     -         1185   20    0 
+damutt    987895752 10  7 f   -     -     -         1165    0    0 
+damutt    987895781 10  6 f   -     -     -         1165    0    0 
+damutt    987895806 10  5 f   -     -     -         1165    0    0 
+damutt    987895850 10  4 cc  kc    kc    f         1165   50    0 
+damutt    987895908 10  3 c   b     br    bc        1115  120    0 Kd Kh
+damutt    987895972 10  2 Bk  kc    kccc  kf         995  110    0 
+damutt    987896044 10  1 Bc  k     b     b          885   50  150 Kc Td
+damutt    987896100 10 10 c   b     -     -          985   20   50 
+damutt    987896135 10  9 c   b     -     -         1015   20   55 
+damutt    987896161 10  8 f   -     -     -         1050    0    0 
+damutt    987896208 10  7 cc  kc    kc    kf        1050   50    0 
+damutt    987896292 10  6 c   k     b     -         1000   30   45 
+damutt    987896321 10  5 c   f     -     -         1015   10    0 
+damutt    987896375 10  4 f   -     Q     -         1005    0    0 
+damutt    987899179 10  7 f   -     -     -         1005    0    0 
+damutt    987899267 10  6 f   -     -     -         1005    0    0 
+damutt    987899304 10  5 cc  k     f     -         1005   20    0 
+damutt    987899369 10  4 cc  f     -     -          985   20    0 
+damutt    987899435 10  3 f   -     -     -          965    0    0 
+damutt    987899472 10  2 Bc  c     c     cf         965   70    0 
+damutt    987899533 10  1 Bc  kc    kcc   kc         895  130    0 Td Kd
+damutt    987899608 10 10 f   -     -     -          765    0    0 
+damutt    987899664 10  9 c   c     k     c          765   50  195 6c 6s
+damutt    987899710 10  8 c   c     c     c          910   90    0 2d 4d
+damutt    987899789 10  7 f   -     -     -          820    0    0 
+damutt    987899918 10  6 c   c     f     -          820   30    0 
+damutt    987899980 10  5 f   -     -     -          790    0    0 
+damutt    987900088 10  4 c   c     f     -          790   20    0 
+damutt    987900128 10  3 f   -     -     -          770    0    0 
+damutt    987900176  9  1 Bk  kf    -     -          770   10    0 
+damutt    987900205 10  1 Bf  -     -     -          760    5    0 
+damutt    987900259 10 10 c   c     c     c          755   60    0 Kh 4h
+damutt    987900336  9  8 c   kc    kf    -          695   20    0 
+damutt    987900392  9  7 f   -     -     -          675    0    0 
+damutt    987900466 10  7 c   c     f     -          675   40    0 
+damutt    987900536 10  6 r   b     b     r          635  100  320 
+damutt    987900598 10  5 c   rc    c     r          855  160  800 2d 4d
+damutt    987900667 10  4 cc  cc    f     -         1495   50    0 
+damutt    987900748 10  4 cc  rc    kcc   k         1445  130    0 8s 6s
+damutt    987900876 10  2 Bc  kc    kf    -         1315   30    0 
+damutt    987900965 10  1 Bc  k     kf    -         1285   10    0 
+damutt    987901022 10 10 f   -     -     -         1275    0    0 
+damutt    987901089 10  9 rc  b     b     b         1275   90  449 Kc As
+damutt    987901199 10  8 c   k     k     c         1634   30    0 5d 8d
+damutt    987901299 10  7 f   -     -     -         1604    0    0 
+damutt    987901378 10  6 c   kc    k     b         1604   50  135 
+damutt    987901462 10  5 f   -     -     -         1689    0    0 
+damutt    987901489 10  4 cc  c     rc    c         1689  110  260 3s Ac
+damutt    987901535 10  3 rc  k     bc    k         1839   80    0 Qh Qs
+damutt    987901580 10  2 Bc  kcc   k     kf        1759   50    0 
+damutt    987901638 10  1 Bc  b     b     kf        1709   40    0 
+damutt    987901721 10 10 f   -     -     -         1669    0    0 
+damutt    987901768 10  9 f   -     -     -         1669    0    0 
+damutt    987901812 10  8 c   cc    c     f         1669   60    0 
+damutt    987901861 10  7 f   -     -     -         1609    0    0 
+damutt    987901898 10  6 c   c     b     -         1609   50  115 
+damutt    987901935 10  5 c   b     b     b         1674   60    0 Ah 4s
+damutt    987901984 10  4 cc  c     c     r         1614  100    0 6d Jh
+damutt    987902054 10  3 cc  b     kc    k         1514   60  175 As 4s
+damutt    987902103 10  2 Bc  kc    kf    -         1629   30    0 
+damutt    987902142 10  1 Bf  -     -     -         1599    5    0 
+damutt    987902173 10 10 f   -     -     -         1594    0    0 
+damutt    987902208 10  9 f   -     -     -         1594    0    0 
+damutt    987902263 10  8 f   -     -     -         1594    0    0 
+damutt    987902375 10  7 rc  r     b     b         1594  100  285 
+damutt    987902439 10  6 cc  rc    cc    f         1779   90    0 
+damutt    987902509 10  5 c   k     c     k         1689   30    0 3h Kd
+damutt    987902610 10  4 c   f     -     -         1659   10    0 
+damutt    987902693 10  3 rc  kc    kc    kf        1649   60    0 
+damutt    987902748 10  2 Bc  k     kc    kc        1589   60  145 3d 2h
+damutt    987902787 10  1 Bf  -     -     -         1674    5    0 
+damutt    987902902 10 10 c   f     -     -         1669   10    0 
+damutt    987902971 10  9 f   -     -     -         1659    0    0 
+damutt    987903023 10  8 f   -     -     -         1659    0    0 
+damutt    987903062 10  7 cc  c     c     r         1659   90  215 
+damutt    987903114 10  6 c   f     -     -         1784   20    0 
+damutt    987903167 10  5 f   -     -     -         1764    0    0 
+damutt    987903216 10  4 f   -     -     -         1764    0    0 
+damutt    987903295  9  3 f   -     -     -         1764    0    0 
+damutt    987903356  9  2 Bk  bc    k     k         1764   30  120 6s 7d
+damutt    987903457  8  1 Bc  kc    kf    -         1854   20    0 
+damutt    987903551  9  9 f   -     -     -         1834    0    0 
+damutt    987903576  8  7 f   -     -     -         1834    0    0 
+damutt    987903603  9  7 r   b     b     k         1834   50    0 Ad Kc
+damutt    987903668  9  6 c   c     c     k         1784   50    0 8c Kd
+damutt    987903724 10  6 f   -     -     -         1734    0    0 
+damutt    987903764 10  6 r   b     b     b         1734   70  150 
+damutt    987903809 10  4 rr  bc    cc    cc        1814  140    0 Qs Ac
+damutt    987903896 10  3 c   c     c     f         1674   40    0 
+damutt    987903932 10  2 Bc  kcc   kc    kf        1634   60    0 
+damutt    987904007 10  1 Bf  -     -     -         1574    5    0 
+damutt    987904042 10  5 Q   -     -     -         1569    0    0 
+damutt    987930225  5  2 Bk  k     r     kc        1569   70    0 Js 3d
+damutt    987930252  5  1 Bc  k     b     -         1499   30   50 
+damutt    987930271  5  5 c   f     -     -         1519   20    0 
+damutt    987930288  5  4 f   -     -     -         1499    0    0 
+damutt    987930305  5  3 c   c     br    b         1499  100  210 Qs Kc
+damutt    987930327  6  2 Bc  kc    kr    b         1609   90  185 Qd 4c
+damutt    987930356  6  1 Bc  kc    kc    kf        1704   50    0 
+damutt    987930396  6  6 r   c     b     b         1654   70    0 8h 8d
+damutt    987930417  6  5 c   c     c     c         1584   60    0 Js 7h
+damutt    987930442  6  4 c   c     c     b         1524   60  130 8h Ks
+damutt    987930466  6  3 f   -     -     -         1594    0    0 
+damutt    987930475  6  2 Bk  kc    k     k         1594   20    0 6s 2h
+damutt    987930503  6  1 Br  b     -     -         1574   40   80 
+damutt    987930521  6  6 f   -     -     -         1614    0    0 
+damutt    987930553  6  5 f   -     -     -         1614    0    0 
+damutt    987930569  6  4 c   c     c     f         1614   40    0 
+damutt    987930590  6  3 cc  c     c     c         1574   70    0 Jd 6h
+damutt    987930618  6  2 Bk  kf    -     -         1504   10    0 
+damutt    987930679  5  1 Bc  kc    kf    -         1494   20    0 
+damutt    987930701  5  5 c   f     -     -         1474   10    0 
+damutt    987930728  5  4 c   c     f     -         1464   20    0 
+damutt    987930744  5  3 r   b     b     b         1444   70  135 
+damutt    987930763  5  2 B   -     -     -         1509   10   15 
+damutt    987930766  5  1 Bf  -     -     -         1514    5    0 
+damutt    987930773  5  5 f   -     -     -         1509    0    0 
+damutt    987930778  5  4 cc  c     c     c         1509   70    0 7d Qd
+damutt    987930803  5  3 r   -     -     -         1439   20   35 
+damutt    987930810  5  2 Bc  kf    -     -         1454   20    0 
+damutt    987930834  5  1 Bc  kc    kf    -         1434   30    0 
+damutt    987930865  5  5 f   -     -     -         1404    0    0 
+damutt    987930889  5  4 rc  k     b     b         1404   70  130 
+damutt    987930912  5  3 r   -     -     -         1464   20   35 
+damutt    987930920  5  2 Bc  kc    kc    b         1479   70  145 7c 9s
+damutt    987930952  4  1 Bc  k     b     -         1554   30   50 
+damutt    987930970  4  4 f   -     -     -         1574    0    0 
+damutt    987930975  4  3 c   c     k     k         1574   20    0 8h 8c
+damutt    987930999  4  2 Bk  br    br    -         1554  100  185 
+damutt    987931029  4  1 Bf  -     -     -         1639    5    0 
+damutt    987931038  4  4 f   -     -     -         1634    0    0 
+damutt    987931050  4  3 f   -     -     -         1634    0    0 
+damutt    987931059  4  2 B   -     -     -         1634   10   15 
+damutt    987931061  4  1 Bc  k     k     k         1639   10   20 2d 2c
+damutt    987931078  4  4 f   -     -     -         1649    0    0 
+damutt    987931087  4  3 f   -     -     -         1649    0    0 
+damutt    987931092  4  2 Bf  -     -     -         1649   10    0 
+damutt    987931098  4  1 Bc  b     -     -         1639   20   40 
+damutt    987931109  4  4 c   c     c     c         1659   70  165 As 9d
+damutt    987931128  4  3 f   -     -     -         1754    0    0 
+damutt    987931140  4  2 B   -     -     -         1754   10   15 
+damutt    987931143  4  1 Bf  -     -     -         1759    5    0 
+damutt    987931149  4  4 c   k     b     -         1754   30   55 
+damutt    987931164  4  3 c   c     k     c         1779   40    0 5d Kd
+damutt    987931183  4  2 B   -     -     -         1739   10   15 
+damutt    987931188  4  1 Bc  k     kr    -         1744   50   90 
+damutt    987931205  4  4 c   b     -     -         1784   20   35 
+damutt    987931216  4  3 r   -     -     -         1799   20   35 
+damutt    987931444  4  2 Bc  kc    kr    bc        1814  110    0 6c Jc
+damutt    987931473  4  1 Bc  kc    kc    b         1704   80  200 
+damutt    987931542  3  3 f   -     -     -         1824    0    0 
+damutt    987931560  3  2 Bc  kc    kr    b         1824   90  185 2c 7c
+damutt    987931584  3  1 Bf  -     -     -         1919    5    0 
+damutt    987931599  3  3 c   r     b     b         1914   70  130 
+damutt    987931622  3  2 B   -     -     -         1974   10   15 
+damutt    987931629  3  1 Bcc kc    bc    kc        1979   90    0 Jc 7s
+damutt    987931658  3  3 r   b     -     -         1889   30   55 
+damutt    987931670  3  2 Bc  kc    kr    b         1914   90  185 2h Kc
+damutt    987931701  3  1 Bf  -     -     -         2009    5    0 
+damutt    987931728  3  3 cc  c     r     b         2004   90  170 
+damutt    987931753  3  2 Bk  c     f     -         2084   20    0 
+damutt    987931770  2  1 Bf  -     -     -         2064    5    0 
+damutt    987931775  2  2 B   -     -     -         2059   10   15 
+damutt    987947252 10  8 c   c     c     f         2064   50    0 
+damutt    987947301  9  6 f   -     -     -         2014    0    0 
+damutt    987947366  9  6 f   -     -     -         2014    0    0 
+damutt    987947430  8  4 r   k     r     b         2014   80  280 Jc Jd
+damutt    987947468  9  3 cc  b     b     b         2214   70  235 9s 6s
+damutt    987947526  9  2 Bc  kc    k     k         2379   30    0 6s 7s
+damutt    987947555  9  1 Bf  -     -     -         2349    5    0 
+damutt    987947591  9  9 c   c     f     -         2344   30    0 
+damutt    987947629  9  8 f   -     -     -         2314    0    0 
+damutt    987947734  8  6 f   -     -     -         2314    0    0 
+damutt    987947752  8  5 f   -     -     -         2314    0    0 
+damutt    987947773  8  4 f   -     -     -         2314    0    0 
+damutt    987947824  8  3 f   -     -     -         2314    0    0 
+damutt    987947872  8  2 Bc  kf    -     -         2314   20    0 
+damutt    987947897  8  1 Bc  kc    k     kf        2294   30    0 
+damutt    987947946  8  8 c   c     k     b         2264   50  140 6s Kd
+damutt    987947988  8  7 f   -     -     -         2354    0    0 
+damutt    987948056  8  7 f   -     -     -         2354    0    0 
+damutt    987948111  9  6 c   f     -     -         2354   10    0 
+damutt    987948168  8  4 f   -     -     -         2344    0    0 
+damutt    987948217  7  3 f   -     -     -         2344    0    0 
+damutt    987948250  7  2 Bk  b     br    br        2344  140  440 8s Tc
+damutt    987948296  7  1 Bc  kc    kc    br        2644  110  290 As 9h
+damutt    987948346  8  8 f   -     -     -         2824    0    0 
+damutt    987948428  9  8 c   cc    f     -         2824   60    0 
+damutt    987948502  8  7 c   rr    b     b         2764  100    0 Jh 9c
+damutt    987948551  9  6 rr  cc    f     -         2664   70    0 
+damutt    987948622 10  6 cc  c     b     k         2594   70    0 Qh Ts
+damutt    987948716 10  5 c   c     c     f         2524   40    0 
+damutt    987948801  8  3 c   kc    kc    kf        2484   40    0 
+damutt    987948860  8  2 Bk  b     b     b         2444   60    0 Kc 7c
+damutt    987948898  9  1 Br  b     b     b         2384   70  150 
+damutt    987948939  9  9 c   b     b     b         2464   60  150 
+damutt    987949014 10  9 f   -     -     -         2554    0    0 
+damutt    987949049 10  8 c   f     -     -         2554   20    0 
+damutt    987949101 10  7 c   f     -     -         2534   20    0 
+damutt    987949164 10  6 f   -     Q     -         2514    0    0 
+damutt    987974434  5  4 f   -     -     -         2514    0    0 
+damutt    987974448  5  3 f   -     -     -         2514    0    0 
+damutt    987974471  5  2 Bc  k     kf    -         2514   20    0 
+damutt    987974493  5  1 Br  -     -     -         2494   20   30 
+damutt    987974501  5  5 f   -     -     -         2504    0    0 
+damutt    987974520  5  4 f   -     -     -         2504    0    0 
+damutt    987974529  5  3 f   -     -     -         2504    0    0 
+damutt    987974533  5  2 Bc  k     b     k         2504   40   85 9c 3s
+damutt    987974551  5  1 Bc  kc    k     k         2549   20   60 Ts Kh
+damutt    987974577  5  5 r   b     b     -         2589   50   95 
+damutt    987974594  5  4 f   -     -     -         2634    0    0 
+damutt    987974601  5  3 f   -     -     -         2634    0    0 
+damutt    987974624  5  2 Bcc kf    -     -         2634   40    0 
+damutt    987974643  5  1 Bc  kc    kc    k         2594   60    0 Ad 7h
+damutt    987974673  5  5 c   f     -     -         2534   10    0 
+damutt    987974689  4  3 f   -     -     -         2524    0    0 
+damutt    987974709  4  2 Bc  c     bc    k         2524   80    0 Ac 9d
+damutt    987974738  4  1 Bc  kcc   kc    kf        2444   70    0 
+damutt    987974777  4  4 f   -     -     -         2374    0    0 
+damutt    987974794  4  3 cc  b     b     -         2374   50   85 
+damutt    987974816  5  3 f   -     -     -         2409    0    0 
+damutt    987974842  5  2 Bk  k     k     k         2409   10    0 7d Jd
+damutt    987974866  5  1 Bf  -     -     -         2399    5    0 
+damutt    987974899  5  5 c   c     c     k         2394   50    0 3d 4d
+damutt    987974924  5  4 c   f     -     -         2344   20    0 
+damutt    987974938  5  3 f   -     -     -         2324    0    0 
+damutt    987974943  5  2 Bk  bcf   -     -         2324   40    0 
+damutt    987974971  5  1 Bf  -     -     -         2284    5    0 
+damutt    987974986  5  5 c   f     -     -         2279   20    0 
+damutt    987974997  5  4 f   -     -     -         2259    0    0 
+damutt    987975015  5  3 crc rr    rc    c         2259  160  325 Qd Qh
+damutt    987975056  5  2 Bf  -     -     -         2424   10    0 
+damutt    987975067  5  1 Bf  -     -     -         2414    5    0 
+damutt    987975095  6  6 f   -     -     -         2409    0    0 
+damutt    987975135  6  5 f   -     -     -         2409    0    0 
+damutt    987975189  6  4 f   -     -     -         2409    0    0 
+damutt    987975219  6  3 rc  br    b     bf        2409  110    0 
+damutt    987975262  6  2 Bc  k     kf    -         2299   40    0 
+damutt    987975301  6  1 Bc  kc    kf    -         2259   30    0 
+damutt    987975349  6  6 f   -     -     -         2229    0    0 
+damutt    987975367  6  5 c   c     c     cc        2229  170    0 Ks Kc
+damutt    987975417  7  4 c   c     k     b         2059   40   85 
+damutt    987975455  7  3 f   -     -     -         2104    0    0 
+damutt    987975475  7  2 Bf  -     -     -         2104   10    0 
+damutt    987975540  6  1 Bc  k     k     k         2094   10   40 9h 2c
+damutt    987975573  6  6 c   k     f     -         2124   20    0 
+damutt    987975601  6  5 f   -     -     -         2104    0    0 
+damutt    987975643  7  4 c   kc    kc    k         2104   40    0 Ac 9s
+damutt    987975729  8  3 cc  b     k     r         2064   70  150 9h 7h
+damutt    987975762  8  2 Bk  kc    kc    kc        2144   60    0 5d Jd
+damutt    987975816  8  1 Bc  kc    kf    -         2084   20    0 
+damutt    987975867  8  8 c   k     k     f         2064   10    0 
+damutt    987975901  8  7 f   -     -     -         2054    0    0 
+damutt    987975916  8  6 c   r     b     b         2054   70  255 Kc Jc
+damutt    987975969  9  5 f   -     -     -         2239    0    0 
+damutt    987976011  9  4 cc  kc    kc    b         2239   70  155 Jd 5d
+damutt    987976051  9  3 c   kf    -     -         2324   10    0 
+damutt    987976109  9  2 Bk  b     b     -         2314   40   90 
+damutt    987976161  9  1 Bc  b     b     b         2364   60  130 
+damutt    987976212  9  9 f   -     -     -         2434    0    0 
+damutt    987976237  9  8 f   -     -     -         2434    0    0 
+damutt    987976260  9  7 c   c     f     -         2434   30    0 
+damutt    987976312  9  6 c   k     kf    -         2404   10    0 
+damutt    987976362  9  5 f   -     -     -         2394    0    0 
+damutt    987976387  9  4 f   -     -     -         2394    0    0 
+damutt    987976415  9  3 cc  r     b     k         2394   70  230 7c Kd
+damutt    987976456  8  2 Bk  kf    -     -         2554   10    0 
+damutt    987976499  8  1 Bf  -     -     -         2544    5    0 
+damutt    987976544  8  8 f   -     -     -         2539    0    0 
+damutt    987976569  8  7 f   -     -     -         2539    0    0 
+damutt    987976585  8  6 r   b     b     -         2539   50  125 
+damutt    987976626  8  5 c   k     r     k         2614   50  175 Kc Th
+damutt    987976677  8  3 cc  kc    kf    -         2739   40    0 
+damutt    987976771  8  3 c   kc    b     b         2699   60  190 Js Kd
+damutt    987976832  8  2 Bc  k     b     b         2829   60    0 Kc 8d
+damutt    987976899  9  1 Bc  kc    kc    kf        2769   70    0 
+damutt    987976951  9  9 c   b     b     b         2699   60  145 Ah 5d
+damutt    987976999  9  8 f   -     -     -         2784    0    0 
+damutt    987977048  9  7 c   b     -     -         2784   20   70 
+damutt    987977076  9  6 f   -     -     -         2834    0    0 
+damutt    987977102  9  5 f   -     -     -         2834    0    0 
+damutt    987977133  9  4 f   -     -     -         2834    0    0 
+damutt    987977201  8  3 c   kc    c     r         2834   80    0 7s Kd
+damutt    987977269  9  2 Bk  kc    f     -         2754   20    0 
+damutt    987977367  9  1 Bc  kc    k     kf        2734   20    0 
+damutt    987977461  8  4 Q   -     -     -         2714    0    0 
+damutt    987982853  8  5 f   -     -     -         2714    0    0 
+damutt    987982893  8  4 cc  kf    -     -         2714   20    0 
+damutt    987982938  9  3 cc  kc    k     b         2694   50  165 Ac 9d
+damutt    987983021  9  2 Bf  -     -     -         2809   10    0 
+damutt    987983067  9  1 Bc  kc    b     br        2799  110    0 Kc 4h
+damutt    987983132  9  9 c   c     f     -         2689   20    0 
+damutt    987983169  9  8 cc  f     -     -         2669   20    0 
+damutt    987983201  9  7 f   -     -     -         2649    0    0 
+damutt    987983252  9  6 c   c     c     f         2649   40    0 
+damutt    987983308  8  5 f   -     -     -         2609    0    0 
+damutt    987983342  8  4 f   -     -     -         2609    0    0 
+damutt    987983393  8  3 cc  kc    kf    -         2609   30    0 
+damutt    987983480  8  2 Bc  cc    kc    kf        2579   60    0 
+damutt    987983553  8  1 Bc  kc    kc    kf        2519   40    0 
+damutt    987983616  8  8 c   c     f     -         2479   20    0 
+damutt    987983656  8  7 cc  c     c     c         2459   90  166 Ac 7s
+damutt    987983725  8  6 f   -     -     -         2535    0    0 
+damutt    987983767  8  5 f   -     -     -         2535    0    0 
+damutt    987983797  8  4 cc  c     cc    b         2535   90  157 Ad 4s
+damutt    987983853  8  3 f   -     -     -         2602    0    0 
+damutt    987983910  8  2 Bc  kf    -     -         2602   20    0 
+damutt    987983950  9  1 Bc  k     k     kf        2582   10    0 
+damutt    987984016  9  9 f   -     -     -         2572    0    0 
+damutt    987984060  9  8 f   -     -     -         2572    0    0 
+damutt    987984131  9  7 f   -     -     -         2572    0    0 
+damutt    987984207  9  6 f   -     -     -         2572    0    0 
+damutt    987984243 10  5 f   -     -     -         2572    0    0 
+damutt    987984315 10  4 cc  c     cc    kf        2572   70    0 
+damutt    987984387 10  3 f   -     -     -         2502    0    0 
+damutt    987984462 10  2 Bc  kf    -     -         2502   20    0 
+damutt    987984530 10  1 Bc  bc    kc    kc        2482   70    0 7d 8d
+damutt    987984599  9  9 f   -     -     -         2412    0    0 
+damutt    987984672  9  8 f   -     -     -         2412    0    0 
+damutt    987984773 10  7 c   c     f     -         2412   30    0 
+damutt    987984831 10  7 f   -     -     -         2382    0    0 
+damutt    987984880  9  5 c   k     b     b         2382   60    0 2s 2d
+damutt    987984945  9  4 f   -     -     -         2322    0    0 
+damutt    987985001  9  3 cc  k     k     kc        2322   60    0 9h 6s
+damutt    987985068 10  2 Bc  cc    f     -         2262   80    0 
+damutt    987985137  9  1 Bc  kc    kf    -         2182   30    0 
+damutt    987985188  9  7 Q   -     -     -         2152    0    0 
+damutt    987993419  5  3 c   c     c     f         2152   50    0 
+damutt    987993466  6  3 cc  c     k     f         2102   30    0 
+damutt    987993499  6  2 Bk  c     f     -         2072   20    0 
+damutt    987993539  6  1 Bc  k     k     k         2052   10    0 5s Jd
+damutt    987993576  6  6 c   k     b     -         2042   30   55 
+damutt    987993611  8  7 f   -     -     -         2067    0    0 
+damutt    987993686  9  7 c   kc    kc    k         2067   50    0 Jd 9s
+damutt    987993760  9  6 c   c     k     kf        2017   20    0 
+damutt    987993833  8  4 c   k     b     b         1997   50    0 Ks 8h
+damutt    987993876  7  2 Brc kc    k     k         1947   50    0 Qh 6h
+damutt    987993933  8  1 Bc  kc    kf    -         1897   30    0 
+damutt    987993994  9  9 c   fQ    -     -         1867   10    0 
+damutt    988162469 10  2 Bk  cc    c     f         1857   70    0 
+damutt    988162540 10  1 Bc  k     k     kf        1787   10    0 
+damutt    988162616 10 10 c   k     f     -         1777   10    0 
+damutt    988162666 10  9 c   c     f     -         1767   20    0 
+damutt    988162730 10  8 f   -     -     -         1747    0    0 
+damutt    988162767 10  7 c   c     c     b         1747   60  155 Ts Kh
+damutt    988162823 10  6 f   -     -     -         1842    0    0 
+damutt    988162904 10  5 cc  kf    -     -         1842   20    0 
+damutt    988162973 10  4 c   c     c     c         1822   60    0 5s Ac
+damutt    988163019 10  3 rc  bc    kc    kf        1762   90    0 
+damutt    988163153 10  2 Br  bc    kc    kc        1672  110  410 Ks Kd
+damutt    988163263 10  1 Bc  k     kc    k         1972   30    0 Qh 7c
+damutt    988163359 10 10 c   k     k     k         1942   10    0 Ah 2d
+damutt    988163430 10  9 c   c     c     bc        1932  120  540 Kc Tc
+damutt    988163560 10  8 c   k     k     k         2352   10   35 7h Th
+damutt    988163605 10  7 f   -     -     -         2377    0    0 
+damutt    988163728 10  6 c   b     b     b         2377   60  140 
+damutt    988163795 10  4 Q   -     -     -         2457    0    0 
+damutt    988333909  9  6 f   -     -     -         2457    0    0 
+damutt    988333958  9  5 f   -     -     -         2457    0    0 
+damutt    988334041  9  4 f   -     -     -         2457    0    0 
+damutt    988334097  9  3 f   -     -     -         2457    0    0 
+damutt    988334129  9  2 Bc  kc    k     b         2457   50  120 
+damutt    988334168  9  1 Bc  kc    kc    kf        2527   60    0 
+damutt    988334230  9  9 c   b     b     -         2467   40  100 
+damutt    988334281  9  8 f   -     -     -         2527    0    0 
+damutt    988334316  8  6 f   -     -     -         2527    0    0 
+damutt    988334349  8  5 c   c     r     b         2527   80  240 Qc 8c
+damutt    988334406  9  5 c   c     c     f         2687   50    0 
+damutt    988334462  9  4 c   b     b     b         2637   60    0 Ah 9s
+damutt    988334547 10  3 f   -     -     -         2577    0    0 
+damutt    988334648 10  2 Brc c     rr    b         2577  150  300 Qh Qs
+damutt    988334741  9  1 Bc  k     kc    kf        2727   30    0 
+damutt    988334805  9  9 r   c     c     b         2697   80  300 Ah Jh
+damutt    988334890  9  8 f   -     -     -         2917    0    0 
+damutt    988334956  9  7 f   -     -     -         2917    0    0 
+damutt    988334997  9  6 c   c     kf    -         2917   20    0 
+damutt    988335057  9  5 c   k     b     bc        2897   70    0 Ks 9h
+damutt    988335111  9  4 f   -     -     -         2827    0    0 
+damutt    988335163  9  3 cc  kc    kf    -         2827   30    0 
+damutt    988335223 10  2 Br  b     b     b         2797   70  190 
+damutt    988335267 10  1 Bc  kc    kc    krc       2917  110    0 Js Ks
+damutt    988335373 10 10 f   -     -     -         2807    0    0 
+damutt    988335426  9  8 c   c     bc    kf        2807   70    0 
+damutt    988335503  9  7 c   r     b     b         2737   80  190 
+damutt    988335566 10  7 f   -     -     -         2847    0    0 
+damutt    988335608 10  6 c   c     f     -         2847   30    0 
+damutt    988335671 10  5 c   c     f     -         2817   20    0 
+damutt    988335731  9  4 fQ  -     -     -         2797    0    0 
+damutt    988417396 10  4 c   kc    c     cc        2797   80    0 Kd Qc
+damutt    988417469 10  3 c   k     kf    -         2717   10    0 
+damutt    988417528 10  2 Bc  kc    kc    kc        2707   70    0 Kd 5c
+damutt    988417609 10  1 Bc  bcc   kf    -         2637   60    0 
+damutt    988417711 10 10 f   -     -     -         2577    0    0 
+damutt    988417756 10  4 Q   -     -     -         2577    0    0 
+damutt    988418765 10  2 Bc  kc    kf    -         2577   30    0 
+damutt    988418834 10  1 Bc  kc    kc    kc        2547   60    0 Tc Ah
+damutt    988418879 10 10 f   -     -     -         2487    0    0 
+damutt    988418946 10  9 c   c     c     rr        2487  130    0 Ks Qd
+damutt    988419015 10  8 c   c     f     -         2357   30    0 
+damutt    988419090 10  7 c   c     r     b         2327   90    0 4s Ad
+damutt    988419175 10  6 r   k     b     b         2237   60  210 Jd Js
+damutt    988419241 10  5 c   k     k     kf        2387   10    0 
+damutt    988419319 10  4 f   -     -     -         2377    0    0 
+damutt    988419371 10  3 f   -     -     -         2377    0    0 
+damutt    988419443 10  2 Bk  kc    k     kf        2377   20    0 
+damutt    988419509 10  1 Bc  kc    k     k         2357   20    0 5d 7c
+damutt    988419608 10 10 c   f     -     -         2337   20    0 
+damutt    988419681 10  9 f   -     -     -         2317    0    0 
+damutt    988419811 10  8 f   -     -     -         2317    0    0 
+damutt    988419858 10  7 c   c     k     k         2317   20    0 9d Qs
+damutt    988419931 10  6 r   c     c     f         2297   50    0 
+damutt    988419980 10  6 c   k     bc    bc        2247   90    0 2d Ac
+damutt    988420031 10  4 fQ  -     -     -         2157    0    0 
+damutt    988477826  7  6 c   c     c     k         1947   40   47 Ts Qh
+damutt    988477854  8  6 f   -     -     -         1954    0    0 
+damutt    988477889  8  5 f   -     -     -         1954    0    0 
+damutt    988477938  8  4 f   -     -     -         1954    0    0 
+damutt    988477972  8  3 c   k     k     b         1954   30   55 7c Qc
+damutt    988478044  8  2 Bf  -     -     -         1979   10    0 
+damutt    988478085  6  1 Bc  kf    -     -         1969   10    0 
+damutt    988478127  6  6 c   b     b     brc       1959  120    0 9s Ts
+damutt    988478183  6  5 c   k     k     k         1839   10    0 Kd 8h
+damutt    988478232  7  5 r   b     b     k         1829   50    0 9h 9s
+damutt    988478289  7  4 cc  kc    kc    kf        1779   50    0 
+damutt    988478373  6  3 c   k     kf    -         1729   10    0 
+damutt    988478417  6  2 Bk  b     b     b         1719   60  130 4s 4c
+damutt    988478464  6  1 Bf  -     -     -         1789    5    0 
+damutt    988478545  5  5 f   -     -     -         1784    0    0 
+damutt    988478570  5  4 f   -     -     -         1784    0    0 
+damutt    988478579  6  3 f   -     -     -         1784    0    0 
+damutt    988478613  6  2 Bk  kc    kf    -         1784   20    0 
+damutt    988478646  6  1 Bc  kc    kc    kf        1764   50    0 
+damutt    988478676  6  6 c   r     -     -         1714   30   70 
+damutt    988478706  6  5 f   -     -     -         1754    0    0 
+damutt    988478730  6  4 f   -     -     -         1754    0    0 
+damutt    988478780  7  3 cc  c     f     -         1754   30    0 
+damutt    988478832  7  3 cc  f     -     -         1724   20    0 
+damutt    988478884  7  2 Bk  kf    -     -         1704   10    0 
+damutt    988478913  8  1 Bc  kc    kc    kc        1694   60  140 3h Js
+damutt    988478948  9  8 f   -     -     -         1774    0    0 
+damutt    988478982  9  7 cc  k     c     f         1774   40    0 
+damutt    988479051  9  6 c   f     -     -         1734   10    0 
+damutt    988479105 10  5 c   kf    -     -         1724   10    0 
+damutt    988479168 10  4 rc  bc    kc    kc        1714   90    0 Qs Qc
+damutt    988479244 10  3 c   k     b     b         1624   50  170 4s Ks
+damutt    988479302 10  2 Bk  kc    kf    -         1744   20    0 
+damutt    988479360 10  1 Bc  kc    kc    kc        1724   70    0 Qc 4c
+damutt    988479404 10 10 f   -     -     -         1654    0    0 
+damutt    988479461 10  9 c   k     k     b         1654   40  140 Qh 9c
+damutt    988479533 10  8 f   -     -     -         1754    0    0 
+damutt    988479600 10  7 c   cc    c     k         1754   60  310 3h Th
+damutt    988479658  9  6 c   c     cc    f         2004   60    0 
+damutt    988479724 10  5 c   kc    kc    kf        1944   40    0 
+damutt    988479797 10  4 cc  kf    -     -         1904   20    0 
+damutt    988479871 10  3 cc  k     kc    kc        1884   80  143 8s Kc
+damutt    988479924 10  2 Bc  bc    kc    f         1947   80    0 
+damutt    988480001  9  1 Bc  kf    -     -         1867   20    0 
+damutt    988480054  9  9 rr  r     c     c         1847  100    0 Ac Kc
+damutt    988480118  9  8 c   f     Q     -         1747   10    0 
+damutt    988501684  2  1 BcQ -     -     -         1737   10    0 
+damutt    988507797  6  3 cc  ccc   f     -         1727   70    0 
+damutt    988507862  9  2 Bcc kc    kf    -         1657   60    0 
+damutt    988507937  8  1 Bc  kf    -     -         1597   10    0 
+damutt    988508028  8  8 c   c     k     b         1587   40  100 
+damutt    988508086  8  7 cc  c     c     f         1647   70    0 
+damutt    988508179  8  6 f   -     -     -         1577    0    0 
+damutt    988508245  9  6 c   kf    -     -         1577   10    0 
+damutt    988508332  9  5 rr  c     rr    rc        1567  190  480 8s 8d
+damutt    988508436  9  4 c   f     -     -         1857   10    0 
+damutt    988508501  9  3 r   b     b     b         1847   70    0 Qs Ts
+damutt    988508560  9  3 c   kcc   kf    -         1777   50    0 
+damutt    988508669 10  2 Bk  kc    k     k         1727   20    0 6s 4h
+damutt    988508783 10  1 Bc  kc    kc    kf        1707   40    0 
+damutt    988508852 10 10 c   c     k     f         1667   20    0 
+damutt    988508909 10  9 c   k     k     f         1647   10    0 
+damutt    988508961 10  3 Q   -     -     -         1637    0    0 
+damutt    988574121 10  4 c   kf    -     -         1637   10    0 
+damutt    988574225 10  3 cc  kc    kc    bc        1627   90  295 Js 7h
+damutt    988574296 10  2 Bcc kf    -     -         1832   40    0 
+damutt    988574471  7  1 Bf  -     -     -         1792    5    0 
+damutt    988574541  7  7 c   k     f     -         1787   20    0 
+damutt    988574625  7  5 c   bc    k     cc        1767  100    0 7h Jh
+damutt    988574681  7  4 r   b     bc    kc        1667   90    0 Ac 5c
+damutt    988574771  8  3 cc  kf    -     -         1577   20    0 
+damutt    988574834  8  2 Brc bc    br    brc       1557  230 1040 As Qs
+damutt    988574959  8  1 Bf  -     -     -         2367    5    0 
+damutt    988575025  8  8 f   -     -     -         2362    0    0 
+damutt    988575108  8  7 cc  kc    kf    -         2362   30    0 
+damutt    988575207  9  8 c   k     f     -         2332   20    0 
+damutt    988575281  9  7 c   f     -     -         2312   10    0 
+damutt    988575360 10  6 f   -     -     -         2302    0    0 
+damutt    988575451 10  5 cc  cc    kc    kc        2302   80    0 9d Ts
+damutt    988575571 10  4 f   -     -     -         2222    0    0 
+damutt    988575638 10  3 cc  kc    kc    kf        2222   50    0 
+damutt    988575700 10  2 Bk  kf    -     -         2172   10    0 
+damutt    988575800 10  1 Bc  kc    kc    kf        2162   40    0 
+damutt    988575887 10 10 c   cc    c     c         2122   90  385 Kc As
+damutt    988575945 10  9 fQ  -     -     -         2417    0    0 
+damutt    988587905 10  7 c   k     c     rr        2417  110  285 4d Jc
+damutt    988587991  9  5 f   -     -     -         2592    0    0 
+damutt    988588084  7  3 cc  bc    k     kc        2592   60    0 8h Th
+damutt    988588151  7  2 BfQ -     -     -         2532   10    0 
+damutt    988589607  9  4 c   kc    k     k         2522   20    0 As Tc
+damutt    988589659  9  3 c   kf    -     -         2502   10    0 
+damutt    988589714 10  2 Bk  k     k     k         2492   10   50 6d Kc
+damutt    988589767 10  1 Bc  kc    k     k         2532   20    0 8c Kd
+damutt    988589913 10 10 f   -     -     -         2512    0    0 
+damutt    988589991 10  9 f   -     -     -         2512    0    0 
+damutt    988590062 10  8 c   k     k     f         2512   10    0 
+damutt    988590147 10  7 c   b     b     b         2502   60  120 
+damutt    988590219  9  5 f   -     -     -         2562    0    0 
+damutt    988590300 10  5 f   -     -     -         2562    0    0 
+damutt    988590338 10  4 r   b     b     b         2562   70  280 Kd Kc
+damutt    988590419 10  3 cc  c     f     -         2772   30    0 
+damutt    988590483 10  2 Bk  k     k     k         2742   10    0 8h 4d
+damutt    988590527 10  1 Bc  kc    kc    kf        2732   40    0 
+damutt    988590577 10 10 c   c     c     c         2692   60    0 Kh Qs
+damutt    988590619 10  9 f   -     -     -         2632    0    0 
+damutt    988590693 10  8 c   c     f     -         2632   20    0 
+damutt    988590761 10  7 f   -     -     -         2612    0    0 
+damutt    988590851 10  6 c   b     br    rc        2612  160    0 Ad 3s
+damutt    988590950 10  5 cc  kc    cc    kf        2452   70    0 
+damutt    988591028 10  4 f   Q     -     -         2382    0    0 

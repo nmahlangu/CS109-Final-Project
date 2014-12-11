@@ -1,0 +1,158 @@
+TheBlind  986112386  8  3 rc  bc    kc    kc        1000  100    0 Kd Kc
+TheBlind  986112463  8  2 Bk  k     k     c          900   30    0 3c Qh
+TheBlind  986112516  8  1 Bf  -     -     -          870    5    0 
+TheBlind  986112563  8  8 c   f     -     -          865   10    0 
+TheBlind  986112609 10  8 c   f     -     -          855   20    0 
+TheBlind  986112669 10  7 f   -     -     -          835    0    0 
+TheBlind  986112753 10  6 f   -     -     -          835    0    0 
+TheBlind  986112795 10  5 c   b     k     b          835   40    0 2s Ac
+TheBlind  986112822 10  4 cc  kf    -     -          795   20    0 
+TheBlind  986112890 10  3 f   -     -     -          775    0    0 
+TheBlind  986112942 10  2 Bk  kf    -     -          775   10    0 
+TheBlind  986112983 10  1 Bc  kc    kc    krc        765  110  440 Kd 8s
+TheBlind  986113065 10 10 f   -     -     -         1095    0    0 
+TheBlind  986113117 10  9 f   -     -     -         1095    0    0 
+TheBlind  986113178 10  8 f   -     -     -         1095    0    0 
+TheBlind  986113213 10  7 f   -     -     -         1095    0    0 
+TheBlind  986113296  9  5 c   b     -     -         1095   20   50 
+TheBlind  986113335  9  4 f   -     -     -         1125    0    0 
+TheBlind  986113349  9  3 c   kf    -     -         1125   10    0 
+TheBlind  986113401  9  2 Bc  b     b     bc        1115   90  260 Kh Qd
+TheBlind  986113464  9  1 Bf  -     -     -         1285    5    0 
+TheBlind  986113500  9  9 f   -     -     -         1280    0    0 
+TheBlind  986113536  9  8 c   f     -     -         1280   20    0 
+TheBlind  986113581  9  7 f   -     -     -         1260    0    0 
+TheBlind  986113622  9  6 f   -     -     -         1260    0    0 
+TheBlind  986113650  9  5 f   -     -     -         1260    0    0 
+TheBlind  986113697  9  4 f   -     -     -         1260    0    0 
+TheBlind  986113751  9  3 f   -     -     -         1260    0    0 
+TheBlind  986113780  9  2 Bc  kc    kc    k         1260   50  105 7c 6h
+TheBlind  986113807  9  1 Bc  kf    -     -         1315   20    0 
+TheBlind  986113844  8  8 c   k     k     f         1295   10    0 
+TheBlind  986113884  9  8 c   k     c     bc        1285   70    0 Th Kh
+TheBlind  986113965  8  6 c   f     -     -         1215   10    0 
+TheBlind  986113997  8  5 f   -     -     -         1205    0    0 
+TheBlind  986114031  7  4 c   c     k     k         1205   20   45 9s 9c
+TheBlind  986114057  7  3 c   k     c     k         1230   30   75 9d As
+TheBlind  986114099  7  2 Bk  kf    -     -         1275   10    0 
+TheBlind  986114131  7  1 Bc  kf    -     -         1265   10    0 
+TheBlind  986114155  7  7 f   -     -     -         1255    0    0 
+TheBlind  986114179  7  6 f   -     -     -         1255    0    0 
+TheBlind  986114231  6  4 c   f     -     -         1255   10    0 
+TheBlind  986114264  7  3 f   -     -     -         1245    0    0 
+TheBlind  986114287  7  2 Bk  kf    -     -         1245   10    0 
+TheBlind  986114308  7  1 Bc  k     k     b         1235   30   60 
+TheBlind  986114350  7  7 c   f     -     -         1265   10    0 
+TheBlind  986114400  6  5 f   -     -     -         1255    0    0 
+TheBlind  986114411  6  4 f   -     -     -         1255    0    0 
+TheBlind  986114425  6  3 cc  f     -     -         1255   20    0 
+TheBlind  986114452  7  2 Bf  -     -     -         1235   10    0 
+TheBlind  986114472  8  1 Bf  -     -     -         1225    5    0 
+TheBlind  986114503  8  8 f   -     -     -         1220    0    0 
+TheBlind  986114529  8  7 c   k     r     b         1220   80  175 Kd 3d
+TheBlind  986114582  8  6 f   -     -     -         1315    0    0 
+TheBlind  986114617  8  5 f   -     -     -         1315    0    0 
+TheBlind  986114641  8  4 f   -     -     -         1315    0    0 
+TheBlind  986114671  8  3 f   -     -     -         1315    0    0 
+TheBlind  986114714  8  2 Bc  k     kf    -         1315   20    0 
+TheBlind  986114742  8  1 Bc  k     b     -         1295   40   90 
+TheBlind  986114766  8  8 c   f     -     -         1345   10    0 
+TheBlind  986114796  8  7 c   b     k     c         1335   50   90 Ac 7c
+TheBlind  986114836  8  6 c   f     -     -         1375   20    0 
+TheBlind  986114866  8  5 f   -     -     -         1355    0    0 
+TheBlind  986114894  8  4 f   -     -     -         1355    0    0 
+TheBlind  986114941  7  3 r   bc    k     k         1355   40  145 Qc Kd
+TheBlind  986114988  7  2 Bc  kc    kc    k         1460   50   68 7d 6s
+TheBlind  986115020  7  1 Bf  -     -     -         1478    5    0 
+TheBlind  986115039  7  7 f   -     -     -         1473    0    0 
+TheBlind  986115081  7  6 c   f     -     -         1473   20    0 
+TheBlind  986115104  7  5 f   -     -     -         1453    0    0 
+TheBlind  986115140  8  5 c   kf    -     -         1453   10    0 
+TheBlind  986115175  8  4 f   -     -     -         1443    0    0 
+TheBlind  986115209  8  3 f   -     -     -         1443    0    0 
+TheBlind  986115260  8  2 Bc  kc    kc    kc        1443   70   73 9c Qc
+TheBlind  986115312  8  1 Bcc kc    kc    kc        1446   90  280 Kh Th
+TheBlind  986115379  8  8 f   -     -     -         1636    0    0 
+TheBlind  986115422  8  7 f   -     -     -         1636    0    0 
+TheBlind  986115479  8  6 f   -     -     -         1636    0    0 
+TheBlind  986115532  8  5 f   -     -     -         1636    0    0 
+TheBlind  986115565  8  5 f   -     -     -         1636    0    0 
+TheBlind  986115600  7  3 cc  f     -     -         1636   20    0 
+TheBlind  986115636  7  2 Bc  krc   kc    kc        1616   90    0 3d Qh
+TheBlind  986115683  7  1 Bf  -     -     -         1526    5    0 
+TheBlind  986115709  7  7 c   f     -     -         1521   20    0 
+TheBlind  986115765  7  6 f   -     -     -         1501    0    0 
+TheBlind  986115791  7  5 f   -     -     -         1501    0    0 
+TheBlind  986115840  7  4 f   -     -     -         1501    0    0 
+TheBlind  986115903  7  3 cc  kf    -     -         1501   20    0 
+TheBlind  986165083  9  6 c   f     -     -         1411   10    0 
+TheBlind  986165143  9  5 f   -     -     -         1401    0    0 
+TheBlind  986165217  9  4 f   -     -     -         1401    0    0 
+TheBlind  986165255  8  2 f   -     -     -         1401    0    0 
+TheBlind  986165323  8  2 Bc  kf    -     -         1401   20    0 
+TheBlind  986165357  7  1 Bf  -     -     -         1381    5    0 
+TheBlind  986165420  8  8 c   c     b     -         1376   40   80 
+TheBlind  986165462  8  7 f   -     -     -         1416    0    0 
+TheBlind  986165478  8  6 f   -     -     -         1416    0    0 
+TheBlind  986165503  8  5 rc  cc    kc    kc        1416   90  230 Qh Qc
+TheBlind  986165557  8  4 c   b     k     k         1556   20    0 6c 6s
+TheBlind  986165611  7  3 c   f     -     -         1536   10    0 
+TheBlind  986165663  8  2 Bk  f     -     -         1526   10    0 
+TheBlind  986165699  8  1 Bc  kc    kc    kc        1516   70    0 Qc Kd
+TheBlind  986165777  9  9 c   f     -     -         1446   10    0 
+TheBlind  986165822  8  7 f   -     -     -         1436    0    0 
+TheBlind  986165848  8  6 f   -     -     -         1436    0    0 
+TheBlind  986165891  8  5 c   f     -     -         1436   10    0 
+TheBlind  986165924  9  5 f   -     -     -         1426    0    0 
+TheBlind  986166015  8  4 f   -     -     -         1426    0    0 
+TheBlind  986166083  9  3 f   -     -     -         1426    0    0 
+TheBlind  986166136 10  3 f   -     -     -         1426    0    0 
+TheBlind  986166221 10  2 Bc  k     kc    kf        1426   40    0 
+TheBlind  986166298 10  1 Bf  -     -     -         1386    5    0 
+TheBlind  986166435  9  9 f   -     -     -         1381    0    0 
+TheBlind  986166536  7  7 f   -     -     -         1381    0    0 
+TheBlind  986166555  7  5 f   -     -     -         1381    0    0 
+TheBlind  986166607  7  5 f   -     -     -         1381    0    0 
+TheBlind  986166734  6  4 f   -     -     -         1381    0    0 
+TheBlind  986166778  6  3 f   -     -     -         1381    0    0 
+TheBlind  986166793  6  2 Bc  kf    -     -         1381   20    0 
+TheBlind  986166851  6  1 Bc  kc    k     k         1361   20   40 Kh 3d
+TheBlind  986166884  6  6 c   k     k     f         1381   10    0 
+TheBlind  986166911  6  5 f   -     -     -         1371    0    0 
+TheBlind  986166953  5  3 f   -     -     -         1371    0    0 
+TheBlind  986166982  6  2 Bc  kf    -     -         1371   20    0 
+TheBlind  986167019  6  1 Bc  k     k     k         1351   10    0 9s Ac
+TheBlind  986167061  6  6 f   -     -     -         1341    0    0 
+TheBlind  986167080  6  5 c   k     f     -         1341   10    0 
+TheBlind  986167122  7  4 f   -     -     -         1331    0    0 
+TheBlind  986167175  9  4 f   -     -     -         1331    0    0 
+TheBlind  986167223  9  3 f   -     -     -         1331    0    0 
+TheBlind  986167279 10  3 f   -     -     -         1331    0    0 
+TheBlind  986167335 10  2 Bf  -     -     -         1331   10    0 
+TheBlind  986167428 10  1 Bf  -     -     -         1321    5    0 
+TheBlind  986167460  9  9 c   k     f     -         1316   20    0 
+TheBlind  986167509 10 10 f   -     -     -         1296    0    0 
+TheBlind  986167602 10  8 cc  f     -     -         1296   20    0 
+TheBlind  986167700 10  7 rc  c     c     c         1276   80  395 Kh Kd
+TheBlind  986167783 10  6 f   -     -     -         1591    0    0 
+TheBlind  986167838  9  4 c   b     b     b         1591   60  115 
+TheBlind  986167877  9  3 f   -     -     -         1646    0    0 
+TheBlind  986167962  9  2 Bk  k     b     -         1646   30   65 
+TheBlind  986168025  8  1 Bf  -     -     -         1681    5    0 
+TheBlind  986168072  8  8 c   f     -     -         1676   30    0 
+TheBlind  986168125  8  7 r   k     c     b         1646   60  135 Kc As
+TheBlind  986168188  8  6 f   -     -     -         1721    0    0 
+TheBlind  986168245  8  5 f   -     -     -         1721    0    0 
+TheBlind  986168300  9  4 f   -     -     -         1721    0    0 
+TheBlind  986168343  9  3 f   -     -     -         1721    0    0 
+TheBlind  986168394  9  2 Bc  f     -     -         1721   20    0 
+TheBlind  986168446  9  1 Bc  kf    -     -         1701   10    0 
+TheBlind  986168489 10 10 f   -     -     -         1691    0    0 
+TheBlind  986168586 10  9 c   kf    -     -         1691   10    0 
+TheBlind  986168655 10  8 f   -     -     -         1681    0    0 
+TheBlind  986168695 10  7 f   -     -     -         1681    0    0 
+TheBlind  986168743 10  6 f   -     -     -         1681    0    0 
+TheBlind  986168793 10  5 f   -     -     -         1681    0    0 
+TheBlind  986168855 10  4 f   -     -     -         1681    0    0 
+TheBlind  986168905 10  3 cc  kf    -     -         1681   20    0 
+TheBlind  986168986 10  2 BQ  -     -     -         1661   10    0 

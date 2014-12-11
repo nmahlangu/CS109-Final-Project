@@ -1,0 +1,513 @@
+RiverBoy  986102560 10  7 c   b     b     b         2222   60  155 Jd Ac
+RiverBoy  986102645 10  6 f   -     -     -         2317    0    0 
+RiverBoy  986102772 10  5 f   -     -     -         2317    0    0 
+RiverBoy  986102830 10  4 c   b     b     b         2317   60  145 Kd Td
+RiverBoy  986102867 10  3 c   k     f     -         2402   10    0 
+RiverBoy  986102986 10  2 Bf  -     -     -         2392   10    0 
+RiverBoy  986103093 10  1 Bc  b     b     b         2382   60  110 
+RiverBoy  986103153 10 10 f   -     -     -         2432    0    0 
+RiverBoy  986103254 10  9 c   f     -     -         2432   10    0 
+RiverBoy  986103291 10  8 f   -     -     -         2422    0    0 
+RiverBoy  986103375 10  7 f   -     -     -         2422    0    0 
+RiverBoy  986103401 10  6 f   -     -     -         2422    0    0 
+RiverBoy  986103460 10  5 rc  bc    b     kc        2422   90    0 Js Jh
+RiverBoy  986103500 10  4 f   -     -     -         2332    0    0 
+RiverBoy  986103537 10  3 f   -     -     -         2332    0    0 
+RiverBoy  986103607 10  2 Bf  -     -     -         2332   10    0 
+RiverBoy  986103626 10  1 Bcc kc    kc    k         2322   60  220 7d Ad
+RiverBoy  986103702 10 10 f   -     -     -         2482    0    0 
+RiverBoy  986103783  9  8 f   -     -     -         2482    0    0 
+RiverBoy  986103848  9  7 c   r     rc    f         2482  100    0 
+RiverBoy  986103907 10  6 f   -     -     -         2382    0    0 
+RiverBoy  986103988 10  5 f   -     -     -         2382    0    0 
+RiverBoy  986104064 10  4 f   -     -     -         2382    0    0 
+RiverBoy  986104135 10  3 f   -     -     -         2382    0    0 
+RiverBoy  986104198 10  2 Bf  -     -     -         2307   10    0 
+RiverBoy  986104290  9  1 Bc  k     kr    b         2252   70  140 Jd Kh
+RiverBoy  986104328 10 10 f   -     -     -         2322    0    0 
+RiverBoy  986104432  9  8 f   -     -     -         2472    0    0 
+RiverBoy  986104517  9  7 f   -     -     -         2472    0    0 
+RiverBoy  986104541  9  6 c   bc    r     b         2462  100  325 Ac 6c
+RiverBoy  986104633  9  5 f   -     -     -         2682    0    0 
+RiverBoy  986104674  9  4 f   -     -     -         2682    0    0 
+RiverBoy  986104774  8  2 f   -     -     -         3077    0    0 
+RiverBoy  986104839  9  2 Bk  kf    -     -         3077   10    0 
+RiverBoy  986104896  9  1 Bf  -     -     -         3057    5    0 
+RiverBoy  986104919  9  9 c   k     k     k         3052   10    0 8s 7s
+RiverBoy  986104974  9  8 f   -     -     -         3037    0    0 
+RiverBoy  986105018  9  7 c   c     r     k         3037   60    0 7c 6c
+RiverBoy  986105050  9  6 f   -     -     -         2957    0    0 
+RiverBoy  986105113  9  5 rc  rc    cc    rc        2957  210  840 Ac Jc
+RiverBoy  986105186  9  5 f   -     -     -         3587    0    0 
+RiverBoy  986105262  8  3 f   -     -     -         3587    0    0 
+RiverBoy  986105399  8  2 Bf  -     -     -         3587   10    0 
+RiverBoy  986105454  8  1 Bf  -     -     -         3437    5    0 
+RiverBoy  986105516  7  7 f   -     -     -         3432    0    0 
+RiverBoy  986105547  7  6 f   -     -     -         3432    0    0 
+RiverBoy  986105610  7  5 f   -     -     -         3432    0    0 
+RiverBoy  986105660  7  4 f   -     -     -         3432    0    0 
+RiverBoy  986105704  7  3 f   -     -     -         3432    0    0 
+RiverBoy  986105758  8  2 Bf  -     -     -         3432   10    0 
+RiverBoy  986105787  8  1 Bf  -     -     -         3422    5    0 
+RiverBoy  986105860  8  8 c   f     -     -         3387   30    0 
+RiverBoy  986105922  8  7 f   -     -     -         3347    0    0 
+RiverBoy  986105996  8  6 f   -     -     -         3342    0    0 
+RiverBoy  986106109  7  4 f   -     -     -         3342    0    0 
+RiverBoy  986106169  7  4 f   -     -     -         3342    0    0 
+RiverBoy  986106245  7  3 f   -     -     -         3312    0    0 
+RiverBoy  986106316  6  2 Bf  -     -     -         3312   10    0 
+RiverBoy  986106391  6  1 Bc  krc   bc    kc        3282  110  230 Jh Qh
+RiverBoy  986106427  7  7 f   -     -     -         3402    0    0 
+RiverBoy  986106528  6  5 cc  f     -     -         3512   20    0 
+RiverBoy  986106565  6  5 f   -     -     -         3492    0    0 
+RiverBoy  986106593  5  3 cf  -     -     -         3492   10    0 
+RiverBoy  986106623  5  2 Bf  -     -     -         3482   10    0 
+RiverBoy  986106653  4  1 Bf  -     -     -         3472    5    0 
+RiverBoy  986106678  4  4 f   -     -     -         3467    0    0 
+RiverBoy  986106700  5  4 f   -     -     -         3467    0    0 
+RiverBoy  986106733  5  3 cc  b     b     k         3457   50  140 7c 8c
+RiverBoy  986106804  5  2 Bf  -     -     -         3547   10    0 
+RiverBoy  986106819  5  1 BQ  -     -     -         3925    5    0 
+RiverBoy  986167509 10  6 r   c     f     -         3960   30    0 
+RiverBoy  986167602 10  5 f   -     -     -         3930    0    0 
+RiverBoy  986167700 10  4 f   -     -     -         3930    0    0 
+RiverBoy  986167783 10  3 fQ  -     -     -         3930    0    0 
+RiverBoy  986443051 10  5 f   -     -     -         4555    0    0 
+RiverBoy  986443086 10  4 f   -     -     -         4555    0    0 
+RiverBoy  986443168 10  3 f   -     -     -         4555    0    0 
+RiverBoy  986443230  9  2 Bcc rc    cf    -         4555  100    0 
+RiverBoy  986443332  9  1 Bf  -     -     -         4455    5    0 
+RiverBoy  986443401  9  9 f   -     -     -         4450    0    0 
+RiverBoy  986443450  9  7 c   f     -     -         4450   20    0 
+RiverBoy  986443492  9  6 f   -     -     -         4430    0    0 
+RiverBoy  986443569 10  6 f   -     -     -         4430    0    0 
+RiverBoy  986443616 10  5 f   -     -     -         4430    0    0 
+RiverBoy  986443664 10  4 cc  f     -     -         4430   30    0 
+RiverBoy  986443791 10  3 f   -     -     -         4400    0    0 
+RiverBoy  986443841 10  2 Bk  k     kf    -         4400   10    0 
+RiverBoy  986443909 10  1 Bf  -     -     -         4390    5    0 
+RiverBoy  986443961 10 10 c   f     -     -         4385   10    0 
+RiverBoy  986444027 10  9 fQ  -     -     -         4375    0    0 
+RiverBoy  986863690  8  2 Bc  c     r     b          332   90    0 Kd Qh
+RiverBoy  986863735  8  1 Bf  -     -     -          232    5    0 
+RiverBoy  986863790  9  9 c   f     -     -          197   10    0 
+RiverBoy  986863837  9  8 f   -     -     -          107    0    0 
+RiverBoy  986863862  9  7 c   f     -     -          107   20    0 
+RiverBoy  986863910  9  6 f   -     -     -           77    0    0 
+RiverBoy  986863987  9  5 f   -     -     -           77    0    0 
+RiverBoy  986864040  9  4 f   -     -     -           67    0    0 
+RiverBoy  986864086  9  4 f   Q     -     -           67    0    0 
+RiverBoy  986864539  9  8 f   -     Q     -         1000    0    0 
+RiverBoy  986864804 10  7 f   -     -     -          990    0    0 
+RiverBoy  986864849 10  6 f   -     -     -          990    0    0 
+RiverBoy  986864884 10  5 ccc b     b     k          990   70    0 8c 7c
+RiverBoy  986864945 10  4 f   -     -     -          920    0    0 
+RiverBoy  986864981  9  3 ccc kf    -     -          920   30    0 
+RiverBoy  986865057 10  2 Bf  -     -     -          890   10    0 
+RiverBoy  986865107 10  1 Bc  k     k     b          880   40   80 
+RiverBoy  986865147 10 10 c   k     k     b          920   30   80 Ad Jd
+RiverBoy  986865209 10  9 f   -     -     -          970    0    0 
+RiverBoy  986865244  9  7 f   -     -     -          970    0    0 
+RiverBoy  986865283 10  7 f   -     -     -          970    0    0 
+RiverBoy  986865351 10  6 f   -     -     -          970    0    0 
+RiverBoy  986865388 10  5 f   -     -     -          970    0    0 
+RiverBoy  986865437 10  4 f   -     -     -          970    0    0 
+RiverBoy  986865477 10  3 f   -     -     -          970    0    0 
+RiverBoy  986865545 10  2 Bk  kc    kc    b          970   60  180 
+RiverBoy  986865619 10  1 Bc  br    br    brc       1090  220  780 Jh Ah
+RiverBoy  986865732 10 10 f   -     -     -         1650    0    0 
+RiverBoy  986865844 10  9 f   -     -     -         1650    0    0 
+RiverBoy  986865897 10  8 rc  rc    r     c         1650  130    0 Ks Kd
+RiverBoy  986866007 10  7 f   -     -     -         1520    0    0 
+RiverBoy  986866092 10  6 c   cc    f     -         1520   40    0 
+RiverBoy  986866154 10  5 f   -     -     -         1480    0    0 
+RiverBoy  986866238  8  4 f   -     -     -         1480    0    0 
+RiverBoy  986866286  8  3 f   -     -     -         1480    0    0 
+RiverBoy  986866348  8  2 Bf  -     -     -         1480   10    0 
+RiverBoy  986866399  8  1 Bf  -     -     -         1470    5    0 
+RiverBoy  986866471  8  8 c   f     -     -         1465   20    0 
+RiverBoy  986866520  9  8 c   rc    rc    f         1445  150    0 
+RiverBoy  986866579  9  7 c   b     f     -         1295   30    0 
+RiverBoy  986866665  9  6 f   -     -     -         1265    0    0 
+RiverBoy  986866742  8  5 cc  f     -     -         1265   30    0 
+RiverBoy  986866814  7  3 c   b     bc    b         1235   80    0 Ts 9d
+RiverBoy  986866873  7  3 f   -     -     -         1140    0    0 
+RiverBoy  986866916  7  2 Bk  k     b     br        1140   90  195 As 4d
+RiverBoy  986866959  7  1 Bc  kf    -     -         1245   10    0 
+RiverBoy  986867020  6  6 c   b     -     -         1215   20   35 
+RiverBoy  986867047  8  5 f   -     -     -         1230    0    0 
+RiverBoy  986867102  8  4 r   c     c     c         1230   70    0 Ts Td
+RiverBoy  986867156 10  3 c   k     k     k         1160   10   25 Jd Kd
+RiverBoy  986867209  9  2 Bc  b     b     br        1005  110  245 2s 2d
+RiverBoy  986867264  9  1 Bf  -     -     -         1140    5    0 
+RiverBoy  986867299  9  9 c   r     br    c         1135  110    0 Ah Tc
+RiverBoy  986867351 10  9 f   -     -     -         1025    0    0 
+RiverBoy  986867417 10  8 c   rr    c     k         1025   70    0 5s Qs
+RiverBoy  986867450 10  7 cc  f     -     -          955   20    0 
+RiverBoy  986867493  9  5 f   -     -     -          935    0    0 
+RiverBoy  986867518  9  4 rc  k     c     f          925   50    0 
+RiverBoy  986867603  9  4 c   kf    -     -          870   10    0 
+RiverBoy  986867694  8  2 Bk  k     k     k          850   10    0 6s Ah
+RiverBoy  986867737  8  1 Br  br    b     b          840  100  330 
+RiverBoy  986867796  8  8 c   b     b     b         1060   70  235 Kh 8h
+RiverBoy  986867839  8  7 f   -     -     Q         1225    0    0 
+RiverBoy  986872104  9  2 B   -     -     -         1225   10   15 
+RiverBoy  986872119  9  1 Bc  b     b     b         1230   60  140 
+RiverBoy  986872170 10 10 f   -     -     -         1310    0    0 
+RiverBoy  986872218 10  9 c   c     c     c         1310   60    0 4c 4h
+RiverBoy  986872269 10  8 f   -     -     -         1250    0    0 
+RiverBoy  986872303 10  7 f   -     -     -         1250    0    0 
+RiverBoy  986872343 10  6 f   -     -     -         1250    0    0 
+RiverBoy  986872378 10  5 c   k     kf    -         1250   10    0 
+RiverBoy  986872423 10  4 c   b     bc    bc        1240  100    0 Jh As
+RiverBoy  986872461 10  3 cc  kf    -     -         1140   20    0 
+RiverBoy  986872494 10  2 B   -     -     -         1120   10   15 
+RiverBoy  986872505 10  1 Bf  -     -     -         1125    5    0 
+RiverBoy  986872531 10 10 c   r     b     k         1120   50    0 Qd 5d
+RiverBoy  986872575 10  9 f   -     -     -         1070    0    0 
+RiverBoy  986872609 10  8 c   c     rc    f         1070  100    0 
+RiverBoy  986872689 10  7 f   -     -     -          970    0    0 
+RiverBoy  986872731 10  6 f   -     -     -          970    0    0 
+RiverBoy  986872764 10  5 f   -     -     -          970    0    0 
+RiverBoy  986872792 10  4 f   -     -     -          970    0    0 
+RiverBoy  986872825 10  3 cc  kc    kf    -          970   30    0 
+RiverBoy  986872880 10  2 Br  b     b     bc         940   90  275 As Ad
+RiverBoy  986872927 10  1 Bc  k     k     kf        1125   10    0 
+RiverBoy  986872969 10 10 f   -     -     -         1115    0    0 
+RiverBoy  986873077 10  9 f   -     -     -         1115    0    0 
+RiverBoy  986873120 10  8 f   -     -     -         1115    0    0 
+RiverBoy  986873153 10  7 f   -     -     -         1115    0    0 
+RiverBoy  986873187 10  6 f   -     -     -         1115    0    0 
+RiverBoy  986873245 10  5 f   -     -     -         1115    0    0 
+RiverBoy  986873271 10  4 f   -     -     -         1115    0    0 
+RiverBoy  986873335 10  3 f   -     -     -         1115    0    0 
+RiverBoy  986873352 10  2 Bf  -     -     -         1115   10    0 
+RiverBoy  986873424 10  1 Bf  -     -     -         1105    5    0 
+RiverBoy  986873479 10 10 f   -     -     -         1100    0    0 
+RiverBoy  986873512 10  9 f   -     -     -         1100    0    0 
+RiverBoy  986873573 10  8 f   -     -     -         1100    0    0 
+RiverBoy  986873635 10  7 f   -     -     -         1100    0    0 
+RiverBoy  986873678 10  7 c   k     b     -         1100   30   55 
+RiverBoy  986873747  9  5 f   -     -     -         1125    0    0 
+RiverBoy  986873800 10  4 cc  bc    bc    kc        1125  100    0 7d Jd
+RiverBoy  986873840 10  3 f   -     -     -         1025    0    0 
+RiverBoy  986873889 10  2 Bk  kf    -     -         1025   10    0 
+RiverBoy  986873940 10  1 Bc  k     k     k         1015   10   30 Qd 3d
+RiverBoy  986873981 10 10 f   -     -     -         1035    0    0 
+RiverBoy  986874025 10 10 f   -     -     -         1035    0    0 
+RiverBoy  986874041 10  8 f   -     -     -         1035    0    0 
+RiverBoy  986874072 10  7 f   -     -     -         1035    0    0 
+RiverBoy  986874116 10  6 f   -     -     -         1035    0    0 
+RiverBoy  986874171 10  5 f   -     -     -         1035    0    0 
+RiverBoy  986874211  9  4 f   -     -     -         1035    0    0 
+RiverBoy  986874255  9  3 cc  kf    -     -         1035   20    0 
+RiverBoy  986874333 10  2 Bk  cc    k     kf        1015   30    0 
+RiverBoy  986874408 10  1 Bcc kf    -     -          985   20    0 
+RiverBoy  986874433 10 10 f   -     -     -          965    0    0 
+RiverBoy  986874482 10  9 f   -     -     -          965    0    0 
+RiverBoy  986874505  9  7 c   rc    c     c          965   80    0 Th Js
+RiverBoy  986874549 10  6 f   -     -     -          885    0    0 
+RiverBoy  986874598 10  5 c   cc    kc    k          885   50    0 8c 7d
+RiverBoy  986874658 10  4 f   -     -     -          835    0    0 
+RiverBoy  986874738 10  3 f   -     -     -          835    0    0 
+RiverBoy  986874788 10  2 Bk  kc    kf    -          835   20    0 
+RiverBoy  986874849 10  1 Bf  -     -     -          815    5    0 
+RiverBoy  986874917  8  8 f   -     -     -          810    0    0 
+RiverBoy  986874925  8  7 f   -     -     -          810    0    0 
+RiverBoy  986874998  8  6 c   f     -     -          810   10    0 
+RiverBoy  986875015  8  6 f   -     -     -          800    0    0 
+RiverBoy  986875055  7  4 f   -     -     -          800    0    0 
+RiverBoy  986875063  7  3 f   -     -     -          800    0    0 
+RiverBoy  986875098  7  2 B   -     -     -          800   10   15 
+RiverBoy  986875110  8  1 Bc  kf    -     -          805   10    0 
+RiverBoy  986875156  8  8 f   -     -     -          795    0    0 
+RiverBoy  986875176  8  7 f   -     -     -          795    0    0 
+RiverBoy  986875224  8  6 c   f     -     -          795   10    0 
+RiverBoy  986875244  8  5 f   -     -     -          785    0    0 
+RiverBoy  986875276  8  4 f   -     -     -          785    0    0 
+RiverBoy  986875333  8  3 c   k     kf    -          785   10    0 
+RiverBoy  986875408  8  2 Bk  kf    -     -          775   10    0 
+RiverBoy  986875431  8  1 Bc  b     b     b          765   60  150 4c 5c
+RiverBoy  986875484  8  8 c   c     b     b          855   60  165 
+RiverBoy  986875523  8  7 c   c     c     k          960   40    0 3d Kd
+RiverBoy  986875562  8  6 c   k     f     -          920   10    0 
+RiverBoy  986875601  9  5 c   k     f     -          910   10    0 
+RiverBoy  986875648 10  4 f   -     -     -          900    0    0 
+RiverBoy  986875709 10  3 cc  c     k     kf         900   30    0 
+RiverBoy  986875754 10  2 Bk  r     b     b          870   70  150 6h 8d
+RiverBoy  986875800  9  1 Bc  k     kf    -          950   10    0 
+RiverBoy  986875883  8  8 f   -     -     -          940    0    0 
+RiverBoy  986875913  8  7 c   c     c     c          940   60    0 4h 4c
+RiverBoy  986875957  8  6 c   f     -     -          880   10    0 
+RiverBoy  986876002  8  5 c   f     -     -          870   20    0 
+RiverBoy  986876041  8  4 c   b     b     b          850   60  145 8d Qd
+RiverBoy  986876094  8  3 cc  kf    -     -          935   20    0 
+RiverBoy  986876167  8  2 Bk  kf    -     -          915   10    0 
+RiverBoy  986876252  8  1 Bf  -     -     -          905    5    0 
+RiverBoy  986876297  8  8 f   -     -     -          900    0    0 
+RiverBoy  986876364  7  6 c   r     k     b          900   50  110 
+RiverBoy  986876405  8  6 f   -     -     -          960    0    0 
+RiverBoy  986876429  9  5 cc  c     f     -          960   30    0 
+RiverBoy  986876511  9  4 KQ  -     -     -          930    0    0 
+RiverBoy  986962536  6  6 f   -     -     -          930    0    0 
+RiverBoy  986962594  6  5 f   -     -     -          930    0    0 
+RiverBoy  986962660  6  4 f   -     -     -          930    0    0 
+RiverBoy  986962690  6  3 c   k     k     k          930   10   35 Jh Ac
+RiverBoy  986962728  6  2 Bc  c     f     -          945   30    0 
+RiverBoy  986962784  7  1 Bf  -     -     -          910    5    0 
+RiverBoy  986962828  7  7 f   -     -     -          835    0    0 
+RiverBoy  986962872  7  6 c   r     -     -          835   30   70 
+RiverBoy  986962907  7  5 c   kf    -     -          875   10    0 
+RiverBoy  986962962  6  3 f   -     -     -          865    0    0 
+RiverBoy  986962992  7  2 Bf  -     -     -          865   10    0 
+RiverBoy  986963034  7  1 Bf  -     -     -          811    5    0 
+RiverBoy  986963091  7  7 f   -     -     -          806    0    0 
+RiverBoy  986963124  7  6 f   -     -     -          806    0    0 
+RiverBoy  986963173  7  5 f   -     -     -          791    0    0 
+RiverBoy  986963197  7  4 cc  r     b     b          791   80  245 
+RiverBoy  986963268  7  3 f   -     -     -          956    0    0 
+RiverBoy  986963336  7  2 Bf  -     -     -          956   10    0 
+RiverBoy  986963363  7  1 Bc  bcc   bcc   kc         946  160    0 As Th
+RiverBoy  986963464  6  6 f   -     -     -          786    0    0 
+RiverBoy  986963488  6  5 f   -     -     -          786    0    0 
+RiverBoy  986963579  5  3 fQ  -     -     -          771    0    0 
+RiverBoy  986966584 10  7 c   rc    cc    kf         771   90    0 
+RiverBoy  986966645 10  6 c   k     k     k          681   10   40 Ts 9c
+RiverBoy  986966699 10  5 f   -     -     -          711    0    0 
+RiverBoy  986966743 10  4 f   -     -     -          711    0    0 
+RiverBoy  986966775 10  3 f   -     -     -          711    0    0 
+RiverBoy  986966802  9  2 Bk  kf    -     -          711   10    0 
+RiverBoy  986966855  9  1 Bc  kf    -     -          701   10    0 
+RiverBoy  986966895  8  8 c   r     rc    c          691  110  290 As Td
+RiverBoy  986966934  8  7 f   -     -     -          871    0    0 
+RiverBoy  986966957  8  6 cc  b     b     b          871   70  165 
+RiverBoy  986967002  8  5 f   -     -     -          966    0    0 
+RiverBoy  986967047  8  4 f   -     -     -          966    0    0 
+RiverBoy  986967080  7  3 f   -     -     -          966    0    0 
+RiverBoy  986967122  7  2 Bk  b     k     kf         966   20    0 
+RiverBoy  986967204  8  1 Bf  -     -     -          946    5    0 
+RiverBoy  986967232  8  8 f   -     -     -          941    0    0 
+RiverBoy  986967264  8  7 c   f     -     -          941   20    0 
+RiverBoy  986967347  8  6 f   -     -     -          921    0    0 
+RiverBoy  986967400  8  5 f   -     -     -          921    0    0 
+RiverBoy  986967441  8  4 f   -     -     -          921    0    0 
+RiverBoy  986967520  9  3 f   -     -     -          921    0    0 
+RiverBoy  986967573  9  2 Bk  k     k     f          921   10    0 
+RiverBoy  986967633  8  1 Bf  -     -     -          911    5    0 
+RiverBoy  986967677  8  8 cc  bc    f     -          906   40    0 
+RiverBoy  986967733  9  8 f   -     -     -          866    0    0 
+RiverBoy  986967793  9  7 f   -     -     -          866    0    0 
+RiverBoy  986967851  9  6 f   -     -     -          866    0    0 
+RiverBoy  986967882  9  5 f   -     -     -          866    0    0 
+RiverBoy  986967918  9  4 r   k     f     -          866   20    0 
+RiverBoy  986967967 10  3 r   b     b     b          846   70  185 
+RiverBoy  986968005 10  2 Bk  kf    -     -          961   10    0 
+RiverBoy  986968025  9  1 Bc  kc    bc    b          951   80  140 
+RiverBoy  986968070 10 10 f   -     -     -         1011    0    0 
+RiverBoy  986968167  8  7 f   -     -     -         1011    0    0 
+RiverBoy  986968205  8  6 f   -     -     -         1011    0    0 
+RiverBoy  986968242  7  4 f   -     -     -         1011    0    0 
+RiverBoy  986968295  7  3 c   r     b     -         1011   50  110 
+RiverBoy  986968337  7  2 Bk  k     b     b         1071   50   90 
+RiverBoy  986968364  7  1 Br  bc    bc    kc        1111  100  200 Ah Kd
+RiverBoy  986968400  7  7 c   b     b     b         1211   60  105 
+RiverBoy  986968436  7  6 c   r     b     k         1256   50  130 8c Kd
+RiverBoy  986968495  7  5 cc  f     -     -         1336   20    0 
+RiverBoy  986968562  7  4 c   k     f     -         1316   10    0 
+RiverBoy  986968603  7  3 cc  krc   b     -         1306   70  145 
+RiverBoy  986968639  7  2 Bk  brc   bc    kc        1381  110    0 9c Ac
+RiverBoy  986968678  7  1 Bf  -     -     -         1271    5    0 
+RiverBoy  986968707  7  7 f   -     -     -         1266    0    0 
+RiverBoy  986968728  7  6 c   r     r     b         1266  100  250 7h Qh
+RiverBoy  986968791  9  7 c   f     -     -         1416   10    0 
+RiverBoy  986968865  9  6 f   -     -     -         1406    0    0 
+RiverBoy  986968920  9  5 c   r     r     k         1406   70  170 Th Jc
+RiverBoy  986968978  9  4 cc  kf    -     -         1506   20    0 
+RiverBoy  986969054  9  3 c   rc    bc    b         1486  110  320 As 3s
+RiverBoy  986969119  9  2 Bf  -     -     -         1696   10    0 
+RiverBoy  986969200  8  1 Bc  k     b     k         1686   30    0 Qh Td
+RiverBoy  986969283  6  6 c   k     f     -         1656   20    0 
+RiverBoy  986969313  7  3 Q   -     -     -         1636    0    0 
+RiverBoy  987391419  7  6 rc  rc    rr    k         1506  150    0 Kc Kd
+RiverBoy  987391481  6  4 f   -     -     -         1356    0    0 
+RiverBoy  987391563  6  3 f   -     -     -         1356    0    0 
+RiverBoy  987391614  6  2 Bf  -     -     -         1356   10    0 
+RiverBoy  987391681  6  1 Bf  -     -     -         1346    5    0 
+RiverBoy  987391721  7  7 cc  f     -     -         1341   20    0 
+RiverBoy  987391805  8  6 f   -     -     -         1321    0    0 
+RiverBoy  987391858  8  5 f   -     -     -         1321    0    0 
+RiverBoy  987391907  9  4 f   -     -     -         1321    0    0 
+RiverBoy  987391938 10  3 c   bc    bc    k         1321   70  235 9s 9d
+RiverBoy  987392005 10  2 Bc  kf    -     -         1486   20    0 
+RiverBoy  987392107 10  1 Bf  -     -     -         1466    5    0 
+RiverBoy  987392182 10 10 f   -     -     -         1461    0    0 
+RiverBoy  987392224 10  9 f   -     -     -         1461    0    0 
+RiverBoy  987392262 10  8 c   k     bc    b         1461   70   78 Kd 8d
+RiverBoy  987392308 10  7 c   kf    -     -         1469   10    0 
+RiverBoy  987392410 10  6 f   -     -     -         1459    0    0 
+RiverBoy  987392466 10  5 c   r     c     c         1459   70  170 Ah 9d
+RiverBoy  987392523  9  3 f   -     -     -         1559    0    0 
+RiverBoy  987392554  9  2 Bf  -     -     -         1559   10    0 
+RiverBoy  987392659  9  1 Br  b     bc    bc        1549  110    0 Kc Ah
+RiverBoy  987392730  9  9 f   -     -     -         1439    0    0 
+RiverBoy  987392751  8  7 f   -     -     -         1439    0    0 
+RiverBoy  987392767  8  6 c   k     r     rc        1439  110  235 Kh 9h
+RiverBoy  987392836  9  6 f   -     -     -         1564    0    0 
+RiverBoy  987392902 10  6 f   -     -     -         1564    0    0 
+RiverBoy  987392944 10  5 r   f     -     -         1564   20    0 
+RiverBoy  987393006 10  4 cc  kf    -     -         1544   20    0 
+RiverBoy  987393127  9  2 f   -     -     -         1524    0    0 
+RiverBoy  987393209  9  2 Bf  -     -     -         1524   10    0 
+RiverBoy  987393272  9  1 Bc  bc    kc    k         1514   50    0 Kh Tc
+RiverBoy  987393328  9  9 f   -     -     -         1464    0    0 
+RiverBoy  987393394  9  8 f   -     -     -         1464    0    0 
+RiverBoy  987393456  9  7 f   -     -     -         1464    0    0 
+RiverBoy  987393524 10  6 f   -     -     -         1464    0    0 
+RiverBoy  987393640  9  5 f   -     -     -         1464    0    0 
+RiverBoy  987393687  9  4 f   -     -     -         1464    0    0 
+RiverBoy  987393775  9  3 f   -     -     -         1464    0    0 
+RiverBoy  987393847  9  2 Bk  kf    -     -         1464   10    0 
+RiverBoy  987393907 10  1 Bf  -     -     -         1454    5    0 
+RiverBoy  987394025 10 10 f   -     -     -         1449    0    0 
+RiverBoy  987394049 10  9 c   rc    kf    -         1449   40    0 
+RiverBoy  987394173 10  8 f   -     -     -         1409    0    0 
+RiverBoy  987394228 10  7 rc  rc    c     c         1409  100    0 Ts Th
+RiverBoy  987394304 10  6 f   -     -     -         1309    0    0 
+RiverBoy  987394429 10  5 f   -     -     -         1309    0    0 
+RiverBoy  987394524 10  4 c   f     -     -         1309   10    0 
+RiverBoy  987394622 10  3 f   -     -     -         1299    0    0 
+RiverBoy  987394666 10  2 Bf  -     -     -         1299   10    0 
+RiverBoy  987394741 10  1 Bf  -     -     -         1289    5    0 
+RiverBoy  987394781 10 10 f   -     -     -         1284    0    0 
+RiverBoy  987394816 10  9 f   -     -     -         1284    0    0 
+RiverBoy  987394874 10  8 f   -     -     -         1284    0    0 
+RiverBoy  987394969 10  7 f   -     -     -         1284    0    0 
+RiverBoy  987395026 10  6 f   -     -     -         1284    0    0 
+RiverBoy  987395103 10  5 f   -     -     -         1284    0    0 
+RiverBoy  987395195 10  4 f   -     -     -         1284    0    0 
+RiverBoy  987395262 10  3 c   kf    -     -         1284   10    0 
+RiverBoy  987395330 10  2 Bk  k     kf    -         1274   10    0 
+RiverBoy  987395445 10  1 Bf  -     -     -         1264    5    0 
+RiverBoy  987395578 10 10 c   r     b     b         1259   80    0 Kd Jd
+RiverBoy  987395630 10  9 f   -     -     -         1179    0    0 
+RiverBoy  987395688 10  8 f   -     -     -         1179    0    0 
+RiverBoy  987395822  8  5 c   kc    kf    -         1179   20    0 
+RiverBoy  987395905  7  4 f   -     -     -         1159    0    0 
+RiverBoy  987395977  7  3 f   -     -     -         1159    0    0 
+RiverBoy  987396079  8  2 Bf  -     -     -         1159   10    0 
+RiverBoy  987396105  8  1 Bf  -     -     -         1149    5    0 
+RiverBoy  987396121  8  8 f   -     -     -         1144    0    0 
+RiverBoy  987396145  8  7 f   -     -     -         1144    0    0 
+RiverBoy  987396215  8  6 f   -     -     -         1144    0    0 
+RiverBoy  987396294  7  4 c   f     -     -         1144   20    0 
+RiverBoy  987396327  7  4 f   -     -     -         1124    0    0 
+RiverBoy  987396379  7  3 f   -     -     -         1124    0    0 
+RiverBoy  987396404  7  2 Bf  -     -     -         1124   10    0 
+RiverBoy  987396460  7  1 Bf  -     -     -         1114    5    0 
+RiverBoy  987396513  7  7 f   -     -     -         1109    0    0 
+RiverBoy  987396558  8  7 f   -     -     -         1109    0    0 
+RiverBoy  987396642  8  6 c   k     f     -         1109   10    0 
+RiverBoy  987396739  8  5 f   -     -     -         1099    0    0 
+RiverBoy  987396805  8  4 c   b     b     -         1099   40   95 
+RiverBoy  987396850  8  3 f   -     -     -         1154    0    0 
+RiverBoy  987396901  8  2 Bf  -     -     -         1154   10    0 
+RiverBoy  987396963  8  1 Bf  -     -     -         1144    5    0 
+RiverBoy  987397047  9  8 f   -     -     -         1139    0    0 
+RiverBoy  987397106  8  6 f   -     -     -         1139    0    0 
+RiverBoy  987397183  8  5 f   -     -     -         1139    0    0 
+RiverBoy  987397246  7  3 Q   -     -     -         1139    0    0 
+RiverBoy  987551573  6  6 c   f     -     -         1139   10    0 
+RiverBoy  987551620  6  5 c   f     -     -         1129   10    0 
+RiverBoy  987551667  7  5 f   -     -     -         1119    0    0 
+RiverBoy  987551732  7  4 c   b     b     b         1119   60  265 Ah 9c
+RiverBoy  987551785  7  3 f   -     -     -         1324    0    0 
+RiverBoy  987551841  7  2 Bf  -     -     -         1324   10    0 
+RiverBoy  987551904  7  1 Bc  kr    kc    kf        1314   50    0 
+RiverBoy  987551962  7  7 c   b     b     k         1264   40  150 7s Ah
+RiverBoy  987552046  7  6 fQ  -     -     -         1374    0    0 
+RiverBoy  987563087 10 10 f   -     -     -         1374    0    0 
+RiverBoy  987563140 10  9 r   b     -     -         1374   30   80 
+RiverBoy  987563164 10  8 f   -     -     -         1424    0    0 
+RiverBoy  987563227 10  7 r   b     -     -         1424   30   65 
+RiverBoy  987563257 10  6 cc  cf    -     -         1459   30    0 
+RiverBoy  987563309 10  5 c   r     b     b         1429   70  290 
+RiverBoy  987563379 10  4 f   -     -     -         1649    0    0 
+RiverBoy  987563439 10  3 f   -     -     -         1649    0    0 
+RiverBoy  987563472 10  2 Bf  -     -     -         1649   10    0 
+RiverBoy  987563508 10  1 Bf  -     -     -         1639    5    0 
+RiverBoy  987563579 10 10 f   -     -     -         1634    0    0 
+RiverBoy  987563619 10  9 f   -     -     -         1634    0    0 
+RiverBoy  987563672 10  8 c   kc    kc    k         1634   40  100 Qc Ts
+RiverBoy  987563717 10  7 c   kf    -     -         1694   10    0 
+RiverBoy  987563775 10  6 f   -     -     -         1684    0    0 
+RiverBoy  987563818 10  5 f   -     -     -         1684    0    0 
+RiverBoy  987563902 10  4 f   -     -     -         1684    0    0 
+RiverBoy  987563972 10  3 f   -     -     -         1684    0    0 
+RiverBoy  987564020 10  2 Bk  k     b     b         1684   50  105 2h Td
+RiverBoy  987564047 10  1 Bc  brc   bc    kc        1739  110    0 As 4h
+RiverBoy  987564123 10 10 f   -     -     -         1629    0    0 
+RiverBoy  987564169 10  9 cc  kf    -     -         1629   20    0 
+RiverBoy  987564215 10  8 c   kc    kf    -         1609   20    0 
+RiverBoy  987564298 10  7 c   b     b     b         1589   60  140 9s As
+RiverBoy  987564354 10  6 c   k     k     k         1669   10    0 4c 6c
+RiverBoy  987564429 10  5 r   b     b     k         1659   50    0 Qh Kh
+RiverBoy  987564469 10  4 f   -     -     -         1609    0    0 
+RiverBoy  987564541 10  3 f   -     -     -         1609    0    0 
+RiverBoy  987564586 10  2 Bk  b     b     b         1594   60  120 
+RiverBoy  987564653 10  1 Bc  kf    -     -         1599   20    0 
+RiverBoy  987564702 10 10 f   -     -     -         1579    0    0 
+RiverBoy  987564766 10  9 f   -     -     -         1559    0    0 
+RiverBoy  987564830 10  8 c   k     k     k         1569   10    0 Qd Jh
+RiverBoy  987564911  9  6 f   -     -     -         1689    0    0 
+RiverBoy  987564939  9  5 f   -     -     -         1669    0    0 
+RiverBoy  987564997  9  4 f   -     -     -         1694    0    0 
+RiverBoy  987565075  9  3 f   -     -     -         1634    0    0 
+RiverBoy  987565132  9  2 Bk  kc    b     b         1714   60  120 4h Qh
+RiverBoy  987565190  9  1 Bf  -     -     -         1759    5    0 
+RiverBoy  987565214  9  9 f   -     -     -         1754    0    0 
+RiverBoy  987565248  9  8 c   r     r     b         1729   90  350 Jd Qs
+RiverBoy  987565332  9  7 r   b     b     -         2069   50  135 
+RiverBoy  987565369  9  6 f   -     -     -         2144    0    0 
+RiverBoy  987565446  8  4 cc  kf    -     -         2124   20    0 
+RiverBoy  987565496  8  3 cc  k     k     k         2094   20    0 Ad Jc
+RiverBoy  987565594  9  2 Bk  f     -     -         1949   10    0 
+RiverBoy  987565618  9  1 Bc  k     kf    -         1939   10    0 
+RiverBoy  987565686  9  9 c   r     rc    c         1879  110    0 Js Kd
+RiverBoy  987565739  9  8 f   -     -     -         1619    0    0 
+RiverBoy  987565790  9  7 c   kf    -     -         1604   10    0 
+RiverBoy  987565858  9  4 Q   -     -     -         1574    0    0 
+RiverBoy  987772822  6  5 cc  kf    -     -         1564   20    0 
+RiverBoy  987772835  6  4 f   -     -     -         1544    0    0 
+RiverBoy  987772857  6  3 f   -     -     -         1544    0    0 
+RiverBoy  987772881  6  2 Bk  kf    -     -         1544   10    0 
+RiverBoy  987772908  6  1 Bc  kf    -     -         1534   10    0 
+RiverBoy  987772934  6  6 f   -     -     -         1524    0    0 
+RiverBoy  987772938  6  5 f   -     -     -         1524    0    0 
+RiverBoy  987772958  6  4 f   -     -     -         1524    0    0 
+RiverBoy  987772972  6  3 c   kf    -     -         1524   10    0 
+RiverBoy  987772985  6  2 Bk  k     k     k         1514   10    0 Jd 6h
+RiverBoy  987773008  6  1 Bc  k     kf    -         1504   10    0 
+RiverBoy  987773029  7  6 f   -     -     -         1494    0    0 
+RiverBoy  987773054  7  5 c   r     b     c         1494   70    0 9s Ah
+RiverBoy  987773086  7  4 cc  k     k     k         1424   20    0 Ks 9s
+RiverBoy  987773125  7  3 f   -     -     -         1404    0    0 
+RiverBoy  987773176  7  2 Bk  k     kf    -         1404   10    0 
+RiverBoy  987773204  7  1 Bc  kf    -     -         1394   10    0 
+RiverBoy  987773234  7  7 f   -     -     -         1384    0    0 
+RiverBoy  987773246  7  6 c   b     r     k         1384   60    0 5d 5h
+RiverBoy  987773293  7  5 f   -     -     -         1324    0    0 
+RiverBoy  987773317  7  4 f   -     -     -         1324    0    0 
+RiverBoy  987773337  7  3 f   -     -     -         1324    0    0 
+RiverBoy  987773374  7  2 Bk  kf    -     -         1324   10    0 
+RiverBoy  987773427  8  1 Bc  k     k     kf        1314   10    0 
+RiverBoy  987773475  8  8 c   c     c     b         1304   60  240 Tc Qs
+RiverBoy  987773569  8  7 f   -     -     -         1484    0    0 
+RiverBoy  987773597  8  6 f   -     -     -         1484    0    0 
+RiverBoy  987773655  9  5 f   -     -     -         1484    0    0 
+RiverBoy  987773698  9  4 f   -     -     -         1484    0    0 
+RiverBoy  987773773 10  3 f   -     -     -         1484    0    0 
+RiverBoy  987773813 10  2 Bf  -     -     -         1484   10    0 
+RiverBoy  987773871 10  1 Bc  kf    -     -         1474   10    0 
+RiverBoy  987773937  9  9 c   k     k     k         1464   10    0 9d Kc
+RiverBoy  987773985  9  8 f   -     -     -         1454    0    0 
+RiverBoy  987774001 10  8 f   -     Q     -         1454    0    0 

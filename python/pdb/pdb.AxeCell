@@ -1,0 +1,249 @@
+AxeCell   986164053 10  7 f   -     -     -         1085    0    0 
+AxeCell   986164107 10  6 c   f     -     -         1085   10    0 
+AxeCell   986164142 10  5 f   -     -     -         1075    0    0 
+AxeCell   986164159 10  4 c   cc    c     c         1075   70    0 9h Td
+AxeCell   986164279 10  3 Q   -     -     -         1005    0    0 
+AxeCell   987060841  8  5 c   kc    kc    kf         980   40    0 
+AxeCell   987060880  8  3 Q   -     -     -          940    0    0 
+AxeCell   987358590  8  5 cc  f     -     -          940   20    0 
+AxeCell   987358660  7  4 cc  kc    kr    -          920   70  135 
+AxeCell   987358704  6  3 c   kf    -     -          985   10    0 
+AxeCell   987358773  6  1 Bc  kcc   kr    b          975  100  320 9s Kd
+AxeCell   987358816  5  1 Bf  -     -     -         1195    5    0 
+AxeCell   987358829  5  4 Q   -     -     -         1190    0    0 
+AxeCell   987528960  6  2 Bk  b     -     -         1190   20   35 
+AxeCell   987528978  6  1 Bc  kc    kc    kr        1205   90  230 6c Kc
+AxeCell   987529015  5  5 c   f     -     -         1345   10    0 
+AxeCell   987529050  4  4 c   k     k     f         1335   10    0 
+AxeCell   987529082  4  3 f   -     -     -         1325    0    0 
+AxeCell   987529110  4  2 Bk  k     k     b         1325   30   45 
+AxeCell   987529129  4  1 Bf  -     -     -         1340    5    0 
+AxeCell   987529154  5  4 cc  r     b     -         1335   60  140 
+AxeCell   987529194  5  3 f   -     -     -         1415    0    0 
+AxeCell   987529215  5  2 Bf  -     -     -         1415   10    0 
+AxeCell   987529271  5  1 Bc  k     kc    kf        1405   50    0 
+AxeCell   987529316  6  6 f   -     -     -         1355    0    0 
+AxeCell   987529340  6  5 cc  f     -     -         1355   40    0 
+AxeCell   987529391  5  3 cc  b     -     -         1315   30   75 
+AxeCell   987529440  4  1 Bk  kf    -     -         1360   10    0 
+AxeCell   987529469  4  1 Bc  b     -     -         1350   20   30 
+AxeCell   987529496  4  4 c   k     k     f         1360   10    0 
+AxeCell   987529526  4  3 f   -     -     -         1350    0    0 
+AxeCell   987529547  4  2 Bk  c     f     -         1350   20    0 
+AxeCell   987529579  4  1 Bc  bc    b     kf        1330   60    0 
+AxeCell   987529666  4  4 c   r     k     f         1270   40    0 
+AxeCell   987529721  4  3 cc  c     k     f         1230   30    0 
+AxeCell   987529751  3  2 B   -     -     -         1200   10   15 
+AxeCell   987529758  3  1 Bc  kf    -     -         1205   20    0 
+AxeCell   987529806  4  3 c   c     c     c         1185   60    0 8c Ad
+AxeCell   987529833  4  2 Br  b     -     -         1125   30   60 
+AxeCell   987529865  4  1 Bf  -     -     -         1155    5    0 
+AxeCell   987529869  4  4 c   c     c     k         1150   50    0 9d Jh
+AxeCell   987529905  4  4 cc  f     -     -         1100   20    0 
+AxeCell   987529923  4  3 c   c     c     k         1080   40   90 Jd Ac
+AxeCell   987529947  4  2 Bc  kf    -     -         1130   20    0 
+AxeCell   987529966  4  1 Bf  -     -     -         1110    5    0 
+AxeCell   987529986  4  4 c   c     c     f         1105   50    0 
+AxeCell   987530015  4  3 f   -     -     -         1055    0    0 
+AxeCell   987530048  4  2 Br  b     b     k         1055   50  150 Kd Kh
+AxeCell   987530098  5  1 Bf  -     -     -         1155    5    0 
+AxeCell   987530130  4  4 c   rc    k     f         1150   40    0 
+AxeCell   987530179  4  3 f   -     -     -         1110    0    0 
+AxeCell   987530207  4  2 Bc  bc    kc    kf        1110   60    0 
+AxeCell   987530243  4  1 Bc  kf    -     -         1050   20    0 
+AxeCell   987530268  4  4 cc  c     c     rr        1030  130  290 2c 2s
+AxeCell   987530302  4  3 f   -     -     -         1190    0    0 
+AxeCell   987530319  5  2 Bc  kf    -     -         1190   20    0 
+AxeCell   987530347  5  1 Bf  -     -     -         1170    5    0 
+AxeCell   987530370  5  5 c   k     k     k         1165   20    0 2c Qc
+AxeCell   987530431  7  6 c   c     c     br        1145  100  210 
+AxeCell   987530486  7  5 r   rr    c     c         1255  100    0 Ad Ah
+AxeCell   987530557  6  5 f   -     -     -         1155    0    0 
+AxeCell   987530597  6  4 cc  b     b     k         1155   50    0 Ks Jd
+AxeCell   987530645  6  3 cc  b     bc    kc        1105   90    0 Th Qc
+AxeCell   987530696  6  2 Bk  k     c     f         1015   30    0 
+AxeCell   987530744  7  1 Bf  -     -     -          985    5    0 
+AxeCell   987530769  7  7 c   c     c     f          980   50    0 
+AxeCell   987530845  7  6 f   -     -     -          930    0    0 
+AxeCell   987530897  7  5 f   -     Q     -          930    0    0 
+AxeCell   987546134  3  3 c   f     -     -          930   10    0 
+AxeCell   987546153  3  2 B   -     -     -          920   10   15 
+AxeCell   987546162  3  1 Bf  -     -     -          925    5    0 
+AxeCell   987546174  3  3 c   r     b     b          920   80    0 Jh 6d
+AxeCell   987546220  3  2 BQ  -     -     -          840   10    0 
+AxeCell   988202460  2  2 B   -     -     -          830   10   15 
+AxeCell   988202539  2  1 Bf  -     -     -          835    5    0 
+AxeCell   988202542  2  2 B   -     -     -          830   10   15 
+AxeCell   988202544  2  1 Bc  b     -     -          835   20   30 
+AxeCell   988202550  2  2 Br  b     -     -          845   30   50 
+AxeCell   988202560  2  1 Br  -     -     -          865   20   30 
+AxeCell   988202565  2  2 B   -     -     -          875   10   15 
+AxeCell   988202567  2  1 Bc  k     k     k          880   10   20 7c 9c
+AxeCell   988202584  2  2 B   -     -     -          890   10   15 
+AxeCell   988202592  2  1 Bf  -     -     -          895    5    0 
+AxeCell   988202595  2  2 B   -     -     -          890   10   15 
+AxeCell   988202597  2  1 Bc  bc    kc    kc         895   70    0 Td Tc
+AxeCell   988202619  2  2 B   -     -     -          825   10   15 
+AxeCell   988202626  2  1 Bc  b     b     k          830   40    0 5s 7h
+AxeCell   988202642  2  2 B   -     -     -          790   10   15 
+AxeCell   988202647  2  1 Bc  k     k     k          795   10    0 2s 3s
+AxeCell   988202657  2  2 B   -     -     -          785   10   15 
+AxeCell   988202663  2  1 Bf  -     -     -          790    5    0 
+AxeCell   988202665  2  2 B   -     -     -          785   10   15 
+AxeCell   988202668  2  1 Bc  kc    b     -          790   40   60 
+AxeCell   988202722  3  2 Bk  b     -     -          810   20   35 
+AxeCell   988202732  3  1 Bc  k     k     kf         825   10    0 
+AxeCell   988202757  3  3 r   -     -     -          815   20   35 
+AxeCell   988202771  3  2 B   -     -     -          830   10   15 
+AxeCell   988202775  3  1 Bc  b     b     -          835   40   60 
+AxeCell   988202787  3  3 f   -     -     -          855    0    0 
+AxeCell   988202790  3  2 B   -     -     -          855   10   15 
+AxeCell   988202795  3  1 Bc  kc    kc    kf         860   40    0 
+AxeCell   988202811  3  3 c   f     -     -          820   10    0 
+AxeCell   988202820  3  2 B   -     -     -          810   10   15 
+AxeCell   988202823  3  1 Bcc kf    -     -          815   20    0 
+AxeCell   988202833  3  3 c   rr    b     b          795   90  185 2c Jc
+AxeCell   988202874  3  2 Br  b     b     -          890   50   85 
+AxeCell   988202892  3  1 Bc  b     -     -          925   20   30 
+AxeCell   988202904  3  3 c   b     -     -          935   20   35 
+AxeCell   988202918  3  2 B   -     -     -          950   10   15 
+AxeCell   988202920  3  1 Bc  b     -     -          955   20   30 
+AxeCell   988202929  3  3 c   k     k     k          965   10    0 7h 8c
+AxeCell   988202942  3  2 Bk  b     b     k          955   40    0 Kc 7c
+AxeCell   988202975  3  1 Bc  k     k     b          915   30   40 
+AxeCell   988202988  3  3 c   c     f     -          925   20    0 
+AxeCell   988202997  3  2 Bk  k     k     b          905   30   45 
+AxeCell   988203011  3  1 Bc  kf    -     -          920   10    0 
+AxeCell   988203019  3  3 c   b     k     k          910   20   50 6c 7s
+AxeCell   988203033  3  2 Bc  kc    kc    kf         940   50    0 
+AxeCell   988203051  3  1 Bc  k     k     b          890   30   40 
+AxeCell   988203067  3  3 c   c     c     k          900   40    0 As 9h
+AxeCell   988203090  3  2 Bc  kc    kc    k          860   50    0 2c 5d
+AxeCell   988203106  3  1 Br  b     b     k          810   50    0 Th 4h
+AxeCell   988203121  3  3 c   k     f     -          760   10    0 
+AxeCell   988203145  3  2 B   -     -     -          750   10   15 
+AxeCell   988203150  3  1 Bc  kc    kc    kc         755   60    0 9c 7h
+AxeCell   988203164  3  3 c   k     k     k          695   10   10 7h 3h
+AxeCell   988203185  3  2 Bk  k     k     bc         695   50    0 8h 2h
+AxeCell   988203203  3  1 Bc  k     k     kf         645   10    0 
+AxeCell   988203227  3  3 c   b     b     b          635   60  125 Ac 3c
+AxeCell   988203250  3  2 Bk  k     k     k          700   10    0 3s Kc
+AxeCell   988203263  3  1 Bc  kc    kf    -          690   20    0 
+AxeCell   988203291  3  3 c   b     -     -          670   20   35 
+AxeCell   988203302  3  2 Bc  b     b     bf         685   70    0 
+AxeCell   988203324  3  1 Bc  kc    kc    kc         615   60    0 Kh Td
+AxeCell   988203344  3  3 r   b     c     f          555   50    0 
+AxeCell   988203360  3  2 B   -     -     -          505   10   15 
+AxeCell   988203366  3  1 Br  b     -     -          510   30   60 
+AxeCell   988203376  3  3 rr  c     c     c          540   90    0 Qd Ah
+AxeCell   988203393  2  2 B   -     -     -          450   10   15 
+AxeCell   988203399  2  1 Bc  -     -     -          455   10   20 
+AxeCell   988203501  2  2 BQ  -     -     -          465   10    0 
+AxeCell   988203535  2  2 B   -     -     -          455   10   15 
+AxeCell   988203549  2  1 Br  -     -     -          460   20   30 
+AxeCell   988210581  5  3 f   -     -     -          470    0    0 
+AxeCell   988210622  4  1 Bk  kf    -     -          470   10    0 
+AxeCell   988210664  4  1 Br  k     k     b          460   40   60 
+AxeCell   988210701  3  3 c   c     r     c          480   80    0 9d 5d
+AxeCell   988210721  3  2 Br  k     b     -          400   40   60 
+AxeCell   988210744  2  1 Bc  b     b     b          420   60  120 5h 3c
+AxeCell   988210752  2  2 Bk  k     k     k          480   10    0 9s 5c
+AxeCell   988210767  2  1 Br  bc    kc    k          470   60    0 Th Ac
+AxeCell   988210784  2  2 B   -     -     -          410   10   15 
+AxeCell   988210792  2  1 Br  b     k     k          415   30   60 7h As
+AxeCell   988210801  2  2 Br  bc    c     c          445   80    0 8c 9d
+AxeCell   988210819  2  1 Br  -     -     -          365   20   30 
+AxeCell   988210827  2  2 B   -     -     -          375   10   15 
+AxeCell   988210829  2  1 Br  b     b     b          380   70  120 
+AxeCell   988210839  2  2 Bc  r     c     b          430   80  160 5s 5h
+AxeCell   988210854  2  1 Bc  k     k     k          510   10   10 4c 6d
+AxeCell   988210867  2  2 Br  b     -     -          510   40   70 
+AxeCell   988210880  2  1 Bc  b     -     -          540   20   30 
+AxeCell   988210884  2  2 B   -     -     -          550   10   15 
+AxeCell   988210887  2  1 Bc  k     b     b          555   50    0 7d 4d
+AxeCell   988210896  2  2 Bk  b     -     -          505   20   30 
+AxeCell   988210923  2  1 Br  -     -     -          515   20   30 
+AxeCell   988210925  2  2 B   -     -     -          525   10   15 
+AxeCell   988210927  2  1 Br  b     k     k          530   30    0 5h 4d
+AxeCell   988210937  2  2 Bc  k     b     k          500   40   80 Qc 3h
+AxeCell   988210954  2  1 Bc  k     k     k          540   10   20 3d 6s
+AxeCell   988210967  2  2 B   -     -     -          550   10   15 
+AxeCell   988210973  2  1 Bc  k     k     k          555   10   20 5h 9d
+AxeCell   988210983  2  2 B   -     -     -          565   10   15 
+AxeCell   988210991  2  1 Br  b     b     k          570   50    0 3h Qd
+AxeCell   988211000  2  2 Bk  c     c     k          520   40    0 3s Ac
+AxeCell   988211013  2  1 Bc  b     k     kc         480   40    0 Th Ah
+AxeCell   988211029  2  2 Bk  b     k     k          440   20    0 8d 9h
+AxeCell   988211046  2  1 Br  k     kr    b          420   80    0 Qh 4s
+AxeCell   988211062  2  2 Bk  k     k     k          340   10   20 Th 6s
+AxeCell   988211078  2  1 Br  b     b     k          350   50    0 3h Js
+AxeCell   988211092  2  2 Bk  b     -     -          300   20   30 
+AxeCell   988211103  2  1 Bc  k     k     b          310   30   60 2h Ah
+AxeCell   988211116  2  2 Bc  r     b     b          340   80  160 3d Kh
+AxeCell   988211139  3  1 Bc  b     b     b          420   60  120 6d Qs
+AxeCell   988211156  3  3 c   k     b     -          480   30   50 
+AxeCell   988211178  4  2 Br  b     k     k          500   30    0 3s 3d
+AxeCell   988211199  5  1 Bc  kc    kc    kf         470   70    0 
+AxeCell   988211241  5  5 r   b     b     f          400   50    0 
+AxeCell   988211273  5  3 Q   -     -     -          350    0    0 
+AxeCell   988276371  3  3 c   -     -     -          350   10   25 
+AxeCell   988276391  2  1 B   -     -     -          365   10   10 
+AxeCell   988276396  2  1 Bc  b     -     -          365   20   30 
+AxeCell   988276404  2  2 B   -     -     -          375   10   15 
+AxeCell   988276406  2  1 Br  -     -     -          380   20   30 
+AxeCell   988276410  2  2 Bk  c     c     r          390   80  160 7s Jc
+AxeCell   988276430  2  1 Bf  -     -     -          470    5    0 
+AxeCell   988276436  2  2 Bf  -     -     -          465   10    0 
+AxeCell   988276439  2  1 Bc  b     -     -          455   20   30 
+AxeCell   988276446  2  2 B   -     -     -          465   10   15 
+AxeCell   988276449  2  1 Bc  bc    kf    -          470   30    0 
+AxeCell   988276459  2  2 B   -     -     -          440   10   15 
+AxeCell   988276462  2  1 Bc  b     -     -          445   20   30 
+AxeCell   988276473  2  2 B   -     -     -          455   10   15 
+AxeCell   988276476  2  1 Bc  k     k     b          460   30   40 
+AxeCell   988276489  2  2 B   -     -     -          470   10   15 
+AxeCell   988276491  2  1 Br  -     -     -          475   20   30 
+AxeCell   988276495  2  2 B   -     -     -          485   10   15 
+AxeCell   988276496  2  1 Bf  -     -     -          490    5    0 
+AxeCell   988276497  2  2 B   -     -     -          485   10   15 
+AxeCell   988276499  2  1 Bf  -     -     -          490    5    0 
+AxeCell   988276502  2  2 Bk  k     f     -          485   10    0 
+AxeCell   988276512  2  1 Br  -     -     -          475   20   30 
+AxeCell   988276515  2  2 B   -     -     -          485   10   15 
+AxeCell   988276517  2  1 Bf  -     -     -          490    5    0 
+AxeCell   988276519  2  2 Bk  r     k     k          485   30    0 Qs 6h
+AxeCell   988276535  2  1 Bc  b     -     -          455   20   30 
+AxeCell   988276547  2  2 Br  -     -     -          465   20   30 
+AxeCell   988276553  2  1 Br  -     -     -          475   20   30 
+AxeCell   988276557  2  2 B   -     -     -          485   10   15 
+AxeCell   988276559  2  1 Bc  bc    kc    kc         490   70    0 5d 5s
+AxeCell   988276574  2  2 B   -     -     -          420   10   15 
+AxeCell   988276580  2  1 Br  -     -     -          425   20   30 
+AxeCell   988276583  2  2 B   -     -     -          435   10   15 
+AxeCell   988276585  2  1 Bf  -     -     -          440    5    0 
+AxeCell   988276587  2  2 B   -     -     -          435   10   15 
+AxeCell   988276589  2  1 Bc  kf    -     -          440   10    0 
+AxeCell   988276595  2  2 B   -     -     -          430   10   15 
+AxeCell   988276598  2  1 Bc  k     k     k          435   10   20 7s 5s
+AxeCell   988276608  2  2 Bk  k     b     -          445   30   40 
+AxeCell   988276621  2  1 Bc  k     kf    -          455   10    0 
+AxeCell   988276628  2  2 Bk  k     k     f          445   10    0 
+AxeCell   988276640  2  1 Bc  b     -     -          435   20   30 
+AxeCell   988276649  2  2 B   -     -     -          445   10   15 
+AxeCell   988276650  2  1 Bc  b     b     b          450   60  100 
+AxeCell   988276663  2  2 B   -     -     -          490   10   15 
+AxeCell   988276666  2  1 Bf  -     -     -          495    5    0 
+AxeCell   988276668  2  2 B   -     -     -          490   10   15 
+AxeCell   988276670  2  1 Brr kc    kc    kf         495   70    0 
+AxeCell   988276685  2  2 B   -     -     -          425   10   15 
+AxeCell   988276689  2  1 Bc  bc    k     kc         430   50   50 2c As
+AxeCell   988276701  2  2 Bk  b     b     b          430   60  100 
+AxeCell   988276735  2  1 Bc  b     kf    -          470   20    0 
+AxeCell   988276750  2  2 Bc  c     c     c          450   70    0 Kc 9c
+AxeCell   988276785  2  1 Bc  b     -     -          380   20   30 
+AxeCell   988276801  2  2 B   -     -     -          390   10   15 
+AxeCell   988276805  2  1 Br  -     -     -          395   20   30 
+AxeCell   988276808  2  2 B   -     -     -          405   10   15 
+AxeCell   988276811  2  1 Bc  b     -     -          410   20   30 
+AxeCell   988276815  2  2 B   -     -     -          420   10   15 
+AxeCell   988276817  2  1 BQ  -     -     -          425    5    0 

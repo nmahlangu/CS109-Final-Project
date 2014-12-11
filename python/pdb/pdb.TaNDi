@@ -1,0 +1,593 @@
+TaNDi     987483750 10  6 c   c     c     kf        1205   60    0 
+TaNDi     987483837 10  6 rc  k     c     f         1145   50    0 
+TaNDi     987483884 10  5 r   cf    -     -         1095   40    0 
+TaNDi     987483996 10  3 cc  kf    -     -         1055   30    0 
+TaNDi     987484118  9  1 Bk  kc    kc    kc        1025   60    0 7h Ts
+TaNDi     987484218  7  1 Bc  k     b     -          965   30   50 
+TaNDi     987484250  7  7 rc  rc    rc    c          985  180    0 Ks 9s
+TaNDi     987484333  7  6 c   k     kf    -          805   10    0 
+TaNDi     987484381  7  5 f   -     -     -          795    0    0 
+TaNDi     987484408  7  4 c   k     kf    -          795   10    0 
+TaNDi     987484889  8  2 Bk  b     b     b          785   60  175 As Kc
+TaNDi     987484949  8  1 Bc  b     k     b          900   40  130 9h Qc
+TaNDi     987484995  8  8 c   c     c     c          990   90    0 8c 2s
+TaNDi     987485048  9  7 c   k     kc    kf         900   30    0 
+TaNDi     987485118  9  6 c   kc    k     f          870   20    0 
+TaNDi     987485176 10  5 c   c     k     f          850   20    0 
+TaNDi     987485281 10  4 cc  c     c     cc         830   90    0 5s Jd
+TaNDi     987485375 10  3 c   k     k     k          740   10   17 5h 7c
+TaNDi     987485421 10  2 Bc  kc    kc    k          747   50    0 Jc 6d
+TaNDi     987485488 10  1 Bc  kc    kc    kc         697   70   90 7s 5c
+TaNDi     987485538 10 10 c   cc    f     -          717   50    0 
+TaNDi     987485613 10  9 c   c     c     c          667   90    0 9h Ad
+TaNDi     987485674 10  8 c   k     b     c          577   50  155 9d 3s
+TaNDi     987485748 10  7 c   r     b     b          682   70    0 3h 4d
+TaNDi     987485837 10  4 Q   -     -     -          612    0    0 
+TaNDi     987488296  9  9 c   cc    c     c          612   90  280 Js 8d
+TaNDi     987488337  9  8 c   c     c     f          802   40    0 
+TaNDi     987488370  9  7 cc  Q     -     -          762   20    0 
+TaNDi     987488560  7  5 c   c     c     c          742   70  142 Tc Jh
+TaNDi     987488608  7  4 cc  rc    c     rr         814  163  532 9s 7d
+TaNDi     987488658  7  3 cc  rc    c     c         1183   90  205 Kd 5s
+TaNDi     987488690  8  2 Bc  f     -     -         1298   20    0 
+TaNDi     987488718  8  1 Brc kc    kc    kc        1278   80  260 As Qh
+TaNDi     987488770  8  8 c   c     c     c         1458   70  205 8c 8d
+TaNDi     987488801  8  7 c   c     c     c         1593   80  117 Jd 6s
+TaNDi     987488857  8  6 cc  cc    f     -         1630   80    0 
+TaNDi     987488924  7  4 cc  rc    c     c         1550  110  295 4s 5s
+TaNDi     987488960  8  4 cc  cc    f     -         1735   70    0 
+TaNDi     987489008  9  3 cc  rc    rr    rc        1665  210  650 5s 7d
+TaNDi     987489079  9  2 BQ  -     -     -         2105   10    0 
+TaNDi     987550884  2  1 Bc  b     k     k         1440   20   40 Js Td
+TaNDi     987550944  2  2 Bc  c     c     c         1460   70    0 8s 3c
+TaNDi     987550959  2  1 Bc  kc    kc    k         1390   40   80 7h Kh
+TaNDi     987550985  2  2 Bc  c     f     -         1430   30    0 
+TaNDi     987550999  2  1 Bcc kc    kc    kc        1400   70  140 Qs 9s
+TaNDi     987551028  2  2 Bc  f     -     -         1470   20    0 
+TaNDi     987551039  2  1 Bc  k     k     b         1450   30   60 Qh Kh
+TaNDi     987551064  3  3 r   c     f     -         1480   40    0 
+TaNDi     987551111  3  2 Bk  k     c     c         1440   50  110 As 7c
+TaNDi     987551149  4  1 Bc  kc    kc    kc        1500   60    0 Qs Kd
+TaNDi     987551193  4  4 c   k     f     -         1440   10    0 
+TaNDi     987551229  4  3 r   k     b     k         1430   40   85 6c 6s
+TaNDi     987551254  4  2 Bk  bc    kc    kc        1475   70    0 8d Kh
+TaNDi     987551290  5  1 Bc  bc    kc    kc        1405   70    0 8s 6d
+TaNDi     987551331  6  6 r   b     -     -         1335   30   80 
+TaNDi     987551362  6  5 c   f     -     -         1385   10    0 
+TaNDi     987551383  6  4 cc  c     c     r         1375   90  165 
+TaNDi     987551412  6  3 c   k     b     b         1450   50    0 Ad 9d
+TaNDi     987551465  5  2 Bk  r     c     k         1400   50  150 7s Jd
+TaNDi     987551516  5  1 Bc  k     b     kc        1500   50    0 5d Jc
+TaNDi     987551573  6  5 c   b     k     b         1450   40   80 
+TaNDi     987551620  6  4 c   bc    bc    kc        1490   90    0 4h 5h
+TaNDi     987551667  7  4 c   b     kc    c         1400   80    0 Qd 9s
+TaNDi     987551732  7  3 c   kc    kc    kc        1320   60    0 Js 9d
+TaNDi     987551785  7  2 Bk  kf    -     -         1260   10    0 
+TaNDi     987551841  7  1 Bc  kc    kc    kf        1250   50    0 
+TaNDi     987551904  7  7 c   f     -     -         1200   10    0 
+TaNDi     987551962  7  6 c   kf    -     -         1190   10    0 
+TaNDi     987552046  7  5 c   k     k     b         1180   30    0 Qd 4h
+TaNDi     987552185  5  3 c   kc    kc    kf        1150   40    0 
+TaNDi     987552238  5  3 c   k     Q     -         1110   10    0 
+TaNDi     987552411  7  3 c   kf    -     -         1100   10    0 
+TaNDi     987552507  7  2 Bc  kc    kc    kc        1090   70    0 7s Ts
+TaNDi     987552633  7  1 Br  b     bc    b         1020   90  380 7h 7d
+TaNDi     987552688  7  7 c   k     k     b         1310   30   60 
+TaNDi     987552745  7  6 c   k     r     c         1340   70    0 5h Ks
+TaNDi     987552788  8  5 c   kc    kc    k         1270   40    0 Qc 6c
+TaNDi     987552896  8  4 c   b     kc    f         1230   40    0 
+TaNDi     987552964  6  2 Bk  k     k     kf        1190   10    0 
+TaNDi     987553014  6  1 Bc  kc    kf    -         1180   20    0 
+TaNDi     987553068  6  6 c   b     c     c         1160   60    0 Ad 8h
+TaNDi     987553166  4  4 c   k     k     k         1100   10    0 8s Jc
+TaNDi     987553216  4  3 c   r     b     k         1090   50  120 Ah 4h
+TaNDi     987553259  6  2 Bc  b     b     k         1160   50    0 Kd Ah
+TaNDi     987553320  6  1 Bc  k     kf    -         1110   10    0 
+TaNDi     987553364  6  6 c   r     c     k         1100   50    0 6h Ts
+TaNDi     987553429  6  5 cc  c     c     f         1050   80    0 
+TaNDi     987553476  6  4 r   k     k     f          970   20    0 
+TaNDi     987553560  7  4 c   kc    bc    kc         950   80    0 3c 8h
+TaNDi     987553612  7  3 Q   -     -     -          870    0    0 
+TaNDi     987556518  2  2 BQ  -     -     -          870   10    0 
+TaNDi     987556546  3  3 c   k     f     -          860   10    0 
+TaNDi     987556573  4  2 Bk  b     b     -          850   40   80 
+TaNDi     987556594  4  1 Bc  kc    kc    bc         890   90    0 6d 9s
+TaNDi     987556640  6  6 c   c     c     c          800   60    0 4h Ac
+TaNDi     987556678  6  5 c   c     k     c          740   40    0 2h 6h
+TaNDi     987556743  6  4 c   k     c     f          700   30    0 
+TaNDi     987556773  6  3 c   k     k     b          670   30   60 
+TaNDi     987556822  6  2 Bk  k     kf    -          700   10    0 
+TaNDi     987556864  5  1 Br  -     -     -          690   20   30 
+TaNDi     987556876  5  5 c   b     bc    c          700   90    0 3h 6h
+TaNDi     987556908  5  4 c   KQ    -     -          610   10    0 
+TaNDi     987560465 10  2 Bc  kc    kc    kc         600   70    0 Td 9s
+TaNDi     987560522 10  1 Bc  k     kc    kf         530   30    0 
+TaNDi     987560595 10 10 c   c     c     c          500   60    0 4h Td
+TaNDi     987560648 10  9 c   cc    ccc   f          440  110    0 
+TaNDi     987560731 10  8 c   c     c     c          330   70  225 9d 7c
+TaNDi     987560797 10  7 cc  c     k     c          485   50  150 7s 3d
+TaNDi     987560861 10  6 c   c     k     c          585   40   90 3c 4s
+TaNDi     987560898 10  5 r   b     b     -          635   50  110 
+TaNDi     987560940 10  4 c   k     r     k          695   50    0 5d 7h
+TaNDi     987560971 10  3 c   kc    cf    -          645   40    0 
+TaNDi     987561025 10  2 Bc  kc    k     k          605   30    0 Jc 6d
+TaNDi     987561075 10  1 Bc  b     k     kc         575   40    0 Jh 9c
+TaNDi     987561122 10 10 rc  rc    rc    c          535  150    0 4c 4d
+TaNDi     987561178 10  9 c   kc    kc    kc         385   60  155 2d 6h
+TaNDi     987561231 10  8 c   k     b     b          480   50    0 6s Qh
+TaNDi     987561281 10  7 c   r     b     c          430   70    0 Jc Qd
+TaNDi     987561352 10  6 c   k     f     -          360   10    0 
+TaNDi     987561399 10  5 c   r     kc    kc         350   70    0 3c Jd
+TaNDi     987561453 10  4 c   c     c     c          280   70    0 8c Qh
+TaNDi     987561485 10  3 c   bc    kf    -          210   30    0 
+TaNDi     987561541 10  2 Bk  b     b     -          180   40   70 
+TaNDi     987561572 10  1 Bc  b     -     -          210   20   40 
+TaNDi     987561590 10 10 c   c     r     b          230   80    0 6d 9h
+TaNDi     987561626 10  9 c   r     rr    rA         150  150    0 6s 7h
+TaNDi     987643344  9  7 c   f     -     -          935   10    0 
+TaNDi     987643415  9  6 c   cf    -     -          925   40    0 
+TaNDi     987643478  9  5 c   Q     -     -          885   10    0 
+TaNDi     987664070  9  5 c   bc    kc    k          875   50   85 Ad 4c
+TaNDi     987664112  9  4 c   c     c     c          910   60    0 Kh 7d
+TaNDi     987664168  9  3 crc kc    kc    kc         850   90    0 8h 3s
+TaNDi     987664226  9  2 Bk  kQ    -     -          760   10    0 
+TaNDi     987668671  6  5 c   k     c     c          750   50  110 4d 9h
+TaNDi     987668746  6  4 cQ  -     -     -          810   10    0 
+TaNDi     987668908  6  6 c   k     cc    f          800   70    0 
+TaNDi     987668957  7  5 c   rc    c     c          730   80  270 3d Ah
+TaNDi     987669002  7  4 c   b     kc    kf         920   40    0 
+TaNDi     987669045  7  3 cc  c     b     c          880   70  180 Ah Ts
+TaNDi     987669103  7  2 Bk  b     -     -          990   20   45 
+TaNDi     987669123  7  1 Br  b     -     -         1015   30   60 
+TaNDi     987669151  7  7 f   -     -     -         1045    0    0 
+TaNDi     987669217  7  6 f   -     -     -         1045    0    0 
+TaNDi     987669269  7  5 f   -     -     -         1045    0    0 
+TaNDi     987669300  7  4 f   -     -     -         1045    0    0 
+TaNDi     987669362  7  3 f   -     -     -         1045    0    0 
+TaNDi     987669408  8  3 Q   -     -     -         1045    0    0 
+TaNDi     987670005  7  3 cc  kc    kc    kc        1045   70    0 7h 8s
+TaNDi     987670048  7  2 Bc  bc    kc    kf         975   90    0 
+TaNDi     987670116  7  1 Bc  kc    kc    bc         885   90    0 4h Js
+TaNDi     987670162  6  6 c   r     b     k          795   50  110 Kd 7d
+TaNDi     987670194  7  6 c   k     f     -          855   10    0 
+TaNDi     987670277  6  4 cc  c     c     c          845   70    0 Ks 6c
+TaNDi     987670314  7  3 c   k     k     kf         775   10    0 
+TaNDi     987670370  7  2 Bk  bc    kc    bc         765  100    0 8h Ah
+TaNDi     987670411  8  1 Bcc kf    -     -          665   30    0 
+TaNDi     987670483  8  8 cc  f     -     -          635   20    0 
+TaNDi     987670548  8  7 cc  cc    f     -          615   40    0 
+TaNDi     987670595  7  5 cc  cc    bc    cc         575  200    0 3h 3d
+TaNDi     987670653  7  4 cc  kc    kc    kcc        375  130    0 Qc 7h
+TaNDi     987670734  8  3 cc  bc    k     bc         245   80    0 8c 2s
+TaNDi     987670796  8  2 Bc  b     k     k          165   30  130 3s Ah
+TaNDi     987670876  9  1 Bcc b     bcc   bc         265  170    0 7d Th
+TaNDi     987670934  9  9 c   c     c     c           95   60    0 4h 6c
+TaNDi     987670980  9  8 cc  kc    kcA   -           35   35    0 2c 5d
+TaNDi     987671134  9  6 cc  bc    k     b         1000   60  165 
+TaNDi     987671185  8  4 ccc f     -     -         1105   40    0 
+TaNDi     987671264  8  3 cc  kc    c     cc        1065  120    0 5c 8s
+TaNDi     987671323  8  2 Bcc kc    kc    kf         945   70    0 
+TaNDi     987671375  8  1 Bcc kc    k     bc         875   80    0 3h 9h
+TaNDi     987671455  8  8 cc  c     k     c          795   70    0 3h Td
+TaNDi     987671556  9  8 cc  rc    kcc   f          725  110    0 
+TaNDi     987671718  9  8 c   c     k     k          615   30    0 7d 8s
+TaNDi     987671779 10  7 c   c     c     r          585   90    0 7d Jh
+TaNDi     987671838  9  5 c   b     b     b          495   60  150 Td Js
+TaNDi     987671881  9  4 Q   -     -     -          585    0    0 
+TaNDi     987673997  4  2 Bk  c     f     -          585   20    0 
+TaNDi     987674177  3  1 Bc  kc    k     k          565   30   70 6s 3d
+TaNDi     987674224  4  3 Q   -     -     -          605    0    0 
+TaNDi     987677172  2  1 Bc  k     -     -          605   20   40 
+TaNDi     987677982  2  1 BKQ -     -     -          625    5    0 
+TaNDi     987684463  4  1 Bc  b     b     -          620   40   80 
+TaNDi     987684489  4  4 c   b     b     c          660   60  170 9h Tc
+TaNDi     987684535  4  3 c   b     -     -          770   20   40 
+TaNDi     987684555  4  2 B   -     -     -          790   10   15 
+TaNDi     987684562  4  1 Bc  b     -     -          795   20   30 
+TaNDi     987684575  4  4 c   k     k     c          805   30    0 Qs 7d
+TaNDi     987684595  4  3 c   kc    kc    kf         775   40    0 
+TaNDi     987684631  4  2 Bc  k     k     b          735   40   65 
+TaNDi     987684665  4  1 Bc  kc    kc    kc         760   70    0 Js 9c
+TaNDi     987684703  5  5 c   k     c     c          690   70    0 Qd 8h
+TaNDi     987684750  5  4 c   k     k     b          620   30    0 Qs 3c
+TaNDi     987684787  5  3 c   kc    kf    -          590   20    0 
+TaNDi     987684826  5  2 Bk  kf    -     -          570   10    0 
+TaNDi     987684857  5  1 Bc  bc    b     b          560   70  150 2c As
+TaNDi     987684889  5  5 c   bc    k     c          640   50    0 3h Jh
+TaNDi     987684920  5  4 c   k     kc    k          590   30    0 Qs Ks
+TaNDi     987684965  5  3 c   k     f     -          560   10    0 
+TaNDi     987684998  5  2 Bk  c     k     b          550   40   80 
+TaNDi     987685037  5  1 Bc  kc    kcc   bcc        590  180    0 Qs Ac
+TaNDi     987685113  5  5 c   f     -     -          410   10    0 
+TaNDi     987685149  5  4 c   k     b     k          400   30    0 7h 2c
+TaNDi     987685197  4  2 c   bc    kc    kc         370   70    0 Js 5h
+TaNDi     987685234  4  2 Bk  c     f     -          300   20    0 
+TaNDi     987685280  4  1 Bc  k     k     b          280   30   60 
+TaNDi     987685330  4  4 c   k     c     f          310   30    0 
+TaNDi     987685374  4  3 c   b     -     -          280   20   35 
+TaNDi     987685389  3  2 Bc  k     f     -          295   20    0 
+TaNDi     987685436  3  1 Bc  k     k     b          275   30   40 
+TaNDi     987685468  3  3 c   b     b     b          285   60   62 Kh Tc
+TaNDi     987685495  3  2 Bk  k     k     f          287   10    0 
+TaNDi     987685518  3  1 Bcc k     kf    -          277   20    0 
+TaNDi     987685542  3  3 r   c     c     r          257   90  185 As Js
+TaNDi     987685563  3  2 Br  k     b     -          352   40   60 
+TaNDi     987685588  3  1 Bcc kc    k     k          372   30    0 Kc 8s
+TaNDi     987685620  4  4 r   k     k     c          342   40    0 Qh 7h
+TaNDi     987685647  4  3 c   r     b     b          302   70    0 Kd 7h
+TaNDi     987685694  4  2 B   -     -     -          232   10   15 
+TaNDi     987685709  4  1 Br  b     bc    kc         237   90    0 3h 3s
+TaNDi     987685742  4  4 c   rc    c     b          147   80  190 2s Ad
+TaNDi     987685780  4  3 c   k     k     b          257   30    0 Ts Kd
+TaNDi     987685810  4  2 Bc  k     f     -          227   20    0 
+TaNDi     987685847  5  1 Bc  kc    b     bc         207   80    0 5c 8h
+TaNDi     987685907  6  6 c   b     b     -          127   40   90 
+TaNDi     987685952  6  5 c   r     b     b          177   70  130 
+TaNDi     987685984  6  4 c   r     b     b          237   70  210 9d As
+TaNDi     987686021  6  3 c   k     k     k          377   10    0 4c Kd
+TaNDi     987686061  7  3 c   c     k     r          367   60  140 Kd Ah
+TaNDi     987686104  7  2 Bk  bc    c     cc         447   90    0 6h 6d
+TaNDi     987686152  7  1 Bc  kc    kc    bc         357   80    0 7s Ad
+TaNDi     987686210  7  7 c   Q     -     -          277   10    0 
+TaNDi     987697061  6  6 c   c     f     -          267   20    0 
+TaNDi     987697096  6  5 r   b     bc    bc         247  110    0 Jd 5d
+TaNDi     987697144  6  4 rc  kc    b     br         137  120    0 Qs Jh
+TaNDi     987697218  6  3 rA  -     -     -           17   17    0 Td 2h
+TaNDi     987697287  5  5 cc  cc    f     -         1000   60    0 
+TaNDi     987697328  5  4 c   f     -     -          940   10    0 
+TaNDi     987697358  4  2 Bk  k     b     b          930   50   90 
+TaNDi     987697384  4  1 Br  b     b     -          970   50  100 
+TaNDi     987697408  5  5 c   f     -     -         1020   10    0 
+TaNDi     987697453  6  4 c   r     kc    f         1010   50    0 
+TaNDi     987697521  6  3 c   k     bc    kc         960   70    0 8h Ks
+TaNDi     987697574  6  2 Br  bc    b     b          890   80    0 Ah 4h
+TaNDi     987697619  5  1 Bc  b     b     b          810   70  170 Js Ac
+TaNDi     987697665  5  5 c   r     b     bc         910   90    0 Ad Ac
+TaNDi     987697729  5  4 c   k     k     rr         820   90  170 
+TaNDi     987697799  5  3 cc  kf    -     -          900   20    0 
+TaNDi     987697828  5  2 Bk  b     b     b          880   60  110 
+TaNDi     987697859  5  1 Bc  kf    -     -          930   10    0 
+TaNDi     987697915  4  4 cc  c     rc    c          920  110  112 Kh Qs
+TaNDi     987697947  4  3 cc  b     b     k          922   50   65 6h Td
+TaNDi     987697998  4  2 Bk  k     k     b          937   30   45 
+TaNDi     987698034  4  1 Bc  k     b     -          952   30   40 
+TaNDi     987698072  4  4 c   c     c     bf         962   70    0 
+TaNDi     987698148  4  3 r   b     c     c          892   70    0 5c 5d
+TaNDi     987698183  4  3 r   -     -     -          822   20   35 
+TaNDi     987698197  4  2 Bc  Q     -     -          837   20    0 
+TaNDi     988027317  6  3 c   kf    -     -          817   10    0 
+TaNDi     988027361  6  2 Bk  k     k     k          807   10    0 4c 8h
+TaNDi     988027388  6  1 Bc  kf    -     -          797   10    0 
+TaNDi     988027446  6  6 c   c     c     f          787   40    0 
+TaNDi     988027538  6  5 f   -     -     -          747    0    0 
+TaNDi     988027549  6  4 c   k     b     b          747   50  105 
+TaNDi     988027577  6  3 c   k     f     -          802   10    0 
+TaNDi     988027598  6  2 Bk  f     -     -          792   10    0 
+TaNDi     988027636  6  1 Bc  k     k     kf         782   10    0 
+TaNDi     988027661  6  6 c   c     c     f          772   40    0 
+TaNDi     988027684  6  5 cc  br    b     -          732   70  160 
+TaNDi     988027726  6  4 c   kc    brc   b          822  120  235 
+TaNDi     988027767  6  3 c   kf    -     -          937   10    0 
+TaNDi     988027793  7  2 Bk  bc    bc    rc         927  130  145 4d Qd
+TaNDi     988027835  7  1 Bc  kf    Q     -          942   10    0 
+TaNDi     988032328  3  3 cc  c     c     k          932   50    0 4c Th
+TaNDi     988032349  3  2 Bc  kc    kc    k          882   50    0 Ah 6s
+TaNDi     988032376  3  1 Bc  b     b     b          832   60  120 
+TaNDi     988032401  3  3 c   b     -     -          892   20   35 
+TaNDi     988032412  3  2 Bk  kc    kc    brc        907  120    0 Kc 8d
+TaNDi     988032442  3  1 Bcc k     k     k          787   20   60 4d Kh
+TaNDi     988032474  3  3 f   -     -     -          827    0    0 
+TaNDi     988032480  3  2 Bc  kf    -     -          827   20    0 
+TaNDi     988032508  4  1 Bc  b     bc    kf         807   60    0 
+TaNDi     988032548  4  4 c   k     b     b          747   50   95 
+TaNDi     988032586  5  4 c   k     f     -          792   10    0 
+TaNDi     988032605  5  3 c   b     b     b          782   60  135 Jd Ad
+TaNDi     988032639  5  2 Bc  k     kf    -          857   20    0 
+TaNDi     988032671  5  1 Bc  b     -     -          837   20   30 
+TaNDi     988032684  5  5 c   rc    b     b          847   80    0 9d Tc
+TaNDi     988032738  5  4 c   k     k     b          767   30   45 
+TaNDi     988032773  5  3 c   k     k     k          782   10   25 As 5h
+TaNDi     988032802  6  2 Bk  k     kf    -          797   10    0 
+TaNDi     988032826  6  1 Bc  k     b     kc         787   50    0 6s Jc
+TaNDi     988032865  6  6 c   b     b     b          737   60  130 4h 6h
+TaNDi     988032894  6  5 c   c     cr    b          807  100  300 7s Ac
+TaNDi     988032939  6  4 Q   -     -     -         1007    0    0 
+TaNDi     988034105  7  7 f   -     -     -         1007    0    0 
+TaNDi     988034145  8  7 c   c     k     b         1007   40  100 
+TaNDi     988034190  8  6 c   c     c     rc        1067  100    0 Jd 8h
+TaNDi     988034235  8  5 f   -     -     -          967    0    0 
+TaNDi     988034263  8  4 c   k     f     -          967   10    0 
+TaNDi     988034311  8  3 cc  k     b     -          957   40  120 
+TaNDi     988034361  9  2 Bcc c     c     b         1037   90    0 9h Ts
+TaNDi     988034403  9  1 Bf  -     -     -          947    5    0 
+TaNDi     988034434  9  9 cc  rc    c     c          942  110    0 Ah 5h
+TaNDi     988034488 10  8 cc  rc    c     c          832   90    0 9h Ah
+TaNDi     988034552 10  7 Q   -     -     -          742    0    0 
+TaNDi     988034645 10  5 c   k     k     b          742   30   50 
+TaNDi     988034680 10  4 cc  kc    b     k          762   50  200 4s 3h
+TaNDi     988034747 10  3 cc  k     kc    kc         912   60    0 7h 9d
+TaNDi     988034791 10  2 Bc  kc    kc    kc         852   70  240 7h As
+TaNDi     988034879  9  1 Bc  b     k     k         1022   30    0 2d 2c
+TaNDi     988034920  9  9 c   k     f     -          992   10    0 
+TaNDi     988034965 10  9 c   c     c     c          982   60  195 2h 3s
+TaNDi     988035000 10  8 c   c     c     c         1117   60    0 Ks Kd
+TaNDi     988035049 10  7 cc  f     -     -         1057   20    0 
+TaNDi     988035125 10  6 f   -     -     -         1037    0    0 
+TaNDi     988035165 10  5 cc  kc    kc    k         1037   50    0 7h 5h
+TaNDi     988035247 10  4 rc  b     k     k          987   40  120 Js Jd
+TaNDi     988035285 10  3 c   k     k     kf        1067   10    0 
+TaNDi     988035339 10  2 Bc  kc    k     f         1057   30    0 
+TaNDi     988035391 10  1 Bc  kQ    -     -         1027   10    0 
+TaNDi     988037105 10  1 Bcc kf    -     -         1017   20    0 
+TaNDi     988037165 10 10 c   f     -     -          997   10    0 
+TaNDi     988037229 10  9 cc  k     f     -          987   20    0 
+TaNDi     988037343 10  8 c   kf    -     -          967   10    0 
+TaNDi     988037405 10  7 cc  c     c     k          957   50    0 Tc 9s
+TaNDi     988037498 10  6 cc  kc    kc    b          907   70    0 Qs 9c
+TaNDi     988037567 10  5 cc  kc    kf    Q          837   40    0 
+TaNDi     988115670  8  2 Bc  bc    b     b          797   80  185 Td 5s
+TaNDi     988115719  8  1 Bc  b     b     b          902   60   90 8c Tc
+TaNDi     988115768  8  8 c   c     f     -          932   40    0 
+TaNDi     988115838  8  7 f   -     -     -          892    0    0 
+TaNDi     988115892  9  6 c   b     b     b          892   60  210 Js 4c
+TaNDi     988115947  9  5 c   b     b     bc        1042   80    0 8d 5c
+TaNDi     988115993  9  4 c   cc    c     c          962   80  250 Td Qs
+TaNDi     988116054  7  3 c   kf    -     -         1132   10    0 
+TaNDi     988116084  7  2 BQ  -     -     -         1122   10    0 
+TaNDi     988118714  7  7 f   -     -     -         1112    0    0 
+TaNDi     988118725  7  6 cc  f     -     -         1112   20    0 
+TaNDi     988118758  6  4 f   -     -     -         1092    0    0 
+TaNDi     988118797  7  4 c   b     b     bc        1092   80    0 4h Kh
+TaNDi     988118854  7  3 f   -     -     -         1012    0    0 
+TaNDi     988118888  7  2 Bk  kc    kc    k         1012   40    0 2d Ts
+TaNDi     988118964  8  1 Bc  bc    b     b          972   70  260 Qs Td
+TaNDi     988119021  8  8 c   k     f     -         1162   10    0 
+TaNDi     988119064  8  7 c   k     c     k         1152   30    0 9s 2h
+TaNDi     988119106  7  5 c   c     c     f         1122   40    0 
+TaNDi     988119165  7  4 c   k     k     f         1082   10    0 
+TaNDi     988119223  6  2 Bk  b     b     b         1072   60  130 9h 3s
+TaNDi     988119323  6  1 Bc  b     b     -         1142   50  110 
+TaNDi     988119356  6  6 cc  c     c     f         1202   70    0 
+TaNDi     988119385  6  5 c   k     k     c         1132   30    0 5c 4c
+TaNDi     988119432  6  4 c   k     f     -         1102   10    0 
+TaNDi     988119464  6  3 c   k     b     b         1092   50   90 
+TaNDi     988119508  6  2 Bk  c     c     f         1132   40    0 
+TaNDi     988119585  5  1 Bc  kf    -     -         1092   10    0 
+TaNDi     988119614  6  4 Q   -     -     -         1082    0    0 
+TaNDi     988125100  7  4 c   c     c     k         1082   50    0 5d 5s
+TaNDi     988125131  7  4 c   k     k     f         1032   10    0 
+TaNDi     988125172  7  3 c   c     k     c         1022   40    0 6c 7d
+TaNDi     988125206  7  2 Bk  kc    bc    rc         982  140    0 4d As
+TaNDi     988125265  6  1 Bc  kc    kf    -          842   20    0 
+TaNDi     988125308  6  6 c   k     f     -          822   10    0 
+TaNDi     988125336  6  5 c   k     b     f          812   30    0 
+TaNDi     988125366  6  4 c   c     k     k          782   20    0 4c 8c
+TaNDi     988125419  8  4 f   -     -     -          762    0    0 
+TaNDi     988125434  8  3 c   kf    -     -          762   10    0 
+TaNDi     988125479  8  2 Bk  k     b     -          752   30   70 
+TaNDi     988125530  8  1 Bc  b     b     bc         792   90  210 6c 6h
+TaNDi     988125572  9  9 c   k     k     k          912   10   35 6c 6h
+TaNDi     988125612  9  8 c   c     f     -          937   20    0 
+TaNDi     988125665  9  7 c   kc    kc    kf         917   50    0 
+TaNDi     988125762  8  5 f   -     -     -          867    0    0 
+TaNDi     988125818  8  4 c   k     f     -          867   10    0 
+TaNDi     988125884  9  4 f   -     -     -          857    0    0 
+TaNDi     988125894  9  3 cc  kc    bc    k          857   70  275 Qc 4c
+TaNDi     988125970  9  2 Bk  k     kf    -         1062   10    0 
+TaNDi     988126033  9  1 Bc  kc    kc    kf        1052   50    0 
+TaNDi     988126078  9  9 c   c     k     f         1002   30    0 
+TaNDi     988126120  9  8 f   -     -     -          972    0    0 
+TaNDi     988126166  9  7 c   k     f     -          972   20    0 
+TaNDi     988126247  9  6 c   b     br    k          952   80    0 Ad Jd
+TaNDi     988126300  9  5 c   bc    bc    kc         872  110    0 Td Ad
+TaNDi     988126357  9  4 c   k     k     b          762   30   55 
+TaNDi     988126457  8  3 cc  brc   bc    b          787  130  455 9c Qd
+TaNDi     988126506 10  2 Bc  c     f     -         1112   30    0 
+TaNDi     988126562 10  1 Bc  kf    -     -         1082   10    0 
+TaNDi     988126592 10 10 c   k     f     -         1072   10    0 
+TaNDi     988126627 10  9 c   Q     -     -         1062   10    0 
+TaNDi     988127190 10  6 c   kf    -     -         1052   10    0 
+TaNDi     988127239 10  5 c   cc    cc    cc        1042  140    0 6s 3d
+TaNDi     988127354 10  4 Q   -     -     -          902    0    0 
+TaNDi     988128305 10  3 c   c     c     c          902   60  235 6s Kc
+TaNDi     988128359 10  2 Bk  b     -     -         1077   20   45 
+TaNDi     988128394 10  1 Bc  k     b     -         1102   30   70 
+TaNDi     988128427 10 10 c   k     f     -         1142   10    0 
+TaNDi     988128455 10  9 c   f     -     -         1132   10    0 
+TaNDi     988128505 10  8 c   b     b     b         1122   60  120 
+TaNDi     988128588 10  7 cc  kf    -     -         1182   20    0 
+TaNDi     988128631  9  6 c   k     r     b         1162   70    0 Ad 7s
+TaNDi     988128693 10  6 c   f     -     -         1092   10    0 
+TaNDi     988128748  8  3 cc  bc    kc    kc        1082   80    0 6c 6h
+TaNDi     988128806  8  2 Bk  c     c     c         1002   60    0 Ah 5h
+TaNDi     988128836  7  1 Bc  kc    bc    br         942  120    0 Jd Qd
+TaNDi     988128879  7  7 cc  f     -     -          822   20    0 
+TaNDi     988128908  7  6 cc  f     -     -          802   20    0 
+TaNDi     988128959  8  6 f   -     -     -          782    0    0 
+TaNDi     988128995  8  5 c   k     f     -          782   10    0 
+TaNDi     988129040  7  4 c   f     -     -          772   10    0 
+TaNDi     988129064  7  3 cc  b     -     -          762   30   65 
+TaNDi     988129099  7  2 Bc  kc    kf    -          797   30    0 
+TaNDi     988129152  7  1 Bc  kf    -     -          767   10    0 
+TaNDi     988129207  6  6 c   k     f     -          757   10    0 
+TaNDi     988129251  7  6 c   Q     -     -          747   10    0 
+TaNDi     988179741  2  2 Bk  f     -     -          737   10    0 
+TaNDi     988179752  2  1 Bf  -     -     -          727    5    0 
+TaNDi     988179754  2  2 Bk  k     c     c          722   50  100 8h 7s
+TaNDi     988179772  2  1 Bc  b     -     -          772   20   30 
+TaNDi     988179782  2  2 Bk  k     k     f          782   10    0 
+TaNDi     988179807  2  1 Bcc kc    kf    -          772   30    0 
+TaNDi     988179830  2  2 Bc  r     b     b          742   80  140 
+TaNDi     988179849  2  1 Bc  b     b     -          802   40   60 
+TaNDi     988179859  2  2 Bc  f     -     -          822   20    0 
+TaNDi     988179868  2  1 Bcc b     b     -          802   50   80 
+TaNDi     988179881  2  2 Bk  k     b     -          832   30   40 
+TaNDi     988179898  2  1 Bcc kf    -     -          842   20    0 
+TaNDi     988179908  2  2 Bk  r     rc    c          822  110    0 Qc Jd
+TaNDi     988179928  2  1 Bc  brc   b     b          712   90  180 Js As
+TaNDi     988179955  2  2 Bk  k     k     k          802   10   20 5c Ac
+TaNDi     988179974  2  1 Bc  b     -     -          812   20   30 
+TaNDi     988179984  2  2 Bk  k     k     f          822   10    0 
+TaNDi     988180004  2  1 Bc  k     b     b          812   50    0 5s As
+TaNDi     988180023  2  2 Bk  rc    r     c          762  100    0 9h 2s
+TaNDi     988180044  2  1 Bc  b     -     -          662   20   30 
+TaNDi     988180055  2  2 Bk  b     b     k          672   40    0 Qs 8s
+TaNDi     988180082  2  1 Bc  k     b     -          632   30   40 
+TaNDi     988180096  2  2 Bk  c     f     -          642   20    0 
+TaNDi     988180108  2  1 Bcc kr    krr   brc        622  200  400 3c 6c
+TaNDi     988180146  2  2 Bk  k     k     k          822   10   20 Qh 3c
+TaNDi     988180166  3  1 Bc  Q     -     -          832   10    0 
+TaNDi     988205953  2  1 Bcc kc    bc    bc         822  110  220 Qs Jh
+TaNDi     988206031  3  3 c   b     -     -          932   20   40 
+TaNDi     988206075  3  2 Bc  k     k     c          952   40    0 3d Jc
+TaNDi     988206141  3  1 Bc  kc    kc    kf         912   40    0 
+TaNDi     988206219  3  3 c   b     r     k          872   60  125 Qs Kh
+TaNDi     988206263  3  2 Bk  k     bc    c          937   70    0 5h 8s
+TaNDi     988206334  3  1 Bc  b     brc   k          867  100  210 3d Kh
+TaNDi     988206372  3  3 c   k     Q     -          977   10    0 
+TaNDi     988206804  4  2 Bk  kc    b     b          967   60   80 9c As
+TaNDi     988206866  4  1 Bc  kc    bc    kc         987   80    0 Ah 3s
+TaNDi     988206910  4  4 f   Q     -     -          907    0    0 
+TaNDi     988210269  5  5 c   k     c     c          907   70    0 8c Qs
+TaNDi     988210336  4  3 c   k     k     f          837   10    0 
+TaNDi     988210374  4  2 BQ  -     -     -          827   10    0 
+TaNDi     988215186  6  5 c   c     c     f          817   40    0 
+TaNDi     988215211  6  4 f   -     -     -          777    0    0 
+TaNDi     988215228  6  3 c   b     bc    kc         777   80    0 4h Kc
+TaNDi     988215275  7  2 Bk  kc    b     k          697   40  140 4h 9d
+TaNDi     988215348  8  1 Bc  k     kc    kc         797   50  120 Kh 5c
+TaNDi     988215432  7  7 c   cc    f     -          867   30    0 
+TaNDi     988215474  7  6 c   r     b     c          837   80  150 8c 6s
+TaNDi     988215529  6  4 cc  c     f     -          907   30    0 
+TaNDi     988215581  7  3 f   -     -     -          877    0    0 
+TaNDi     988215611  7  2 Bk  kc    bc    kf         877   60    0 
+TaNDi     988215680  7  1 Bc  kc    kc    bc         817  110    0 5c 3s
+TaNDi     988215742  6  6 c   rc    c     c          707   90    0 7d 3d
+TaNDi     988215789  6  6 c   b     b     -          617   40   70 
+TaNDi     988215819  6  5 cc  k     f     -          647   20    0 
+TaNDi     988215853  6  4 c   k     k     f          627   10    0 
+TaNDi     988215887  7  4 c   c     c     cc         617   90    0 Qs 8c
+TaNDi     988215919  7  3 c   c     r     b          527   80    0 6c 5d
+TaNDi     988215956  7  2 Bk  bc    r     r          447  110    0 Ad 8s
+TaNDi     988216027  7  1 Bc  kc    bc    kcc        337  150    0 Kd 7s
+TaNDi     988216137  8  7 c   r     b     b          187   70  180 3d 6d
+TaNDi     988216211  8  5 c   k     b     brc        297  110    0 Kd 6s
+TaNDi     988216293  8  4 c   bc    b     br         187  110  395 Ts 7c
+TaNDi     988216378  8  3 c   c     kc    kc         472   60    0 Td 6c
+TaNDi     988216438  8  2 Bk  k     k     k          412   10    0 4h Ah
+TaNDi     988216485  7  1 Bc  kc    kf    -          402   20    0 
+TaNDi     988216574  7  7 c   b     r     b          382   80  220 Th Td
+TaNDi     988216637  7  6 c   c     c     r          522   80  200 5c Ah
+TaNDi     988216679  7  5 c   k     c     f          642   30    0 
+TaNDi     988216744  8  5 c   b     k     b          612   40   90 
+TaNDi     988216791  8  4 c   bc    kc    kf         662   50    0 
+TaNDi     988216880  8  3 cc  cc    c     c          612   80    0 8c 9d
+TaNDi     988216942  8  2 Bk  k     kc    kf         532   30    0 
+TaNDi     988216979  8  1 Bc  kc    b     bc         502   90  145 6c 5c
+TaNDi     988217077  7  7 c   k     f     -          557   10    0 
+TaNDi     988217112  6  6 c   c     c     b          547   70  220 Ac 6s
+TaNDi     988217168  6  6 f   -     -     -          697    0    0 
+TaNDi     988217193  5  4 rc  c     c     r          697  110  265 Qs Qd
+TaNDi     988217225  5  3 c   kf    -     -          852   10    0 
+TaNDi     988217258  5  2 Bc  bc    k     b          842   60  160 
+TaNDi     988217298  5  1 Bc  kf    -     -          942   20    0 
+TaNDi     988217318  5  5 c   k     f     -          922   10    0 
+TaNDi     988217347  5  4 cc  b     b     c          912   70    0 8d Td
+TaNDi     988217383  5  3 f   -     -     -          842    0    0 
+TaNDi     988217405  5  2 Bc  bc    kc    b          842   80    0 Jc 8h
+TaNDi     988217449  5  1 Bc  kc    kc    kc         762   70    0 7d Th
+TaNDi     988217496  5  5 c   k     f     -          692   10    0 
+TaNDi     988217530  5  4 c   kf    -     -          682   10    0 
+TaNDi     988217574  5  3 c   c     c     f          672   40    0 
+TaNDi     988217616  6  2 Bc  bc    b     b          632  100  245 
+TaNDi     988217652  6  1 Bc  k     k     kf         777   10    0 
+TaNDi     988217714  6  6 c   f     -     -          767   20    0 
+TaNDi     988217761  6  5 c   c     k     bc         747   60  190 3h 2s
+TaNDi     988217802  6  4 c   f     -     -          877   10    0 
+TaNDi     988217838  6  3 f   -     -     -          867    0    0 
+TaNDi     988217880  4  2 Bcc rr    r     b          867  140  320 Ah 5c
+TaNDi     988217933  6  1 Bc  bc    br    b         1047  120  185 Js 4h
+TaNDi     988218057  6  5 c   k     c     c         1112   50    0 Ah 2c
+TaNDi     988218149  4  2 c   c     k     c         1062   40    0 6d Kh
+TaNDi     988218182  4  2 Bk  c     c     f         1022   40    0 
+TaNDi     988218210  4  1 Bc  k     b     b          982   50  100 
+TaNDi     988218243  4  4 c   c     c     r         1032   80  205 9s Ts
+TaNDi     988218278  5  4 c   c     c     c         1157   70    0 Jh 2h
+TaNDi     988218313  5  3 c   k     b     rc        1087   90    0 6c 6h
+TaNDi     988218373  5  2 Bk  k     kf    -          997   10    0 
+TaNDi     988218411  5  1 Bc  b     -     -          987   20   40 
+TaNDi     988218424  6  6 c   f     -     -         1007   20    0 
+TaNDi     988218453  6  5 c   k     b     -          987   30   50 
+TaNDi     988218480  4  2 c   b     b     -         1007   40   80 
+TaNDi     988218512  4  2 Bk  b     b     k         1047   40  100 Jd 2h
+TaNDi     988218548  4  1 Bc  k     kc    k         1107   30   60 Tc 7h
+TaNDi     988218582  4  4 Q   -     -     -         1137    0    0 
+TaNDi     988219037  7  4 c   kf    -     -         1137   10    0 
+TaNDi     988219099  7  3 cc  kc    kc    kc        1127   70    0 6c Jd
+TaNDi     988219162  8  1 Bc  kf    -     -         1057   20    0 
+TaNDi     988219247  8  1 Bc  kc    b     b         1037   70    0 4h 3h
+TaNDi     988219338  8  8 c   c     b     b          967   60  150 3h Jd
+TaNDi     988219394  7  6 cc  kf    -     -         1057   20    0 
+TaNDi     988219426  7  5 c   b     -     -         1037   20   40 
+TaNDi     988219455  7  4 c   kc    c     c         1057   60    0 Kh 9h
+TaNDi     988219486  7  3 c   kf    -     -          997   10    0 
+TaNDi     988219547  7  2 Bk  bc    kf    -          987   30    0 
+TaNDi     988219582  7  1 Bc  kc    kc    k          957   40  120 Qs 2d
+TaNDi     988219628  6  6 c   k     f     -         1037   10    0 
+TaNDi     988219654  7  6 c   cc    kc    kc        1027   70  120 3h Qh
+TaNDi     988219707  6  4 c   k     b     b         1077   50    0 Kd 2h
+TaNDi     988219738  6  3 c   kc    k     b         1027   40  110 
+TaNDi     988219792  5  2 Bk  kc    kc    kc        1097   60    0 Jc 5s
+TaNDi     988219860  4  1 Bc  k     kf    -         1037   10    0 
+TaNDi     988219889  5  5 c   c     c     r         1027   80  190 Qc Ad
+TaNDi     988219946  5  4 c   c     c     c         1137   70    0 8d Ad
+TaNDi     988219972  5  3 c   b     b     b         1067   60    0 5s Td
+TaNDi     988219992  5  2 Bc  kc    kc    kf        1007   50    0 
+TaNDi     988220023  5  1 Bc  bc    kc    kc         957   70  260 Jd Qc
+TaNDi     988220075  6  5 c   rc    kc    kc        1147   90    0 8c 8d
+TaNDi     988220137  6  4 c   kf    -     -         1057   10    0 
+TaNDi     988220190  6  3 c   b     b     b         1047   60  155 
+TaNDi     988220222  6  2 Bcc kc    kc    kc        1142  110    0 4s Kd
+TaNDi     988220268  6  1 Bc  k     k     b         1032   30   50 
+TaNDi     988220311  6  6 c   c     c     c         1052   60  135 Jd 6s
+TaNDi     988220332  6  5 c   f     -     -         1127   10    0 
+TaNDi     988220347  6  4 ccc c     k     bf        1117   70    0 
+TaNDi     988220423  6  4 c   k     k     b         1047   30   70 
+TaNDi     988220466  5  2 B   -     -     -         1087   10   15 
+TaNDi     988220472  5  1 Bc  b     -     -         1092   20   40 
+TaNDi     988220490  5  5 c   b     k     f         1112   20    0 
+TaNDi     988220528  5  4 c   c     c     f         1092   50    0 
+TaNDi     988220549  5  3 c   k     k     k         1042   10   25 Ad 5h
+TaNDi     988220579  5  2 Bk  b     -     -         1057   20   35 
+TaNDi     988220590  5  1 Bc  k     b     -         1072   30   50 
+TaNDi     988220614  5  5 c   b     b     b         1092   60  130 8h 6d
+TaNDi     988220651  5  4 c   k     b     k         1162   30    0 Td Tc
+TaNDi     988220708  5  3 c   k     k     b         1132   30   50 
+TaNDi     988220746  5  2 Bc  k     b     b         1152   60  185 5c Td
+TaNDi     988220780  5  1 Bc  k     kf    -         1277   10    0 
+TaNDi     988220816  6  6 c   k     b     c         1267   50    0 3s Td
+TaNDi     988220853  6  5 c   r     r     k         1217   70  220 5h 5s
+TaNDi     988220910  6  4 cc  c     c     f         1367   50    0 
+TaNDi     988220938  6  3 fQ  -     -     -         1317    0    0 
+TaNDi     988221388  8  7 cc  kc    kf    -         1317   30    0 
+TaNDi     988221428  9  6 c   k     b     bc        1287   70    0 9d 7c
+TaNDi     988221484 10  5 c   k     kf    -         1217   10    0 
+TaNDi     988221539  9  3 c   b     b     b         1207   60  155 4h 7h
+TaNDi     988221603  9  2 Bk  k     kc    kf        1302   30    0 
+TaNDi     988221647  9  1 Bc  bc    kc    k         1272   60    0 Jc Ks
+TaNDi     988221704  9  9 c   cc    c     c         1212   90  330 Jc 9c
+TaNDi     988221776  9  8 c   c     b     b         1452   60  200 Tc Th
+TaNDi     988221881  8  6 fQ  -     -     -         1592    0    0 
+TaNDi     988564816 10 10 c   k     c     b         1592   50  145 
+TaNDi     988564902 10  9 c   c     c     b         1687   70    0 Kd 6h
+TaNDi     988564980 10  8 c   c     c     k         1617   40    0 Tc Th
+TaNDi     988565041 10  7 c   c     c     b         1577   60    0 2d Jd
+TaNDi     988565110 10  6 c   rc    c     c         1517   90    0 2s 2h
+TaNDi     988565203 10  5 cc  kc    k     f         1427   30    0 
+TaNDi     988565273 10  4 cc  kc    kc    kf        1397   60    0 
+TaNDi     988565372 10  3 c   f     -     -         1337   10    0 
+TaNDi     988565432 10  2 Bc  kc    kf    -         1327   40    0 
+TaNDi     988565528 10  1 Bc  br    brc   b         1287  150  560 7s As
+TaNDi     988565612 10 10 f   -     -     -         1697    0    0 
+TaNDi     988565662 10  9 c   k     c     rc        1697   90    0 7s Ad
+TaNDi     988565713 10  6 Q   -     -     -         1607    0    0 

@@ -1,65 +1,10 @@
-/* table of links to other web pages */
-#links
+#footer_overwrite
+{	
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+#well_overwrite
 {
-	font-family: "Helvetica Neue";
-	font-weight: 200;
-	font-size: 120%;
-	border-spacing: 20px;
-	margin-left: auto;
-	margin-right: auto;
 	text-align: center;
-}
-
-/* for hyperlinks */
-a:link {color: #a51c30; text-decoration: none;}
-a:visited {color: #a51c30;}
-a:hover {color: #FF8080;}
-
-/* big, intro line */
-#process
-{
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-	font-family: "Helvetica";
-	font-weight: 200;
-}
-
-/* description header */
-.description_header
-{
-	margin-left: auto;
-	margin-right: auto;
-	text-align: left;
-	font-family: "Helvetica";
-	font-weight: 200;
-	width: 900px;
-	padding-right: 20px;
-	padding-left: 20px;
-}
-
-/* description body */
-.description_body
-{
-	margin-left: auto;
-	margin-right: auto;
-	text-align: left;
-	font-family: "Helvetica";
-	font-weight: 200;
-	font-size: 87%;
-	width: 900px;
-	padding-right: 20px;
-}
-
-/* description sub_body */
-.description_sub_body
-{
-	margin-left: auto;
-	margin-right: auto;
-	text-align: left;
-	font-family: "Helvetica";
-	font-weight: 200;
-	font-size: 87%;
-	width: 850px;
-	padding-right: 20px;
 }
