@@ -65,11 +65,11 @@
               <h3 class="panel-title">Overview and Motivation</h3>
             </div>
             <div class="panel-body">
-              All of the members on our team are interested in poker playing. Online, it can be difficult to understand what information is credible because popular opinion is fickle and subject to biases, like crowd logic. Therefore, we wanted to try and understand how we could play better poker through doing our own analysis. Our project breaks down our data by table size and seeks to see how different playing stratagies affected tables of varying sizes. Table size has a significant effect on strategy because one is much more likely to have the best hand at a given table if there are less people there than if there are more. Furthermore, some of our initial questions include:
+              All of the members on our team are interested in playing poker. Online, it can be difficult to understand what information is credible because popular opinion is fickle and subject to biases, like crowd logic. Therefore, we wanted to try and understand how we could play better, more profitable poker through doing our own analysis. Our project breaks down our data by table size and seeks to see how different playing stratagies affect tables of varying sizes. Table size has a significant effect on strategy because one is much more likely to have the best hand at a given table the fewer the number of people at the table is. To begin our analysis, we posed the following questions:
               <ul>
-                <li>How important is your position in poker in terms of you expected profit per hand?</li>
+                <li>How important is your position in poker in terms of your expected profit per hand?</li>
                 <li>Is it profitable to continuation bet and three bet preflop? How profitable?</li>
-                <li>We can calculate the probabilities that each hand wins. But given that people play suboptimally, what are the most profitable hands?</li>
+                <li>We know we can calculate the probabilities that a given hand wins. But given that people play suboptimally, what are the most profitable hands?</li>
                 <li>Are there certain playing styles that people adopt, and are these styles easily observable in the players' betting patterns? Is one style significantly more profitable than another?</li>
               </ul>
             </div>
@@ -79,11 +79,11 @@
               <h3 class="panel-title">Data Discovery and Wrangling</h3>
             </div>
             <div class="panel-body">
-              We knew we needed a large dataset that contained a lot of specific poker information (e.g. how many people were at the table for a given hand, what the pot size was, what cards every player had) so we searched online for a few hours. Eventually, we stumbled across <a href="http://poker.cs.ualberta.ca/irc_poker_database.html">this</a> website which had a massive IRC poker database. This dataset was ideal because it provided the following data for thousands of players:
+              We knew we needed a large dataset that contained a lot of specific poker information (e.g. how many people there are at a table for a given hand, what the pot size is, what cards every player has, etc.) so we searched online for a few hours. Eventually, we stumbled across <i><a href="http://poker.cs.ualberta.ca/irc_poker_database.html">this</a></i> website which had a massive IRC poker database. This dataset was ideal because it provided the following data for thousands of players:
               <ul class="description_sub_body">
                 <li>hroster.txt: This file contains roster information. Each record in this file corresponds to a hand containing a unique timestamp, the number of players dealt cards, and the nicknames of the players.</li>
                 <li>hdb.txt: This file contains detailed hand information for every player in every round. This includes a unique timestamp, the hand number, the number of players left in each round of betting, the size of the pot, and which cards appeared on each flop.</li>
-                <li>pdb.*: These files contian detailed hand information for a specific player in certain round. This includes the player nickname, a unique timestamp, their betting action in each round of betting (e.g. raise, fold, etc.), the cards they had, their winnings, and what their bankroll is.</li>
+                <li>pdb.*: These files contian detailed hand information for a specific player in certain round. This includes the player nickname, a unique timestamp, their betting action in each round of betting (e.g. raise, fold, etc.), the cards they had, their winnings, and their bankroll.</li>
               </ul>
             </div>
         </div>
@@ -92,7 +92,7 @@
               <h3 class="panel-title">Build DataFrames</h3>
             </div>
             <div class="panel-body">
-              Once had decided on this dataset, the next step was to convert it into a format we were comfortable working with. While we initially began organizing this data using objects, we ultimately decided to use the popular library pandas for its convenient DataFrames, not much unlike SQL tables! Once we had our data organized to our linking, we converted all of the player information we had into higher level features. For each player, these include VPIP (voluntary put into pot percentage), PFR (preflop raise percentage), percentage of hands won, percentage of hands to showdown, and overall aggressions factor (we define aggression as (raises+bets)/folds).
+              Once we decided on this dataset, the next step was to convert it into a format we were comfortable working with. While we initially began organizing this data using objects, we ultimately decided to use the popular python library <i><a href="http://pandas.pydata.org/">pandas</a></i> for its convenient DataFrames, which are not much unlike SQL tables! Once we had our data organized to our liking, we converted all of the player information we had into high level features: for each player we computed his/her VPIP (voluntary put into pot percentage), PFR (preflop raise percentage), percentage of hands won, percentage of hands to showdown, and overall aggression factor (we define aggression as (raises+bets)/folds).
               </ul>
             </div>
         </div>
@@ -101,7 +101,7 @@
               <h3 class="panel-title">Summary Statistics and Common Strategies</h3>
             </div>
             <div class="panel-body">
-              Now that we had our data organized in a manageable way and had computed high-level features for each player, the next step was to do some analysis on features and other variables that affect success in poker. First, we examined the relationship between the number of hands won by a player and each of the featuers (e.g. VPIP vs. hands won). Surprisingly, this also gave us insight on the skill level of the majority of our players in our dataset. Second, we decided to see if there was a correlation between the position of a player in each hand and their PnL (Profit and Loss). These results definitely showed that position does, in fact, have a significant impact on one's chances to win a hand. Next, we looked at PnL of common strategies including Continuation Betting and Three Betting Pre-Flop, giving us intuition on which strategies generally more profitable results. Finally, we looked at how theoretical hand strength compared to the expected values of hands. Once we had theoretical and empirical values, it was easy to see which hands were the most profitable in comparison to others.
+              Now that we had our data organized in a manageable way and had computed high-level features for each player, the next step was to do some analysis on features and other variables that affect success in poker. First, we examined the relationship between the number of hands won by a player and each of the features (e.g. VPIP vs. hands won). Surprisingly, this also gave us insight on the skill level of the majority of our players in our dataset. Second, we decided to see if there was a correlation between the position of a player in each hand and their PnL (Profit and Loss). These results definitely showed that position does, in fact, have a significant impact on one's chances to win a hand. Next, we looked at PnL of common strategies including Continuation Betting and Three Betting Pre-Flop, giving us intuition on which strategies generally yield more profitable results. Finally, we looked at how theoretical hand strength compared to the expected values of those hands. Once we had theoretical and empirical values, it was easy to see which hands were the most profitable in comparison to others.
               </ul>
             </div>
         </div>
