@@ -1,0 +1,94 @@
+/* table of links to other web pages */
+#links
+{
+	font-family: "Helvetica Neue";
+	font-weight: 200;
+	font-size: 120%;
+	border-spacing: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+/* for hyperlinks */
+a:link {color: #a51c30; text-decoration: none;}
+a:visited {color: #a51c30;}
+a:hover {color: #FF8080;}
+
+/* big, intro line */
+#introduction
+{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-family: "Helvetica";
+	font-weight: 200;
+}
+
+/* rules for holdem */
+#holdem_rules
+{
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Helvetica";
+	font-weight: 200;
+	padding-left: 55px;
+	padding-right: 55px;
+	width: 900px;
+}
+
+/* poker hand rankings */
+#poker_hand_rankings
+{
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Helvetica";
+	font-weight: 200;
+	padding-left: 55px;
+	padding-right: 55px;
+	width: 900px;
+}
+
+/* image and descriptions */
+#image_and_descriptions
+{
+	font-family: "Helvetica Neue";
+	font-weight: 200;
+	font-size: 120%;
+	border-spacing: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+/* hand rankings img */
+#hand_rankings_img
+{
+	width: 400px;
+	height: auto;
+}
+
+/* descriptions */
+#descriptions
+{
+	font-family: "Helvetica Neue";
+	font-weight: 200;
+	font-size: 75%;
+	border-spacing: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 500px;
+}
+
+/* poker hand rankings headers */
+.poker_hand_rankings_headers
+{
+	font-family: "Helvetica Neue";
+	font-weight: 200;
+	font-size: 100%;
+	border-spacing: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
